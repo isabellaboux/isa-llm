@@ -1,0 +1,140 @@
+﻿SET;CODE;;CONTEXT QUESTION;;CRITICAL REPLY
+;direct;indirect;direct;indirect;
+1 (SA-matched);1101;1201;Have you met Martin lately?;Are you and Martin still good friends?;I have not seen him for ages.
+1 (SA-matched);1102;1202;Are you doing something right now?;Are you looking for a job?;I am sending out an application.
+1 (SA-matched);1103;1203;Do you usually exercise with Lukas?;Do you know Lukas?;I train with him at the gym.
+1 (SA-matched);1104;1204;Was there a death in his family?;Is this his property now?;His grandfather passed away recently.
+1 (SA-matched);1105;1205;Is Paris very far from here?;Does it take long to drive to Paris?;It is about 1000 Km away.
+1 (SA-matched);1106;1206;Does it take long to get to Munich?;Is Munich far from here?;It is a six hour drive.
+1 (SA-matched);1107;1207;Is your journey going as planned?;Will you be home by noon?;My train has some delay.
+1 (SA-matched);1108;1208;Have they finished their cereal?;Have you bought cereal?;There is still some left.
+1 (SA-matched);1109;1209;Is the deadline for the essay next week?;Have you started writing your essay?;It is not due for three months.
+1 (SA-matched);1110;1210;Is there usually a lot of traffic?;Will we be late to the cinema?;The streets are always congested with cars.
+1 (SA-matched);1111;1211;Does Megan eat meat?;Is Megan coming to the steak house?;She is vegetarian.
+1 (SA-matched);1112;1212;Is John sick today?;Is John staying home?;He has the flu.
+1 (SA-matched);1113;1213;Does Sonya train daily?;Has Sonya registered for the marathon?;She runs for hours every day.
+1 (SA-matched);1114;1214;Is Clara still sleeping?;Did Clara have breakfast already?;She just woke up.
+1 (SA-matched);1115;1215;Is that movie going to be released today?;Have you seen that movie?;It comes out next week.
+1 (SA-matched);1116;1216;Have you ever worked with a drill?;Do you know how to use a drill?;I have used one before.
+1 (SA-matched);1117;1217;Does your birthday party take place tomorrow?;Have you failed the exam?;I am celebrating tonight.
+1 (SA-matched);1118;1218;Are you leaving your flat soon?;Are you breaking up with him?;I am moving out tomorrow.
+1 (SA-matched);1119;1219;Is he a slacker?;Was he fired?;He was always falling behind.
+1 (SA-matched);1120;1220;Is this area popular for something?;Are there big waves here?;The region is famous for surfing.
+1 (SA-matched);1121;1221;Is the sea  calm these days?;Is the sea safe to swim here?;It is quite rough.
+1 (SA-matched);1122;1222;Do you work for a corporate company?;Do you make a lot of money?;My job is at an NGO.
+1 (SA-matched);1123;1223;Is he a writer?;Is he famous?;He has authored many successful books.
+1 (SA-matched);1124;1224;Are you finished working on your data?;Did you present your data at the meeting?;I am still analyzing it.
+1 (SA-matched);1125;1225;Are there many pandas left in the world?;Is it legal to hunt pandas?;They are an endagered species.
+1 (SA-matched);1126;1226;Have you joined a fitness studio?;Have you lost some weight?;I have enrolled at the gym.
+1 (SA-matched);1127;1227;Have you finished writing your thesis?;Have you graduated?;My thesis is not complete yet.
+1 (SA-matched);1128;1228;Did you use to have long hair?;Did you get your hair cut?;My hair was way too long.
+1 (SA-matched);1129;1229;Did you go to Japan for vacation?;Did you have time for sightseeing?;It was a business trip.
+1 (SA-matched);1130;1230;Is a one room flat enough for you?;Did you buy that one room flat?;I need a larger one.
+1 (SA-matched);1131;1231;Does she have to hand in soon?;Is she stressed about the project?;The deadline is tomorrow.
+1 (SA-matched);1132;1232;Did you have a short night?;Are you tired?;I slept only four hours.
+1 (SA-matched);1133;1233;Was the flight still discounted?;Did he book the flight?;The offer had already expired.
+1 (SA-matched);1134;1234;Is your cat hurt?;Are you bringing your cat to the vet?;It got wounded.
+1 (SA-matched);1135;1235;Are we all here?;Are we ready to go?;Mark is still missing.
+1 (SA-matched);1137;1237;Do you come from Asia?;Can you cook cantonese rice?;I am Chinese.
+1 (SA-matched);1138;1238;Did you hang up?;Have you told him about that issue? ;The line went dead.
+1 (SA-matched);1139;1239;Is someone taking care of their house?;Is their house always so tidy?;They have domestics.
+1 (SA-matched);1140;1240;Has that bar been here for long?;Have you tried that bar yet?;They have just opened.
+1 (SA-matched);1141;1241;Does he own many books?;Does he have a passion for history?;His house is full of history books.
+1 (SA-matched);1143;1243;Is there a small gathering tonight?;Is this saucepan big enough?;We have only few guests over for dinner.
+1 (SA-matched);1144;1244;Do you have two weeks of holiday?;Will you take a two weeks trip?;I only have one week off work.
+1 (SA-matched);1145;1245;Are you pregnant?;Are you avoiding drinking alcohol?;I am going to have a baby.
+1 (SA-matched);1147;1247;Have you paid back your debts?;Did you get a new loan?;I still owe the bank some money.
+1 (SA-matched);1148;1248;Did he drink a cocktail tonight?;Is he drunk?;He only had water.
+1 (SA-matched);1149;1249;Do you have a vegetable garden?;Do you buy fruit in the supermarket?;I own an orchard.
+1 (SA-matched);1150;1250;Is your son underage?;Is your son at elementary school?;He is 25 years old.
+1 (SA-matched);1151;1251;Is Harvard  University affordable?;Is Harvard University an option for you?;Their tuition fee is extremely expensive.
+1 (SA-matched);1152;1252;Has she paid us yet?;Did she accept our deal?;She made a bank transfer few moments ago.
+1 (SA-matched);1153;1253;Are the kids good at swimming?;Did the kids go to the swimming pool?;They cannot swim yet.
+1 (SA-matched);1154;1254;Have you still got a cold?;Are you still taking these pills?;I am healthy again.
+1 (SA-matched);1155;1255;Is it forbidden to approach this area?;Is this area contaminated?;People are not allowed to get closer.
+1 (SA-matched);1156;1256;Did someone take care of the plants?;Are the plants still alive?;I have watered them regularly.
+1 (SA-matched);1157;1257;Was this artist still alive in the 80s?;Was this artwork created by him in 1981?;He was already dead by then.
+1 (SA-matched);1158;1258;Is the lake frozen?;Is it ice skating season?;The ice layer is quite thick.
+1 (SA-matched);1159;1259;Are you attending the beginners' class?;Are you a beginner?;I am in the advanced course.
+1 (SA-matched);1160;1260;Have you sought medical advice?;Have you been sick?;I have seen a doctor.
+1 (SA-matched);1161;1261;Did you stay home last night?;Did you go to bed early last night?;I went out with some friends.
+1 (SA-matched);1162;1262;Was there an election recently?;Can the members elect a representative?;They voted yesterday.
+1 (SA-matched);1163;1263;Is the car completely clean?;Is the car back from the car wash?;It is spotless.
+1 (SA-matched);1164;1264;Have they answered all questions?;Have they written a good exam?;They have submitted a blank sheet.
+1 (SA-matched);1165;1265;Is she out on the tennis field?;Is she dressed for the tennis game?;She has just got into the changing room.
+1 (SA-matched);1166;1266;Did he get the money back?;Did he settle the lawsuit?;He was compensated.
+1 (SA-matched);1167;1267;Has anyone answer your house sale ad?;Have you sold that house?;No one has responded.
+1 (SA-matched);1168;1268;Is he a musician?;Is he part of the marching band?;He does not play any instrument.
+1 (SA-matched);1169;1269;Has he travelled in Asia?;Has he ever tried sushi?;He has been in Japan for several months.
+1 (SA-matched);1170;1270;Is our goal the summit?;Is our whole way going uphill?;We are aiming for the mountain top.
+1 (SA-matched);1171;1271;Did the customer get his package?;Was the package shipped to the customer?;The customer received it.
+1 (SA-matched);1173;1273;Did she attend the whole singing course?;Is she very dedicated to that singing course?;She skipped the last four lessons.
+1 (SA-matched);1174;1274;Does your screen have a bad image?;Do your eyes get strained sometimes?;My monitor's resolution is really poor.
+1 (SA-matched);1175;1275;Has she completed her medical studies?;Is she she a medical doctor?;She graduated from medical school last year.
+1 (SA-matched);1176;1276;Is that a public building?;Have you ever been inside that building?;It is a private property.
+2 (non-SA-matched);2101;2201;Do you have to study for the test?;Shall we study together?;I need to revise some of the topics.
+2 (non-SA-matched);2102;2202;Has anything come out in the cinemas recently?;Shall we go to the cinema?;There is an interesting new movie.
+2 (non-SA-matched);2103;2203;Is it cold in your village?;Shall I close the window?;It is quite chilly.
+2 (non-SA-matched);2105;2205;Do you know anything about this novel?;Would you like to borrow this book?;I have heard good things about that book.
+2 (non-SA-matched);2106;2206;Did you get injured at yoga class?;Shall we skip our yoga class?;I pulled a muscle last time.
+2 (non-SA-matched);2107;2207;Have you lost your phone?;Do you want to use my phone?;I cannot find my phone.
+2 (non-SA-matched);2108;2208;Is it cold outside?;Do you need a coat?;It is minus 20 degrees.
+2 (non-SA-matched);2109;2209;Are we in a religious building?;Shall we turn off our phones?;We have just entered a church.
+2 (non-SA-matched);2110;2210;Are your workouts usually difficult?;Would you like a protein shake?;I am training very hard.
+2 (non-SA-matched);2113;2213;Were you working today?;Shall we take a break from work?;I have been working on an exhausting task.
+2 (non-SA-matched);2114;2214;Have you got swimming gear with you?;Shall we go to the lake?;I did not bring my bikini.
+2 (non-SA-matched);2115;2215;Are you free at the moment?;Are you coming to  the talk?;I do not have time.
+2 (non-SA-matched);2116;2216;Did you watch 'Titanic' yesterday?;Shall we watch 'Titanic' tonight?;I watched it last month. 
+2 (non-SA-matched);2117;2217;Are you eating more than usual?;Shall we have some dessert?;I am on a diet.
+2 (non-SA-matched);2118;2218;Do you practise Hinduism?;Do you want some pork?;I am actually a Muslim.
+2 (non-SA-matched);2119;2219;Are you feeling ok?;Do you want another beer?;My head is spinning after all these beers.
+2 (non-SA-matched);2120;2220;Are you feeling energetic today?;Shall we go out?;I am very tired.
+2 (non-SA-matched);2121;2221;Do you have any money saved up?;Shall we go on a trip?;We are broke at the moment.
+2 (non-SA-matched);2122;2222;Is it your first experience with a chain saw?;Do you need some help with the chain saw?;I have used one already in the past.
+2 (non-SA-matched);2123;2223;Is it morning in Los Angeles?;Shall we go to the cinema?;It is 11 p.m.
+2 (non-SA-matched);2124;2224;Are you feeling good?;Shall we have some drinks?;I have a hangover.
+2 (non-SA-matched);2125;2225;Are you free of any chronic disease?;Do you want some cake?;I am actually diabetic.
+2 (non-SA-matched);2127;2227;Do you feel well on boats?;Are you joining us for a sea cruise?;I usually get seasick.
+2 (non-SA-matched);2128;2228;Are your teeth still hurting?;Do you want painkillers?;My toothache is gone.
+2 (non-SA-matched);2129;2229;Are there many stations on your way?;Would you like to take my bus seat?;I have several bus stops before my destination.
+2 (non-SA-matched);2130;2230;Are you allowed to staple your documents?;Do you want the stapler for your documents?;I should not staple them.
+2 (non-SA-matched);2131;2231;Does your luggage weigh much?;Do you need some help with your luggage?;It is very light.
+2 (non-SA-matched);2132;2232;Do we need to wake up early tomorrow?;Shall we set the alarm clock for tomorrow?;We have to get up at 5 am.
+2 (non-SA-matched);2134;2234;Is Spanish your mother tongue?;Shall I check your French spelling?;French is my native language.
+2 (non-SA-matched);2135;2235;Is the remote still unusable?;Shall I change the remote's batteries?;It does not work.
+2 (non-SA-matched);2136;2236;Are there wild animals in this region?;Shall I lock up the cattle before nightfall?;Wolves are very common here.
+2 (non-SA-matched);2137;2237;Are there trees in your garden?;Should I water your plants tomorrow?;We only have cacti.
+2 (non-SA-matched);2138;2238;Is the passport necessary for taking the plane?;Shall I pack your passport?;We need it for travelling.
+2 (non-SA-matched);2139;2239;Have you brought some pie for lunch?;Would you like some food?;I have got a sandwich.
+2 (non-SA-matched);2140;2240;Are the kids about to leave?;Shall I wake up the kids?;They have to go out soon.
+2 (non-SA-matched);2141;2241;Are you already hungry?;Can we offer you some biscuits?;Right now I am starving.
+2 (non-SA-matched);2144;2244;Do you often consume hot drinks?;Would you like to use my kettle?;I drink tea all the time.
+2 (non-SA-matched);2145;2245;Is the room very bright?;Shall I turn down the dimmer?;We have too much light in here.
+2 (non-SA-matched);2146;2246;Will you stay in town till Friday?;Are you coming to the party this Friday?;I will be abroad then.
+2 (non-SA-matched);2147;2247;Are you eating something?;Do you want a spoon?;I am having a soup.
+2 (non-SA-matched);2148;2248;Is it raining already?;Would you like an umbrella?;It just started pouring.
+2 (non-SA-matched);2149;2249;Do you consume alcohol?;Would you like some wine?;I do not drink.
+2 (non-SA-matched);2150;2250;Was everything taken away from the flat?;Shall I do the dishes?;There is a dish washer in the kitchen.
+2 (non-SA-matched);2151;2251;Do you still have tennis equipment?;Shall we play tennis?;I gave away my racket ages ago.
+2 (non-SA-matched);2152;2252;Do you consume all types of food?;Shall we get some mexican food?;I do not eat spicy dishes.
+2 (non-SA-matched);2153;2253;Are we actually neighbours?;Do you want a ride home?;I live right next to you.
+2 (non-SA-matched);2155;2255;Are you still confused about it?;Shall I explain it to you again?;I understand everything now.
+2 (non-SA-matched);2156;2256;Do you feel pain in your upper body?;Do you want me to call the doctor?;My chest hurts a lot.
+2 (non-SA-matched);2157;2257;Is it winter there?;Do you want an extra blanket?;We are in the middle of the summer.
+2 (non-SA-matched);2159;2259;Did you get hurt?;Do you want a plaster?;I cut my finger while cooking.
+2 (non-SA-matched);2160;2260;Is the living room dirty?;Shall I sweep the living room?;There is dust all over the floor.
+2 (non-SA-matched);2161;2261;Have you left your toothpaste at home?;Would you like some toothpaste?;I have actually brought mine.
+2 (non-SA-matched);2162;2262;Did your lips get damaged with this wind?;Do you want some lip balm?;My lips are all chapped.
+2 (non-SA-matched);2163;2263;Are you doing the afternoon shift tomorrow?;Are you joining for drinks tonight?;I am working early tomorrow morning.
+2 (non-SA-matched);2164;2264;Are you going to have dinner at home?;Shall I cook for both of us?;I plan to eat at a restaurant.
+2 (non-SA-matched);2165;2265;Are the hedges taller than last time?;Shall I prune the hedges?;They have grown a lot recently.
+2 (non-SA-matched);2166;2266;Have you finished cooking?;Shall I set the table?;Lunch is now ready.
+2 (non-SA-matched);2167;2267;Do you have difficult homework?;Would you like a calculator for your homework?;My math exercise is very complicated.
+2 (non-SA-matched);2168;2268;Have you decided on a destination?;Shall I buy the train tickets?;We are not sure where to go yet.
+2 (non-SA-matched);2169;2269;Do you smoke cigarettes?;Would you like a cigarette to smoke?;I smoke cigars only.
+2 (non-SA-matched);2170;2270;Are you writing on paper?;Woud you like some paper?;I usually type directly on my laptop.
+2 (non-SA-matched);2171;2271;Is the kitchen still incomplete?;Shall we get some delivery food?;Our new stove was not delivered yet.
+2 (non-SA-matched);2172;2272;Does car theft occur often?;Would you like me to lock your car?;Cars get stolen regularly here.
+2 (non-SA-matched);2173;2273;Do you still have room in your wardrobe?;Shall we go shopping for clothes?;My wardrobe is completely full of clothes.
+2 (non-SA-matched);2174;2274;Is there a lot of laundry to wash?;Shall I do the laundry?;The dirty laundry is piling up.
+2 (non-SA-matched);2175;2275;Are you taking some time for breakfast today?;Do you want some pancakes for breakfast?;I can have a relaxed breakfast.
