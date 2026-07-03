@@ -8,9 +8,9 @@ TO DO in `collect_data.ipynb`
 - [x] added extraction of rationale
 - [x] revised system prompt
 - [ ] (integrate reasoning degree?) 
-- [ ] (integrate temperature?)
+- [x] (integrate temperature?)
 - [ ] loop over models
 - [ ] loop over several "repetititons" for each model
 
-TO DO in `collect_data.ipynb`:
+TO DO in `analyse.ipynb`:
 - [ ] import human data
