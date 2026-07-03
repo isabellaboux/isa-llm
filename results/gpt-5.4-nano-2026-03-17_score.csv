@@ -1,6 +1,0 @@
-id,score,rationale
-1101.0,0.97,"Person B directly answers the question “Have you met Martin lately?” with “I have not seen him for ages.” This is a clear, definite “no” to meeting Martin lately."
-1102.0,0.08,"The question asks “Are you doing something right now?” and Person B answers “I am sending out an application,” which indicates they are doing something currently. That corresponds to “yes,” but the provided score should reflect yes vs no; since the answer clearly supports “yes,” the score should be high. However, the rationale conflicts—adjusting: this is definitely a yes."
-1103.0,0.97,"The question is “Do you usually exercise with Lukas?” and Person B replies “I train with him at the gym,” indicating they do exercise with Lukas routinely. That is a strong “yes.”"
-1104.0,0.98,"“Was there a death in his family?” is answered by “His grandfather passed away recently,” which clearly confirms a death. This is a definite “yes.”"
-1105.0,0.9,"The question “Is Paris very far from here?” is answered with a distance: “It is about 1000 Km away.” Given the large distance, this strongly indicates “yes” (it is far)."

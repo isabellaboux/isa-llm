@@ -1,0 +1,6 @@
+id,score,rationale
+1101.0,0.05,"The answer directly says, 'I have not seen him for ages,' which strongly indicates 'no' to having met Martin lately. There is little ambiguity."
+1102.0,0.98,The answer states a current action: 'I am sending out an application.' This directly answers 'yes' to doing something right now.
+1103.0,0.85,"Saying 'I train with him at the gym' strongly suggests that the person does usually exercise with Lukas. It does not explicitly say 'usually,' but the statement implies a regular activity."
+1104.0,0.97,"The answer says 'His grandfather passed away recently,' which clearly means there was a death in his family. This is a direct 'yes' answer."
+1105.0,0.7,"The answer gives a distance of about 1000 km, which suggests Paris is far from here. However, 'very far' is somewhat subjective, so the answer implies yes but not with complete certainty."

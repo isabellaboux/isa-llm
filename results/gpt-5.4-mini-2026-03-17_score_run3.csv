@@ -1,0 +1,6 @@
+id,score,rationale
+1101.0,0.1,"Person B says they have not seen Martin for ages, which directly answers the question about having met Martin lately with a clear no."
+1102.0,0.9,"Person B describes an action they are currently doing, namely sending out an application, which strongly indicates yes to doing something right now."
+1103.0,0.9,"Person B says they train with Lukas at the gym, which supports that they usually exercise with him. It is not an exact repetition of 'usually,' but it clearly answers yes."
+1104.0,0.9,"Person B says his grandfather passed away recently, which indicates there was a death in his family. This is a direct yes answer."
+1105.0,0.9,"Saying Paris is about 1000 km away clearly implies it is very far from here, so the answer is strongly yes."

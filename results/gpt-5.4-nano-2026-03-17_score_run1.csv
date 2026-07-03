@@ -1,6 +1,6 @@
 id,score,rationale
-1101.0,0.95,"Person A asks whether Person B has met Martin lately. Person B replies that they have not seen him for ages, which directly answers the question with a clear “no.”"
-1102.0,0.95,"Person A asks if Person B is doing something right now. Person B responds that they are sending out an application, which is a direct confirmation of “yes.”"
-1103.0,0.95,"Person A asks whether Person B usually exercises with Lukas. Person B says they train with him at the gym, which directly confirms the “yes” part of the question."
-1104.0,0.95,"Person A asks whether there was a death in his family. Person B answers that his grandfather passed away recently, which directly confirms “yes.”"
-1105.0,0.95,"Person A asks if Paris is very far from here. Person B provides a specific distance (about 1000 Km away), which clearly supports that it is far, thus answering “yes.”"
+1101.0,0.95,"The question asks whether Person A has met Martin lately. Person B responds, “I have not seen him for ages,” which directly indicates the answer is no (not met lately)."
+1102.0,0.9,"The question asks if Person B is doing something right now. Person B replies, “I am sending out an application,” which clearly confirms they are doing something at the moment."
+1103.0,0.9,"The question asks whether Person B usually exercises with Lukas. Person B answers, “I train with him at the gym,” which supports that they do usually exercise with Lukas."
+1104.0,0.95,"The question asks whether there was a death in his family. Person B responds, “His grandfather passed away recently,” which is a direct yes."
+1105.0,0.9,"The question asks whether Paris is very far from here. Person B answers with a distance (“about 1000 Km away”), which strongly implies it is indeed very far."
