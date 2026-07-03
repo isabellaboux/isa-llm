@@ -8,6 +8,8 @@ dependencies = [
     "dotenv>=0.9.9",
     "ipykernel>=7.3.0",
     "jupyter>=1.1.1",
+    "matplotlib>=3.11.0",
     "openai>=2.44.0",
+    "pandas>=3.0.3",
     "pydantic>=2.13.4",
 ]

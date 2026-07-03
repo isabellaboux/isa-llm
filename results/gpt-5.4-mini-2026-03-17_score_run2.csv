@@ -1,0 +1,6 @@
+id,score,rationale
+1101.0,0.1,"The question asks whether the speaker has met Martin lately. Saying they have not seen him for ages strongly implies no recent meeting, so this is a clear no."
+1102.0,0.9,"The question asks if the person is doing something right now. Saying they are sending out an application indicates they are currently occupied, so this is a strong yes."
+1103.0,0.9,"The question asks whether they usually exercise with Lukas. Saying they train with him at the gym directly supports that they do exercise together, so this is a likely yes."
+1104.0,0.9,"The question asks if there was a death in his family. Saying his grandfather passed away recently directly confirms a family death, so this is a strong yes."
+1105.0,0.9,"The question asks whether Paris is very far from here. Saying it is about 1000 km away clearly indicates that it is far, so this is a strong yes."

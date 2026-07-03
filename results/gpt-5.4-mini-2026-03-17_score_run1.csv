@@ -1,0 +1,6 @@
+id,score,rationale
+1101.0,0.1,"Person B says they have not seen Martin for ages, which directly answers the question with a clear no. It strongly implies they have not met Martin lately."
+1102.0,0.9,"Person B describes an action they are currently doing, which answers the question about whether they are doing something right now. This is a strong yes."
+1103.0,0.9,"Person B says they train with Lukas at the gym, which indicates they usually exercise with him. This is a clear affirmative answer."
+1104.0,0.9,"Person B says his grandfather passed away recently, which directly confirms that there was a death in his family. This is a strong yes."
+1105.0,0.9,Saying Paris is about 1000 km away directly supports that it is very far from here. This is clearly a yes.

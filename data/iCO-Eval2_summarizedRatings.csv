@@ -1,0 +1,279 @@
+"SET (1=SA-matched;2=non-SA-matched)";CODE;CONDITION;CONTEXT QUESTION;CRITICAL UTTERANCE;"CORRECT RESPONSE (0=no; 1=yes)";FUN_mean;FUN_std;FUN_sem;COH_mean;COH_std;COH_sem;DIR_mean;DIR_std;DIR_sem;PRE_mean;PRE_std;PRE_sem;SSI_mean;SSI_std;SSI_sem;CER_mean;CER_std;CER_sem
+1;1101;direct;Have you met Martin lately?;I have not seen him for ages.;0;1.29;0.53;0.53;6.46;0.64;0.12;6.25;1.08;0.20;5.71;1.44;0.27;6.25;0.93;0.18;3.71;0.53;0.10
+1;1102;direct;Are you doing something right now?;I am sending out an application.;1;6.57;1.17;0.96;6.39;0.79;0.28;6.00;1.15;0.29;5.68;1.39;0.23;5.89;1.17;0.29;3.79;0.42;0.15
+1;1103;direct;Do you usually exercise with Lukas?;I train with him at the gym.;1;6.68;0.55;1.23;6.18;1.16;0.22;6.14;1.15;0.24;6.11;1.37;0.20;6.32;1.19;0.27;3.68;0.55;0.12
+1;1104;direct;Was there a death in his family?;His grandfather passed away recently.;1;6.93;0.26;0.97;6.54;0.74;0.14;6.54;0.92;0.22;5.89;1.42;0.23;6.64;0.56;0.21;3.93;0.26;0.06
+1;1105;direct;Is Paris very far from here?;It is about 1000 Km away.;1;6.39;0.92;0.31;5.46;1.37;0.26;5.32;1.61;0.19;5.71;1.61;0.19;6.00;0.86;0.23;3.39;0.92;0.06
+1;1106;direct;Does it take long to get to Munich?;It is a six hour drive.;1;6.04;1.53;0.81;5.82;1.42;0.11;5.43;1.55;0.24;6.00;1.54;0.18;5.71;1.49;0.28;3.25;1.17;0.09
+1;1107;direct;Is your journey going as planned?;My train has some delay.;0;1.96;0.96;1.88;5.07;1.46;0.18;4.71;1.51;0.26;5.32;1.22;0.22;4.79;1.55;0.24;3.11;0.79;0.06
+1;1108;direct;Have they finished their cereal?;There is still some left.;0;1.61;1.23;1.39;6.04;1.14;0.28;5.93;1.27;0.35;6.07;1.05;0.24;5.57;1.45;0.30;3.61;0.63;0.20
+1;1109;direct;Is the deadline for the essay next week?;It is not due for three months.;0;1.25;0.97;1.70;6.46;0.74;0.13;6.18;1.16;0.15;5.75;1.24;0.18;5.89;1.13;0.27;3.89;0.31;0.09
+1;1110;direct;Is there usually a lot of traffic?;The streets are always congested with cars.;1;6.79;0.50;1.76;6.21;1.17;0.33;6.04;1.04;0.31;5.64;1.39;0.31;6.29;1.01;0.24;3.79;0.50;0.20
+1;1111;direct;Does Megan eat meat?;She is vegetarian.;0;1.11;0.31;0.46;6.43;1.37;0.17;6.21;1.03;0.24;6.21;1.03;0.18;6.29;1.24;0.31;3.89;0.31;0.09
+1;1112;direct;Is John sick today?;He has the flu.;1;6.89;0.31;1.63;6.64;0.56;0.26;6.39;0.79;0.35;6.25;1.29;0.31;6.61;0.74;0.23;3.89;0.31;0.16
+1;1113;direct;Does Sonya train daily?;She runs for hours every day.;1;6.79;0.42;0.45;6.21;1.26;0.19;6.39;1.29;0.20;6.29;0.76;0.27;6.29;0.90;0.15;3.79;0.42;0.08
+1;1114;direct;Is Clara still sleeping?;She just woke up.;0;1.29;0.81;1.10;6.50;0.58;0.25;6.00;1.25;0.25;6.39;0.96;0.33;5.89;1.50;0.22;3.79;0.50;0.13
+1;1115;direct;Is that movie going to be released today?;It comes out next week.;0;1.75;1.88;0.44;6.32;0.94;0.15;5.75;1.38;0.28;5.96;1.17;0.29;5.89;1.26;0.34;3.89;0.31;0.08
+1;1116;direct;Have you ever worked with a drill?;I have used one before.;1;6.79;0.42;0.84;6.39;0.79;0.20;6.50;0.64;0.33;6.21;1.13;0.27;6.50;0.75;0.38;3.79;0.42;0.16
+1;1117;direct;Does your birthday party take place tomorrow?;I am celebrating tonight.;0;2.18;1.39;0.26;5.21;1.50;0.18;4.50;1.88;0.27;5.11;1.26;0.28;5.25;1.60;0.22;3.04;1.04;0.05
+1;1118;direct;Are you leaving your flat soon?;I am moving out tomorrow.;1;6.89;0.31;2.08;6.29;0.81;0.25;6.43;0.84;0.35;5.93;1.27;0.37;6.64;0.62;0.29;3.89;0.31;0.17
+1;1119;direct;Is he a slacker?;He was always falling behind.;1;5.96;0.96;0.57;4.43;1.69;0.15;3.96;1.84;0.19;4.57;1.79;0.29;4.96;1.82;0.17;2.96;0.96;0.11
+1;1120;direct;Is this area popular for something?;The region is famous for surfing.;1;6.75;0.65;1.20;6.57;0.57;0.16;6.50;0.88;0.14;5.46;1.57;0.30;6.29;0.90;0.24;3.75;0.65;0.10
+1;1121;direct;Is the sea  calm these days?;It is quite rough.;0;1.68;1.70;1.00;6.36;0.68;0.21;6.43;0.79;0.28;6.25;0.93;0.16;5.79;1.42;0.27;3.82;0.48;0.09
+1;1122;direct;Do you work for a corporate company?;My job is at an NGO.;0;2.32;1.76;0.39;5.36;1.77;0.11;4.89;1.66;0.27;4.71;1.65;0.22;5.25;1.29;0.23;3.18;1.06;0.07
+1;1123;direct;Is he a writer?;He has authored many successful books.;1;6.82;0.39;1.59;6.25;1.32;0.29;6.18;0.94;0.29;5.54;1.48;0.34;6.43;0.74;0.31;3.82;0.39;0.22
+1;1124;direct;Are you finished working on your data?;I am still analyzing it.;0;1.29;0.46;0.65;5.89;0.88;0.36;5.71;1.27;0.35;5.96;0.96;0.35;5.36;1.64;0.37;3.71;0.46;0.12
+1;1125;direct;Are there many pandas left in the world?;They are an endagered species.;0;2.07;1.63;1.03;5.29;1.36;0.15;4.82;1.87;0.17;5.43;1.62;0.14;5.79;1.20;0.23;3.36;0.87;0.10
+1;1126;direct;Have you joined a fitness studio?;I have enrolled at the gym.;1;6.50;1.00;0.61;5.86;1.53;0.22;6.50;0.69;0.31;5.71;1.36;0.19;6.00;1.49;0.26;3.50;1.00;0.12
+1;1127;direct;Have you finished writing your thesis?;My thesis is not complete yet.;0;1.14;0.45;1.59;6.57;1.00;0.24;6.54;1.07;0.20;5.96;1.43;0.26;6.68;0.82;0.27;3.86;0.45;0.09
+1;1128;direct;Did you use to have long hair?;My hair was way too long.;1;6.29;0.90;0.31;4.89;1.77;0.20;4.25;1.69;0.20;4.68;1.72;0.27;4.89;1.69;0.24;3.29;0.90;0.06
+1;1129;direct;Did you go to Japan for vacation?;It was a business trip.;0;1.54;1.10;0.98;6.00;1.31;0.28;5.61;1.31;0.28;5.43;1.73;0.31;5.54;1.14;0.28;3.61;0.69;0.07
+1;1130;direct;Is a one room flat enough for you?;I need a larger one.;0;1.25;0.44;1.17;6.32;0.77;0.22;5.93;1.46;0.28;5.64;1.54;0.28;5.50;1.80;0.30;3.75;0.44;0.09
+1;1131;direct;Does she have to hand in soon?;The deadline is tomorrow.;1;6.71;0.53;0.86;6.11;0.92;0.30;5.93;1.18;0.32;6.11;1.17;0.34;6.07;1.05;0.29;3.71;0.53;0.11
+1;1132;direct;Did you have a short night?;I slept only four hours.;1;5.57;1.79;0.58;5.21;1.40;0.25;4.96;1.57;0.33;5.14;1.33;0.31;5.32;1.33;0.32;3.14;1.01;0.11
+1;1133;direct;Was the flight still discounted?;The offer had already expired.;0;1.50;0.84;0.36;5.89;1.07;0.10;5.50;1.73;0.23;5.50;1.45;0.26;5.21;2.02;0.20;3.50;0.84;0.07
+1;1134;direct;Is your cat hurt?;It got wounded.;1;6.57;0.63;0.84;6.25;1.46;0.34;6.25;0.93;0.34;5.68;1.33;0.33;6.29;1.12;0.27;3.57;0.63;0.16
+1;1135;direct;Are we all here?;Mark is still missing.;0;1.07;0.26;0.26;6.43;0.96;0.12;5.82;1.44;0.30;5.82;1.47;0.19;6.00;1.15;0.26;3.93;0.26;0.05
+1;1137;direct;Do you come from Asia?;I am Chinese.;1;6.46;1.00;1.19;5.79;1.73;0.22;5.93;1.15;0.25;5.71;1.33;0.20;5.96;1.48;0.20;3.46;1.00;0.08
+1;1138;direct;Did you hang up?;The line went dead.;0;2.64;2.08;1.17;5.39;1.34;0.15;4.82;1.85;0.22;4.93;1.96;0.26;4.89;1.55;0.22;3.29;0.90;0.08
+1;1139;direct;Is someone taking care of their house?;They have domestics.;1;5.93;1.46;0.55;5.25;1.60;0.22;5.29;1.67;0.22;4.54;2.22;0.26;4.89;1.85;0.22;3.14;1.11;0.10
+1;1140;direct;Has that bar been here for long?;They have just opened.;0;1.39;0.57;0.26;6.32;0.82;0.14;6.07;1.02;0.17;5.79;1.55;0.27;6.07;0.90;0.11;3.61;0.57;0.05
+1;1141;direct;Does he own many books?;His house is full of history books.;1;6.68;0.55;0.92;6.29;0.98;0.26;5.96;1.29;0.30;5.86;1.33;0.30;6.07;1.02;0.16;3.68;0.55;0.17
+1;1143;direct;Is there a small gathering tonight?;We have only few guests over for dinner.;1;6.07;1.05;1.53;4.82;1.70;0.27;5.11;1.47;0.29;5.25;1.27;0.29;5.64;0.91;0.28;3.21;0.69;0.22
+1;1144;direct;Do you have two weeks of holiday?;I only have one week off work.;0;1.50;1.20;0.50;6.18;0.86;0.22;6.18;0.72;0.20;5.61;1.57;0.26;5.75;1.29;0.19;3.71;0.53;0.09
+1;1145;direct;Are you pregnant?;I am going to have a baby.;1;6.82;0.55;0.31;6.29;1.05;0.11;6.36;0.99;0.15;5.43;1.79;0.24;6.39;1.07;0.14;3.82;0.55;0.06
+1;1147;direct;Have you paid back your debts?;I still owe the bank some money.;0;1.50;1.00;0.42;6.18;1.12;0.24;5.71;1.49;0.24;6.18;0.86;0.14;5.86;1.41;0.17;3.64;0.49;0.08
+1;1148;direct;Did he drink a cocktail tonight?;He only had water.;0;1.18;0.39;0.42;6.57;0.57;0.15;5.96;1.43;0.12;5.89;1.17;0.21;5.96;1.20;0.14;3.82;0.39;0.08
+1;1149;direct;Do you have a vegetable garden?;I own an orchard.;0;3.18;1.59;0.31;3.29;1.51;0.15;2.68;1.52;0.16;3.39;1.79;0.24;3.46;1.62;0.12;2.32;1.19;0.06
+1;1150;direct;Is your son underage?;He is 25 years old.;0;1.25;0.65;0.96;5.21;1.91;0.32;4.79;1.87;0.35;4.54;1.84;0.34;5.29;1.96;0.34;3.75;0.65;0.18
+1;1151;direct;Is Harvard  University affordable?;Their tuition fee is extremely expensive.;0;1.39;1.03;0.65;6.32;0.82;0.11;6.25;0.89;0.17;6.43;0.74;0.30;6.14;1.21;0.17;3.75;0.52;0.12
+1;1152;direct;Has she paid us yet?;She made a bank transfer few moments ago.;1;6.11;1.31;0.39;6.32;0.77;0.25;5.75;1.60;0.18;5.46;1.60;0.28;5.93;1.36;0.14;3.32;0.86;0.07
+1;1153;direct;Are the kids good at swimming?;They cannot swim yet.;0;1.18;0.61;1.00;6.25;1.14;0.29;5.79;1.64;0.13;6.04;1.00;0.26;6.00;1.39;0.28;3.82;0.61;0.19
+1;1154;direct;Have you still got a cold?;I am healthy again.;0;1.64;1.59;0.90;5.75;1.29;0.33;5.79;1.07;0.32;5.32;1.36;0.33;5.96;1.43;0.32;3.79;0.50;0.17
+1;1155;direct;Is it forbidden to approach this area?;People are not allowed to get closer.;1;6.54;0.74;0.53;5.68;1.09;0.17;6.14;0.89;0.22;5.00;1.66;0.22;5.96;1.14;0.20;3.54;0.74;0.10
+1;1156;direct;Did someone take care of the plants?;I have watered them regularly.;1;6.29;1.46;1.79;5.54;1.62;0.26;5.29;1.41;0.30;5.75;1.27;0.25;5.82;1.39;0.25;3.64;0.56;0.19
+1;1157;direct;Was this artist still alive in the 80s?;He was already dead by then.;0;1.11;0.31;0.63;6.43;1.07;0.28;6.32;1.06;0.18;5.82;1.44;0.25;6.14;1.27;0.21;3.89;0.31;0.12
+1;1158;direct;Is the lake frozen?;The ice layer is quite thick.;1;6.54;0.69;1.00;5.54;1.43;0.33;5.14;1.72;0.22;5.36;1.54;0.25;5.54;1.45;0.28;3.54;0.69;0.19
+1;1159;direct;Are you attending the beginners' class?;I am in the advanced course.;0;1.32;0.98;1.46;6.11;1.50;0.30;5.82;1.47;0.32;5.46;1.62;0.42;5.71;1.46;0.35;3.82;0.39;0.21
+1;1160;direct;Have you sought medical advice?;I have seen a doctor.;1;6.68;0.61;0.55;6.57;0.63;0.18;6.29;0.76;0.24;6.25;1.24;0.25;6.61;0.57;0.19;3.68;0.61;0.10
+1;1161;direct;Did you stay home last night?;I went out with some friends.;0;1.54;1.17;1.05;6.14;1.15;0.32;5.68;1.47;0.28;5.93;1.49;0.24;5.18;1.61;0.17;3.68;0.48;0.13
+1;1162;direct;Was there an election recently?;They voted yesterday.;1;6.50;0.79;0.55;6.04;1.17;0.20;5.79;1.26;0.19;5.61;1.40;0.34;6.00;1.02;0.20;3.50;0.79;0.10
+1;1163;direct;Is the car completely clean?;It is spotless.;1;6.93;0.26;1.31;6.89;0.31;0.15;6.57;1.17;0.30;6.68;0.67;0.30;6.68;0.72;0.26;3.93;0.26;0.16
+1;1164;direct;Have they answered all questions?;They have submitted a blank sheet.;0;1.32;0.86;0.74;5.25;1.58;0.21;4.75;1.67;0.17;4.50;1.77;0.31;5.29;1.54;0.22;3.75;0.59;0.14
+1;1165;direct;Is she out on the tennis field?;She has just got into the changing room.;0;1.50;0.58;1.46;5.54;1.32;0.31;4.96;1.75;0.27;4.96;1.62;0.24;5.25;1.71;0.26;3.50;0.58;0.11
+1;1166;direct;Did he get the money back?;He was compensated.;1;6.14;1.33;0.69;5.54;1.48;0.27;5.50;1.58;0.32;5.79;1.55;0.29;5.89;1.42;0.27;3.29;1.05;0.13
+1;1167;direct;Has anyone answer your house sale ad?;No one has responded.;0;1.14;0.36;0.61;6.75;0.52;0.12;6.43;1.23;0.14;5.96;1.37;0.23;6.46;1.07;0.11;3.86;0.36;0.12
+1;1168;direct;Is he a musician?;He does not play any instrument.;0;1.54;0.84;0.79;5.61;1.81;0.22;4.93;1.80;0.24;5.00;1.76;0.26;5.79;1.42;0.19;3.46;0.84;0.15
+1;1169;direct;Has he travelled in Asia?;He has been in Japan for several months.;1;6.46;0.79;0.26;6.18;0.98;0.06;6.21;0.99;0.22;5.61;1.31;0.13;5.93;1.25;0.14;3.46;0.79;0.05
+1;1170;direct;Is our goal the summit?;We are aiming for the mountain top.;1;6.32;1.54;1.33;5.64;1.39;0.28;5.57;1.35;0.30;5.07;1.61;0.29;5.93;1.61;0.27;3.68;0.72;0.20
+1;1171;direct;Did the customer get his package?;The customer received it.;1;6.93;0.26;0.79;6.64;1.03;0.19;6.68;0.61;0.19;6.00;1.66;0.25;6.71;0.53;0.24;3.93;0.26;0.15
+1;1173;direct;Did she attend the whole singing course?;She skipped the last four lessons.;0;1.07;0.26;1.54;6.64;0.62;0.26;5.93;1.59;0.25;6.00;0.98;0.30;6.07;1.36;0.30;3.93;0.26;0.14
+1;1174;direct;Does your screen have a bad image?;My monitor's resolution is really poor.;1;6.46;1.20;0.26;6.11;1.03;0.19;5.82;1.47;0.12;5.86;1.18;0.31;6.18;1.19;0.10;3.68;0.55;0.05
+1;1175;direct;Has she completed her medical studies?;She graduated from medical school last year.;1;6.79;0.57;1.20;6.54;0.69;0.19;6.36;0.83;0.28;6.36;0.95;0.22;6.29;0.90;0.22;3.79;0.57;0.10
+1;1176;direct;Is that a public building?;It is a private property.;0;1.36;1.19;0.57;6.25;1.14;0.13;6.04;1.32;0.16;5.89;1.07;0.18;6.14;1.04;0.17;3.86;0.45;0.11
+1;1201;indirect;Are you and Martin still good friends?;I have not seen him for ages.;0;3.00;1.12;1.12;3.68;1.66;0.31;3.18;1.79;0.34;5.11;1.66;0.31;3.86;1.63;0.31;2.07;1.05;0.20
+1;1202;indirect;Are you looking for a job?;I am sending out an application.;1;6.39;0.88;1.07;5.36;1.34;0.24;5.32;1.52;0.24;5.61;1.26;0.33;5.57;1.35;0.31;3.39;0.88;0.20
+1;1203;indirect;Do you know Lukas?;I train with him at the gym.;1;6.50;1.20;1.59;6.07;0.98;0.31;6.11;0.88;0.37;6.00;1.12;0.38;5.57;1.32;0.34;3.71;0.53;0.20
+1;1204;indirect;Is this his property now?;His grandfather passed away recently.;1;4.89;1.34;0.92;2.14;1.51;0.30;2.18;1.39;0.30;2.64;1.52;0.30;2.36;1.22;0.30;2.11;1.17;0.17
+1;1205;indirect;Does it take long to drive to Paris?;It is about 1000 Km away.;1;6.21;1.03;1.10;4.82;1.42;0.32;4.86;1.76;0.37;5.07;1.80;0.31;4.96;1.62;0.36;3.21;1.03;0.21
+1;1206;indirect;Is Munich far from here?;It is a six hour drive.;1;5.96;1.37;1.03;5.46;1.40;0.32;5.36;1.81;0.32;6.11;1.10;0.34;5.71;1.24;0.31;3.18;0.98;0.19
+1;1207;indirect;Will you be home by noon?;My train has some delay.;0;2.50;1.07;1.31;3.21;1.26;0.28;2.89;1.26;0.32;4.50;1.73;0.33;3.75;1.65;0.33;2.50;1.07;0.15
+1;1208;indirect;Have you bought cereal?;There is still some left.;0;2.68;1.59;1.50;3.68;1.66;0.28;3.39;1.95;0.15;4.25;2.01;0.17;3.86;1.82;0.21;2.75;1.08;0.19
+1;1209;indirect;Have you started writing your essay?;It is not due for three months.;0;2.21;0.92;1.35;3.54;1.60;0.30;3.14;1.58;0.24;4.89;1.59;0.28;3.82;1.59;0.32;2.79;0.92;0.14
+1;1210;indirect;Will we be late to the cinema?;The streets are always congested with cars.;1;5.54;1.00;1.47;2.64;1.06;0.24;2.79;1.66;0.22;3.54;1.62;0.31;2.93;1.36;0.15;2.54;1.00;0.20
+1;1211;indirect;Is Megan coming to the steak house?;She is vegetarian.;0;2.54;1.10;1.07;3.32;1.68;0.27;3.39;1.97;0.34;4.50;1.67;0.28;3.68;1.89;0.32;2.46;1.10;0.12
+1;1212;indirect;Is John staying home?;He has the flu.;1;5.96;1.23;1.73;4.46;1.67;0.36;3.75;1.97;0.27;5.43;0.88;0.26;4.64;1.54;0.34;3.18;0.77;0.12
+1;1213;indirect;Has Sonya registered for the marathon?;She runs for hours every day.;1;4.96;1.20;1.18;2.00;1.41;0.23;1.82;1.33;0.29;2.71;1.78;0.25;2.39;1.47;0.35;1.96;1.20;0.11
+1;1214;indirect;Did Clara have breakfast already?;She just woke up.;0;2.11;1.03;0.90;4.61;1.71;0.28;3.75;1.67;0.34;4.93;1.78;0.31;4.11;1.64;0.31;2.89;1.03;0.17
+1;1215;indirect;Have you seen that movie?;It comes out next week.;0;1.68;1.31;1.15;4.68;1.47;0.35;4.07;1.68;0.34;4.64;1.75;0.32;4.29;1.76;0.28;3.54;0.79;0.22
+1;1216;indirect;Do you know how to use a drill?;I have used one before.;1;6.36;0.78;1.17;5.43;1.40;0.29;5.32;1.49;0.23;5.68;1.39;0.33;5.61;1.07;0.32;3.36;0.78;0.22
+1;1217;indirect;Have you failed the exam?;I am celebrating tonight.;0;2.57;1.50;0.69;2.14;1.46;0.29;1.64;0.78;0.31;1.82;0.90;0.28;1.93;1.12;0.36;2.79;1.03;0.13
+1;1218;indirect;Are you breaking up with him?;I am moving out tomorrow.;1;5.86;1.18;1.43;3.36;1.79;0.31;2.82;1.36;0.27;3.71;2.02;0.35;3.04;1.60;0.33;2.86;1.18;0.22
+1;1219;indirect;Was he fired?;He was always falling behind.;1;5.00;1.28;1.01;2.68;1.52;0.31;2.36;1.37;0.31;3.04;1.84;0.36;2.71;1.54;0.28;2.29;0.98;0.19
+1;1220;indirect;Are there big waves here?;The region is famous for surfing.;1;6.36;0.73;1.10;4.89;1.42;0.22;4.07;1.96;0.34;5.00;1.41;0.28;4.61;1.75;0.29;3.36;0.73;0.13
+1;1221;indirect;Is the sea safe to swim here?;It is quite rough.;0;1.96;1.35;1.37;4.54;1.60;0.30;5.07;1.27;0.32;5.46;1.50;0.29;4.96;1.71;0.33;3.32;0.72;0.21
+1;1222;indirect;Do you make a lot of money?;My job is at an NGO.;0;2.79;1.47;0.50;2.61;1.29;0.26;2.14;1.15;0.32;3.50;1.62;0.33;2.57;0.79;0.32;2.57;1.07;0.09
+1;1223;indirect;Is he famous?;He has authored many successful books.;1;6.00;0.90;0.92;5.07;1.54;0.21;4.46;1.55;0.20;4.71;1.72;0.32;4.93;1.78;0.27;3.00;0.90;0.17
+1;1224;indirect;Did you present your data at the meeting?;I am still analyzing it.;0;1.54;1.07;0.69;5.11;1.45;0.36;3.93;1.80;0.41;5.21;1.50;0.37;4.36;1.68;0.37;3.61;0.63;0.13
+1;1225;indirect;Is it legal to hunt pandas?;They are an endagered species.;0;2.11;1.73;1.04;4.32;1.93;0.27;3.18;1.42;0.33;5.21;1.37;0.30;4.32;1.81;0.35;3.46;0.64;0.20
+1;1226;indirect;Have you lost some weight?;I have enrolled at the gym.;1;5.32;1.06;0.77;3.14;1.35;0.29;3.11;1.66;0.30;3.93;1.65;0.28;3.43;1.73;0.32;2.32;1.06;0.15
+1;1227;indirect;Have you graduated?;My thesis is not complete yet.;0;1.71;1.18;1.02;5.32;1.22;0.24;4.25;1.53;0.26;5.11;1.34;0.35;4.50;1.84;0.29;3.50;0.58;0.19
+1;1228;indirect;Did you get your hair cut?;My hair was way too long.;1;6.18;0.72;0.98;3.71;1.72;0.29;3.11;1.71;0.29;4.32;1.81;0.31;3.75;1.71;0.37;3.18;0.72;0.07
+1;1229;indirect;Did you have time for sightseeing?;It was a business trip.;0;2.07;0.90;1.45;3.29;1.46;0.19;3.46;1.77;0.33;4.50;1.67;0.32;3.71;1.63;0.30;2.93;0.90;0.07
+1;1230;indirect;Did you buy that one room flat?;I need a larger one.;0;2.07;1.15;1.54;3.61;1.87;0.27;4.00;1.78;0.31;4.43;1.71;0.27;4.25;1.51;0.29;2.93;1.15;0.13
+1;1231;indirect;Is she stressed about the project?;The deadline is tomorrow.;1;5.57;1.26;1.25;3.36;1.59;0.25;3.21;1.50;0.36;4.54;1.84;0.37;3.68;1.81;0.33;2.79;0.92;0.13
+1;1232;indirect;Are you tired?;I slept only four hours.;1;6.50;0.75;0.88;4.75;1.51;0.32;4.14;1.80;0.28;5.36;1.52;0.26;4.79;1.52;0.29;3.50;0.75;0.17
+1;1233;indirect;Did he book the flight?;The offer had already expired.;0;2.25;1.17;0.92;2.89;1.52;0.29;2.54;1.23;0.33;3.71;1.76;0.36;3.14;1.67;0.30;2.75;1.17;0.17
+1;1234;indirect;Are you bringing your cat to the vet?;It got wounded.;1;5.57;1.29;1.42;3.29;1.46;0.33;3.71;1.56;0.36;3.61;1.57;0.33;4.21;1.50;0.28;2.71;1.08;0.20
+1;1235;indirect;Are we ready to go?;Mark is still missing.;0;1.39;0.69;1.22;5.14;1.53;0.30;4.64;1.64;0.32;5.64;1.47;0.31;4.71;1.90;0.32;3.61;0.69;0.13
+1;1237;indirect;Can you cook cantonese rice?;I am Chinese.;1;4.89;1.29;1.00;2.68;1.61;0.31;2.68;1.68;0.34;3.18;1.63;0.31;3.07;1.76;0.35;2.11;1.10;0.19
+1;1238;indirect;Have you told him about that issue?;The line went dead.;0;2.54;1.43;0.88;3.04;1.67;0.25;2.68;1.44;0.29;3.36;1.85;0.24;3.14;1.74;0.25;2.68;1.16;0.17
+1;1239;indirect;Is their house always so tidy?;They have domestics.;1;6.04;1.00;1.20;3.86;1.63;0.18;2.89;1.64;0.17;3.61;2.11;0.21;3.82;1.81;0.25;3.04;1.00;0.10
+1;1240;indirect;Have you tried that bar yet?;They have just opened.;0;2.14;1.01;1.34;3.57;1.67;0.29;3.50;1.67;0.26;4.79;1.93;0.29;3.93;1.49;0.23;2.86;1.01;0.22
+1;1241;indirect;Does he have a passion for history?;His house is full of history books.;1;6.57;0.57;1.03;5.43;1.40;0.27;4.75;1.65;0.33;5.32;1.49;0.34;5.54;1.50;0.31;3.57;0.57;0.19
+1;1243;indirect;Is this saucepan big enough?;We have only few guests over for dinner.;1;5.50;0.96;1.37;2.71;1.08;0.26;2.36;1.03;0.34;3.29;1.76;0.21;3.04;1.60;0.23;2.50;0.96;0.19
+1;1244;indirect;Will you take a two weeks trip?;I only have one week off work.;0;1.61;1.10;1.00;5.79;1.17;0.20;5.00;1.78;0.31;5.54;1.50;0.31;5.18;1.54;0.26;3.54;0.69;0.19
+1;1245;indirect;Are you avoiding drinking alcohol?;I am going to have a baby.;1;6.50;0.58;1.23;4.00;1.74;0.31;3.54;1.97;0.37;4.32;1.93;0.17;3.50;2.08;0.29;3.50;0.58;0.15
+1;1247;indirect;Did you get a new loan?;I still owe the bank some money.;0;2.61;1.37;1.20;3.29;1.58;0.27;3.00;1.70;0.25;4.14;1.56;0.34;3.46;1.73;0.28;2.61;1.10;0.23
+1;1248;indirect;Is he drunk?;He only had water.;0;1.21;0.50;0.78;5.86;1.35;0.26;5.04;1.69;0.28;5.25;1.73;0.26;5.14;1.69;0.20;3.79;0.50;0.15
+1;1249;indirect;Do you buy fruit in the supermarket?;I own an orchard.;0;2.46;0.92;1.18;2.61;1.13;0.34;1.96;1.04;0.26;3.00;1.68;0.38;2.75;1.43;0.30;2.54;0.92;0.22
+1;1250;indirect;Is your son at elementary school?;He is 25 years old.;0;1.21;0.69;1.28;4.82;1.93;0.29;3.89;2.17;0.26;3.11;1.95;0.35;4.00;1.98;0.29;3.79;0.69;0.18
+1;1251;indirect;Is Harvard University an option for you?;Their tuition fee is extremely expensive.;0;2.25;1.04;0.73;3.79;1.45;0.27;3.39;1.75;0.37;5.18;1.61;0.27;4.36;1.87;0.33;2.75;1.04;0.14
+1;1252;indirect;Did she accept our deal?;She made a bank transfer few moments ago.;1;5.64;1.28;0.90;3.93;1.76;0.29;3.46;1.84;0.29;3.96;1.93;0.32;3.61;1.83;0.34;2.71;1.18;0.17
+1;1253;indirect;Did the kids go to the swimming pool?;They cannot swim yet.;0;1.82;0.77;1.06;4.07;1.51;0.26;3.43;1.60;0.31;5.04;1.48;0.31;4.54;1.71;0.33;3.18;0.77;0.20
+1;1254;indirect;Are you still taking these pills?;I am healthy again.;0;2.32;1.02;0.72;3.14;1.27;0.32;2.82;1.39;0.32;3.29;1.86;0.34;3.39;1.52;0.32;2.68;1.02;0.14
+1;1255;indirect;Is this area contaminated?;People are not allowed to get closer.;1;5.93;1.12;1.26;3.82;1.68;0.30;2.89;1.75;0.28;3.61;1.37;0.35;4.00;1.68;0.34;2.93;1.12;0.17
+1;1256;indirect;Are the plants still alive?;I have watered them regularly.;1;5.54;1.10;0.75;3.21;1.42;0.28;3.25;1.76;0.34;4.71;1.38;0.29;3.75;1.67;0.29;2.61;0.99;0.14
+1;1257;indirect;Was this artwork created by him in 1981?;He was already dead by then.;0;1.29;0.98;1.29;5.86;1.56;0.28;5.29;1.56;0.29;5.11;1.62;0.30;5.00;1.98;0.28;3.86;0.36;0.20
+1;1258;indirect;Is it ice skating season?;The ice layer is quite thick.;1;5.93;0.98;1.29;3.89;1.62;0.30;3.07;1.39;0.32;3.89;1.64;0.31;3.79;1.50;0.33;2.93;0.98;0.21
+1;1259;indirect;Are you a beginner?;I am in the advanced course.;0;1.54;1.45;1.00;6.29;1.01;0.31;5.50;1.73;0.31;5.50;1.69;0.40;5.68;1.61;0.34;3.82;0.39;0.19
+1;1260;indirect;Have you been sick?;I have seen a doctor.;1;5.50;1.23;0.57;3.39;1.73;0.26;3.43;1.64;0.31;3.75;1.60;0.28;3.71;1.67;0.28;2.71;0.90;0.11
+1;1261;indirect;Did you go to bed early last night?;I went out with some friends.;0;2.07;1.54;0.96;4.89;1.45;0.20;4.11;1.62;0.19;5.29;1.44;0.33;4.25;1.53;0.30;3.36;0.68;0.18
+1;1262;indirect;Can the members elect a representative?;They voted yesterday.;1;5.64;1.16;0.58;3.36;1.62;0.33;2.79;1.23;0.37;3.50;1.60;0.36;3.79;1.87;0.39;2.64;1.16;0.11
+1;1263;indirect;Is the car back from the car wash?;It is spotless.;1;6.11;1.10;1.28;3.96;1.82;0.33;4.11;2.01;0.35;4.00;1.91;0.37;4.32;1.94;0.35;3.18;0.94;0.22
+1;1264;indirect;Have they written a good exam?;They have submitted a blank sheet.;0;1.68;1.25;1.12;4.43;1.32;0.32;4.07;1.90;0.33;3.71;1.96;0.26;4.61;1.77;0.32;3.54;0.69;0.21
+1;1265;indirect;Is she dressed for the tennis game?;She has just got into the changing room.;0;1.89;0.88;1.10;4.75;1.67;0.27;3.93;1.49;0.33;4.68;1.39;0.26;4.79;1.52;0.32;3.11;0.88;0.19
+1;1266;indirect;Did he settle the lawsuit?;He was compensated.;1;6.00;1.02;0.98;4.82;1.39;0.31;4.14;1.88;0.26;4.86;1.78;0.31;4.93;1.51;0.28;3.07;0.86;0.18
+1;1267;indirect;Have you sold that house?;No one has responded.;0;1.61;0.92;1.23;4.64;1.52;0.33;3.82;1.72;0.31;4.57;1.91;0.30;4.04;1.60;0.32;3.39;0.92;0.17
+1;1268;indirect;Is he part of the marching band?;He does not play any instrument.;0;2.18;1.42;1.16;4.25;1.73;0.31;4.25;1.90;0.23;4.11;1.73;0.30;4.71;1.46;0.35;3.04;1.07;0.22
+1;1269;indirect;Has he ever tried sushi?;He has been in Japan for several months.;1;5.46;1.23;1.10;2.21;1.07;0.34;2.61;1.57;0.38;3.50;1.58;0.36;3.07;1.82;0.37;2.54;1.14;0.18
+1;1270;indirect;Is our whole way going uphill?;We are aiming for the mountain top.;1;5.89;1.20;1.02;3.96;1.64;0.26;4.54;1.79;0.36;3.89;1.79;0.34;4.93;1.54;0.29;2.89;1.20;0.16
+1;1271;indirect;Was the package shipped to the customer?;The customer received it.;1;6.57;0.88;1.23;5.50;1.50;0.20;4.96;1.71;0.30;5.36;1.64;0.30;5.14;1.80;0.34;3.57;0.88;0.22
+1;1273;indirect;Is she very dedicated to that singing course?;She skipped the last four lessons.;0;1.82;1.22;1.20;4.93;1.61;0.31;4.25;1.67;0.34;5.07;1.63;0.34;4.75;1.71;0.29;3.39;0.69;0.23
+1;1274;indirect;Do your eyes get strained sometimes?;My monitor's resolution is really poor.;1;5.79;0.99;0.88;3.00;1.63;0.28;3.11;1.75;0.32;3.86;1.60;0.31;3.39;1.66;0.34;2.79;0.99;0.17
+1;1275;indirect;Is she she a medical doctor?;She graduated from medical school last year.;1;5.57;1.17;0.99;4.71;1.56;0.31;4.29;1.78;0.33;4.93;1.49;0.30;4.86;1.82;0.31;2.64;1.06;0.19
+1;1276;indirect;Have you ever been inside that building?;It is a private property.;0;1.96;1.00;1.17;3.71;1.65;0.29;3.50;1.80;0.34;4.29;1.65;0.28;3.75;1.86;0.34;3.04;1.00;0.20
+2;2101;direct;Do you have to study for the test?;I need to revise some of the topics.;1;6.11;1.34;0.56;5.54;1.73;0.29;5.29;1.74;0.27;5.18;1.76;0.34;5.64;1.59;0.26;3.32;0.90;0.11
+2;2102;direct;Has anything come out in the cinemas recently?;There is an interesting new movie.;1;6.50;0.69;0.42;5.86;0.97;0.22;5.89;1.26;0.21;6.04;0.96;0.29;5.75;1.14;0.28;3.50;0.69;0.08
+2;2103;direct;Is it cold in your village?;It is quite chilly.;1;6.61;0.57;1.14;6.29;1.24;0.35;6.50;0.79;0.33;6.29;1.24;0.35;6.50;0.58;0.33;3.61;0.57;0.19
+2;2105;direct;Do you know anything about this novel?;I have heard good things about that book.;1;6.29;0.81;1.35;5.71;1.51;0.27;5.39;1.57;0.35;5.82;1.28;0.31;5.75;1.11;0.32;3.29;0.81;0.20
+2;2106;direct;Did you get injured at yoga class?;I pulled a muscle last time.;1;6.32;1.42;1.20;6.36;0.83;0.23;6.04;1.00;0.22;5.64;1.73;0.35;6.14;0.85;0.36;3.61;0.74;0.10
+2;2107;direct;Have you lost your phone?;I cannot find my phone.;1;6.57;0.79;0.98;5.46;1.67;0.21;5.68;1.42;0.26;5.07;1.44;0.21;6.04;1.17;0.21;3.57;0.79;0.19
+2;2108;direct;Is it cold outside?;It is minus 20 degrees.;1;6.71;0.66;1.17;6.25;0.93;0.18;6.21;1.45;0.24;6.14;1.21;0.25;6.43;0.74;0.24;3.71;0.66;0.08
+2;2109;direct;Are we in a religious building?;We have just entered a church.;1;6.89;0.31;0.64;6.36;0.95;0.19;6.00;1.15;0.25;5.68;1.61;0.23;6.54;0.96;0.28;3.89;0.31;0.12
+2;2110;direct;Are your workouts usually difficult?;I am training very hard.;1;6.00;0.94;1.47;4.54;1.69;0.16;4.43;1.77;0.23;4.75;1.84;0.22;5.14;1.41;0.29;3.00;0.94;0.10
+2;2113;direct;Were you working today?;I have been working on an exhausting task.;1;6.29;0.85;1.54;4.93;1.59;0.16;5.18;1.63;0.33;4.36;1.91;0.31;4.96;1.86;0.34;3.29;0.85;0.14
+2;2114;direct;Have you got swimming gear with you?;I did not bring my bikini.;0;1.36;0.56;0.79;5.50;1.53;0.24;5.43;1.45;0.25;5.21;1.79;0.26;5.79;1.40;0.23;3.64;0.56;0.15
+2;2115;direct;Are you free at the moment?;I do not have time.;0;1.11;0.42;0.66;6.32;1.16;0.18;6.46;1.10;0.18;5.86;1.53;0.21;5.96;1.50;0.29;3.89;0.42;0.12
+2;2116;direct;Did you watch 'Titanic' yesterday?;I watched it last month.;0;1.75;1.14;1.17;5.07;1.86;0.13;4.93;1.72;0.16;4.75;1.84;0.18;4.96;1.75;0.29;3.32;0.98;0.09
+2;2117;direct;Are you eating more than usual?;I am on a diet.;0;2.46;1.35;1.17;3.64;1.45;0.14;3.54;1.86;0.19;3.93;1.63;0.14;4.36;1.68;0.26;2.75;1.04;0.07
+2;2118;direct;Do you practise Hinduism?;I am actually a Muslim.;0;1.46;1.20;1.40;6.04;1.23;0.36;6.11;1.17;0.32;5.54;1.86;0.38;5.36;1.93;0.30;3.75;0.52;0.19
+2;2119;direct;Are you feeling ok?;My head is spinning after all these beers.;0;1.68;0.98;1.03;5.89;1.10;0.12;5.64;1.37;0.12;6.07;1.09;0.26;5.86;1.11;0.19;3.32;0.98;0.10
+2;2120;direct;Are you feeling energetic today?;I am very tired.;0;1.43;1.17;0.36;6.21;0.96;0.16;5.96;1.29;0.25;5.86;1.33;0.32;6.14;1.27;0.37;3.79;0.42;0.07
+2;2121;direct;Do you have any money saved up?;We are broke at the moment.;0;1.46;0.64;0.92;5.89;0.99;0.23;5.54;1.32;0.36;5.86;1.21;0.36;5.71;1.46;0.33;3.54;0.64;0.17
+2;2122;direct;Is it your first experience with a chain saw?;I have used one already in the past.;0;1.64;1.47;1.18;6.36;0.83;0.39;6.14;1.24;0.32;5.75;1.17;0.32;6.00;1.54;0.34;3.71;0.53;0.20
+2;2123;direct;Is it morning in Los Angeles?;It is 11 p.m.;0;1.71;1.54;1.17;6.39;0.83;0.28;5.61;1.75;0.28;5.21;1.64;0.37;5.36;1.81;0.30;3.64;0.73;0.19
+2;2124;direct;Are you feeling good?;I have a hangover.;0;1.50;0.79;0.96;5.79;1.29;0.22;5.11;1.34;0.12;5.79;1.40;0.26;5.54;1.23;0.30;3.50;0.79;0.05
+2;2125;direct;Are you free of any chronic disease?;I am actually diabetic.;0;1.29;0.66;0.94;6.32;0.94;0.30;6.11;0.96;0.32;5.86;1.11;0.41;5.64;1.52;0.32;3.71;0.66;0.14
+2;2127;direct;Do you feel well on boats?;I usually get seasick.;0;1.54;1.17;1.49;6.43;0.69;0.28;6.29;0.85;0.29;6.21;0.96;0.29;5.93;1.54;0.28;3.68;0.48;0.13
+2;2128;direct;Are your teeth still hurting?;My toothache is gone.;0;1.39;1.17;0.61;6.39;0.74;0.15;6.32;1.02;0.21;6.25;0.75;0.29;6.00;1.39;0.25;3.82;0.39;0.12
+2;2129;direct;Are there many stations on your way?;I have several bus stops before my destination.;1;6.07;1.33;1.17;5.54;1.23;0.13;5.39;1.31;0.13;5.11;1.81;0.15;5.54;1.64;0.23;3.21;1.07;0.08
+2;2130;direct;Are you allowed to staple your documents?;I should not staple them.;0;2.04;1.40;0.61;5.11;1.91;0.25;5.29;1.67;0.29;4.29;2.03;0.33;5.32;1.61;0.32;3.18;1.02;0.12
+2;2131;direct;Does your luggage weigh much?;It is very light.;0;1.43;1.03;1.23;6.43;0.63;0.26;6.61;0.63;0.18;6.18;1.39;0.21;6.29;1.01;0.24;3.71;0.53;0.11
+2;2132;direct;Do we need to wake up early tomorrow?;We have to get up at 5 am.;1;6.82;0.39;1.04;6.29;0.85;0.36;5.68;1.47;0.36;6.14;1.08;0.33;6.29;0.81;0.31;3.82;0.39;0.20
+2;2134;direct;Is Spanish your mother tongue?;French is my native language.;0;1.14;0.36;1.04;6.36;0.83;0.14;6.00;1.33;0.25;5.07;1.70;0.31;5.36;1.95;0.25;3.86;0.36;0.10
+2;2135;direct;Is the remote still unusable?;It does not work.;1;5.68;2.02;0.65;6.04;1.23;0.16;6.29;0.81;0.26;5.29;1.21;0.18;5.79;1.52;0.24;3.46;0.84;0.12
+2;2136;direct;Are there wild animals in this region?;Wolves are very common here.;1;6.68;0.48;1.03;6.04;1.00;0.23;5.46;1.40;0.34;5.64;1.39;0.26;5.57;1.43;0.27;3.68;0.48;0.10
+2;2137;direct;Are there trees in your garden?;We only have cacti.;0;1.57;0.92;1.53;5.82;1.22;0.39;4.71;1.90;0.34;4.11;1.93;0.32;4.89;1.73;0.38;3.43;0.92;0.18
+2;2138;direct;Is the passport necessary for taking the plane?;We need it for travelling.;1;6.61;0.63;0.82;5.46;1.50;0.19;5.46;1.40;0.17;5.25;1.76;0.27;5.82;1.25;0.22;3.61;0.63;0.10
+2;2139;direct;Have you brought some pie for lunch?;I have got a sandwich.;0;2.14;1.18;1.34;4.18;2.07;0.33;4.04;1.71;0.33;4.32;1.68;0.33;4.21;1.79;0.30;2.93;1.05;0.17
+2;2140;direct;Are the kids about to leave?;They have to go out soon.;1;6.39;0.83;0.69;5.57;1.26;0.18;5.50;1.04;0.24;5.18;1.61;0.18;5.54;1.26;0.22;3.39;0.83;0.13
+2;2141;direct;Are you already hungry?;Right now I am starving.;1;6.96;0.19;0.57;6.46;1.00;0.23;6.57;0.74;0.15;5.93;1.65;0.23;6.43;0.74;0.11;3.96;0.19;0.11
+2;2144;direct;Do you often consume hot drinks?;I drink tea all the time.;1;6.61;0.79;0.81;6.00;1.36;0.29;5.75;1.67;0.30;6.25;1.00;0.24;6.25;1.04;0.21;3.61;0.79;0.15
+2;2145;direct;Is the room very bright?;We have too much light in here.;1;6.61;0.74;1.42;5.21;1.60;0.16;4.89;1.57;0.19;4.86;1.65;0.33;5.54;1.40;0.16;3.61;0.74;0.14
+2;2146;direct;Will you stay in town till Friday?;I will be abroad then.;0;1.57;1.17;0.79;5.75;1.46;0.31;5.32;1.49;0.27;4.93;1.94;0.27;5.25;1.58;0.22;3.50;1.00;0.15
+2;2147;direct;Are you eating something?;I am having a soup.;1;6.82;0.39;0.66;6.57;0.69;0.18;6.46;0.84;0.27;6.29;0.85;0.23;6.46;0.74;0.14;3.82;0.39;0.12
+2;2148;direct;Is it raining already?;It just started pouring.;1;6.79;0.50;0.31;6.43;0.69;0.18;6.61;0.50;0.22;6.29;0.71;0.30;6.57;0.74;0.18;3.79;0.50;0.06
+2;2149;direct;Do you consume alcohol?;I do not drink.;0;1.21;0.96;0.94;6.64;1.16;0.32;6.79;0.63;0.34;6.29;1.38;0.35;6.18;1.61;0.27;3.93;0.26;0.18
+2;2150;direct;Was everything taken away from the flat?;There is a dish washer in the kitchen.;0;1.68;0.94;0.85;4.82;1.61;0.30;4.11;1.69;0.31;3.86;2.19;0.36;4.54;1.69;0.35;3.39;0.74;0.16
+2;2151;direct;Do you still have tennis equipment?;I gave away my racket ages ago.;0;1.82;1.49;1.33;5.71;1.49;0.23;5.29;1.54;0.25;5.57;1.53;0.34;5.86;1.48;0.31;3.54;0.69;0.20
+2;2152;direct;Do you consume all types of food?;I do not eat spicy dishes.;0;1.32;0.61;0.39;6.00;0.77;0.16;5.96;1.10;0.28;5.64;1.52;0.20;5.86;1.30;0.15;3.68;0.61;0.07
+2;2153;direct;Are we actually neighbours?;I live right next to you.;1;6.75;0.44;2.02;6.39;1.10;0.23;6.18;0.86;0.15;5.07;1.74;0.23;6.54;0.69;0.29;3.75;0.44;0.16
+2;2155;direct;Are you still confused about it?;I understand everything now.;0;1.43;1.17;0.48;6.54;0.69;0.19;6.43;0.69;0.26;6.14;0.80;0.26;6.29;1.24;0.27;3.79;0.42;0.09
+2;2156;direct;Do you feel pain in your upper body?;My chest hurts a lot.;1;6.79;0.50;0.63;6.43;0.50;0.28;6.11;1.13;0.26;5.82;1.36;0.33;6.54;0.64;0.24;3.79;0.50;0.12
+2;2157;direct;Is it winter there?;We are in the middle of the summer.;0;1.18;0.61;0.83;6.36;1.31;0.24;5.82;1.54;0.20;5.36;1.75;0.30;5.75;1.69;0.24;3.82;0.61;0.16
+2;2159;direct;Did you get hurt?;I cut my finger while cooking.;1;6.71;0.46;0.19;6.36;0.78;0.19;5.96;1.40;0.14;6.07;0.90;0.31;6.18;0.94;0.14;3.71;0.46;0.04
+2;2160;direct;Is the living room dirty?;There is dust all over the floor.;1;6.68;0.61;0.79;5.82;0.98;0.26;5.75;1.17;0.32;5.71;0.94;0.19;6.07;0.94;0.20;3.68;0.61;0.15
+2;2161;direct;Have you left your toothpaste at home?;I have actually brought mine.;0;1.46;1.23;0.74;6.18;1.39;0.30;6.14;0.97;0.30;5.89;1.13;0.31;5.96;1.29;0.26;3.75;0.59;0.14
+2;2162;direct;Did your lips get damaged with this wind?;My lips are all chapped.;1;6.14;1.01;0.39;5.36;1.50;0.13;5.21;1.50;0.16;4.93;1.65;0.16;5.32;1.44;0.14;3.21;0.83;0.07
+2;2163;direct;Are you doing the afternoon shift tomorrow?;I am working early tomorrow morning.;0;1.75;1.04;0.50;5.04;1.91;0.13;4.39;1.93;0.09;4.89;1.77;0.13;5.11;1.64;0.14;3.25;1.04;0.09
+2;2164;direct;Are you going to have dinner at home?;I plan to eat at a restaurant.;0;1.46;1.04;0.44;6.32;0.72;0.21;5.89;1.31;0.16;5.50;1.62;0.33;5.75;1.32;0.13;3.68;0.55;0.08
+2;2165;direct;Are the hedges taller than last time?;They have grown a lot recently.;1;6.04;1.20;0.50;5.11;1.55;0.10;4.07;2.12;0.21;5.07;1.68;0.26;5.36;1.42;0.12;3.18;0.90;0.09
+2;2166;direct;Have you finished cooking?;Lunch is now ready.;1;6.43;0.84;0.46;4.93;1.63;0.15;5.00;1.39;0.26;5.11;1.31;0.17;5.46;1.29;0.18;3.43;0.84;0.09
+2;2167;direct;Do you have difficult homework?;My math exercise is very complicated.;1;6.64;0.56;0.61;6.00;1.09;0.19;6.11;0.96;0.22;5.68;1.09;0.18;6.14;1.27;0.18;3.64;0.56;0.12
+2;2168;direct;Have you decided on a destination?;We are not sure where to go yet.;0;1.25;0.65;1.01;6.36;0.83;0.28;5.89;1.40;0.28;6.29;0.98;0.31;6.00;1.28;0.27;3.75;0.65;0.16
+2;2169;direct;Do you smoke cigarettes?;I smoke cigars only.;0;1.43;1.03;1.20;6.21;1.20;0.29;5.32;1.81;0.40;5.43;1.37;0.32;5.75;1.40;0.27;3.71;0.53;0.17
+2;2170;direct;Are you writing on paper?;I usually type directly on my laptop.;0;2.25;1.53;0.84;4.68;2.04;0.31;3.93;1.78;0.26;4.79;1.71;0.25;4.39;2.02;0.24;3.11;0.96;0.16
+2;2171;direct;Is the kitchen still incomplete?;Our new stove was not delivered yet.;1;6.00;1.61;0.56;5.86;0.80;0.21;5.11;1.37;0.18;5.39;1.47;0.21;5.89;1.03;0.24;3.43;0.79;0.11
+2;2172;direct;Does car theft occur often?;Cars get stolen regularly here.;1;6.82;0.48;1.61;6.46;0.69;0.15;6.46;0.79;0.26;6.11;1.26;0.28;6.64;0.62;0.19;3.82;0.48;0.15
+2;2173;direct;Do you still have room in your wardrobe?;My wardrobe is completely full of clothes.;0;1.32;0.82;0.48;6.07;1.02;0.13;6.11;0.92;0.15;5.89;1.45;0.24;6.14;1.15;0.12;3.75;0.52;0.09
+2;2174;direct;Is there a lot of laundry to wash?;The dirty laundry is piling up.;1;6.50;0.79;0.79;5.21;1.40;0.26;4.71;1.76;0.33;5.29;1.36;0.26;5.75;1.17;0.22;3.50;0.79;0.15
+2;2175;direct;Are you taking some time for breakfast today?;I can have a relaxed breakfast.;1;6.29;0.98;0.98;4.14;1.96;0.37;5.00;1.36;0.26;3.96;2.05;0.39;5.32;1.72;0.33;3.29;0.98;0.18
+2;2201;indirect;Shall we study together?;I need to revise some of the topics.;1;4.64;1.70;0.89;3.07;1.59;0.30;2.86;1.48;0.34;4.14;1.60;0.27;3.82;1.79;0.29;2.29;1.27;0.17
+2;2202;indirect;Shall we go to the cinema?;There is an interesting new movie.;1;5.96;0.88;1.06;3.75;1.76;0.24;3.71;1.41;0.32;4.54;1.57;0.27;4.14;1.80;0.35;2.96;0.88;0.11
+2;2203;indirect;Shall I close the window?;It is quite chilly.;1;6.36;0.73;1.20;4.68;1.44;0.31;3.61;1.52;0.28;5.07;1.33;0.34;4.50;1.71;0.30;3.36;0.73;0.18
+2;2205;indirect;Would you like to borrow this book?;I have heard good things about that book.;1;5.54;1.00;0.79;3.04;1.23;0.24;2.71;1.18;0.29;4.36;1.42;0.33;3.75;1.55;0.34;2.54;1.00;0.15
+2;2206;indirect;Shall we skip our yoga class?;I pulled a muscle last time.;1;5.71;1.15;1.31;3.07;1.21;0.26;3.04;1.55;0.35;3.46;1.29;0.35;3.32;1.63;0.42;2.71;1.15;0.15
+2;2207;indirect;Do you want to use my phone?;I cannot find my phone.;1;5.14;1.48;1.22;2.71;1.33;0.27;2.86;1.27;0.26;3.32;1.31;0.27;3.57;1.69;0.29;2.50;1.11;0.19
+2;2208;indirect;Do you need a coat?;It is minus 20 degrees.;1;6.57;0.69;0.83;3.89;1.55;0.26;3.86;1.76;0.31;5.32;1.63;0.30;4.14;1.96;0.33;3.57;0.69;0.16
+2;2209;indirect;Shall we turn off our phones?;We have just entered a church.;1;5.79;0.92;1.10;2.93;1.86;0.25;2.36;1.54;0.34;3.04;1.62;0.30;2.86;1.76;0.32;2.79;0.92;0.14
+2;2210;indirect;Would you like a protein shake?;I am training very hard.;1;4.96;1.32;1.27;1.93;1.27;0.30;2.39;1.50;0.33;2.86;1.80;0.28;2.71;1.65;0.31;2.11;1.20;0.16
+2;2213;indirect;Shall we take a break from work?;I have been working on an exhausting task.;1;5.89;0.88;1.32;3.14;1.51;0.25;2.75;1.38;0.26;3.46;1.50;0.32;3.89;1.42;0.25;2.89;0.88;0.21
+2;2214;indirect;Shall we go to the lake?;I did not bring my bikini.;0;2.14;0.89;1.19;3.46;1.57;0.25;3.54;1.77;0.22;4.50;1.43;0.32;3.75;1.53;0.31;2.86;0.89;0.18
+2;2215;indirect;Are you coming to  the talk?;I do not have time.;0;1.36;1.06;1.24;6.21;1.29;0.32;5.71;1.67;0.32;6.04;1.45;0.32;5.14;1.84;0.32;3.79;0.57;0.13
+2;2216;indirect;Shall we watch 'Titanic' tonight?;I watched it last month.;0;2.21;1.20;1.44;3.82;1.63;0.25;3.04;1.48;0.31;4.96;1.77;0.28;3.89;1.59;0.30;2.93;0.94;0.19
+2;2217;indirect;Shall we have some dessert?;I am on a diet.;0;1.89;0.79;0.84;4.29;1.27;0.30;3.39;1.55;0.31;4.93;1.72;0.26;4.32;1.79;0.32;3.11;0.79;0.16
+2;2218;indirect;Do you want some pork?;I am actually a Muslim.;0;1.64;1.31;1.29;5.18;1.36;0.31;4.43;1.87;0.29;5.00;1.87;0.27;4.54;2.24;0.30;3.57;0.79;0.15
+2;2219;indirect;Do you want another beer?;My head is spinning after all these beers.;0;2.32;1.22;1.40;3.46;1.43;0.30;3.18;1.39;0.31;4.68;1.44;0.28;4.21;1.55;0.30;2.82;0.98;0.11
+2;2220;indirect;Shall we go out?;I am very tired.;0;1.89;0.83;1.29;4.43;1.40;0.33;3.39;1.66;0.34;5.29;1.61;0.29;3.93;1.72;0.27;3.11;0.83;0.16
+2;2221;indirect;Shall we go on a trip?;We are broke at the moment.;0;1.89;1.10;0.92;4.82;1.33;0.27;3.64;1.81;0.31;5.18;1.56;0.31;4.18;1.70;0.31;3.25;0.75;0.17
+2;2222;indirect;Do you need some help with the chain saw?;I have used one already in the past.;0;2.14;1.27;0.85;4.21;1.57;0.27;4.25;1.73;0.33;4.89;1.50;0.30;4.50;1.67;0.30;3.07;0.86;0.16
+2;2223;indirect;Shall we go to the cinema?;It is 11 p.m.;0;2.50;1.32;1.44;2.46;1.32;0.13;2.14;1.38;0.30;3.29;1.70;0.23;2.32;1.31;0.30;2.64;1.13;0.09
+2;2224;indirect;Shall we have some drinks?;I have a hangover.;0;2.36;1.19;0.98;3.71;1.33;0.19;2.86;1.15;0.16;4.46;1.71;0.32;3.61;1.62;0.24;2.79;0.96;0.07
+2;2225;indirect;Do you want some cake?;I am actually diabetic.;0;1.75;1.24;1.53;4.36;1.68;0.29;4.11;1.71;0.30;4.57;1.69;0.34;4.36;1.70;0.31;3.46;0.69;0.18
+2;2227;indirect;Are you joining us for a sea cruise?;I usually get seasick.;0;2.32;1.44;1.08;4.54;1.35;0.27;3.57;1.67;0.29;4.96;1.50;0.31;4.61;1.59;0.33;2.96;1.00;0.20
+2;2228;indirect;Do you want painkillers?;My toothache is gone.;0;1.75;0.84;0.74;4.29;1.61;0.29;3.61;1.64;0.21;5.32;1.39;0.32;3.93;1.70;0.31;3.25;0.84;0.14
+2;2229;indirect;Would you like to take my bus seat?;I have several bus stops before my destination.;1;4.96;1.45;1.04;2.61;1.40;0.24;2.61;1.59;0.27;3.07;1.63;0.22;3.46;1.67;0.29;2.32;1.12;0.10
+2;2230;indirect;Do you want the stapler for your documents?;I should not staple them.;0;1.89;1.29;0.69;4.64;1.66;0.29;4.68;1.52;0.29;4.93;1.44;0.36;5.04;1.60;0.29;3.32;0.82;0.13
+2;2231;indirect;Do you need some help with your luggage?;It is very light.;0;1.96;1.40;1.07;4.68;1.59;0.22;3.64;1.62;0.31;5.61;1.47;0.18;4.89;1.57;0.25;3.39;0.57;0.12
+2;2232;indirect;Shall we set the alarm clock for tomorrow?;We have to get up at 5 am.;1;6.32;0.72;0.99;4.18;1.83;0.25;3.75;1.76;0.25;5.00;1.59;0.26;4.96;1.32;0.32;3.32;0.72;0.19
+2;2234;indirect;Shall I check your French spelling?;French is my native language.;0;1.96;1.29;0.61;4.46;1.75;0.24;3.29;1.78;0.28;4.54;1.55;0.31;4.36;1.42;0.33;3.25;0.84;0.12
+2;2235;indirect;Shall I change the remote's batteries?;It does not work.;1;4.96;1.50;1.08;2.93;1.30;0.19;3.25;1.48;0.30;3.75;1.88;0.25;3.86;1.63;0.30;2.46;1.00;0.13
+2;2236;indirect;Shall I lock up the cattle before nightfall?;Wolves are very common here.;1;6.29;0.81;0.74;3.54;1.35;0.26;2.89;1.64;0.34;3.43;1.77;0.28;3.46;1.67;0.27;3.29;0.81;0.14
+2;2237;indirect;Should I water your plants tomorrow?;We only have cacti.;0;2.21;0.92;1.25;3.14;1.41;0.32;2.93;1.63;0.35;3.39;1.64;0.31;3.68;1.63;0.35;2.79;0.92;0.15
+2;2238;indirect;Shall I pack your passport?;We need it for travelling.;1;6.29;1.27;1.15;4.79;1.57;0.22;4.39;1.81;0.30;5.21;1.20;0.28;5.21;1.62;0.33;3.43;0.96;0.16
+2;2239;indirect;Would you like some food?;I have got a sandwich.;0;2.14;0.85;1.70;4.61;1.42;0.30;3.82;1.74;0.28;4.86;1.60;0.30;4.68;1.56;0.34;2.86;0.85;0.24
+2;2240;indirect;Shall I wake up the kids?;They have to go out soon.;1;6.04;0.92;0.88;4.00;1.52;0.33;3.54;1.26;0.27;4.36;1.64;0.30;4.25;1.48;0.34;3.04;0.92;0.17
+2;2241;indirect;Can we offer you some biscuits?;Right now I am starving.;1;6.21;0.69;0.73;4.21;1.50;0.27;3.93;1.72;0.29;4.07;1.63;0.25;4.50;1.50;0.32;3.21;0.69;0.14
+2;2244;indirect;Would you like to use my kettle?;I drink tea all the time.;1;5.18;1.25;1.00;2.43;1.00;0.23;2.07;1.15;0.22;2.89;1.64;0.27;2.64;1.45;0.29;2.25;1.17;0.19
+2;2245;indirect;Shall I turn down the dimmer?;We have too much light in here.;1;6.07;1.09;1.15;3.96;1.37;0.23;3.86;1.35;0.29;4.11;1.79;0.24;4.50;1.60;0.31;3.14;0.93;0.22
+2;2246;indirect;Are you coming to the party this Friday?;I will be abroad then.;0;1.68;1.44;1.48;6.04;0.69;0.25;5.00;1.61;0.24;5.71;1.24;0.25;5.21;1.57;0.32;3.68;0.48;0.21
+2;2247;indirect;Do you want a spoon?;I am having a soup.;1;5.75;1.00;0.69;3.00;1.63;0.29;2.79;1.47;0.33;3.29;1.70;0.31;3.36;1.75;0.37;2.75;1.00;0.13
+2;2248;indirect;Would you like an umbrella?;It just started pouring.;1;6.11;1.07;0.92;3.43;1.53;0.35;3.07;1.65;0.29;3.68;1.76;0.31;4.07;1.59;0.33;3.18;0.90;0.17
+2;2249;indirect;Would you like some wine?;I do not drink.;0;1.32;0.98;1.32;6.32;0.98;0.24;6.18;0.86;0.28;5.96;1.69;0.34;5.93;1.25;0.31;3.82;0.39;0.23
+2;2250;indirect;Shall I do the dishes?;There is a dish washer in the kitchen.;0;2.57;1.53;0.88;4.07;1.51;0.29;3.21;1.57;0.26;4.07;1.78;0.28;4.04;1.64;0.27;2.86;0.93;0.17
+2;2251;indirect;Shall we play tennis?;I gave away my racket ages ago.;0;2.14;1.08;1.45;3.29;1.44;0.26;3.04;1.53;0.30;4.50;1.62;0.31;3.43;1.75;0.31;2.86;1.08;0.21
+2;2252;indirect;Shall we get some mexican food?;I do not eat spicy dishes.;0;2.11;0.74;0.72;3.29;1.51;0.35;3.07;1.12;0.33;4.46;1.71;0.30;3.82;1.63;0.25;2.89;0.74;0.14
+2;2253;indirect;Do you want a ride home?;I live right next to you.;1;5.07;1.54;1.50;2.96;1.48;0.25;2.68;1.59;0.28;3.61;1.57;0.35;3.04;1.35;0.31;2.57;1.00;0.19
+2;2255;indirect;Shall I explain it to you again?;I understand everything now.;0;1.46;1.04;0.81;5.82;1.25;0.25;5.39;1.45;0.31;6.04;1.14;0.34;5.50;1.55;0.31;3.68;0.55;0.15
+2;2256;indirect;Do you want me to call the doctor?;My chest hurts a lot.;1;5.64;1.03;1.27;3.11;1.55;0.30;3.25;1.58;0.34;4.00;1.66;0.23;3.96;1.86;0.31;2.64;1.03;0.18
+2;2257;indirect;Do you want an extra blanket?;We are in the middle of the summer.;0;1.54;0.69;0.92;3.75;1.55;0.29;3.14;1.56;0.24;4.07;1.92;0.31;3.11;1.52;0.28;3.46;0.69;0.17
+2;2259;indirect;Do you want a plaster?;I cut my finger while cooking.;1;5.68;1.06;0.69;2.75;1.60;0.28;3.14;1.69;0.33;3.18;1.94;0.31;4.18;1.74;0.28;2.75;0.93;0.13
+2;2260;indirect;Shall I sweep the living room?;There is dust all over the floor.;1;5.75;1.43;1.25;3.75;1.55;0.19;3.14;1.43;0.22;4.04;1.55;0.31;4.43;1.62;0.27;3.11;0.79;0.22
+2;2261;indirect;Would you like some toothpaste?;I have actually brought mine.;0;1.50;1.07;1.09;5.86;1.15;0.26;5.39;1.62;0.26;5.93;0.94;0.34;5.57;1.32;0.30;3.64;0.62;0.18
+2;2262;indirect;Do you want some lip balm?;My lips are all chapped.;1;6.32;0.86;1.00;4.00;1.52;0.31;3.43;1.37;0.28;4.43;1.37;0.32;4.39;1.57;0.33;3.32;0.86;0.19
+2;2263;indirect;Are you joining for drinks tonight?;I am working early tomorrow morning.;0;2.21;0.99;1.07;3.43;1.32;0.29;2.96;1.32;0.31;5.14;1.38;0.33;3.57;1.71;0.30;2.79;0.99;0.17
+2;2264;indirect;Shall I cook for both of us?;I plan to eat at a restaurant.;0;1.68;0.61;1.54;5.21;1.29;0.28;5.11;1.47;0.30;4.79;1.64;0.30;4.86;1.76;0.25;3.32;0.61;0.19
+2;2265;indirect;Shall I prune the hedges?;They have grown a lot recently.;1;5.64;1.16;1.03;3.46;1.37;0.29;2.89;1.37;0.30;4.18;1.68;0.31;3.82;1.49;0.35;2.71;1.05;0.19
+2;2266;indirect;Shall I set the table?;Lunch is now ready.;1;5.50;1.23;1.06;2.96;1.40;0.30;3.14;1.41;0.32;3.82;1.72;0.37;3.43;1.73;0.33;2.57;1.14;0.18
+2;2267;indirect;Would you like a calculator for your homework?;My math exercise is very complicated.;1;5.57;1.07;1.43;2.68;0.67;0.29;2.64;1.37;0.27;3.75;1.90;0.29;3.57;1.64;0.31;2.64;0.95;0.15
+2;2268;indirect;Shall I buy the train tickets?;We are not sure where to go yet.;0;1.71;1.08;0.86;5.14;1.01;0.29;4.18;1.61;0.26;5.32;1.33;0.26;5.14;1.60;0.30;3.43;0.69;0.16
+2;2269;indirect;Would you like a cigarette to smoke?;I smoke cigars only.;0;1.39;0.74;1.16;5.61;1.40;0.26;5.07;1.80;0.26;5.00;1.49;0.32;5.46;1.43;0.28;3.61;0.74;0.20
+2;2270;indirect;Woud you like some paper?;I usually type directly on my laptop.;0;2.00;1.25;1.23;4.11;1.69;0.26;3.93;1.84;0.27;4.39;1.62;0.33;4.54;1.88;0.33;3.21;0.79;0.21
+2;2271;indirect;Shall we get some delivery food?;Our new stove was not delivered yet.;1;5.64;1.03;1.07;2.04;1.17;0.13;2.14;1.27;0.26;2.29;1.65;0.36;2.57;1.26;0.31;2.64;1.03;0.18
+2;2272;indirect;Would you like me to lock your car?;Cars get stolen regularly here.;1;6.00;1.12;1.03;3.36;1.62;0.22;2.93;1.56;0.24;3.57;1.71;0.31;4.07;1.51;0.24;3.14;0.80;0.19
+2;2273;indirect;Shall we go shopping for clothes?;My wardrobe is completely full of clothes.;0;2.14;1.15;1.12;3.43;1.17;0.31;3.21;1.57;0.30;4.68;1.47;0.32;4.11;1.73;0.29;3.00;0.86;0.15
+2;2274;indirect;Shall I do the laundry?;The dirty laundry is piling up.;1;6.07;1.09;1.09;3.75;1.48;0.28;3.04;1.45;0.27;3.79;1.64;0.31;4.11;1.57;0.30;3.21;0.74;0.14
+2;2275;indirect;Do you want some pancakes for breakfast?;I can have a relaxed breakfast.;1;5.14;1.24;1.24;1.89;1.03;0.19;1.68;0.98;0.19;2.43;1.81;0.34;2.61;1.62;0.31;2.14;1.24;0.23
+;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;

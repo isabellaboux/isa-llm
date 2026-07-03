@@ -1,0 +1,6 @@
+id,score,rationale
+1101.0,0.95,"Person A asks whether Person B has met Martin lately. Person B replies that they have not seen him for ages, which directly indicates “no” to meeting him lately. This is a clear, direct answer."
+1102.0,0.95,"Person A asks if Person B is doing something right now. Person B answers that they are sending out an application, which confirms they are doing something at the moment. This is an unambiguous “yes.”"
+1103.0,0.95,"Person A asks whether Person B usually exercises with Lukas. Person B responds that they train with him at the gym, which confirms the usual exercise pattern. This directly supports “yes.”"
+1104.0,0.95,"Person A asks whether there was a death in his family. Person B says his grandfather passed away recently, which directly confirms a death occurred. This is a clear “yes.”"
+1105.0,0.95,"Person A asks if Paris is very far from here. Person B replies that it is about 1000 Km away, which supports that it is far. While “very far” is somewhat subjective, the distance given strongly implies “yes.”"
