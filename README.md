@@ -12,15 +12,17 @@ TO DO in `collect_data.ipynb`
 - [x] loop over models
 - [x] loop over several "repetititons" for each model
 - [ ] change API so that it is compatible with all models of interest (incl. open ones ideally)
-- [ ] change system prompt so that the scores are on a 7-1 scale to max comparability with human data.
-- [ ] let repetitions match the number of subjects in the human study
+- [x] change system prompt so that the scores are on a 7-1 scale to max comparability with human data.
+- [x] let repetitions match the number of subjects in the human study
 
 
 
 
 TO DO in `analyse.ipynb`:
 - [x] import human data
-- [ ] add condiiton / set information and run analysi s by condition and set
+- [x] add condiiton / set information and run analysi s by condition and set
+- [ ] save figures
+- [ ] generate summary stats and save them
 
 
 
