@@ -1,6 +1,0 @@
-id,score,rationale
-1101,6,"Person B says they have not seen Martin for ages, which strongly implies they have not met Martin lately. It is not a direct 'yes,' but it clearly answers in the affirmative to the question's intent."
-1102,7,Person B directly states what they are doing right now: sending out an application. This is a clear yes to the question about whether they are doing something at the moment.
-1103,6,"Person B says they train with Lukas at the gym, which indicates they do exercise with him. The wording 'usually' is not explicitly confirmed, but the answer strongly supports yes."
-1104,7,"Person B says his grandfather passed away recently, which directly confirms that there was a death in his family. This is a clear yes."
-1105,6,"Person B gives a distance of about 1000 km, which clearly indicates Paris is far from here. It answers yes strongly, though 'very far' is somewhat subjective."

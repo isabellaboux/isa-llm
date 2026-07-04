@@ -1,6 +1,0 @@
-id,score,rationale
-1101,1,"The answer directly says, 'I have not seen him for ages,' which clearly means the speaker has not met Martin lately. This is a definite no."
-1102,7,"The answer says, 'I am sending out an application,' describing an action happening right now. This directly answers yes to whether the person is doing something right now."
-1103,6,"The answer says, 'I train with him at the gym,' which strongly implies the speaker usually exercises with Lukas. It does not explicitly say 'usually,' but it is very likely yes."
-1104,7,"The answer states that 'His grandfather passed away recently,' which is clearly a death in his family. This directly supports a yes answer."
-1105,4,"The answer gives a distance of about 1000 km, but whether that counts as 'very far' is subjective and depends on context. So the yes/no interpretation is ambiguous."
