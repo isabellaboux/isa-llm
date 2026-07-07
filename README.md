@@ -45,9 +45,8 @@ The entire question/reply set is presented to each model 28 times, reflecting th
 
 ### Classification (accuracy, confusion matrix, ROC curve)
 
-The score (1-7) for humans and models was converted to a categorical value with 3 classes:
-* when `score < 4` then `evaluation = 'no'`
-* when `score == 4` then `evaluation = 'unsure'`
+The score (1-7) for humans and models was converted to a binary value:
+* when `score <= 4` then `evaluation = 'no'`
 * when `score > 4` then `evaluation = 'yes'` 
 
 Using the human evaluation as ground-truth, I calculated accuracy for each model. As is visible in Figure 1, overall all models underperformed compared to humans, regardless of (in)directness. However, all models did worse at matching human performance for indirect than direct question/reply pairs. Overall, the models ranked as follow in their generel performance: `gpt-5.4-nano` < `gpt-5.4-mini` < `gpt-5.4`. 
@@ -72,9 +71,13 @@ A closer look at the **confusion matrix** confirms this insight. In addition, it
 </p>
 
 
-The previous accuracy analysis is based on the fact that, as per instruction used in the system prompt, the models use the score value 4 as the decision threshold. But what if the models still captured the no-yes inference continuum, but with the threshold of 4 is just not the right one? The **ROC-curve** and the **ROC-AUC** value show that all models seem to capture the yes-no continuum in a way that is resonably close to human processing. Once again, `gpt-5.4` scores best. 
+The previous accuracy analysis is based on the fact that, as per instruction used in the system prompt, the models use the score value 4 as the decision threshold. But what if the models still captured the no-yes inference continuum, but with the threshold of 4 is just not the right one? The **ROC-curve** and the **ROC-AUC** value show that all models seem to capture the yes-no continuum in a way that is resonably close to human processing. Once again, `gpt-5.4` scores best, with an AUC of 0.99. 
 
-![image](analysis/roc_curve.png)
+
+<div align="center">
+    <img src="analysis/roc_curve.png" alt="confusion matrix" width="80%">
+    <p><em>[Figure 3]: ROC curve for all models, evaluated simultaneously on direct and indirect replies.</em></p>
+</div>
 
 ### Certainty
 
