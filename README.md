@@ -57,13 +57,18 @@ Using the human evaluation as ground-truth, I calculated accuracy for each model
     <p><em>[Figure 1]: Accuracy of each model as a function of (in)directness. Human persformace is considered ground truth (and therefore is equal to 1). Error bars show standard error of the mean (SE).</em></p>
 </div>
 
-A closer look at the **confusion matrix** confirms this insight, showing also that none of the model displays a clear bias towards misclassifying "yes" as "no" and vice versa, as evidenced by the camparabel size of false positives and false negatives. "unsure" model responses are very rare (after averaging across 28 runs) and overall negligible.
+A closer look at the **confusion matrix** confirms this insight. In addition, it shows that especially the smaller `gpt-5.4-nano` and `gpt-5.4-mini` models tend to have a tendency to misclassify "yes" as "no" and vice versa, as evidenced by the camparabel size of false positives and false negatives. "unsure" model responses are very rare (after averaging across 28 runs) and overall negligible.
 
 <p align="center">
-    <img src="analysis/confusion_matrix_figure_gpt-5.4-nano-2026-03-17.png" alt="confusion matrix" width="30%">
-    <img src="analysis/confusion_matrix_figure_gpt-5.4-mini-2026-03-17.png" alt="confusion matrix" width="30%">
-    <img src="analysis/confusion_matrix_figure_gpt-5.4.png" alt="confusion matrix" width="30%">
-    <em> [Figure 2]: Normalized confusion matrix for the tested models, in a 3-class classification and using human responses as ground truth.</em>
+    <img src="analysis/confusion_matrix_figure_gpt-5.4-nano-2026-03-17_direct.png" alt="confusion matrix" width="30%">
+    <img src="analysis/confusion_matrix_figure_gpt-5.4-mini-2026-03-17_direct.png" alt="confusion matrix" width="30%">
+    <img src="analysis/confusion_matrix_figure_gpt-5.4_direct.png" alt="confusion matrix" width="30%">
+    <br>
+    <img src="analysis/confusion_matrix_figure_gpt-5.4-nano-2026-03-17_indirect.png" alt="confusion matrix" width="30%">
+    <img src="analysis/confusion_matrix_figure_gpt-5.4-mini-2026-03-17_indirect.png" alt="confusion matrix" width="30%">
+    <img src="analysis/confusion_matrix_figure_gpt-5.4_indirect.png" alt="confusion matrix" width="30%">
+    <br>
+    <em>[Figure 2]: Normalized confusion matrix for each model, saparately for direct (upper row) and indirect replies (botton row), in a binary classification and using human responses as ground truth.</em>
 </p>
 
 
