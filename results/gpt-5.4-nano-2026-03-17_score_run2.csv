@@ -1,6 +1,0 @@
-id,score,rationale
-1101.0,0.95,"Person A asks whether Person B has met Martin lately. Person B replies that they have not seen him for ages, which directly answers the question in the negative."
-1102.0,0.9,"Person A asks if Person B is doing something right now. Person B responds that they are sending out an application, which clearly indicates they are doing something at the moment."
-1103.0,0.95,"Person A asks whether Person B usually exercises with Lukas. Person B says they train with him at the gym, which directly confirms the usual activity with Lukas."
-1104.0,0.95,"Person A asks whether there was a death in his family. Person B answers that his grandfather passed away recently, which is a clear confirmation."
-1105.0,0.9,"Person A asks if Paris is very far from here. Person B provides a distance estimate (about 1000 Km away), which strongly supports that it is indeed far."

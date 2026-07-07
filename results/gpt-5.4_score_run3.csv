@@ -1,6 +1,0 @@
-id,score,rationale
-1101.0,0.05,"The question asks whether Person B has met Martin lately. The answer says, 'I have not seen him for ages,' which strongly indicates no, and even suggests it has been a long time."
-1102.0,0.98,"The question asks whether Person B is doing something right now. The answer, 'I am sending out an application,' directly describes a current action, so this is clearly yes."
-1103.0,0.85,"The question asks whether Person B usually exercises with Lukas. The reply, 'I train with him at the gym,' strongly implies that they do exercise together, though it does not explicitly state frequency with 'usually,' so slightly less than absolute certainty."
-1104.0,0.97,"The question asks whether there was a death in his family. The answer states that his grandfather passed away recently, which directly confirms that there was a death in the family."
-1105.0,0.75,"The question asks whether Paris is very far from here. The answer gives a distance of about 1000 km, which generally suggests yes, though 'very far' is somewhat subjective, so the score is not maximal."
