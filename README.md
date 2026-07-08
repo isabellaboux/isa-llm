@@ -2,9 +2,9 @@
 
 ## Overview
 
-LLMs have proven to be impressive tools for mimicking human linguistic skills. Nonetheless, natural human language is characterized by multiple nuances and implied meanings, which can be referred to as "pragmatic meaning." So how do LLMs deal with pragmatic meaning? While I am sure that many have already asked this question, and LLMs have been criticized for not always being very good at it (REFs), it is important to consider that ISAs are difficult for humans to process too (Boux et al. 2023).
+LLMs have proven to be impressive tools for mimicking human linguistic skills. Nonetheless, natural human language is characterized by multiple nuances and implied meanings, which can be referred to as "pragmatic meaning." So how do LLMs deal with pragmatic meaning? While it is important to consider that ISAs are difficult for humans to process too (Boux et al. 2023a, 2023b), so far, LLMs have been found to be have inferior performance to humans (Orsini and Bunato, 2025; Koo et al., 2025; Solidjonov, 2026). However, the methodology in this study is varable (see Ma et al., 2025 and Sadigzada, 2016 for a discussion).
 
-In this small study, I ask **how LLM comprehension of indirect language (ISA) compares to human performance**. To do so, I rely on a set of direct and indirect question/reply pairs from my previous work (Boux et al. 2023; Boux et al., ?) that have already been evaluated by humans. In addition, I present the same question/reply pairs to frontier LLMs and extract their responses.
+> In this small study, I ask **how LLM comprehension of indirect language (ISA) compares to human performance**. To do so, I rely on a set of direct and indirect question/reply pairs from my previous work (Boux et al. 2023a; Boux et al. 2023b) that have already been evaluated by humans who provided quantitative ratings. In addition, I present the same question/reply pairs to frontier LLMs, extract their responses and compare them to human responses.
 
 ## Methods 
 
@@ -113,8 +113,24 @@ Python:
 
 TO DO in `collect_data.ipynb`:
 - [ ] change API so that it is compatible with all models of interest (incl. large open models ideally)
+- [ ] consider randomizing stimulus presentation
 
 TO DO in `analyse.ipynb`:
 - [ ] FOOD FOR THOUGHT: if any inferential statistics are conducted, it could be more appropriate to conduct them by subject (or run) rather than by item to maximize comparability to human data. This however would require using individual human subject data, which participants did not consent to share. Not possible unless those data are not synced to git.
 
 
+### References
+
+* Boux, I., Margiotoudi, K., Dreyer, F., Tomasello, R., & Pulvermüller, F. (2023a). Cognitive Features of Indirect Speech Acts. Language, Cognition and Neuroscience, 38(1), 40–64. https://doi.org/10.1080/23273798.2022.2077396
+
+* Boux, I., & Pulvermüller, F. (2023b). Does the right temporo-parietal junction play a role in processing indirect speech acts? A transcranial magnetic stimulation study. Neuropsychologia, 188, 108588. https://doi.org/10.1016/j.neuropsychologia.2023.108588
+
+* Koo, Y., Lee, J., Park, D., Park, S., & Lee, S. (2025). Evaluating Large language models on Understanding Korean indirect Speech acts (arXiv:2502.10995). arXiv. https://doi.org/10.48550/arXiv.2502.10995
+
+* Ma, B., Li, Y., Zhou, W., Gong, Z., Liu, Y. J., Jasinskaja, K., Friedrich, A., Hirschberg, J., Kreuter, F., & Plank, B. (2025). Pragmatics in the Era of Large Language Models: A Survey on Datasets, Evaluation, Opportunities and Challenges. In W. Che, J. Nabende, E. Shutova, & M. T. Pilehvar (Eds.), Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 8679–8696). Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.acl-long.425
+
+* Orsini, M., & Brunato, D. (n.d.). Direct and Indirect Interpretations of Speech Acts: Evidence from Human Judgments and Large Language Models.
+
+* Sadigzada, Z. (2026). Pragmatic Failure in Agentic LLM Systems: An Analysis Through Gricean Maxims and Speech Act Theory. Global Spectrum of Research and Humanities, 3(2), 71–84. https://doi.org/10.69760/gsrh.0260302009
+
+* Solidjonov, D. (2026). Pragmatic competence without embodiment? Evaluating LLM performance on implicature, presupposition, and speech acts. Journal of Cultural Cognitive Science. https://doi.org/10.1007/s41809-026-00200-5
