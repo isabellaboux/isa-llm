@@ -102,11 +102,12 @@ While `gpt-5.4` clearly performed closest to humans among the three evaluated mo
 
 Python:
 * `numpy` and `pandas` for data manipulation
-* `OpenAI` for gathering the data from LLMs
+* `OpenRouter` for gathering the data from LLMs
 * `seaborn` and `matplotlib`
 * `pydantic` for enforcing a JSON data schema as LLM output
 * `scikit-learn` for classification metrics
 * `pingouin` for inferential statistics
+* `logging` for runtime event logging
 
 
 ## Future work
