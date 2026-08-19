@@ -1,6 +1,6 @@
 RETAIN = 5
 
-RUNS = 2
+TRIALS = 2
 
 METADATA_MAX_RETRIES = 5
 
@@ -26,7 +26,6 @@ MODELS = [
     "google/gemini-3.1-flash-lite-preview",
     # google models (gemma family)
     "google/gemma-4-31b-it",
-    "google/gemma-4-31b-it:free",
     "google/gemma-3-27b-it",
     # meta models (llama family)
     "meta-llama/llama-4-maverick",
