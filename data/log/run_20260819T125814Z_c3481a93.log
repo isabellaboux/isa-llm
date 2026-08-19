@@ -1,0 +1,227 @@
+2026-08-19 12:58:14,387 | INFO | Run ID: 20260819T125814Z_c3481a93
+2026-08-19 12:58:14,388 | INFO | Script started
+2026-08-19 12:58:14,405 | INFO | Saved configuration to .json file in data/log/config_20260819T125814Z_c3481a93.json
+2026-08-19 12:58:14,438 | INFO | Number of QAs: 3
+2026-08-19 12:58:14,453 | INFO | Model openai/gpt-5.4-nano, Run 1/2: initiating scoring
+2026-08-19 12:58:15,400 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 12:58:23,557 | INFO | Model openai/gpt-5.4-nano, Run 1/2: scoring completed
+2026-08-19 12:58:23,567 | INFO | Model openai/gpt-5.4-nano, Run 1/2: scoring saved
+2026-08-19 12:58:23,568 | INFO | Model openai/gpt-5.4-nano, Run 2/2: initiating scoring
+2026-08-19 12:58:24,045 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 12:58:35,567 | INFO | Model openai/gpt-5.4-nano, Run 2/2: scoring completed
+2026-08-19 12:58:35,570 | INFO | Model openai/gpt-5.4-nano, Run 2/2: scoring saved
+2026-08-19 12:58:35,573 | INFO | Model openai/gpt-5.4-mini, Run 1/2: initiating scoring
+2026-08-19 12:58:36,111 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 12:58:44,551 | INFO | Model openai/gpt-5.4-mini, Run 1/2: scoring completed
+2026-08-19 12:58:44,555 | INFO | Model openai/gpt-5.4-mini, Run 1/2: scoring saved
+2026-08-19 12:58:44,556 | INFO | Model openai/gpt-5.4-mini, Run 2/2: initiating scoring
+2026-08-19 12:58:45,077 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 12:58:57,024 | INFO | Model openai/gpt-5.4-mini, Run 2/2: scoring completed
+2026-08-19 12:58:57,027 | INFO | Model openai/gpt-5.4-mini, Run 2/2: scoring saved
+2026-08-19 12:58:57,030 | INFO | Model openai/gpt-5.4, Run 1/2: initiating scoring
+2026-08-19 12:58:57,453 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 12:59:09,559 | INFO | Model openai/gpt-5.4, Run 1/2: scoring completed
+2026-08-19 12:59:09,562 | INFO | Model openai/gpt-5.4, Run 1/2: scoring saved
+2026-08-19 12:59:09,563 | INFO | Model openai/gpt-5.4, Run 2/2: initiating scoring
+2026-08-19 12:59:10,115 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 12:59:22,348 | INFO | Model openai/gpt-5.4, Run 2/2: scoring completed
+2026-08-19 12:59:22,351 | INFO | Model openai/gpt-5.4, Run 2/2: scoring saved
+2026-08-19 12:59:22,353 | INFO | Model openai/gpt-5.5, Run 1/2: initiating scoring
+2026-08-19 12:59:22,832 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 12:59:37,261 | INFO | Model openai/gpt-5.5, Run 1/2: scoring completed
+2026-08-19 12:59:37,269 | INFO | Model openai/gpt-5.5, Run 1/2: scoring saved
+2026-08-19 12:59:37,270 | INFO | Model openai/gpt-5.5, Run 2/2: initiating scoring
+2026-08-19 12:59:37,725 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 12:59:49,460 | INFO | Model openai/gpt-5.5, Run 2/2: scoring completed
+2026-08-19 12:59:49,464 | INFO | Model openai/gpt-5.5, Run 2/2: scoring saved
+2026-08-19 12:59:49,467 | INFO | Model openai/gpt-5.6-luna, Run 1/2: initiating scoring
+2026-08-19 12:59:49,865 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:00:03,359 | INFO | Model openai/gpt-5.6-luna, Run 1/2: scoring completed
+2026-08-19 13:00:03,369 | INFO | Model openai/gpt-5.6-luna, Run 1/2: scoring saved
+2026-08-19 13:00:03,370 | INFO | Model openai/gpt-5.6-luna, Run 2/2: initiating scoring
+2026-08-19 13:00:03,812 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:00:17,332 | INFO | Model openai/gpt-5.6-luna, Run 2/2: scoring completed
+2026-08-19 13:00:17,342 | INFO | Model openai/gpt-5.6-luna, Run 2/2: scoring saved
+2026-08-19 13:00:17,344 | INFO | Model openai/gpt-5.6-terra, Run 1/2: initiating scoring
+2026-08-19 13:00:17,838 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:00:27,208 | INFO | Model openai/gpt-5.6-terra, Run 1/2: scoring completed
+2026-08-19 13:00:27,215 | INFO | Model openai/gpt-5.6-terra, Run 1/2: scoring saved
+2026-08-19 13:00:27,216 | INFO | Model openai/gpt-5.6-terra, Run 2/2: initiating scoring
+2026-08-19 13:00:27,694 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:00:39,334 | INFO | Model openai/gpt-5.6-terra, Run 2/2: scoring completed
+2026-08-19 13:00:39,338 | INFO | Model openai/gpt-5.6-terra, Run 2/2: scoring saved
+2026-08-19 13:00:39,341 | INFO | Model openai/gpt-5.6-sol, Run 1/2: initiating scoring
+2026-08-19 13:00:39,895 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:00:52,626 | INFO | Model openai/gpt-5.6-sol, Run 1/2: scoring completed
+2026-08-19 13:00:52,630 | INFO | Model openai/gpt-5.6-sol, Run 1/2: scoring saved
+2026-08-19 13:00:52,631 | INFO | Model openai/gpt-5.6-sol, Run 2/2: initiating scoring
+2026-08-19 13:00:53,239 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:01:05,593 | INFO | Model openai/gpt-5.6-sol, Run 2/2: scoring completed
+2026-08-19 13:01:05,596 | INFO | Model openai/gpt-5.6-sol, Run 2/2: scoring saved
+2026-08-19 13:01:05,599 | INFO | Model anthropic/claude-opus-5, Run 1/2: initiating scoring
+2026-08-19 13:01:09,092 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:01:21,585 | INFO | Model anthropic/claude-opus-5, Run 1/2: scoring completed
+2026-08-19 13:01:21,588 | INFO | Model anthropic/claude-opus-5, Run 1/2: scoring saved
+2026-08-19 13:01:21,588 | INFO | Model anthropic/claude-opus-5, Run 2/2: initiating scoring
+2026-08-19 13:01:23,570 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:01:36,096 | INFO | Model anthropic/claude-opus-5, Run 2/2: scoring completed
+2026-08-19 13:01:36,099 | INFO | Model anthropic/claude-opus-5, Run 2/2: scoring saved
+2026-08-19 13:01:36,101 | INFO | Model anthropic/claude-opus-4.8, Run 1/2: initiating scoring
+2026-08-19 13:01:38,619 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:01:51,051 | INFO | Model anthropic/claude-opus-4.8, Run 1/2: scoring completed
+2026-08-19 13:01:51,053 | INFO | Model anthropic/claude-opus-4.8, Run 1/2: scoring saved
+2026-08-19 13:01:51,054 | INFO | Model anthropic/claude-opus-4.8, Run 2/2: initiating scoring
+2026-08-19 13:01:52,876 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:02:02,105 | INFO | Model anthropic/claude-opus-4.8, Run 2/2: scoring completed
+2026-08-19 13:02:02,107 | INFO | Model anthropic/claude-opus-4.8, Run 2/2: scoring saved
+2026-08-19 13:02:02,109 | INFO | Model anthropic/claude-sonnet-5, Run 1/2: initiating scoring
+2026-08-19 13:02:04,026 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:02:13,376 | INFO | Model anthropic/claude-sonnet-5, Run 1/2: scoring completed
+2026-08-19 13:02:13,379 | INFO | Model anthropic/claude-sonnet-5, Run 1/2: scoring saved
+2026-08-19 13:02:13,380 | INFO | Model anthropic/claude-sonnet-5, Run 2/2: initiating scoring
+2026-08-19 13:02:15,924 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:02:28,183 | INFO | Model anthropic/claude-sonnet-5, Run 2/2: scoring completed
+2026-08-19 13:02:28,186 | INFO | Model anthropic/claude-sonnet-5, Run 2/2: scoring saved
+2026-08-19 13:02:28,188 | INFO | Model anthropic/claude-sonnet-4.6, Run 1/2: initiating scoring
+2026-08-19 13:02:31,579 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:02:44,016 | INFO | Model anthropic/claude-sonnet-4.6, Run 1/2: scoring completed
+2026-08-19 13:02:44,019 | INFO | Model anthropic/claude-sonnet-4.6, Run 1/2: scoring saved
+2026-08-19 13:02:44,020 | INFO | Model anthropic/claude-sonnet-4.6, Run 2/2: initiating scoring
+2026-08-19 13:02:45,911 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:02:58,694 | INFO | Model anthropic/claude-sonnet-4.6, Run 2/2: scoring completed
+2026-08-19 13:02:58,698 | INFO | Model anthropic/claude-sonnet-4.6, Run 2/2: scoring saved
+2026-08-19 13:02:58,700 | INFO | Model anthropic/claude-haiku-4.5, Run 1/2: initiating scoring
+2026-08-19 13:03:01,137 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:03:13,032 | INFO | Model anthropic/claude-haiku-4.5, Run 1/2: scoring completed
+2026-08-19 13:03:13,037 | INFO | Model anthropic/claude-haiku-4.5, Run 1/2: scoring saved
+2026-08-19 13:03:13,038 | INFO | Model anthropic/claude-haiku-4.5, Run 2/2: initiating scoring
+2026-08-19 13:03:15,492 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:03:27,463 | INFO | Model anthropic/claude-haiku-4.5, Run 2/2: scoring completed
+2026-08-19 13:03:27,467 | INFO | Model anthropic/claude-haiku-4.5, Run 2/2: scoring saved
+2026-08-19 13:03:27,469 | INFO | Model google/gemini-2.5-flash, Run 1/2: initiating scoring
+2026-08-19 13:03:28,705 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:03:41,077 | INFO | Model google/gemini-2.5-flash, Run 1/2: scoring completed
+2026-08-19 13:03:41,081 | INFO | Model google/gemini-2.5-flash, Run 1/2: scoring saved
+2026-08-19 13:03:41,082 | INFO | Model google/gemini-2.5-flash, Run 2/2: initiating scoring
+2026-08-19 13:03:41,899 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:03:52,867 | INFO | Model google/gemini-2.5-flash, Run 2/2: scoring completed
+2026-08-19 13:03:52,877 | INFO | Model google/gemini-2.5-flash, Run 2/2: scoring saved
+2026-08-19 13:03:52,880 | INFO | Model google/gemini-3.1-pro-preview, Run 1/2: initiating scoring
+2026-08-19 13:03:55,642 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:04:16,356 | INFO | Model google/gemini-3.1-pro-preview, Run 1/2: scoring completed
+2026-08-19 13:04:16,362 | INFO | Model google/gemini-3.1-pro-preview, Run 1/2: scoring saved
+2026-08-19 13:04:16,363 | INFO | Model google/gemini-3.1-pro-preview, Run 2/2: initiating scoring
+2026-08-19 13:04:18,822 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:04:35,442 | INFO | Model google/gemini-3.1-pro-preview, Run 2/2: scoring completed
+2026-08-19 13:04:35,446 | INFO | Model google/gemini-3.1-pro-preview, Run 2/2: scoring saved
+2026-08-19 13:04:35,449 | INFO | Model google/gemini-3.5-flash, Run 1/2: initiating scoring
+2026-08-19 13:04:37,045 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:04:52,266 | INFO | Model google/gemini-3.5-flash, Run 1/2: scoring completed
+2026-08-19 13:04:52,269 | INFO | Model google/gemini-3.5-flash, Run 1/2: scoring saved
+2026-08-19 13:04:52,270 | INFO | Model google/gemini-3.5-flash, Run 2/2: initiating scoring
+2026-08-19 13:04:53,939 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:05:08,353 | INFO | Model google/gemini-3.5-flash, Run 2/2: scoring completed
+2026-08-19 13:05:08,356 | INFO | Model google/gemini-3.5-flash, Run 2/2: scoring saved
+2026-08-19 13:05:08,358 | INFO | Model google/gemini-3.1-flash-lite-preview, Run 1/2: initiating scoring
+2026-08-19 13:05:08,942 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:05:19,365 | INFO | Model google/gemini-3.1-flash-lite-preview, Run 1/2: scoring completed
+2026-08-19 13:05:19,368 | INFO | Model google/gemini-3.1-flash-lite-preview, Run 1/2: scoring saved
+2026-08-19 13:05:19,370 | INFO | Model google/gemini-3.1-flash-lite-preview, Run 2/2: initiating scoring
+2026-08-19 13:05:19,940 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:05:30,309 | INFO | Model google/gemini-3.1-flash-lite-preview, Run 2/2: scoring completed
+2026-08-19 13:05:30,312 | INFO | Model google/gemini-3.1-flash-lite-preview, Run 2/2: scoring saved
+2026-08-19 13:05:30,316 | INFO | Model google/gemma-4-31b-it, Run 1/2: initiating scoring
+2026-08-19 13:05:30,630 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:05:56,722 | INFO | Model google/gemma-4-31b-it, Run 1/2: scoring completed
+2026-08-19 13:05:56,726 | INFO | Model google/gemma-4-31b-it, Run 1/2: scoring saved
+2026-08-19 13:05:56,727 | INFO | Model google/gemma-4-31b-it, Run 2/2: initiating scoring
+2026-08-19 13:05:57,041 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:06:19,176 | INFO | Model google/gemma-4-31b-it, Run 2/2: scoring completed
+2026-08-19 13:06:19,179 | INFO | Model google/gemma-4-31b-it, Run 2/2: scoring saved
+2026-08-19 13:06:19,182 | INFO | Model google/gemma-3-27b-it, Run 1/2: initiating scoring
+2026-08-19 13:06:19,698 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:06:43,215 | INFO | Model google/gemma-3-27b-it, Run 1/2: scoring completed
+2026-08-19 13:06:43,218 | INFO | Model google/gemma-3-27b-it, Run 1/2: scoring saved
+2026-08-19 13:06:43,219 | INFO | Model google/gemma-3-27b-it, Run 2/2: initiating scoring
+2026-08-19 13:06:43,496 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:07:02,031 | INFO | Model google/gemma-3-27b-it, Run 2/2: scoring completed
+2026-08-19 13:07:02,034 | INFO | Model google/gemma-3-27b-it, Run 2/2: scoring saved
+2026-08-19 13:07:02,037 | INFO | Model meta-llama/llama-4-maverick, Run 1/2: initiating scoring
+2026-08-19 13:07:02,829 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:07:45,385 | INFO | Model meta-llama/llama-4-maverick, Run 1/2: scoring completed
+2026-08-19 13:07:45,388 | INFO | Model meta-llama/llama-4-maverick, Run 1/2: scoring saved
+2026-08-19 13:07:45,389 | INFO | Model meta-llama/llama-4-maverick, Run 2/2: initiating scoring
+2026-08-19 13:07:47,041 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:08:28,893 | INFO | Model meta-llama/llama-4-maverick, Run 2/2: scoring completed
+2026-08-19 13:08:28,896 | INFO | Model meta-llama/llama-4-maverick, Run 2/2: scoring saved
+2026-08-19 13:08:28,898 | INFO | Model meta-llama/llama-4-scout, Run 1/2: initiating scoring
+2026-08-19 13:08:29,180 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:08:46,205 | INFO | Model meta-llama/llama-4-scout, Run 1/2: scoring completed
+2026-08-19 13:08:46,210 | INFO | Model meta-llama/llama-4-scout, Run 1/2: scoring saved
+2026-08-19 13:08:46,211 | INFO | Model meta-llama/llama-4-scout, Run 2/2: initiating scoring
+2026-08-19 13:08:46,478 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:09:04,523 | INFO | Model meta-llama/llama-4-scout, Run 2/2: scoring completed
+2026-08-19 13:09:04,527 | INFO | Model meta-llama/llama-4-scout, Run 2/2: scoring saved
+2026-08-19 13:09:04,529 | INFO | Model meta-llama/llama-3.3-70b-instruct, Run 1/2: initiating scoring
+2026-08-19 13:09:05,312 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:09:20,090 | INFO | Model meta-llama/llama-3.3-70b-instruct, Run 1/2: scoring completed
+2026-08-19 13:09:20,094 | INFO | Model meta-llama/llama-3.3-70b-instruct, Run 1/2: scoring saved
+2026-08-19 13:09:20,094 | INFO | Model meta-llama/llama-3.3-70b-instruct, Run 2/2: initiating scoring
+2026-08-19 13:09:21,045 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:09:38,517 | INFO | Model meta-llama/llama-3.3-70b-instruct, Run 2/2: scoring completed
+2026-08-19 13:09:38,521 | INFO | Model meta-llama/llama-3.3-70b-instruct, Run 2/2: scoring saved
+2026-08-19 13:09:38,523 | INFO | Model qwen/qwen3.6-plus, Run 1/2: initiating scoring
+2026-08-19 13:09:39,231 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:10:15,344 | ERROR | Model qwen/qwen3.6-plus, Run 1/2: scoring failed with error: Unexpected response shape: {'1101': {'score': 1, 'rationale': 'Person B states they have not seen Martin for ages, which directly implies they have not met him lately. This is a clear negative response to the question.'}, '1102': {'score': 7, 'rationale': "Person B confirms they are currently engaged in an activity (sending out an application), which directly answers 'yes' to the question of whether they are doing something right now."}, '1103': {'score': 7, 'rationale': "Person B confirms they train with Lukas at the gym, which directly answers 'yes' to the question of whether they usually exercise with him."}}
+2026-08-19 13:10:15,345 | INFO | Model qwen/qwen3.6-plus, Run 2/2: initiating scoring
+2026-08-19 13:10:19,701 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:11:03,612 | ERROR | Model qwen/qwen3.6-plus, Run 2/2: scoring failed with error: Unexpected response shape: {'1101': {'score': 1, 'rationale': "Person B states they have not seen Martin for ages, which directly implies they have not met him lately. This is a clear and definite 'no'."}, '1102': {'score': 7, 'rationale': "Person B confirms they are currently engaged in an activity (sending out an application), which directly answers 'yes' to the question of whether they are doing something right now."}, '1103': {'score': 7, 'rationale': "Person B confirms they train with Lukas at the gym, which directly answers 'yes' to the question of whether they usually exercise with him."}}
+2026-08-19 13:11:03,615 | INFO | Model qwen/qwen3.7-max, Run 1/2: initiating scoring
+2026-08-19 13:11:04,794 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:11:37,248 | INFO | Model qwen/qwen3.7-max, Run 1/2: scoring completed
+2026-08-19 13:11:37,252 | INFO | Model qwen/qwen3.7-max, Run 1/2: scoring saved
+2026-08-19 13:11:37,253 | INFO | Model qwen/qwen3.7-max, Run 2/2: initiating scoring
+2026-08-19 13:11:39,912 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:12:11,227 | INFO | Model qwen/qwen3.7-max, Run 2/2: scoring completed
+2026-08-19 13:12:11,230 | INFO | Model qwen/qwen3.7-max, Run 2/2: scoring saved
+2026-08-19 13:12:11,232 | INFO | Model qwen/qwen3.7-plus, Run 1/2: initiating scoring
+2026-08-19 13:12:12,381 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:12:55,964 | INFO | Model qwen/qwen3.7-plus, Run 1/2: scoring completed
+2026-08-19 13:12:55,968 | INFO | Model qwen/qwen3.7-plus, Run 1/2: scoring saved
+2026-08-19 13:12:55,969 | INFO | Model qwen/qwen3.7-plus, Run 2/2: initiating scoring
+2026-08-19 13:12:56,650 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:13:42,575 | INFO | Model qwen/qwen3.7-plus, Run 2/2: scoring completed
+2026-08-19 13:13:42,577 | INFO | Model qwen/qwen3.7-plus, Run 2/2: scoring saved
+2026-08-19 13:13:42,580 | INFO | Model qwen/qwen3.6-35b-a3b, Run 1/2: initiating scoring
+2026-08-19 13:13:43,061 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:14:07,236 | INFO | Model qwen/qwen3.6-35b-a3b, Run 1/2: scoring completed
+2026-08-19 13:14:07,240 | INFO | Model qwen/qwen3.6-35b-a3b, Run 1/2: scoring saved
+2026-08-19 13:14:07,240 | INFO | Model qwen/qwen3.6-35b-a3b, Run 2/2: initiating scoring
+2026-08-19 13:14:07,859 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:14:27,949 | INFO | Model qwen/qwen3.6-35b-a3b, Run 2/2: scoring completed
+2026-08-19 13:14:27,952 | INFO | Model qwen/qwen3.6-35b-a3b, Run 2/2: scoring saved
+2026-08-19 13:14:27,954 | INFO | Model mistralai/mistral-large-2512, Run 1/2: initiating scoring
+2026-08-19 13:14:28,568 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:14:42,299 | INFO | Model mistralai/mistral-large-2512, Run 1/2: scoring completed
+2026-08-19 13:14:42,304 | INFO | Model mistralai/mistral-large-2512, Run 1/2: scoring saved
+2026-08-19 13:14:42,304 | INFO | Model mistralai/mistral-large-2512, Run 2/2: initiating scoring
+2026-08-19 13:14:42,788 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:14:56,037 | INFO | Model mistralai/mistral-large-2512, Run 2/2: scoring completed
+2026-08-19 13:14:56,042 | INFO | Model mistralai/mistral-large-2512, Run 2/2: scoring saved
+2026-08-19 13:14:56,044 | INFO | Model mistralai/mistral-small-2603, Run 1/2: initiating scoring
+2026-08-19 13:14:56,630 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:15:04,337 | INFO | Model mistralai/mistral-small-2603, Run 1/2: scoring completed
+2026-08-19 13:15:04,341 | INFO | Model mistralai/mistral-small-2603, Run 1/2: scoring saved
+2026-08-19 13:15:04,342 | INFO | Model mistralai/mistral-small-2603, Run 2/2: initiating scoring
+2026-08-19 13:15:05,235 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:15:16,203 | INFO | Model mistralai/mistral-small-2603, Run 2/2: scoring completed
+2026-08-19 13:15:16,207 | INFO | Model mistralai/mistral-small-2603, Run 2/2: scoring saved
+2026-08-19 13:15:16,209 | INFO | Model mistralai/ministral-14b-2512, Run 1/2: initiating scoring
+2026-08-19 13:15:16,528 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:15:31,251 | INFO | Model mistralai/ministral-14b-2512, Run 1/2: scoring completed
+2026-08-19 13:15:31,258 | INFO | Model mistralai/ministral-14b-2512, Run 1/2: scoring saved
+2026-08-19 13:15:31,259 | INFO | Model mistralai/ministral-14b-2512, Run 2/2: initiating scoring
+2026-08-19 13:15:31,932 | INFO | HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-19 13:15:45,326 | INFO | Model mistralai/ministral-14b-2512, Run 2/2: scoring completed
+2026-08-19 13:15:45,330 | INFO | Model mistralai/ministral-14b-2512, Run 2/2: scoring saved
+2026-08-19 13:15:45,332 | INFO | Data collection completed. Total time taken is 18m:31s. Total cost of all trials: $0.1656
