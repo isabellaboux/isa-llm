@@ -1,0 +1,45 @@
+{
+    "run_id": "20260820T173015Z_2baff65b",
+    "started_at": "2026-08-20T17:30:15+02:00",
+    "models": [
+        "openai/gpt-5.4-nano",
+        "openai/gpt-5.4-mini"
+    ],
+    "trials": 2,
+    "temperature": 0,
+    "retain": 2,
+    "system_prompt": "\nPerson A and Person B are talking to each other. Person A asks a question and Person B answers.\nGiven Person A's question, estimate how strongly Person B's answer should be interpreted as\nanswering “yes” versus “no.”\n\nOutput a single integer score from 1 to 7, where:\n\n1 = definitely no\n2 = very likely no\n3 = somewhat likely no\n4 = completely uncertain, ambiguous\n5 = somewhat likely yes\n6 = very likely yes\n7 = definitely yes\n\nAlso report the rationale for your decision in a few sentences, explaining why you gave the score you did.\nIf the answer is ambiguous or irrelevant, explain why.\n\nReturn score and rationale as valid JSON.\n",
+    "score_schema": {
+        "type": "object",
+        "properties": {
+            "results": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "id": {
+                            "type": "string"
+                        },
+                        "score": {
+                            "type": "integer"
+                        },
+                        "rationale": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "score",
+                        "rationale"
+                    ],
+                    "additionalProperties": false
+                }
+            }
+        },
+        "required": [
+            "results"
+        ],
+        "additionalProperties": false
+    },
+    "metadata_max_retries": 20
+}

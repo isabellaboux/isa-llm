@@ -1,0 +1,3 @@
+id,score,rationale,run_id
+1101,6,"Person B says they have not seen Martin for ages, which strongly implies they have not met Martin lately. It is not a direct 'yes,' but it clearly answers the question in the negative direction.",20260820T173015Z_2baff65b
+1102,5,"Person B is describing a current activity, so they are indeed doing something right now. This is a fairly direct yes, though it does not explicitly say 'yes' and could be interpreted as a partial answer depending on context.",20260820T173015Z_2baff65b

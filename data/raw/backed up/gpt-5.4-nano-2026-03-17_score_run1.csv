@@ -1,0 +1,277 @@
+id,score,rationale
+1101,2,"Person B says they have not seen Martin for ages. That directly contradicts the idea of having met him lately, so it should be interpreted as “no.”"
+1102,7,"Person B responds, “I am sending out an application,” which indicates they are doing something right now. This is a clear affirmative for the present moment."
+1103,7,"Person B says, “I train with him at the gym,” which confirms they usually exercise with Lukas."
+1104,7,"Person B states, “His grandfather passed away recently,” which confirms there was a death in his family."
+1105,6,"Person B answers that Paris is about 1000 km away, which strongly supports that it is very far from here."
+1106,6,"Person B says it is a six hour drive, which implies it takes a long time to get to Munich."
+1107,5,"Person A asks if the journey is going as planned; Person B says the train has some delay. That suggests it is not going as planned, but it’s not absolute, so it’s somewhat likely “no.”"
+1108,2,"Person B says there is still some cereal left, meaning they have not finished it. That is a clear “no.”"
+1109,2,"Person B says it is not due for three months, contradicting next week. So the answer is “no.”"
+1110,7,"Person B says the streets are always congested with cars, which confirms there is usually a lot of traffic."
+1111,7,"Person B says Megan is vegetarian, which implies she does not eat meat. That is a clear “yes” to the vegetarian implication, i.e., “no” to eating meat; but the question is “Does Megan eat meat?” so this is “no.”"
+1112,7,"Person B says John has the flu, which confirms he is sick today."
+1113,7,"Person B says she runs for hours every day, confirming she trains daily."
+1114,2,Person A asks if Clara is still sleeping; Person B says she just woke up. That indicates “no.”
+1115,2,"Person B says the movie comes out next week, not today. So the answer to “released today” is “no.”"
+1116,5,Person A asks if they have ever worked with a drill; Person B says they have used one before. That is a somewhat-to-very likely “yes.”
+1117,2,"Person A asks if the party takes place tomorrow; Person B says they are celebrating tonight. That contradicts tomorrow, so “no.”"
+1118,6,Person A asks if they are leaving soon; Person B says they are moving out tomorrow. That is very likely “yes” to leaving soon.
+1119,5,"Person A asks if he is a slacker; Person B says he was always falling behind, which implies laziness/poor effort. Likely “yes,” though not explicitly using the word."
+1120,6,"Person B says the region is famous for surfing, which answers that the area is popular for something. That is very likely “yes.”"
+1121,2,Person A asks if the sea is calm; Person B says it is quite rough. That is a clear “no.”
+1122,2,"Person B says their job is at an NGO, not a corporate company. So the answer to working for a corporate company is “no.”"
+1123,7,"Person B says he has authored many successful books, which strongly indicates he is a writer."
+1124,2,Person A asks if they are finished working on data; Person B says they are still analyzing it. That is “no.”
+1125,7,"Person A asks if many pandas are left; Person B says they are an endangered species, implying few remain. That supports “yes” to the idea of being few/limited."
+1126,7,"Person B says they have enrolled at the gym, confirming they joined a fitness studio."
+1127,2,"Person B says the thesis is not complete yet, so they have not finished writing it. That is “no.”"
+1128,5,Person A asks if they used to have long hair; Person B says their hair was way too long. That is likely “yes.”
+1129,2,Person A asks if they went to Japan for vacation; Person B says it was a business trip. That is “no.”
+1130,2,Person A asks if a one-room flat is enough; Person B says they need a larger one. So “no.”
+1131,7,"Person B says the deadline is tomorrow, confirming she has to hand in soon."
+1132,7,"Person B says they slept only four hours, which indicates they had a short night. That is a clear “yes.”"
+1133,2,"Person B says the offer had already expired, meaning it was not still discounted. So “no.”"
+1134,7,"Person B says the cat got wounded, confirming it is hurt."
+1135,2,Person A asks if everyone is here; Person B says Mark is still missing. That is “no.”
+1137,7,"Person B says they are Chinese, which answers “yes” to coming from Asia."
+1138,7,"Person B says the line went dead, which confirms they hung up (or the call ended). Interpreting as “yes” is appropriate."
+1139,5,"Person A asks if someone is taking care of their house; Person B says they have domestics. That implies yes, though it’s slightly indirect."
+1140,2,Person A asks if the bar has been here for long; Person B says they have just opened. That is “no.”
+1141,6,"Person B says the house is full of history books, indicating he owns many books. Very likely “yes.”"
+1143,5,"Person A asks if there is a small gathering tonight; Person B says only few guests over for dinner. That supports “yes,” though it’s not explicitly a “gathering,” so somewhat likely."
+1144,2,"Person B says they only have one week off work, not two weeks. So “no.”"
+1145,7,"Person B says they are going to have a baby, which confirms pregnancy. Clear “yes.”"
+1147,2,"Person B says they still owe the bank money, meaning they have not paid back debts. So “no.”"
+1148,2,Person A asks if he drank a cocktail; Person B says he only had water. That is “no.”
+1149,2,"Person A asks if they have a vegetable garden; Person B says they own an orchard. That does not confirm a vegetable garden, so “no.”"
+1150,2,Person A asks if the son is underage; Person B says he is 25. That is “no.”
+1151,2,"Person B says tuition is extremely expensive, implying Harvard is not affordable. So “no.”"
+1152,7,"Person B says she made a bank transfer a few moments ago, which indicates she has paid us. Likely “yes.”"
+1153,2,"Person B says they cannot swim yet, so they are not good at swimming. That is “no.”"
+1154,2,Person A asks if they still have a cold; Person B says they are healthy again. That is “no.”
+1155,7,"Person B says people are not allowed to get closer, confirming it is forbidden to approach the area."
+1156,5,"Person A asks if someone took care of the plants; Person B says they watered them regularly. That indicates yes, though it’s phrased as the speaker did it."
+1157,2,Person A asks if the artist was still alive in the 80s; Person B says he was already dead by then. That is “no.”
+1158,6,"Person B says the ice layer is quite thick, which strongly implies the lake is frozen. Very likely “yes.”"
+1159,2,Person A asks if they are attending the beginners' class; Person B says they are in the advanced course. That is “no.”
+1160,7,Person A asks if they sought medical advice; Person B says they have seen a doctor. That is a clear “yes.”
+1161,2,Person A asks if they stayed home; Person B says they went out with friends. That is “no.”
+1162,5,"Person A asks if there was an election recently; Person B says they voted yesterday. That implies yes, though it doesn’t explicitly say “election,” but voting strongly suggests it."
+1163,7,"Person B says the car is spotless, confirming it is completely clean."
+1164,2,Person A asks if they answered all questions; Person B says they submitted a blank sheet. That is “no.”
+1165,2,Person A asks if she is out on the tennis field; Person B says she just got into the changing room. That suggests she is not on the field now.
+1166,6,Person A asks if he got the money back; Person B says he was compensated. That strongly indicates yes.
+1167,2,Person A asks if anyone answered the house sale ad; Person B says no one has responded. That is “no.”
+1168,2,Person A asks if he is a musician; Person B says he does not play any instrument. That is “no.”
+1169,5,"Person A asks if he traveled in Asia; Person B says he has been in Japan for several months. That supports “yes,” though it’s specific to Japan."
+1170,5,Person A asks if the goal is the summit; Person B says they are aiming for the mountain top. That is essentially yes.
+1171,7,"Person B says the customer received it, confirming the package was delivered."
+1173,2,Person A asks if she attended the whole singing course; Person B says she skipped the last four lessons. That is “no.”
+1174,6,Person A asks if the screen has a bad image; Person B says the monitor resolution is really poor. That is very likely “yes.”
+1175,7,"Person B says she graduated from medical school last year, confirming she completed medical studies."
+1176,2,"Person B says it is a private property, not a public building. So “no.”"
+1201,2,"Person B says they have not seen Martin for ages, indicating they are not still good friends. That is “no.”"
+1202,7,"Person B says they are sending out an application, indicating they are looking for a job now. Clear “yes.”"
+1203,7,"Person B says they train with Lukas at the gym, confirming they know him."
+1204,2,"Person A asks if it is his property now; Person B talks about his grandfather passing away, which doesn’t answer property ownership. Likely irrelevant/unclear, but not a confirmation."
+1205,6,"Person B says it is about 1000 km away, supporting that it takes long to drive to Paris. Very likely “yes.”"
+1206,6,A six hour drive implies Munich is far from here. Very likely “yes.”
+1207,2,"Person A asks if they will be home by noon; Person B says the train has some delay. That suggests they will not make it by noon, so “no.”"
+1208,2,"Person B says there is still some left, meaning they have not bought cereal (or at least not that it was bought). Interpreting as “no.”"
+1209,2,"Person B says it is not due for three months, so they have not started writing the essay yet (or at least it’s not due next week). Interpreting as “no” to having started writing."
+1210,6,"Person B says the streets are always congested with cars, implying they will be late. Very likely “yes” to being late."
+1211,2,"Person B says Megan is vegetarian, so she is not coming to the steak house for meat. Interpreting as “no” to coming to the steak house."
+1212,7,"Person B says John has the flu, confirming he is staying home sick."
+1213,7,"Person B says she runs for hours every day, confirming she registered and is training daily; strongly supports “yes.”"
+1214,2,"Person A asks if Clara had breakfast already; Person B says she just woke up, so likely not. “No.”"
+1215,2,"Person B says it comes out next week, so they have not seen it released today. Interpreting as “no” to having seen it."
+1216,5,"Person B says they have used a drill before, which supports “yes” to knowing how to use it."
+1217,2,"Person A asks if they failed the exam; Person B says they are celebrating tonight, which implies they did not fail. So “no.”"
+1218,2,"Person A asks if they are breaking up; Person B says they are moving out tomorrow. That is not a breakup, so “no.”"
+1219,5,Being always falling behind suggests he is a slacker. Likely “yes.”
+1220,6,Famous for surfing indicates big waves here. Very likely “yes.”
+1221,2,"Person B says it is quite rough, so it is not safe to swim. “No.”"
+1222,2,"Job is at an NGO, not a corporate company. “No.”"
+1223,7,Authored many successful books indicates he is a writer. “Yes.”
+1224,2,"Person B says they are still analyzing the data, so they did not present it yet. “No.”"
+1225,2,Pandas are endangered; that implies it is not legal to hunt them. So “no.”
+1226,2,"Person A asks if they lost weight; Person B says they enrolled at the gym, which doesn’t confirm weight loss. More like “no/uncertain,” but leaning “no.”"
+1227,2,"Person B says the thesis is not complete yet, so they have not graduated (or finished). Interpreting as “no.”"
+1228,5,"Person B says their hair was way too long, which suggests they did not get a haircut (or at least not that it happened). Slightly ambiguous, but likely “no.”"
+1229,2,"Person B says it was a business trip, which suggests they did not have time for sightseeing. “No.”"
+1230,2,"They need a larger one, so a one-room flat is not enough. “No.”"
+1231,5,"Deadline is tomorrow implies stress about the project. Likely “yes,” though it’s not explicitly stated as stress."
+1232,7,Sleeping only four hours answers that they had a short night and are tired. Clear “yes.”
+1233,2,Offer expired means it was not still discounted. “No.”
+1234,7,"Cat got wounded, confirming it is hurt and needs the vet. “Yes.”"
+1235,2,"Mark is still missing, so they are not all ready/there. “No.”"
+1237,2,"Person A asks if they can cook Cantonese rice; Person B says they are Chinese, which doesn’t answer cooking ability. Ambiguous/irrelevant."
+1238,7,Line went dead indicates the call was hung up. Interpreting as “yes.”
+1239,5,"Domestics implies someone helps keep the house tidy, so likely yes to being tidy. Somewhat likely."
+1240,2,"They have just opened, so it has not been here for long. “No.”"
+1241,6,House full of history books indicates a passion for history. Very likely “yes.”
+1243,2,"Person B says only few guests over for dinner, which doesn’t match “small gathering tonight” well; it’s somewhat similar but the question is about saucepan size. This is mismatched/irrelevant, so ambiguous."
+1244,2,"Only one week off work, not two weeks trip. “No.”"
+1245,2,"Avoiding drinking alcohol is not answered; instead they say they are going to have a baby. That doesn’t confirm avoiding alcohol. Ambiguous, but likely “no.”"
+1247,2,Still owe the bank money means debts not paid back. “No.”
+1248,2,"Only had water, so not drunk. “No.”"
+1249,2,Owning an orchard doesn’t confirm buying fruit in a supermarket. Likely “no.”
+1250,2,"He is 25, so not underage. “No.”"
+1251,2,"Tuition is extremely expensive, so not affordable. “No.”"
+1252,7,Bank transfer made moments ago indicates they accepted/paid. Strong “yes.”
+1253,2,"They cannot swim yet, so they did not go swimming well/at all. “No.”"
+1254,2,"They are healthy again, so not still taking pills. “No.”"
+1255,2,"People are not allowed to get closer suggests contamination, but the question is “Is this area contaminated?” This is a strong implication of contamination. Likely “yes,” but phrased as restriction; still, interpret as “yes.”"
+1256,7,Regularly watered them implies the plants are still alive. “Yes.”
+1257,2,"He was already dead by then, so not alive in 1981. “No.”"
+1258,6,Thick ice layer implies it is ice skating season. Very likely “yes.”
+1259,2,Advanced course means not a beginner. “No.”
+1260,5,Seen a doctor implies they have been sick. Somewhat likely “yes.”
+1261,2,"They went out with friends, so they did not stay home. “No.”"
+1262,5,They voted yesterday suggests members can elect a representative. Somewhat likely “yes.”
+1263,7,Spotless car means it is back from car wash and clean. “Yes.”
+1264,2,Submitted a blank sheet means they did not write a good exam. “No.”
+1265,2,Changing room indicates she is not out on the tennis field. “No.”
+1266,6,Being compensated indicates the lawsuit was settled in their favor financially. Likely “yes.”
+1267,2,"No one has responded means the house sale ad has not received responses, so not sold. “No.”"
+1268,2,Does not play any instrument means not part of marching band. “No.”
+1269,5,Being in Japan for months indicates travel in Asia. Somewhat likely “yes.”
+1270,5,Aiming for the mountain top corresponds to going uphill toward the summit. Likely “yes.”
+1271,7,Customer received it confirms the package was shipped/delivered. “Yes.”
+1273,2,Skipped the last four lessons means she was not attending the whole course. “No.”
+1274,6,Poor monitor resolution indicates strained eyes/screen issues. Very likely “yes.”
+1275,7,Graduated from medical school implies she is a medical doctor. “Yes.”
+1276,2,"It is a private property, which implies they have not been inside. “No.”"
+2101,5,Need to revise topics indicates studying for the test. Somewhat likely “yes.”
+2102,5,There is an interesting new movie in cinemas recently implies something came out. Somewhat likely “yes.”
+2103,5,It is quite chilly indicates cold. Somewhat likely “yes.”
+2105,5,"Heard good things about the book suggests some knowledge, but not much. Somewhat likely “yes.”"
+2106,5,Pulled a muscle last time indicates injury at yoga class. Somewhat likely “yes.”
+2107,7,Cannot find my phone directly confirms they lost it. “Yes.”
+2108,7,Minus 20 degrees is definitely cold. “Yes.”
+2109,5,Entered a church suggests a religious building. Somewhat likely “yes.”
+2110,5,Training very hard suggests workouts are difficult. Somewhat likely “yes.”
+2113,5,"Says they have been working on an exhausting task, which implies they were working today. Somewhat likely “yes.”"
+2114,2,Did not bring bikini means they likely do not have swimming gear. “No.”
+2115,2,I do not have time means not free. “No.”
+2116,2,"Watched it last month, not yesterday. “No.”"
+2117,2,On a diet implies not eating more than usual. “No.”
+2118,2,"Says actually a Muslim, not Hinduism. “No.”"
+2119,5,Head is spinning after beers indicates not feeling ok. Somewhat likely “no.”
+2120,2,Very tired contradicts energetic. “No.”
+2121,2,We are broke means no money saved. “No.”
+2122,5,Used one already in the past implies not first experience. Somewhat likely “no.”
+2123,2,"It is 11 p.m., not morning in Los Angeles. “No.”"
+2124,2,Hangover means not feeling good. “No.”
+2125,2,Actually diabetic means not free of chronic disease. “No.”
+2127,2,Usually get seasick means not feeling well on boats. “No.”
+2128,2,Toothache is gone means teeth are not still hurting. “No.”
+2129,5,Several bus stops indicates many stations. Somewhat likely “yes.”
+2130,2,Should not staple them means not allowed. “No.”
+2131,5,Luggage is very light suggests it does not weigh much. Somewhat likely “yes.”
+2132,7,Have to get up at 5 am confirms needing to wake up early. “Yes.”
+2134,2,"French is native language, not Spanish. “No.”"
+2135,7,It does not work means remote is unusable. “Yes.”
+2136,7,Wolves are very common here confirms wild animals. “Yes.”
+2137,2,"Only have cacti, not trees. “No.”"
+2138,7,Need it for travelling confirms passport is necessary. “Yes.”
+2139,2,"Has got a sandwich, not pie. “No.”"
+2140,5,Have to go out soon implies kids are about to leave. Somewhat likely “yes.”
+2141,7,Right now I am starving confirms being hungry. “Yes.”
+2144,7,Drink tea all the time confirms often consuming hot drinks. “Yes.”
+2145,5,Too much light suggests room is very bright. Somewhat likely “yes.”
+2146,2,"Will be abroad then, so not staying in town till Friday. “No.”"
+2147,7,Having a soup indicates eating something now. “Yes.”
+2148,7,Just started pouring confirms it is raining already. “Yes.”
+2149,2,I do not drink means no alcohol consumption. “No.”
+2150,2,There is a dishwasher in the kitchen means not everything was taken away. “No.”
+2151,2,Gave away racket ages ago means no tennis equipment. “No.”
+2152,2,Do not eat spicy dishes means not all types of food. “No.”
+2153,7,Live right next to you confirms they are neighbors. “Yes.”
+2155,7,Understand everything now confirms no longer confused. “Yes.”
+2156,7,Chest hurts a lot confirms pain in upper body. “Yes.”
+2157,2,Middle of summer means not winter. “No.”
+2159,7,Cut finger while cooking confirms getting hurt. “Yes.”
+2160,5,Dust all over the floor indicates living room is dirty. Somewhat likely “yes.”
+2161,7,Brought mine means toothpaste is not left at home. Interpreting as “no” to leaving at home; but question is “Have you left your toothpaste at home?” so answer is “no.”
+2162,7,Lips are all chapped confirms damage from wind. “Yes.”
+2163,5,Working early tomorrow morning suggests afternoon shift is not being done. Somewhat likely “no.”
+2164,2,Plan to eat at a restaurant means not having dinner at home. “No.”
+2165,7,Hedges have grown a lot recently implies they are taller than last time. “Yes.”
+2166,7,Lunch is now ready implies cooking is finished. “Yes.”
+2167,7,Math exercise is very complicated confirms difficult homework. “Yes.”
+2168,2,Not sure where to go yet means destination not decided. “No.”
+2169,5,"Smoke cigars only indicates they do smoke cigarettes? It’s not cigarettes specifically, so somewhat likely “no.”"
+2170,2,Type on laptop means not writing on paper. “No.”
+2171,2,"Stove not delivered yet means kitchen is still incomplete. “Yes” to incomplete, but question asks “still incomplete?” so “yes.”"
+2172,7,Cars get stolen regularly here confirms car theft occurs often. “Yes.”
+2173,2,Wardrobe completely full means no room. “No.”
+2174,7,Dirty laundry piling up confirms a lot of laundry to wash. “Yes.”
+2175,5,Can have a relaxed breakfast suggests taking time for breakfast. Somewhat likely “yes.”
+2201,5,"Need to revise topics indicates studying, but not necessarily together. Somewhat likely “yes” to studying together."
+2202,5,There is an interesting new movie suggests going to the cinema. Somewhat likely “yes.”
+2203,2,It is quite chilly suggests not closing the window. “No.”
+2205,5,"Heard good things about the book doesn’t indicate borrowing. Ambiguous/irrelevant, but not a clear yes."
+2206,2,Pulled a muscle last time suggests skipping yoga class is not desired; it’s not a direct answer. Likely “no.”
+2207,2,Cannot find my phone means they don’t want to use the phone (or can’t). Interpreting as “no.”
+2208,7,Minus 20 degrees confirms needing a coat. “Yes.”
+2209,2,"Entered a church indicates they are in a religious building, not turning off phones. The response doesn’t match the question; ambiguous."
+2210,2,Training very hard doesn’t answer whether they want a protein shake. Ambiguous/irrelevant.
+2213,5,"Working on an exhausting task suggests they might want a break, but not explicit. Somewhat likely “yes.”"
+2214,2,Did not bring bikini means not going to the lake for swimming. “No.”
+2215,2,I do not have time means not coming to the talk. “No.”
+2216,2,"Watched it last month, not tonight. “No.”"
+2217,2,On a diet implies not having dessert. “No.”
+2218,2,Actually a Muslim implies not eating pork. “No.”
+2219,2,Head is spinning after beers implies they already had beer and likely don’t want another. “No.”
+2220,2,Very tired suggests not going out. “No.”
+2221,2,Broke at the moment implies not going on a trip. “No.”
+2222,5,Have used one already in the past doesn’t directly say they can help with chain saw. Somewhat likely “no/uncertain.”
+2223,2,It is 11 p.m. doesn’t answer whether they will go to the cinema. Ambiguous/irrelevant.
+2224,2,Hangover suggests they may not want more drinks. “No.”
+2225,2,Actually diabetic implies not cake. “No.”
+2227,2,Usually get seasick means not feeling well on a sea cruise. “No.”
+2228,2,Toothache is gone means they don’t need painkillers. “No.”
+2229,5,Several bus stops before destination doesn’t clearly answer taking a bus seat. Ambiguous.
+2230,2,Should not staple them means they should not staple documents. “No.”
+2231,5,Luggage is very light suggests they may not need help. Somewhat likely “no.”
+2232,7,Have to get up at 5 am confirms setting alarm for tomorrow. “Yes.”
+2234,7,French is native language implies they can check French spelling. “Yes.”
+2235,7,It does not work indicates changing batteries is needed. “Yes.”
+2236,2,Wolves are very common here doesn’t answer locking up cattle. Ambiguous/irrelevant.
+2237,2,Only have cacti suggests hedges aren’t present; so watering plants tomorrow doesn’t fit. Ambiguous/likely “no.”
+2238,7,Need it for travelling confirms passport is needed. “Yes.”
+2239,5,"Has got a sandwich answers offering food, so likely “yes” to wanting food. Somewhat likely."
+2240,2,They have to go out soon means waking up kids is not necessarily desired; but it implies they are not ready. Likely “no.”
+2241,7,Right now I am starving confirms they want biscuits/food. “Yes.”
+2244,7,Drink tea all the time indicates they would like to use the kettle. “Yes.”
+2245,2,"Too much light suggests turning down dimmer is appropriate, but question is “Shall I turn down the dimmer?” Response supports doing so. That is “yes.”"
+2246,2,Will be abroad then means not coming to the party this Friday. “No.”
+2247,7,Having a soup implies they want a spoon. “Yes.”
+2248,7,Just started pouring confirms they would like an umbrella. “Yes.”
+2249,2,I do not drink means no wine. “No.”
+2250,2,There is a dishwasher in the kitchen suggests you don’t need to do the dishes manually. So “no.”
+2251,2,Gave away racket ages ago means they cannot play tennis. “No.”
+2252,2,Do not eat spicy dishes means not wanting Mexican food if it’s spicy. “No.”
+2253,7,Live right next to you confirms they can offer a ride home. “Yes.”
+2255,7,Understand everything now confirms they don’t need it explained again. But question asks “Shall I explain it to you again?” so answer is “no.”
+2256,7,Chest hurts a lot indicates they want the doctor called. “Yes.”
+2257,2,Middle of summer suggests no need for an extra blanket. “No.”
+2259,7,Cut finger while cooking implies they need a plaster. “Yes.”
+2260,2,"There is dust all over the floor suggests sweeping is needed, so they likely want you to sweep. That is “yes.”"
+2261,7,Brought mine means they don’t need toothpaste. So answer to “Would you like some toothpaste?” is “no.”
+2262,7,Lips are all chapped implies they want lip balm. “Yes.”
+2263,2,Working early tomorrow morning suggests they are not joining for drinks tonight. “No.”
+2264,2,Plan to eat at a restaurant means not cooking at home. “No.”
+2265,2,"Hedges have grown a lot recently suggests pruning may not be the immediate need; but it doesn’t directly say. Ambiguous, but likely “no.”"
+2266,7,Lunch is now ready implies table should be set. “Yes.”
+2267,5,"Math exercise is very complicated suggests they might need help, but not explicitly a calculator. Somewhat likely “yes.”"
+2268,2,"Not sure where to go yet means destination not decided, so buying train tickets is not confirmed. “No.”"
+2269,2,Smoke cigars only means they don’t want a cigarette. “No.”
+2270,2,Type on laptop means they don’t need paper. “No.”
+2271,2,"New stove not delivered yet suggests they can’t cook delivery? It doesn’t answer delivery food directly. Ambiguous, but likely “no.”"
+2272,2,"Cars get stolen regularly here implies locking up is advisable, so they likely want you to lock the car. That is “yes.”"
+2273,2,Wardrobe completely full means they don’t need more clothes shopping. “No.”
+2274,7,Dirty laundry piling up confirms doing laundry is needed. “Yes.”
+2275,5,"Relaxed breakfast suggests pancakes are acceptable, but not explicit. Somewhat likely “yes.”"
