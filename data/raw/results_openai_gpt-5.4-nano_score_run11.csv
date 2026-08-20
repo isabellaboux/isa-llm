@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,7,"Person A asks whether Person B has met Martin lately. Person B replies they have not seen him for ages, which clearly indicates a negative answer to meeting lately. This directly answers the question.",20260820T143619Z_a1aca67a
+1102,7,"Person A asks if Person B is doing something right now. Person B responds 'I am sending out an application,' which is an explicit action happening now. This is definitely a yes.",20260820T143619Z_a1aca67a
+1103,6,"Person A asks whether Person B usually exercises with Lukas. Person B says 'I train with him at the gym,' supporting that they exercise with him regularly. It's very likely yes, though 'usually' is not explicitly echoed.",20260820T143619Z_a1aca67a
+1104,6,Person A asks if there was a death in his family. Person B confirms that 'His grandfather passed away recently.' That is a direct yes to the question.,20260820T143619Z_a1aca67a
+1105,6,"Person A asks if Paris is very far from here. Person B says it's about 1000 Km away, which strongly implies it is far. This is very likely yes.",20260820T143619Z_a1aca67a
+1106,6,"Person A asks if it takes long to get to Munich. Person B answers 'It is a six hour drive,' which clearly indicates it takes a long time. Very likely yes.",20260820T143619Z_a1aca67a
+1107,6,"Person A asks if the journey is going as planned. Person B says 'My train has some delay,' indicating it is not going as planned. That is a very likely no, but since the question is 'going as planned', a delay implies negative; however scoring is for yes to the question's proposition. Interpreting yes as 'as planned,' the answer suggests no. So should be low? But prompt asks interpret as answering yes vs no to the question. The proposition is 'Is your journey going as planned?' Person B indicates not planned => no (very likely no).",20260820T143619Z_a1aca67a
+1108,2,"Person A asks whether they finished their cereal. Person B replies there is still some left, meaning they have not finished. Very likely no to completion.",20260820T143619Z_a1aca67a
+1109,2,"Person A asks if the essay deadline is next week. Person B says it is not due for three months, contradicting next week. Very likely no.",20260820T143619Z_a1aca67a
+1110,6,Person A asks if there is usually a lot of traffic. Person B says the streets are always congested with cars. This directly supports yes.,20260820T143619Z_a1aca67a
+1111,6,"Person A asks whether Megan eats meat. Person B says she is vegetarian, which implies she does not eat meat. Very likely yes to 'eats meat' would be no; but the proposition is 'Does Megan eat meat?' Answer implies definitely no. Therefore score should be 1-2. The correct is very likely no.",20260820T143619Z_a1aca67a
+1112,7,"Person A asks if John is sick today. Person B says he has the flu, a clear illness. Definitely yes.",20260820T143619Z_a1aca67a
+1113,6,"Person A asks if Sonya trains daily. Person B says she runs for hours every day, confirming daily training. Very likely yes.",20260820T143619Z_a1aca67a
+1114,2,"Person A asks if Clara is still sleeping. Person B says she just woke up, indicating she is not still sleeping. Very likely no.",20260820T143619Z_a1aca67a
+1115,2,Person A asks if that movie will be released today. Person B says it comes out next week. Very likely no.,20260820T143619Z_a1aca67a
+1116,6,Person A asks if Person B has ever worked with a drill. Person B says they have used one before. Very likely yes.,20260820T143619Z_a1aca67a
+1117,2,"Person A asks if the birthday party is tomorrow. Person B says 'I am celebrating tonight,' which contradicts tomorrow. Very likely no.",20260820T143619Z_a1aca67a
+1118,7,"Person A asks if Person B is leaving soon. Person B says 'I am moving out tomorrow,' which indicates leaving is soon. Definitely yes.",20260820T143619Z_a1aca67a
+1119,6,"Person A asks if he is a slacker. Person B says he was always falling behind, implying laziness/underperformance. Very likely yes.",20260820T143619Z_a1aca67a
+1120,6,Person A asks if the area is popular for something. Person B says the region is famous for surfing. That supports popularity. Very likely yes.,20260820T143619Z_a1aca67a
+1121,2,"Person A asks if the sea is calm these days. Person B says it is quite rough, meaning not calm. Very likely no.",20260820T143619Z_a1aca67a
+1122,2,"Person A asks if Person B works for a corporate company. Person B says their job is at an NGO, not corporate. Very likely no.",20260820T143619Z_a1aca67a
+1123,6,Person A asks if he is a writer. Person B says he has authored many successful books. That is a direct yes. Very likely yes.,20260820T143619Z_a1aca67a
+1124,2,Person A asks if Person B is finished working on their data. Person B says they are still analyzing it. That indicates not finished. Very likely no.,20260820T143619Z_a1aca67a
+1125,6,"Person A asks if there are many pandas left in the world. Person B says they are an endangered species, implying there are not many. For the proposition 'many left', this is very likely no. So score should reflect no.",20260820T143619Z_a1aca67a
+1126,6,Person A asks if Person B has joined a fitness studio. Person B says they have enrolled at the gym. Very likely yes.,20260820T143619Z_a1aca67a
+1127,2,Person A asks if Person B has finished writing their thesis. Person B says the thesis is not complete yet. Very likely no.,20260820T143619Z_a1aca67a
+1128,6,Person A asks if Person B used to have long hair. Person B says their hair was way too long. Very likely yes.,20260820T143619Z_a1aca67a
+1129,2,Person A asks if Person B went to Japan for vacation. Person B says it was a business trip. Very likely no.,20260820T143619Z_a1aca67a
+1130,2,Person A asks if a one-room flat is enough for Person B. Person B says they need a larger one. Very likely no.,20260820T143619Z_a1aca67a
+1131,7,Person A asks if she has to hand in soon. Person B says the deadline is tomorrow. That indicates soon. Definitely yes.,20260820T143619Z_a1aca67a
+1132,6,Person A asks if Person B had a short night. Person B says they slept only four hours. That confirms a short night. Very likely yes.,20260820T143619Z_a1aca67a
+1133,2,Person A asks if the flight was still discounted. Person B says the offer had already expired. Very likely no.,20260820T143619Z_a1aca67a
+1134,6,Person A asks if their cat is hurt. Person B says it got wounded. Very likely yes.,20260820T143619Z_a1aca67a
+1135,2,"Person A asks 'Are we all here?' Person B says Mark is still missing, meaning not all are present. Very likely no.",20260820T143619Z_a1aca67a
+1137,7,"Person A asks if Person B comes from Asia. Person B replies 'I am Chinese,' which indicates Asia. Definitely yes.",20260820T143619Z_a1aca67a
+1138,6,"Person A asks if you hang up. Person B says 'The line went dead,' indicating the call ended/disconnected. Very likely yes.",20260820T143619Z_a1aca67a
+1139,5,"Person A asks if someone is taking care of their house. Person B says they have domestics (house help). That suggests someone is taking care. Somewhat likely yes (not as absolute as 'yes' word, but clear implication).",20260820T143619Z_a1aca67a
+1140,2,"Person A asks if that bar has been here for long. Person B says they have just opened, indicating not for long. Very likely no.",20260820T143619Z_a1aca67a
+1141,6,Person A asks if he owns many books. Person B says the house is full of history books. Very likely yes.,20260820T143619Z_a1aca67a
+1143,5,"Person A asks if there is a small gathering tonight. Person B says they have only few guests over for dinner, which indicates a small gathering. Somewhat likely yes.",20260820T143619Z_a1aca67a
+1144,2,Person A asks if Person B has two weeks of holiday. Person B says only one week off work. Very likely no.,20260820T143619Z_a1aca67a
+1145,7,"Person A asks if Person B is pregnant. Person B says 'I am going to have a baby,' which confirms pregnancy. Definitely yes.",20260820T143619Z_a1aca67a
+1147,2,Person A asks if Person B has paid back debts. Person B says they still owe the bank money. Very likely no.,20260820T143619Z_a1aca67a
+1148,2,Person A asks if he drank a cocktail tonight. Person B says he only had water. Very likely no.,20260820T143619Z_a1aca67a
+1149,2,"Person A asks if you have a vegetable garden. Person B says they own an orchard, not a vegetable garden. So the answer suggests no. Very likely no.",20260820T143619Z_a1aca67a
+1150,2,Person A asks if the son is underage. Person B says he is 25 years old. Very likely no.,20260820T143619Z_a1aca67a
+1151,2,Person A asks if Harvard is affordable. Person B says tuition is extremely expensive. Very likely no.,20260820T143619Z_a1aca67a
+1152,7,"Person A asks if she has paid us yet. Person B says she made a bank transfer moments ago, indicating payment has occurred. Definitely yes.",20260820T143619Z_a1aca67a
+1153,2,Person A asks if the kids are good at swimming. Person B says they cannot swim yet. Very likely no.,20260820T143619Z_a1aca67a
+1154,2,Person A asks if Person B still has a cold. Person B says they are healthy again. Very likely no.,20260820T143619Z_a1aca67a
+1155,6,Person A asks if it is forbidden to approach this area. Person B says people are not allowed to get closer. That confirms prohibition. Very likely yes.,20260820T143619Z_a1aca67a
+1156,5,"Person A asks if someone took care of the plants. Person B says they have watered them regularly, which means they did take care of them. Somewhat likely yes.",20260820T143619Z_a1aca67a
+1157,2,Person A asks if the artist was still alive in the 80s. Person B says he was already dead by then. Very likely no.,20260820T143619Z_a1aca67a
+1158,6,"Person A asks if the lake is frozen. Person B says the ice layer is quite thick, indicating frozen. Very likely yes.",20260820T143619Z_a1aca67a
+1159,2,Person A asks if Person B is attending the beginners' class. Person B says they are in the advanced course. Very likely no.,20260820T143619Z_a1aca67a
+1160,6,Person A asks if Person B has sought medical advice. Person B says they have seen a doctor. Very likely yes.,20260820T143619Z_a1aca67a
+1161,2,Person A asks if Person B stayed home last night. Person B says they went out with friends. Very likely no.,20260820T143619Z_a1aca67a
+1162,6,"Person A asks if there was an election recently. Person B says they voted yesterday, implying there was an election. Very likely yes.",20260820T143619Z_a1aca67a
+1163,7,Person A asks if the car is completely clean. Person B says it is spotless. Definitely yes.,20260820T143619Z_a1aca67a
+1164,2,"Person A asks if they have answered all questions. Person B says they submitted a blank sheet, implying they did not answer. Very likely no.",20260820T143619Z_a1aca67a
+1165,2,"Person A asks if she is out on the tennis field. Person B says she just got into the changing room, so not on the field. Very likely no.",20260820T143619Z_a1aca67a
+1166,6,"Person A asks if he got the money back. Person B says he was compensated, indicating he received money back/settlement. Very likely yes.",20260820T143619Z_a1aca67a
+1167,2,Person A asks if anyone has answered the house sale ad. Person B says no one has responded. Very likely no.,20260820T143619Z_a1aca67a
+1168,2,Person A asks if he is a musician. Person B says he does not play any instrument. Very likely no.,20260820T143619Z_a1aca67a
+1169,6,"Person A asks if he has travelled in Asia. Person B says he has been in Japan for several months. Japan is in Asia, so very likely yes.",20260820T143619Z_a1aca67a
+1170,5,"Person A asks if their goal is the summit. Person B says they are aiming for the mountain top, which matches summit. Somewhat likely yes (close wording).",20260820T143619Z_a1aca67a
+1171,7,Person A asks if the customer got his package. Person B says the customer received it. Definitely yes.,20260820T143619Z_a1aca67a
+1173,2,Person A asks if she attended the whole singing course. Person B says she skipped the last four lessons. Very likely no.,20260820T143619Z_a1aca67a
+1174,6,Person A asks if the screen has a bad image. Person B says the monitor resolution is really poor. That indicates a bad image. Very likely yes.,20260820T143619Z_a1aca67a
+1175,7,Person A asks if she completed her medical studies. Person B says she graduated last year. Definitely yes.,20260820T143619Z_a1aca67a
+1176,2,Person A asks if it is a public building. Person B says it is a private property. Very likely no.,20260820T143619Z_a1aca67a
+1201,2,"Person A asks if Person A and Martin are still good friends. Person B answers they have not seen him for ages, which suggests they are not very close or at least no longer seeing each other. Likely no, though not explicit about friendship. Somewhat likely no.",20260820T143619Z_a1aca67a
+1202,7,Person A asks if Person B is looking for a job. Person B says they are sending out an application. That clearly indicates job searching. Definitely yes.,20260820T143619Z_a1aca67a
+1203,6,"Person A asks if Person B knows Lukas. Person B says they train with him at the gym, implying they know him. Very likely yes.",20260820T143619Z_a1aca67a
+1204,2,"Person A asks if this is his property now. Person B talks about his grandfather passed away recently, not property. So the answer is irrelevant/doesn't address the question, making it uncertain.",20260820T143619Z_a1aca67a
+1205,6,"Person A asks if it takes long to drive to Paris. Person B says it is about 1000 Km away, indicating a long drive. Very likely yes.",20260820T143619Z_a1aca67a
+1206,6,Person A asks if Munich is far from here. Person B says it is a six hour drive. Very likely yes.,20260820T143619Z_a1aca67a
+1207,2,"Person A asks if Person B will be home by noon. Person B says the train has some delay, which implies they may not arrive by noon. Very likely no to 'by noon.'",20260820T143619Z_a1aca67a
+1208,2,"Person A asks if Person B has bought cereal. Person B says there is still some left, which does not confirm buying. Likely no.",20260820T143619Z_a1aca67a
+1209,2,"Person A asks if Person B has started writing the essay. Person B says it is not due for three months, which does not indicate starting. Uncertain/irrelevant, but leans no to started. Somewhat likely no.",20260820T143619Z_a1aca67a
+1210,6,"Person A asks if we will be late to the cinema. Person B says the streets are always congested, which suggests likely delay. Very likely yes.",20260820T143619Z_a1aca67a
+1211,2,Person A asks if Megan is coming to the steak house. Person B says she is vegetarian. That implies she likely will not go to a steak house. Very likely no.,20260820T143619Z_a1aca67a
+1212,7,"Person A asks if John is staying home. Person B says he has the flu, implying he likely stays home due to illness. Very likely yes.",20260820T143619Z_a1aca67a
+1213,6,"Person A asks if Sonya registered for the marathon. Person B says she runs for hours every day, which suggests endurance but not explicitly registration. Somewhat likely yes, but not certain. Score adjusted.",20260820T143619Z_a1aca67a
+1214,2,"Person A asks if Clara had breakfast already. Person B says she just woke up, implying she hasn't had breakfast. Very likely no.",20260820T143619Z_a1aca67a
+1215,2,"Person A asks if Person B has seen that movie. Person B says it comes out next week, meaning not yet watched. Very likely no.",20260820T143619Z_a1aca67a
+1216,6,Person A asks if Person B knows how to use a drill. Person B says they have used one before. Very likely yes.,20260820T143619Z_a1aca67a
+1217,1,"Person A asks if Person B has failed the exam. Person B says 'I am celebrating tonight,' which contradicts failing. Very likely no.",20260820T143619Z_a1aca67a
+1218,7,"Person A asks if Person B is breaking up with him. Person B says 'I am moving out tomorrow,' which is not breakup. So the answer does not support the proposition. Very likely no.",20260820T143619Z_a1aca67a
+1219,6,"Person A asks if he was fired. Person B says he was always falling behind, implying poor performance but not explicitly fired. It's somewhat related but not clear. Hence ambiguous; lean no.",20260820T143619Z_a1aca67a
+1220,6,"Person A asks if there are big waves. Person B says the region is famous for surfing, which implies waves/activity but doesn't explicitly say big waves here. Somewhat likely yes.",20260820T143619Z_a1aca67a
+1221,2,"Person A asks if the sea is safe to swim. Person B says it is quite rough, suggesting it is not safe. Very likely no.",20260820T143619Z_a1aca67a
+1222,2,"Person A asks if Person B makes a lot of money. Person B says their job is at an NGO, which implies not high income (not explicit). Somewhat likely no.",20260820T143619Z_a1aca67a
+1223,6,"Person A asks if he is famous. Person B says he authored many successful books, which indicates fame. Very likely yes.",20260820T143619Z_a1aca67a
+1224,2,"Person A asks if Person B presented their data at the meeting. Person B says they are still analyzing it, so they have not presented yet. Very likely no.",20260820T143619Z_a1aca67a
+1225,2,"Person A asks if it is legal to hunt pandas. Person B says they are an endangered species, which typically implies illegal hunting. Very likely no.",20260820T143619Z_a1aca67a
+1226,1,"Person A asks if Person B has lost some weight. Person B says 'I have enrolled at the gym,' which doesn’t confirm weight loss. Likely no.",20260820T143619Z_a1aca67a
+1227,2,"Person A asks if Person B has graduated. Person B says their thesis is not complete yet, indicating not graduated. Very likely no.",20260820T143619Z_a1aca67a
+1228,6,"Person A asks if Person B got their hair cut. Person B says their hair was way too long, which doesn't directly address getting cut. Still, it suggests hair was long and maybe changed. But it's not clear. Likely ambiguous; lean uncertain/no.",20260820T143619Z_a1aca67a
+1229,2,"Person A asks if Person B had time for sightseeing. Person B says it was a business trip, which suggests not enough time but not explicit. Somewhat likely no.",20260820T143619Z_a1aca67a
+1230,2,"Person A asks if Person B bought a one room flat. Person B says they need a larger one, contradicting buying a one-room flat. Very likely no.",20260820T143619Z_a1aca67a
+1231,7,"Person A asks if she is stressed about the project. Person B says the deadline is tomorrow, which would cause stress. Very likely yes.",20260820T143619Z_a1aca67a
+1232,6,Person A asks if Person B is tired. Person B says they slept only four hours. That indicates tiredness. Very likely yes.,20260820T143619Z_a1aca67a
+1233,2,"Person A asks if he booked the flight. Person B says the offer had already expired, not whether it was booked. Unclear/doesn't confirm booking; likely no.",20260820T143619Z_a1aca67a
+1234,6,"Person A asks if Person B is bringing their cat to the vet. Person B says it got wounded, implying the cat needs care. Very likely yes to bringing it for treatment.",20260820T143619Z_a1aca67a
+1235,2,"Person A asks if we are ready to go. Person B says Mark is still missing, meaning not ready. Very likely no.",20260820T143619Z_a1aca67a
+1237,6,"Person A asks if you can cook Cantonese rice. Person B says they are Chinese, which implies possible cooking ability but not explicit. Still somewhat supportive; somewhat likely yes.",20260820T143619Z_a1aca67a
+1238,2,"Person A asks if Person B told him about the issue. Person B says the line went dead, not related. Ambiguous/irrelevant; likely no.",20260820T143619Z_a1aca67a
+1239,5,"Person A asks if their house is always tidy. Person B says they have domestics, which suggests tidiness but doesn't state it's always tidy. Somewhat likely yes.",20260820T143619Z_a1aca67a
+1240,6,"Person A asks if they have tried that bar yet. Person B says they have just opened, which means it's new and likely not tried yet. Very likely no to trying; but question expects yes? Proposition: 'Have you tried that bar yet?' Answer implies bar just opened so likely no. Very likely no.",20260820T143619Z_a1aca67a
+1241,6,Person A asks if he has a passion for history. Person B says his house is full of history books. That implies passion. Very likely yes.,20260820T143619Z_a1aca67a
+1243,2,"Person A asks if the saucepan is big enough. Person B talks about having only few guests for dinner, not saucepan size. Irrelevant/unclear; ambiguous.",20260820T143619Z_a1aca67a
+1244,2,Person A asks if you will take a two weeks trip. Person B says only one week off work. Very likely no.,20260820T143619Z_a1aca67a
+1245,2,"Person A asks if you are avoiding drinking alcohol. Person B says 'I am going to have a baby,' not about drinking avoidance. This is irrelevant to alcohol avoidance; unclear.",20260820T143619Z_a1aca67a
+1247,2,Person A asks if Person B paid back their debts. Person B says they still owe the bank money. Very likely no.,20260820T143619Z_a1aca67a
+1248,2,Person A asks if he is drunk. Person B says he only had water. Very likely no.,20260820T143619Z_a1aca67a
+1249,6,"Person A asks if Person B buys fruit in the supermarket. Person B says they own an orchard, suggesting they get fruit otherwise. This leans no to buying supermarket fruit. Somewhat likely no.",20260820T143619Z_a1aca67a
+1250,2,Person A asks if the son is at elementary school. Person B says he is 25. Very likely no.,20260820T143619Z_a1aca67a
+1251,2,Person A asks if Harvard University is affordable. Person B says tuition is extremely expensive. Very likely no.,20260820T143619Z_a1aca67a
+1252,7,Person A asks if she paid you yet. Person B says she made a bank transfer moments ago. Definitely yes.,20260820T143619Z_a1aca67a
+1253,2,Person A asks if the kids went to the swimming pool. Person B says they cannot swim yet. Very likely no.,20260820T143619Z_a1aca67a
+1254,2,"Person A asks if Person B is still taking pills. Person B says they are healthy again, implying not taking pills. Very likely no.",20260820T143619Z_a1aca67a
+1255,6,"Person A asks if this area is contaminated. Person B says people are not allowed to get closer, which strongly suggests contamination. Very likely yes.",20260820T143619Z_a1aca67a
+1256,7,"Person A asks if the plants are still alive. Person B says they have watered them regularly, which supports they are alive. Somewhat likely yes; actually watering suggests likely alive though not explicit. Score as somewhat likely yes/high.",20260820T143619Z_a1aca67a
+1257,2,"Person A asks if artwork was created by him in 1981. Person B says he was already dead by then, so he could not create it in 1981. Very likely no.",20260820T143619Z_a1aca67a
+1258,6,"Person A asks if it is ice skating season. Person B says the ice layer is quite thick, indicating conditions for skating. Very likely yes.",20260820T143619Z_a1aca67a
+1259,2,Person A asks if you are a beginner. Person B says they are in the advanced course. Very likely no.,20260820T143619Z_a1aca67a
+1260,5,"Person A asks if you have been sick. Person B says they have seen a doctor, which suggests illness but not explicit. Somewhat likely yes.",20260820T143619Z_a1aca67a
+1261,2,"Person A asks if you went to bed early last night. Person B says they went out with some friends. That doesn’t answer bed time; irrelevant/unclear, leaning no.",20260820T143619Z_a1aca67a
+1262,6,"Person A asks if members can elect a representative. Person B says they voted yesterday, which indicates they can elect via voting. Very likely yes.",20260820T143619Z_a1aca67a
+1263,7,Person A asks if the car is completely clean. Person B says it is spotless. Definitely yes.,20260820T143619Z_a1aca67a
+1264,2,"Person A asks if they wrote a good exam. Person B says they submitted a blank sheet, which implies not good. Very likely no.",20260820T143619Z_a1aca67a
+1265,2,"Person A asks if she is dressed for the tennis game. Person B says she just got into the changing room, which suggests she is not yet on the field but getting ready. Somewhat likely yes, but not confirmed. Lean somewhat likely no.",20260820T143619Z_a1aca67a
+1266,6,"Person A asks if he settled the lawsuit. Person B says he was compensated, which indicates a resolution. Very likely yes.",20260820T143619Z_a1aca67a
+1267,2,"Person A asks if he has sold that house. Person B says no one has responded, indicating it hasn’t sold yet. Very likely no.",20260820T143619Z_a1aca67a
+1268,2,Person A asks if he is part of the marching band. Person B says he does not play any instrument. Very likely no.,20260820T143619Z_a1aca67a
+1269,5,"Person A asks if he has ever tried sushi. Person B says he has been in Japan for several months, which doesn't indicate sushi. Ambiguous; leaning uncertain/no. Somewhat likely no.",20260820T143619Z_a1aca67a
+1270,5,"Person A asks if their whole way is going uphill. Person B says aiming for the mountain top, which relates to uphill/mountain goal but not the whole way. Somewhat likely yes but not direct.",20260820T143619Z_a1aca67a
+1271,7,"Person A asks if the package was shipped to the customer. Person B says the customer received it, which implies shipping and delivery occurred. Definitely yes.",20260820T143619Z_a1aca67a
+1273,2,Person A asks if she is dedicated to that singing course. Person B says she skipped the last four lessons. That indicates lack of dedication. Very likely no.,20260820T143619Z_a1aca67a
+1274,6,"Person A asks if eyes get strained sometimes. Person B says monitor resolution is really poor, which could strain eyes. Not direct, but likely. Somewhat likely yes to strain due to poor resolution; score somewhat likely yes.",20260820T143619Z_a1aca67a
+1275,7,"Person A asks if she is a medical doctor. Person B says she graduated from medical school last year, which supports being a medical doctor. Very likely yes.",20260820T143619Z_a1aca67a
+1276,2,"Person A asks if they have ever been inside that building. Person B says it is a private property, which doesn’t confirm being inside. Irrelevant/uncertain; lean no.",20260820T143619Z_a1aca67a
+2101,5,"Person A asks if they have to study for the test. Person B says they need to revise topics, which indicates studying for a test. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2102,5,Person A asks if anything came out in cinemas recently. Person B says there is an interesting new movie. That implies yes to a recent release. Somewhat likely yes.,20260820T143619Z_a1aca67a
+2103,5,Person A asks if it is cold in your village. Person B says it is quite chilly. That is yes. Somewhat likely yes to cold.,20260820T143619Z_a1aca67a
+2105,5,"Person A asks if they know anything about this novel. Person B says they have heard good things about that book, which suggests some knowledge. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2106,5,"Person A asks if injured at yoga class. Person B says they pulled a muscle last time, which is an injury-related response. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2107,6,Person A asks if they have lost their phone. Person B says they cannot find their phone. That is a direct confirmation. Very likely yes.,20260820T143619Z_a1aca67a
+2108,7,Person A asks if it is cold outside. Person B says it is minus 20 degrees. Definitely yes.,20260820T143619Z_a1aca67a
+2109,7,Person A asks if they are in a religious building. Person B says they entered a church. That is definitely yes.,20260820T143619Z_a1aca67a
+2110,5,"Person A asks if workouts are usually difficult. Person B says they are training very hard. That indicates difficulty, though not explicitly 'usually.' Somewhat likely yes.",20260820T143619Z_a1aca67a
+2113,6,Person A asks if they were working today. Person B says they have been working on an exhausting task. Very likely yes.,20260820T143619Z_a1aca67a
+2114,2,Person A asks if they have swimming gear. Person B says they did not bring bikini. Very likely no.,20260820T143619Z_a1aca67a
+2115,2,Person A asks if they are free at the moment. Person B says they do not have time. Very likely no.,20260820T143619Z_a1aca67a
+2116,2,Person A asks if they watched Titanic yesterday. Person B says they watched it last month. Very likely no.,20260820T143619Z_a1aca67a
+2117,2,"Person A asks if they are eating more than usual. Person B says they are on a diet, implying less. Very likely no.",20260820T143619Z_a1aca67a
+2118,2,Person A asks if they practise Hinduism. Person B says they are actually a Muslim. Very likely no.,20260820T143619Z_a1aca67a
+2119,6,"Person A asks if they are feeling ok. Person B says head is spinning after beers. Very likely no (to ok), but question proposition is 'feeling ok' => answer indicates not ok, so score should be no. Very likely no =2.",20260820T143619Z_a1aca67a
+2120,2,Person A asks if they are energetic today. Person B says they are very tired. Very likely no.,20260820T143619Z_a1aca67a
+2121,2,Person A asks if they have any money saved. Person B says they are broke. Very likely no.,20260820T143619Z_a1aca67a
+2122,5,Person A asks if it is first experience with chain saw. Person B says they used one already in the past. That suggests not first; thus answer is no to first experience. Very likely no =>2.,20260820T143619Z_a1aca67a
+2123,2,Person A asks if it is morning in Los Angeles. Person B says it is 11 p.m. That's very likely no.,20260820T143619Z_a1aca67a
+2124,2,Person A asks if they are feeling good. Person B says they have a hangover. Very likely no.,20260820T143619Z_a1aca67a
+2125,6,"Person A asks if free of chronic disease. Person B says they are diabetic, which is chronic. So not free. Very likely no =>2.",20260820T143619Z_a1aca67a
+2127,2,Person A asks if they feel well on boats. Person B says they usually get seasick. Very likely no.,20260820T143619Z_a1aca67a
+2128,2,Person A asks if teeth are still hurting. Person B says toothache is gone. Very likely no.,20260820T143619Z_a1aca67a
+2129,5,"Person A asks if there are many stations on your way. Person B says there are several bus stops before destination. That indicates multiple stops, somewhat likely yes.",20260820T143619Z_a1aca67a
+2130,6,"Person A asks if they are allowed to staple documents. Person B says 'I should not staple them.' Very likely yes to being not allowed (forbidden), but question asks allowed. So very likely no (2).",20260820T143619Z_a1aca67a
+2131,2,Person A asks if luggage weighs much. Person B says it is very light. Very likely no.,20260820T143619Z_a1aca67a
+2132,7,Person A asks if we need to wake up early tomorrow. Person B says they have to get up at 5 am. Definitely yes.,20260820T143619Z_a1aca67a
+2134,2,Person A asks if Spanish is mother tongue. Person B says French is native. Very likely no.,20260820T143619Z_a1aca67a
+2135,7,Person A asks if the remote is still unusable. Person B says it does not work. Definitely yes.,20260820T143619Z_a1aca67a
+2136,7,Person A asks if there are wild animals. Person B says wolves are very common here. Definitely yes.,20260820T143619Z_a1aca67a
+2137,2,Person A asks if there are trees in your garden. Person B says they only have cacti. Very likely no.,20260820T143619Z_a1aca67a
+2138,6,Person A asks if passport is necessary for taking the plane. Person B says 'We need it for travelling.' Very likely yes.,20260820T143619Z_a1aca67a
+2139,3,"Person A asks if they brought pie for lunch. Person B says they have got a sandwich. That's not pie; suggests no, but not fully explicit. Somewhat likely no.",20260820T143619Z_a1aca67a
+2140,5,Person A asks if the kids are about to leave. Person B says they have to go out soon. Somewhat likely yes.,20260820T143619Z_a1aca67a
+2141,6,Person A asks if they are already hungry. Person B says right now I am starving. Very likely yes.,20260820T143619Z_a1aca67a
+2144,6,Person A asks if they often consume hot drinks. Person B says they drink tea all the time. Very likely yes.,20260820T143619Z_a1aca67a
+2145,5,Person A asks if the room is very bright. Person B says there is too much light in here. Somewhat likely yes.,20260820T143619Z_a1aca67a
+2146,2,Person A asks if they will stay in town till Friday. Person B says they will be abroad then. Very likely no.,20260820T143619Z_a1aca67a
+2147,7,Person A asks if they are eating something. Person B says they are having soup. Definitely yes.,20260820T143619Z_a1aca67a
+2148,6,Person A asks if it is raining already. Person B says it just started pouring. Very likely yes.,20260820T143619Z_a1aca67a
+2149,7,"Person A asks if they consume alcohol. Person B says they do not drink. That answers no, so very likely no (2).",20260820T143619Z_a1aca67a
+2150,3,Person A asks if everything was taken away from the flat. Person B says there is a dishwasher in the kitchen. That implies not everything was removed. Somewhat likely no.,20260820T143619Z_a1aca67a
+2151,2,Person A asks if they still have tennis equipment. Person B says they gave away their racket ages ago. Very likely no.,20260820T143619Z_a1aca67a
+2152,2,Person A asks if they consume all types of food. Person B says they do not eat spicy dishes. Very likely no.,20260820T143619Z_a1aca67a
+2153,7,Person A asks if they are neighbours. Person B says they live right next to you. Definitely yes.,20260820T143619Z_a1aca67a
+2155,5,"Person A asks if they are still confused. Person B says they understand everything now. Somewhat likely yes to no-confusion, meaning answer 'confused?' is no. So score very likely no (2).",20260820T143619Z_a1aca67a
+2156,6,Person A asks if they feel pain in their upper body. Person B says my chest hurts a lot. Very likely yes.,20260820T143619Z_a1aca67a
+2157,2,Person A asks if it is winter there. Person B says middle of the summer. Very likely no.,20260820T143619Z_a1aca67a
+2159,6,Person A asks if they got hurt. Person B says they cut their finger. Very likely yes.,20260820T143619Z_a1aca67a
+2160,6,Person A asks if the living room is dirty. Person B says there is dust all over the floor. Very likely yes.,20260820T143619Z_a1aca67a
+2161,5,Person A asks if they left toothpaste at home. Person B says they brought mine. That implies not left. Somewhat likely no (to question).,20260820T143619Z_a1aca67a
+2162,6,Person A asks if lips got damaged with wind. Person B says lips are all chapped. Very likely yes.,20260820T143619Z_a1aca67a
+2163,5,Person A asks if they are doing the afternoon shift tomorrow. Person B says they are working early tomorrow morning. That suggests not afternoon. Very likely no.,20260820T143619Z_a1aca67a
+2164,2,Person A asks if they will have dinner at home. Person B says they plan to eat at a restaurant. Very likely no.,20260820T143619Z_a1aca67a
+2165,6,Person A asks if hedges are taller than last time. Person B says they have grown a lot recently. Very likely yes.,20260820T143619Z_a1aca67a
+2166,7,"Person A asks if they finished cooking. Person B says lunch is now ready, indicating cooking finished. Definitely yes.",20260820T143619Z_a1aca67a
+2167,6,Person A asks if they have difficult homework. Person B says math exercise is very complicated. Very likely yes.,20260820T143619Z_a1aca67a
+2168,2,Person A asks if they decided on a destination. Person B says they are not sure where to go yet. Very likely no.,20260820T143619Z_a1aca67a
+2169,5,Person A asks if they smoke cigarettes. Person B says they smoke cigars only. That implies no cigarettes. Somewhat likely no.,20260820T143619Z_a1aca67a
+2170,2,Person A asks if they are writing on paper. Person B says they type on a laptop. Very likely no.,20260820T143619Z_a1aca67a
+2171,2,"Person A asks if the kitchen is still incomplete. Person B says the stove was not delivered yet, implying incompletion. Very likely yes (to incomplete).",20260820T143619Z_a1aca67a
+2172,7,Person A asks if car theft occur often. Person B says cars get stolen regularly here. Definitely yes.,20260820T143619Z_a1aca67a
+2173,2,Person A asks if there is room in wardrobe. Person B says wardrobe is completely full. Very likely no.,20260820T143619Z_a1aca67a
+2174,6,Person A asks if there is a lot of laundry to wash. Person B says dirty laundry is piling up. Very likely yes.,20260820T143619Z_a1aca67a
+2175,6,Person A asks if they are taking some time for breakfast. Person B says they can have a relaxed breakfast. Very likely yes.,20260820T143619Z_a1aca67a
+2201,5,"Person A asks if we shall study together. Person B says they need to revise some topics, implying they want/need to study. Somewhat likely yes (to studying together).",20260820T143619Z_a1aca67a
+2202,7,Person A asks if we shall go to the cinema. Person B says there is an interesting new movie. This supports going. Definitely yes.,20260820T143619Z_a1aca67a
+2203,5,"Person A asks to close the window. Person B says it is quite chilly, implying keeping window closed. Somewhat likely yes to closing.",20260820T143619Z_a1aca67a
+2205,6,"Person A asks if you would like to borrow this book. Person B responds they have heard good things about that book, indicating interest/possibly willingness. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2206,2,"Person A asks if we should skip yoga class. Person B says they pulled a muscle last time, which is an experience possibly to avoid skipping; doesn't directly say skip. Unclear/ambiguous. Score as uncertain/ambiguous.",20260820T143619Z_a1aca67a
+2207,2,"Person A asks if they want to use your phone. Person B says they cannot find my phone, implying they need a phone but could be wanting to use yours. It's not a clear yes to request. Somewhat likely yes to using? Actually question proposition: 'Do you want to use my phone?' Answer: cannot find phone (implies yes). So somewhat likely yes.",20260820T143619Z_a1aca67a
+2208,5,"Person A asks if they need a coat. Person B says it is minus 20 degrees, implying they do need one. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2209,2,Person A asks if we should turn off phones. Person B says they have just entered a church. That doesn't directly answer about turning off phones; it's context for silence but ambiguous. Score uncertain/ambiguous leaning no.,20260820T143619Z_a1aca67a
+2210,2,"Person A asks if they'd like a protein shake. Person B says they are training very hard, which could support interest but not explicit. Ambiguous; somewhat likely no.",20260820T143619Z_a1aca67a
+2213,5,Person A asks to take a break from work. Person B says they have been working on an exhausting task. That implies they may be ready for a break. Somewhat likely yes.,20260820T143619Z_a1aca67a
+2214,2,Person A asks if we should go to the lake. Person B says they did not bring bikini. That suggests they cannot/likely won't go. Very likely no.,20260820T143619Z_a1aca67a
+2215,2,Person A asks if they are coming to the talk. Person B says they do not have time. Very likely no.,20260820T143619Z_a1aca67a
+2216,2,Person A asks if we should watch Titanic tonight. Person B says they watched it last month. That implies no. Very likely no.,20260820T143619Z_a1aca67a
+2217,2,Person A asks if we should have some dessert. Person B says they are on a diet. Very likely no.,20260820T143619Z_a1aca67a
+2218,2,Person A asks if they want some pork. Person B says they are actually a Muslim. That implies they likely avoid pork. Very likely no.,20260820T143619Z_a1aca67a
+2219,2,Person A asks if they want another beer. Person B says their head is spinning after these beers. Very likely no.,20260820T143619Z_a1aca67a
+2220,2,Person A asks if we should go out. Person B says they are very tired. Very likely no.,20260820T143619Z_a1aca67a
+2221,2,Person A asks if we should go on a trip. Person B says they are broke at the moment. Very likely no.,20260820T143619Z_a1aca67a
+2222,5,Person A asks if they need help with the chain saw. Person B says they have used one already in the past. That doesn't indicate need for help. Somewhat likely no.,20260820T143619Z_a1aca67a
+2223,2,"Person A asks if we should go to the cinema. Person B says it is 11 p.m. Not an answer about cinema decision; time context unclear. Ambiguous, leaning no.",20260820T143619Z_a1aca67a
+2224,2,Person A asks if we should have some drinks. Person B says they have a hangover. Very likely no.,20260820T143619Z_a1aca67a
+2225,2,Person A asks if they want some cake. Person B says they are actually diabetic. That implies they likely cannot/should avoid cake. Very likely no.,20260820T143619Z_a1aca67a
+2227,2,Person A asks if they are joining for a sea cruise. Person B says they usually get seasick. Very likely no.,20260820T143619Z_a1aca67a
+2228,2,Person A asks if they want painkillers. Person B says toothache is gone. That implies no need for painkillers. Very likely no.,20260820T143619Z_a1aca67a
+2229,5,"Person A asks if they would like to take my bus seat. Person B says they have several bus stops before destination, which is not directly yes/no about taking a seat. Ambiguous; uncertain/no.",20260820T143619Z_a1aca67a
+2230,2,Person A asks if they should staple documents. Person B says they should not staple them. Very likely no (not allowed).,20260820T143619Z_a1aca67a
+2231,5,Person A asks if they need help with luggage. Person B says it is very light. That suggests no help needed. Somewhat likely no.,20260820T143619Z_a1aca67a
+2232,7,Person A asks to set alarm clock tomorrow. Person B says they have to get up at 5 am. Definitely yes to setting an alarm.,20260820T143619Z_a1aca67a
+2234,7,Person A asks to check French spelling. Person B says French is native language. Definitely yes to French spelling capability.,20260820T143619Z_a1aca67a
+2235,2,"Person A asks to change remote batteries. Person B says it does not work, but that could be due to batteries; not explicit. Ambiguous, but slightly implies batteries won't fix. Somewhat likely no.",20260820T143619Z_a1aca67a
+2236,2,"Person A asks if they should lock up the cattle. Person B says wolves are very common here. That suggests you should protect cattle, so yes to locking up. Very likely yes.",20260820T143619Z_a1aca67a
+2237,2,"Person A asks should water plants tomorrow. Person B says we only have cacti, meaning watering not needed/they don't have plants. Very likely no.",20260820T143619Z_a1aca67a
+2238,6,Person A asks if they should pack passport. Person B says they need it for travelling. Very likely yes.,20260820T143619Z_a1aca67a
+2239,6,Person A asks if they'd like some food. Person B says they have got a sandwich. That indicates they have food to offer/are responding positively. Very likely yes.,20260820T143619Z_a1aca67a
+2240,2,"Person A asks to wake up kids. Person B says they have to go out soon. That implies they may need waking, so likely yes. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2241,6,Person A offers biscuits. Person B says right now they are starving. That indicates want/need food. Very likely yes.,20260820T143619Z_a1aca67a
+2244,5,Person A asks if they would like to use my kettle. Person B says they drink tea all the time. That suggests yes. Somewhat likely yes.,20260820T143619Z_a1aca67a
+2245,6,Person A asks to turn down dimmer. Person B says there is too much light. That supports turning it down. Very likely yes.,20260820T143619Z_a1aca67a
+2246,2,Person A asks if they are coming to the party this Friday. Person B says they will be abroad then. Very likely no.,20260820T143619Z_a1aca67a
+2247,5,"Person A asks if they want a spoon. Person B says they are having a soup, implying they need a spoon. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2248,6,Person A asks if they would like an umbrella. Person B says it just started pouring. Very likely yes to wanting an umbrella.,20260820T143619Z_a1aca67a
+2249,2,Person A asks if they would like some wine. Person B says they do not drink. Very likely no.,20260820T143619Z_a1aca67a
+2250,2,"Person A asks if they should do the dishes. Person B says there is a dishwasher in the kitchen, implying use dishwasher not manual dishes. Very likely no to doing dishes directly.",20260820T143619Z_a1aca67a
+2251,2,Person A asks if we should play tennis. Person B says they gave away their racket ages ago. Very likely no.,20260820T143619Z_a1aca67a
+2252,2,Person A asks if we should get mexican food. Person B says they do not eat spicy dishes. Mexican food often spicy; thus likely no. Very likely no.,20260820T143619Z_a1aca67a
+2253,7,"Person A asks if they want a ride home. Person B says they live right next to you, indicating a ride is unnecessary/answer implies no ride needed, but question asks want ride. Actually living next to you could mean they can ride. Not explicit. Likely uncertain; but it answers location, implying not wanting a ride. Somewhat likely no.",20260820T143619Z_a1aca67a
+2255,6,Person A asks if they should explain it again. Person B says they understand everything now. So no need for explanation. Very likely no to 'explain again'.,20260820T143619Z_a1aca67a
+2256,7,"Person A asks if they want me to call the doctor. Person B says their chest hurts a lot, indicating they do want medical help. Definitely yes.",20260820T143619Z_a1aca67a
+2257,2,"Person A asks if they want an extra blanket. Person B says they are in the middle of the summer, so they likely do not need a blanket. Very likely no.",20260820T143619Z_a1aca67a
+2259,6,Person A asks if they want a plaster. Person B says they cut their finger. Very likely yes to needing a plaster.,20260820T143619Z_a1aca67a
+2260,2,"Person A asks if they should sweep living room. Person B says there is dust all over the floor, implying it needs sweeping. Very likely yes to sweeping.",20260820T143619Z_a1aca67a
+2261,6,"Person A asks if they'd like toothpaste. Person B says they have actually brought mine, implying no need. So answer is no to wanting toothpaste. Very likely no.",20260820T143619Z_a1aca67a
+2262,6,Person A asks if they want lip balm. Person B says their lips are all chapped. Very likely yes.,20260820T143619Z_a1aca67a
+2263,2,Person A asks if they are joining for drinks tonight. Person B says they are working early tomorrow morning. That suggests they won't. Very likely no.,20260820T143619Z_a1aca67a
+2264,2,Person A asks if they should cook for both of us. Person B says they plan to eat at a restaurant. Very likely no.,20260820T143619Z_a1aca67a
+2265,2,"Person A asks if they should prune the hedges. Person B says hedges have grown a lot recently, implying pruning may be needed, so yes. Very likely yes (to pruning).",20260820T143619Z_a1aca67a
+2266,6,Person A asks if they should set the table. Person B says lunch is now ready. That implies table should be set now. Very likely yes.,20260820T143619Z_a1aca67a
+2267,5,Person A asks if they'd like a calculator. Person B says the math exercise is very complicated. That suggests they may need a calculator. Somewhat likely yes.,20260820T143619Z_a1aca67a
+2268,2,Person A asks if they should buy the train tickets. Person B says they are not sure where to go yet. Very likely no.,20260820T143619Z_a1aca67a
+2269,2,Person A asks if they want a cigarette. Person B says they smoke cigars only. Very likely no.,20260820T143619Z_a1aca67a
+2270,2,Person A asks if they want some paper. Person B says they usually type directly on a laptop. Very likely no.,20260820T143619Z_a1aca67a
+2271,2,Person A asks if we should get some delivery food. Person B says the stove was not delivered yet. Unrelated; doesn't indicate delivery. Ambiguous/lean no.,20260820T143619Z_a1aca67a
+2272,2,"Person A asks if they would like me to lock your car. Person B says cars get stolen regularly here, which suggests you should lock it. So very likely yes to locking. Score should be yes (6).",20260820T143619Z_a1aca67a
+2273,2,Person A asks if we should go shopping for clothes. Person B says wardrobe is completely full of clothes. Very likely no.,20260820T143619Z_a1aca67a
+2274,5,Person A asks if they should do the laundry. Person B says dirty laundry is piling up. That implies they need help. Somewhat likely yes.,20260820T143619Z_a1aca67a
+2275,6,"Person A asks if they want pancakes for breakfast. Person B says they can have a relaxed breakfast, which suggests yes to breakfast. Somewhat likely yes; slightly more likely yes.",20260820T143619Z_a1aca67a

@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,6,"Person A asks if they have met Martin lately. Person B replies that they have not seen him for ages, directly indicating the answer should be “no” to having met him lately. That corresponds strongly to “no.”",20260820T143619Z_a1aca67a
+1102,7,"Person A asks if Person B is doing something right now. Person B answers that they are sending out an application, which is a clear statement of current activity. This strongly supports “yes.”",20260820T143619Z_a1aca67a
+1103,7,"Person A asks if Person B usually exercises with Lukas. Person B states they train with him at the gym, which is an explicit “yes.”",20260820T143619Z_a1aca67a
+1104,7,Person A asks if there was a death in his family. Person B says his grandfather passed away recently. This clearly confirms “yes.”,20260820T143619Z_a1aca67a
+1105,7,"Person A asks if Paris is very far from here. Person B gives a distance (~1000 km), confirming it is far. Strong “yes.”",20260820T143619Z_a1aca67a
+1106,7,"Person A asks whether it takes long to get to Munich. Person B answers it is a six hour drive, indicating it does take long. Strong “yes.”",20260820T143619Z_a1aca67a
+1107,5,"Person A asks if the journey is going as planned. Person B says the train has some delay, implying it is not going fully as planned. This is more clearly “no” than “yes,” but not perfectly binary, so it leans to “somewhat likely no.”",20260820T143619Z_a1aca67a
+1108,6,"Person A asks if they have finished their cereal. Person B says there is still some left, which indicates they have not finished. That strongly supports “no.”",20260820T143619Z_a1aca67a
+1109,6,"Person A asks if the essay deadline is next week. Person B replies it is not due for three months, which clearly means “no” for next week. Strong “no.”",20260820T143619Z_a1aca67a
+1110,7,"Person A asks if there is usually a lot of traffic. Person B says the streets are always congested, confirming high traffic. Strong “yes.”",20260820T143619Z_a1aca67a
+1111,6,"Person A asks if Megan eats meat. Person B says she is vegetarian, indicating she does not eat meat. Strong “no.”",20260820T143619Z_a1aca67a
+1112,7,"Person A asks if John is sick today. Person B states he has the flu, a direct confirmation. Strong “yes.”",20260820T143619Z_a1aca67a
+1113,7,Person A asks if Sonya trains daily. Person B says she runs for hours every day. Clear confirmation of daily training.,20260820T143619Z_a1aca67a
+1114,6,"Person A asks if Clara is still sleeping. Person B says she just woke up, indicating she is not still sleeping. Strong “no.”",20260820T143619Z_a1aca67a
+1115,6,"Person A asks if that movie will be released today. Person B says it comes out next week, so the answer for today is “no.” Strong “no.”",20260820T143619Z_a1aca67a
+1116,5,"Person A asks if they have ever worked with a drill. Person B says they have used one before, indicating they have. This supports “yes,” though phrasing is a bit indirect, so slightly less than maximal.",20260820T143619Z_a1aca67a
+1117,6,"Person A asks if the birthday party takes place tomorrow. Person B says they are celebrating tonight, so it is not tomorrow. Strong “no.”",20260820T143619Z_a1aca67a
+1118,6,"Person A asks if Person B is leaving their flat soon. Person B says they are moving out tomorrow, which is soon-ish and clearly indicates leaving soon. This supports “yes,” but since it’s specifically tomorrow, still very likely yes.",20260820T143619Z_a1aca67a
+1119,6,"Person A asks if he is a slacker. Person B says he was always falling behind, which implies laziness/underperformance. Strong “yes.”",20260820T143619Z_a1aca67a
+1120,7,"Person A asks if this area is popular for something. Person B says the region is famous for surfing, directly answering “yes.”",20260820T143619Z_a1aca67a
+1121,6,Person A asks if the sea is calm. Person B says it is quite rough. That indicates “no” for calm. Strong “no.”,20260820T143619Z_a1aca67a
+1122,6,"Person A asks if Person B works for a corporate company. Person B says their job is at an NGO, not corporate. Strong “no.”",20260820T143619Z_a1aca67a
+1123,7,"Person A asks if he is a writer. Person B says he has authored many successful books, confirming. Strong “yes.”",20260820T143619Z_a1aca67a
+1124,6,"Person A asks if Person B is finished working on data. Person B says they are still analyzing it, so not finished. Strong “no.”",20260820T143619Z_a1aca67a
+1125,4,"Person A asks if there are many pandas left in the world. Person B says they are an endangered species, which implies few pandas, but it does not explicitly state “many” vs “not many.” The meaning is suggestive but somewhat ambiguous, so it’s closer to uncertain.",20260820T143619Z_a1aca67a
+1126,7,Person A asks if they have joined a fitness studio. Person B says they have enrolled at the gym. Strong “yes.”,20260820T143619Z_a1aca67a
+1127,6,Person A asks if they have finished writing their thesis. Person B says the thesis is not complete yet. Strong “no.”,20260820T143619Z_a1aca67a
+1128,7,"Person A asks if they used to have long hair. Person B says their hair was way too long, confirming. Strong “yes.”",20260820T143619Z_a1aca67a
+1129,6,Person A asks if they went to Japan for vacation. Person B says it was a business trip. That implies not vacation. Strong “no.”,20260820T143619Z_a1aca67a
+1130,6,"Person A asks if a one-room flat is enough. Person B says they need a larger one, meaning one-room is not enough. Strong “no.”",20260820T143619Z_a1aca67a
+1131,7,"Person A asks if she has to hand in soon. Person B says the deadline is tomorrow, which is soon. Strong “yes.”",20260820T143619Z_a1aca67a
+1132,7,Person A asks if they had a short night. Person B says they slept only four hours. This confirms “yes.”,20260820T143619Z_a1aca67a
+1133,5,"Person A asks if the flight was still discounted. Person B says the offer already expired, meaning it was not still discounted. Strongly “no,” but phrased as ‘expired’ gives a clear negative, so likely ‘very likely no’ rather than absolute.",20260820T143619Z_a1aca67a
+1134,7,Person A asks if their cat is hurt. Person B says it got wounded. Clear confirmation of “yes.”,20260820T143619Z_a1aca67a
+1135,6,"Person A asks if we are all here. Person B says Mark is still missing, meaning not all are present. Strong “no.”",20260820T143619Z_a1aca67a
+1137,7,"Person A asks if they come from Asia. Person B says they are Chinese. Chinese implies Asia, so strong “yes.”",20260820T143619Z_a1aca67a
+1138,7,"Person A asks if you hung up. Person B says the line went dead, which indicates the connection dropped like after hanging up. Strong “yes.”",20260820T143619Z_a1aca67a
+1139,4,"Person A asks if someone is taking care of their house. Person B says they have domestics. This implies they have help for the house, which answers “yes.” Not fully explicit about “taking care,” but strongly suggests it.",20260820T143619Z_a1aca67a
+1140,6,"Person A asks if that bar has been here for long. Person B says they have just opened, meaning not for long. Strong “no.”",20260820T143619Z_a1aca67a
+1141,7,"Person A asks if he owns many books. Person B says the house is full of history books, implying many. Strong “yes.”",20260820T143619Z_a1aca67a
+1143,6,"Person A asks if there is a small gathering tonight. Person B says they have only few guests over for dinner. That aligns with a small gathering, so “yes” but slightly underspecified as ‘small gathering’ vs ‘few guests’.",20260820T143619Z_a1aca67a
+1144,6,Person A asks if they have two weeks of holiday. Person B says they only have one week off work. That indicates “no.” Strong “no.”,20260820T143619Z_a1aca67a
+1145,7,"Person A asks if Person B is pregnant. Person B says they are going to have a baby, which directly confirms pregnancy. Strong “yes.”",20260820T143619Z_a1aca67a
+1147,6,Person A asks if they have paid back their debts. Person B says they still owe the bank some money. Strong “no.”,20260820T143619Z_a1aca67a
+1148,6,"Person A asks if he drank a cocktail tonight. Person B says he only had water, which indicates “no.” Strong “no.”",20260820T143619Z_a1aca67a
+1149,5,"Person A asks if they have a vegetable garden. Person B says they own an orchard. That is not a vegetable garden; it suggests “no,” though not perfectly equivalent, so slightly less than maximal.",20260820T143619Z_a1aca67a
+1150,6,Person A asks if their son is underage. Person B says he is 25 years old. Strong “no.”,20260820T143619Z_a1aca67a
+1151,6,Person A asks if Harvard University is affordable. Person B says their tuition fee is extremely expensive. That clearly indicates not affordable. Strong “no.”,20260820T143619Z_a1aca67a
+1152,7,Person A asks if she has paid us yet. Person B says she made a bank transfer a few moments ago. That indicates payment has been made. Strong “yes.”,20260820T143619Z_a1aca67a
+1153,6,Person A asks if the kids are good at swimming. Person B says they cannot swim yet. Strong “no.”,20260820T143619Z_a1aca67a
+1154,6,Person A asks if they still have a cold. Person B says they are healthy again. Strong “no.”,20260820T143619Z_a1aca67a
+1155,7,Person A asks if it is forbidden to approach the area. Person B says people are not allowed to get closer. That confirms restriction. Strong “yes.”,20260820T143619Z_a1aca67a
+1156,6,"Person A asks if someone took care of the plants. Person B says they watered them regularly, indicating they did take care. That supports “yes.” But since it’s specific about watering rather than general care, still clearly yes.",20260820T143619Z_a1aca67a
+1157,6,Person A asks if this artist was still alive in the 80s. Person B says he was already dead by then. Strong “no.”,20260820T143619Z_a1aca67a
+1158,7,Person A asks if the lake is frozen. Person B says the ice layer is quite thick. That strongly implies the lake is frozen. Strong “yes.”,20260820T143619Z_a1aca67a
+1159,6,Person A asks if they are attending the beginners' class. Person B says they are in the advanced course. That indicates “no.” Strong “no.”,20260820T143619Z_a1aca67a
+1160,7,Person A asks if they have sought medical advice. Person B says they have seen a doctor. Strong “yes.”,20260820T143619Z_a1aca67a
+1161,6,Person A asks if they stayed home last night. Person B says they went out with friends. Strong “no.”,20260820T143619Z_a1aca67a
+1162,7,Person A asks if there was an election recently. Person B says they voted yesterday. That implies an election occurred. Strong “yes.”,20260820T143619Z_a1aca67a
+1163,7,Person A asks if the car is completely clean. Person B says it is spotless. Strong “yes.”,20260820T143619Z_a1aca67a
+1164,6,"Person A asks if they have answered all questions. Person B says they have submitted a blank sheet, implying they did not answer. Strong “no.”",20260820T143619Z_a1aca67a
+1165,6,Person A asks if she is out on the tennis field. Person B says she just got into the changing room. That suggests she is not out playing yet. Strong “no.”,20260820T143619Z_a1aca67a
+1166,7,Person A asks if he got the money back. Person B says he was compensated. That indicates getting money back. Strong “yes.”,20260820T143619Z_a1aca67a
+1167,6,Person A asks if anyone answered the house sale ad. Person B says no one has responded. Strong “no.”,20260820T143619Z_a1aca67a
+1168,6,Person A asks if he is a musician. Person B says he does not play any instrument. Strong “no.”,20260820T143619Z_a1aca67a
+1169,7,"Person A asks if he traveled in Asia. Person B says he has been in Japan for several months, which is in Asia. Strong “yes.”",20260820T143619Z_a1aca67a
+1170,6,"Person A asks if the goal is the summit. Person B says they are aiming for the mountain top, which matches summit. Strong “yes,” but ‘summit’ vs ‘mountain top’ is close; still very likely yes.",20260820T143619Z_a1aca67a
+1171,7,Person A asks if the customer got his package. Person B says the customer received it. Strong “yes.”,20260820T143619Z_a1aca67a
+1173,6,Person A asks if she attended the whole singing course. Person B says she skipped the last four lessons. Strong “no.”,20260820T143619Z_a1aca67a
+1174,7,Person A asks if the screen has a bad image. Person B says the monitor resolution is really poor. This confirms “yes.”,20260820T143619Z_a1aca67a
+1175,7,Person A asks if she completed her medical studies. Person B says she graduated from medical school last year. Strong “yes.”,20260820T143619Z_a1aca67a
+1176,6,Person A asks if it is a public building. Person B says it is a private property. Strong “no.”,20260820T143619Z_a1aca67a
+1201,6,"Same as 1101: Person A asks if still good friends; Person B says not seen him for ages, implying they are not currently good friends. Strong “no.”",20260820T143619Z_a1aca67a
+1202,7,Same as 1102: sending out an application now. Strong “yes.”,20260820T143619Z_a1aca67a
+1203,7,Same as 1103: train with him at gym. Strong “yes.”,20260820T143619Z_a1aca67a
+1204,6,"Person A asks if it is his property now, but Person B talks about grandfather passing away recently (odd mismatch). This is not directly answering property; it seems irrelevant/ambiguous, leaning uncertain.",20260820T143619Z_a1aca67a
+1205,7,Same as 1105: about 1000 km away. Strong “yes.”,20260820T143619Z_a1aca67a
+1206,7,Same as 1106: six hour drive. Strong “yes.”,20260820T143619Z_a1aca67a
+1207,5,"Same as 1107: question about being home by noon, but answer about train delay. This is not a direct yes/no to being home by noon, but delay suggests uncertainty and likely “no.”",20260820T143619Z_a1aca67a
+1208,6,"Same as 1108: there is still some left, so not finished buying cereal. Actually question is bought cereal; answer about still some left refers to cereal availability, implying they do have some. That suggests “yes,” but it’s a bit mismatched. Still likely yes but not fully explicit.",20260820T143619Z_a1aca67a
+1209,6,Same as 1109: not due for three months. Deadline not next week. Strong “no.”,20260820T143619Z_a1aca67a
+1210,7,Same as 1110: streets always congested. Strong “yes.”,20260820T143619Z_a1aca67a
+1211,6,"Same as 1111: vegetarian, not eating meat. Strong “no.”",20260820T143619Z_a1aca67a
+1212,7,Same as 1112: has flu. Strong “yes.”,20260820T143619Z_a1aca67a
+1213,7,Same as 1113: runs every day. Strong “yes.”,20260820T143619Z_a1aca67a
+1214,6,"Same as 11014: just woke up, so not still sleeping. Strong “no.”",20260820T143619Z_a1aca67a
+1215,6,Same as 1115: comes out next week. Strong “no.”,20260820T143619Z_a1aca67a
+1216,5,Same as 1116: used one before; implies yes. Slightly less than max due to indirectness.,20260820T143619Z_a1aca67a
+1217,1,Person A asks if they have failed the exam. Person B says they are celebrating tonight. That contradicts failing. Strong “no.”,20260820T143619Z_a1aca67a
+1218,6,"Person A asks if breaking up with him. Person B says moving out tomorrow, which does imply a separation, but not explicitly breakup. Still likely “yes” to breaking up; however mismatch makes it less than max.",20260820T143619Z_a1aca67a
+1219,6,Same as 1119: falling behind implies slacker. Strong “yes.”,20260820T143619Z_a1aca67a
+1220,7,Same as 1120: famous for surfing. Strong “yes.”,20260820T143619Z_a1aca67a
+1221,6,Same as 1121: sea quite rough. Strong “no.”,20260820T143619Z_a1aca67a
+1222,6,Same as 1122: NGO not corporate. Strong “no.”,20260820T143619Z_a1aca67a
+1223,7,Same as 1123: authored books. Strong “yes.”,20260820T143619Z_a1aca67a
+1224,4,"Person A asks if did you present data at meeting; Person B says still analyzing it. That suggests they haven’t presented yet. Strongly “no,” but mismatch in timing could make it a bit ambiguous; still likely no.",20260820T143619Z_a1aca67a
+1225,4,Question: is it legal to hunt pandas. Answer: pandas are endangered species. This implies legality is restricted but doesn’t explicitly say it is illegal. Ambiguous but leaning to “no.”,20260820T143619Z_a1aca67a
+1226,6,"Same as 1126: enrolled at gym, not explicitly weight loss. That suggests “no” to having lost weight, but could be effort. Slightly ambiguous; still likely no.",20260820T143619Z_a1aca67a
+1227,6,Same as 1127: thesis not complete yet. Strong “no.”,20260820T143619Z_a1aca67a
+1228,7,Same as 1128: hair was way too long. Strong “yes.”,20260820T143619Z_a1aca67a
+1229,6,"Same as 1129: business trip, not sightseeing/vacation. Likely “no” to having time for sightseeing.",20260820T143619Z_a1aca67a
+1230,6,Same as 1130: need a larger one. Strong “no.”,20260820T143619Z_a1aca67a
+1231,5,"Person A asks if she is stressed about the project. Answer: deadline is tomorrow. That suggests likely stress, but not explicit. Somewhat likely yes.",20260820T143619Z_a1aca67a
+1232,7,Same as 1132: slept only four hours. Strong “yes.”,20260820T143619Z_a1aca67a
+1233,5,Same as 1133: offer had expired. So not discounted. Somewhat likely no.,20260820T143619Z_a1aca67a
+1234,7,Same as 1134: cat got wounded. Strong “yes.”,20260820T143619Z_a1aca67a
+1235,6,Same as 1135: Mark still missing. Not all ready. Strong “no.”,20260820T143619Z_a1aca67a
+1237,1,Question: can you cook cantonese rice. Answer: I am Chinese. This doesn’t address cooking ability; irrelevant/ambiguous. Likely “no” to ability.,20260820T143619Z_a1aca67a
+1238,6,"Question about hanging up; answer line went dead, implying connection cut. Strong “yes,” but as 'hanged up' vs line dead is close; still likely yes.",20260820T143619Z_a1aca67a
+1239,5,"Question if house always tidy; answer: they have domestics (house help). This implies tidiness maintenance, but doesn’t explicitly say it’s tidy. Somewhat likely yes.",20260820T143619Z_a1aca67a
+1240,6,Question if tried that bar yet; answer: just opened. Doesn’t say whether you tried it. Ambiguous; slightly suggests you haven’t had chance yet -> likely no.,20260820T143619Z_a1aca67a
+1241,7,Question if passion for history; answer: house full of history books. Strong “yes.”,20260820T143619Z_a1aca67a
+1243,4,Question if saucepan big enough; answer about few guests over for dinner. Irrelevant. Cannot infer size; ambiguous.,20260820T143619Z_a1aca67a
+1244,6,Question about two-week trip; answer: only one week off work. Strong “no.”,20260820T143619Z_a1aca67a
+1245,1,Question about avoiding drinking alcohol; answer: going to have a baby. Unrelated to alcohol avoidance. So likely “no” (not answering).,20260820T143619Z_a1aca67a
+1247,6,Same as 1147: still owe the bank. Strong “no.”,20260820T143619Z_a1aca67a
+1248,6,"Same as 1148: only water, not cocktail. Strong “no.”",20260820T143619Z_a1aca67a
+1249,5,"Question about vegetable garden; answer orchard. Not vegetable garden, so likely no, but orchard could still imply some produce. Somewhat likely no.",20260820T143619Z_a1aca67a
+1250,6,Same as 1150: 25 years old. Strong “no.”,20260820T143619Z_a1aca67a
+1251,6,Same as 1151: tuition extremely expensive. Not affordable. Strong “no.”,20260820T143619Z_a1aca67a
+1252,7,Same as 1152: made bank transfer. Payment received. Strong “yes.”,20260820T143619Z_a1aca67a
+1253,6,Same as 1153: cannot swim yet. Strong “no.”,20260820T143619Z_a1aca67a
+1254,6,Same as 1154: healthy again. Not still taking pills/cold. Likely “no.”,20260820T143619Z_a1aca67a
+1255,6,"Question if area contaminated; answer says people not allowed to get closer. That implies restricted area, but not explicit contamination. Somewhat likely no (to contamination being confirmed).",20260820T143619Z_a1aca67a
+1256,7,Question if plants still alive; answer says watered them regularly. Suggests they are alive. Somewhat likely yes to likely yes; still direct care indicates. ,20260820T143619Z_a1aca67a
+1257,6,Question if artwork created in 1981; answer he was already dead by then. Strong “no.”,20260820T143619Z_a1aca67a
+1258,5,Question if ice skating season; answer: ice layer quite thick. Suggests ice exists but not season. Somewhat likely yes.,20260820T143619Z_a1aca67a
+1259,6,Question if beginner; answer advanced course. Strong “no.”,20260820T143619Z_a1aca67a
+1260,7,Question have you been sick; answer seen a doctor. Suggests illness. Strong “yes.”,20260820T143619Z_a1aca67a
+1261,6,Question did you go to bed early; answer went out with friends. Doesn’t confirm early bed; likely no.,20260820T143619Z_a1aca67a
+1262,7,Question if members can elect a representative; answer they voted yesterday. Voting implies election/ability. Strong “yes.”,20260820T143619Z_a1aca67a
+1263,7,Question if car back from car wash and clean; answer spotless. Strong “yes.”,20260820T143619Z_a1aca67a
+1264,6,Question if written a good exam; answer submitted a blank sheet. Strong “no.”,20260820T143619Z_a1aca67a
+1265,6,Question if she is dressed for tennis field; answer just got into changing room (not yet dressed/playing). Strong “no.”,20260820T143619Z_a1aca67a
+1266,7,"Question did he settle lawsuit; answer he was compensated, indicating settlement/compensation. Strong “yes.”",20260820T143619Z_a1aca67a
+1267,6,Question have you sold that house; answer no one has responded. Strong “no.”,20260820T143619Z_a1aca67a
+1268,6,Question part of marching band; answer does not play any instrument. Strong “no.”,20260820T143619Z_a1aca67a
+1269,6,Question ever tried sushi; answer been in Japan. Not about sushi. Likely “no” to trying sushi.,20260820T143619Z_a1aca67a
+1270,5,Question is whole way going uphill; answer aiming for mountain top. Not about current slope. Somewhat uncertain/leaning no.,20260820T143619Z_a1aca67a
+1271,7,Question shipped to customer; answer customer received it. Strong “yes.”,20260820T143619Z_a1aca67a
+1273,6,Question dedicated to singing course; answer skipped last four lessons. Strong “no.”,20260820T143619Z_a1aca67a
+1274,7,"Question about eye strain; answer monitor resolution really poor. Could cause strain, but explicitly about monitor quality. Still clearly indicates likely eye strain; strong yes.",20260820T143619Z_a1aca67a
+1275,7,Question if she is a medical doctor; answer graduated from medical school last year. Indicates medical qualification. Strong “yes.”,20260820T143619Z_a1aca67a
+1276,6,Question ever been inside building; answer it is private property. Doesn’t confirm whether they have been inside. Likely “no”/uncertain; leaning no.,20260820T143619Z_a1aca67a
+2101,7,Question about having to study for the test. Answer: need to revise topics. That confirms needing study. Strong “yes.”,20260820T143619Z_a1aca67a
+2102,7,Question if anything came out in cinemas recently. Answer: there is an interesting new movie. Strong “yes.”,20260820T143619Z_a1aca67a
+2103,7,Question if cold in village. Answer quite chilly. Strong “yes.”,20260820T143619Z_a1aca67a
+2105,5,Question know anything about the novel. Answer: heard good things about that book. That indicates some knowledge/awareness. Somewhat likely yes.,20260820T143619Z_a1aca67a
+2106,6,"Question injured at yoga class. Answer pulled a muscle last time. Suggests injury, though not explicitly 'yoga class' this time. Still likely no to question? Actually confirms injury occurred. Strongly yes -> score high.",20260820T143619Z_a1aca67a
+2107,7,Question lost your phone. Answer cannot find my phone. Strong “yes.”,20260820T143619Z_a1aca67a
+2108,7,Question cold outside. Answer minus 20 degrees. Strong “yes.”,20260820T143619Z_a1aca67a
+2109,7,Question are we in a religious building. Answer just entered a church. Strong “yes.”,20260820T143619Z_a1aca67a
+2110,7,Question if workouts usually difficult. Answer training very hard. Strong “yes.”,20260820T143619Z_a1aca67a
+2113,7,Question were you working today. Answer been working on exhausting task. Strong “yes.”,20260820T143619Z_a1aca67a
+2114,6,Question got swimming gear with you. Answer did not bring my bikini. Indicates no gear. Strong “no.”,20260820T143619Z_a1aca67a
+2115,6,Question are you free at the moment. Answer do not have time. Strong “no.”,20260820T143619Z_a1aca67a
+2116,1,Question watched Titanic yesterday. Answer watched it last month. Contradicts yesterday. Strong “no.”,20260820T143619Z_a1aca67a
+2117,1,Question eating more than usual. Answer on a diet (implies not eating more). Strong “no.”,20260820T143619Z_a1aca67a
+2118,6,Question practise Hinduism. Answer actually a Muslim. So not Hinduism. Strong “no.”,20260820T143619Z_a1aca67a
+2119,5,"Question feeling ok. Answer head is spinning after all these beers. Not ok, so “no.” But could be temporary; still likely no.",20260820T143619Z_a1aca67a
+2120,1,Question energetic today. Answer very tired. Strong “no.”,20260820T143619Z_a1aca67a
+2121,6,Question any money saved up. Answer broke at moment. Strong “no.”,20260820T143619Z_a1aca67a
+2122,5,"Question first experience with chain saw. Answer used one already in past. Implies not first. Somewhat likely yes to 'not first' -> question is first experience, so answer is “no.” Thus score leans “no” high: very likely no.",20260820T143619Z_a1aca67a
+2123,1,Question is it morning in LA. Answer it is 11 p.m. That means not morning. Strong “no.”,20260820T143619Z_a1aca67a
+2124,1,Question feeling good. Answer have hangover. Not good. Strong “no.”,20260820T143619Z_a1aca67a
+2125,5,"Question free of chronic disease. Answer actually diabetic. So not free. Strong “no,” though it’s one disease specified. Somewhat likely no (very likely no overall).",20260820T143619Z_a1aca67a
+2127,6,Question feel well on boats. Answer usually get seasick. Strong “no.”,20260820T143619Z_a1aca67a
+2128,6,Question teeth still hurting. Answer toothache is gone. Strong “no.”,20260820T143619Z_a1aca67a
+2129,7,Question many stations on your way. Answer several bus stops before destination. That indicates multiple stops; supports “yes.”,20260820T143619Z_a1aca67a
+2130,6,Question allowed to staple documents. Answer should not staple them. Strong “no.”,20260820T143619Z_a1aca67a
+2131,7,"Question luggage weigh much. Answer very light. Strong “no” but question is 'weigh much?' -> answer indicates it does not weigh much, so “no.”",20260820T143619Z_a1aca67a
+2132,7,Question need to wake up early tomorrow. Answer have to get up at 5 am. Strong “yes.”,20260820T143619Z_a1aca67a
+2134,1,Question Spanish mother tongue. Answer French is native. Strong “no.”,20260820T143619Z_a1aca67a
+2135,7,Question remote still unusable. Answer it does not work. Strong “yes.”,20260820T143619Z_a1aca67a
+2136,7,Question wild animals in region. Answer wolves very common. Strong “yes.”,20260820T143619Z_a1aca67a
+2137,6,Question trees in garden. Answer only cacti. Strong “no.”,20260820T143619Z_a1aca67a
+2138,7,Question passport necessary. Answer need it for travelling. Strong “yes.”,20260820T143619Z_a1aca67a
+2139,5,Question brought some pie for lunch. Answer has got a sandwich. Doesn’t confirm pie. Somewhat likely no.,20260820T143619Z_a1aca67a
+2140,5,"Question kids about to leave. Answer they have to go out soon. Strongly indicates yes, but phrasing is general. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2141,7,Question already hungry. Answer right now I am starving. Strong “yes.”,20260820T143619Z_a1aca67a
+2144,7,Question often consume hot drinks. Answer drink tea all the time. Strong “yes.”,20260820T143619Z_a1aca67a
+2145,6,Question room very bright. Answer too much light. Strong “yes.”,20260820T143619Z_a1aca67a
+2146,6,Question stay in town till Friday. Answer will be abroad then. Strong “no.”,20260820T143619Z_a1aca67a
+2147,7,Question eating something. Answer having a soup. Strong “yes.”,20260820T143619Z_a1aca67a
+2148,7,Question raining already. Answer just started pouring. Strong “yes.”,20260820T143619Z_a1aca67a
+2149,7,Question consume alcohol. Answer I do not drink. So “no” to consume alcohol. The question is about alcohol consumption; reply indicates not consuming. Strong “no.”,20260820T143619Z_a1aca67a
+2150,6,Question everything taken away from flat. Answer dishwasher in kitchen. That suggests not everything taken away. Strong “no.”,20260820T143619Z_a1aca67a
+2151,6,Question still have tennis equipment. Answer gave away racket ages ago. Strong “no.”,20260820T143619Z_a1aca67a
+2152,6,Question consume all types of food. Answer do not eat spicy dishes. Strong “no.”,20260820T143619Z_a1aca67a
+2153,7,Question neighbours. Answer live right next to you. Strong “yes.”,20260820T143619Z_a1aca67a
+2155,7,"Question still confused. Answer understand everything now. Strong “no” to confusion, so question likely asks confused? Yes it is 'still confused about it?' -> answer says not confused. Strong 'no' -> score 1-3. Choose very likely no => score 2/3; but answer is clear. So 2.",20260820T143619Z_a1aca67a
+2156,7,Question pain in upper body. Answer chest hurts a lot. Strong “yes.”,20260820T143619Z_a1aca67a
+2157,6,Question winter there. Answer middle of summer. Strong “no.”,20260820T143619Z_a1aca67a
+2159,7,Question did you get hurt. Answer cut finger while cooking. Strong “yes.”,20260820T143619Z_a1aca67a
+2160,6,Question living room dirty. Answer dust all over the floor. Strong “yes.”,20260820T143619Z_a1aca67a
+2161,7,Question left toothpaste at home. Answer brought mine. Strong “no” to having left it at home; question implies left at home? So answer indicates not left. Strong “no.”,20260820T143619Z_a1aca67a
+2162,6,Question lips damaged with wind. Answer lips are all chapped. Strong “yes.”,20260820T143619Z_a1aca67a
+2163,5,Question doing afternoon shift tomorrow. Answer working early tomorrow morning. That contradicts afternoon shift. Somewhat likely no.,20260820T143619Z_a1aca67a
+2164,6,Question going to have dinner at home. Answer plan to eat at a restaurant. Strong “no.”,20260820T143619Z_a1aca67a
+2165,7,Question hedges taller than last time. Answer grown a lot recently. Strong “yes.”,20260820T143619Z_a1aca67a
+2166,7,Question finished cooking. Answer lunch now ready. Implies cooking finished. Strong “yes.”,20260820T143619Z_a1aca67a
+2167,7,Question have difficult homework. Answer math exercise very complicated. Strong “yes.”,20260820T143619Z_a1aca67a
+2168,6,Question decided on a destination. Answer not sure where to go yet. Strong “no.”,20260820T143619Z_a1aca67a
+2169,5,Question smoke cigarettes. Answer smoke cigars only. That indicates not cigarettes. Somewhat likely no.,20260820T143619Z_a1aca67a
+2170,6,Question writing on paper. Answer type directly on laptop. Strong “no.”,20260820T143619Z_a1aca67a
+2171,6,"Question kitchen still incomplete. Answer new stove not delivered yet, implying incomplete. Strong “yes” to incomplete -> question asks still incomplete? yes. so score 7; but indicates kitchen incomplete. choose 7? Actually reply: stove not delivered yet (part incomplete). likely yes strong.",20260820T143619Z_a1aca67a
+2172,7,Question car theft occur often. Answer cars get stolen regularly. Strong “yes.”,20260820T143619Z_a1aca67a
+2173,6,Question room in wardrobe. Answer completely full of clothes. Strong “no.”,20260820T143619Z_a1aca67a
+2174,7,Question lot of laundry to wash. Answer dirty laundry piling up. Strong “yes.”,20260820T143619Z_a1aca67a
+2175,7,Question taking time for breakfast. Answer can have a relaxed breakfast. Strong “yes.”,20260820T143619Z_a1aca67a
+2201,4,Question study together. Answer need to revise some topics. Doesn’t clearly agree to study together; ambiguous about joint studying. Uncertain/ambiguous.,20260820T143619Z_a1aca67a
+2202,7,Question go to cinema. Answer there is an interesting new movie. Supports going. Strong “yes.”,20260820T143619Z_a1aca67a
+2203,4,Question close the window. Answer quite chilly. That suggests perhaps keep it open? Not direct. Ambiguous.,20260820T143619Z_a1aca67a
+2205,5,Question borrow this book. Answer heard good things about that book. Doesn’t say they want to borrow; unclear. Slightly suggests not borrowing but ambiguous.,20260820T143619Z_a1aca67a
+2206,1,Question skip yoga class. Answer pulled a muscle last time (related but not agreeing to skip). Doesn’t answer skip; could be reason to not skip. Likely “no” to skipping.,20260820T143619Z_a1aca67a
+2207,6,"Question want to use phone. Answer cannot find my phone. That implies no, they can’t. Strong “no.”",20260820T143619Z_a1aca67a
+2208,7,Question need a coat. Answer minus 20 degrees. Implies need coat. Strong “yes.”,20260820T143619Z_a1aca67a
+2209,7,Question turn off phones. Answer we have just entered a church. That suggests turning off phones/manners. Likely “yes.”,20260820T143619Z_a1aca67a
+2210,4,Question want protein shake. Answer training very hard. Doesn’t explicitly say yes/no about shake. Ambiguous.,20260820T143619Z_a1aca67a
+2213,7,Question take break from work. Answer been working on exhausting task. That implies need a break; somewhat yes though not explicit. But strong enough for yes.,20260820T143619Z_a1aca67a
+2214,6,"Question go to the lake. Answer did not bring bikini. Doesn’t directly refuse going, but suggests cannot swim; still implies “no” to going to the lake for their purpose. Somewhat likely no.",20260820T143619Z_a1aca67a
+2215,6,Question coming to the talk. Answer do not have time. Strong “no.”,20260820T143619Z_a1aca67a
+2216,6,Question watch Titanic tonight. Answer watched last month. Not tonight. Strong “no.”,20260820T143619Z_a1aca67a
+2217,6,Question have dessert. Answer on a diet. Strong “no.”,20260820T143619Z_a1aca67a
+2218,1,"Question want some pork. Answer actually a Muslim. Doesn’t explicitly mention pork, but implied dietary restriction. Likely no. Score very likely no.",20260820T143619Z_a1aca67a
+2219,4,Question want another beer. Answer head is spinning after all these beers. Indicates they don’t want more; somewhat likely no.,20260820T143619Z_a1aca67a
+2220,6,Question go out. Answer very tired. Strong “no.”,20260820T143619Z_a1aca67a
+2221,6,Question go on a trip. Answer broke at the moment. Strong “no.”,20260820T143619Z_a1aca67a
+2222,5,Question need help with chain saw. Answer used one before. Doesn’t explicitly need help; ambiguous but suggests they can manage. Somewhat likely no.,20260820T143619Z_a1aca67a
+2223,4,Question go to cinema. Answer it is 11 p.m. Not direct; ambiguous about going at that time.,20260820T143619Z_a1aca67a
+2224,6,Question have some drinks. Answer have a hangover. Strong “no.”,20260820T143619Z_a1aca67a
+2225,5,Question want some cake. Answer actually diabetic. Implies dietary restriction; likely no but not explicit about cake. Somewhat likely no.,20260820T143619Z_a1aca67a
+2227,6,Question joining for sea cruise. Answer usually get seasick. That indicates not wanting/likely no. Strong “no.”,20260820T143619Z_a1aca67a
+2228,6,Question want painkillers. Answer toothache is gone. Strong “no.”,20260820T143619Z_a1aca67a
+2229,4,Question take my bus seat. Answer has several bus stops before destination. Doesn’t address taking a seat. Ambiguous.,20260820T143619Z_a1aca67a
+2230,6,Question want stapler for documents. Answer should not staple them. Strong “no.”,20260820T143619Z_a1aca67a
+2231,6,Question need help with luggage. Answer very light. Strong “no.”,20260820T143619Z_a1aca67a
+2232,7,Question set alarm clock for tomorrow. Answer have to get up at 5 am. Strong “yes” to needing an alarm.,20260820T143619Z_a1aca67a
+2234,7,Question check your French spelling. Answer French is my native language. Implies yes you can check/correct French. Strong “yes.”,20260820T143619Z_a1aca67a
+2235,6,"Question change remote batteries. Answer it does not work. Doesn’t explicitly say battery change needed, but implies issue unresolved. Ambiguous; likely no.",20260820T143619Z_a1aca67a
+2236,5,Question lock up cattle before nightfall. Answer wolves very common here. Suggests need to lock cattle. Somewhat likely yes.,20260820T143619Z_a1aca67a
+2237,1,Question water your plants tomorrow. Answer only have cacti. Doesn’t have plants to water (or at least not those). Likely no.,20260820T143619Z_a1aca67a
+2238,7,Question pack passport. Answer need it for travelling. Strong “yes.”,20260820T143619Z_a1aca67a
+2239,7,Question would you like some food. Answer have got a sandwich. Strong “yes.”,20260820T143619Z_a1aca67a
+2240,5,Question wake up the kids. Answer they have to go out soon. Implies yes they need waking; somewhat likely yes.,20260820T143619Z_a1aca67a
+2241,7,Question offer biscuits. Answer right now I am starving. Strong “yes” to wanting food/snack.,20260820T143619Z_a1aca67a
+2244,7,"Question use my kettle. Answer drink tea all the time. Implies yes, can use kettle for tea. Strong “yes.”",20260820T143619Z_a1aca67a
+2245,6,Question turn down dimmer. Answer too much light in here. Strong “yes” to turning down.,20260820T143619Z_a1aca67a
+2246,6,Question coming to party this Friday. Answer will be abroad then. Strong “no.”,20260820T143619Z_a1aca67a
+2247,7,Question do you want a spoon. Answer having a soup. Implies they need spoon. Strong “yes.”,20260820T143619Z_a1aca67a
+2248,7,Question want an umbrella. Answer just started pouring. Strong “yes.”,20260820T143619Z_a1aca67a
+2249,6,Question want wine. Answer do not drink. Strong “no.”,20260820T143619Z_a1aca67a
+2250,5,Question do the dishes. Answer dishwasher in kitchen. Doesn’t directly say no to doing dishes; could mean use dishwasher instead. Ambiguous but leans no to manual doing dishes.,20260820T143619Z_a1aca67a
+2251,6,Question play tennis. Answer gave away racket ages ago. Strong “no.”,20260820T143619Z_a1aca67a
+2252,6,Question get mexican food. Answer do not eat spicy dishes. Strong “no.”,20260820T143619Z_a1aca67a
+2253,7,Question want ride home. Answer live right next to you. This implies yes can give ride? Actually they are right next; likely no ride needed. But question is offer ride home; answer indicates you don't need it. So “no.”,20260820T143619Z_a1aca67a
+2255,7,"Question explain again. Answer understand everything now. So no need to explain again. Strong “no” relative, but asked whether should I explain—answer indicates don’t. Thus score for “yes” would be no -> score 2/3. Choose very likely no =>2.",20260820T143619Z_a1aca67a
+2256,7,"Question call the doctor. Answer chest hurts a lot. This indicates yes, should call doctor. Strong “yes.”",20260820T143619Z_a1aca67a
+2257,6,Question extra blanket. Answer in middle of summer. Implies no need blanket. Strong “no.”,20260820T143619Z_a1aca67a
+2259,7,Question want a plaster. Answer cut finger while cooking. That indicates yes need plaster. Strong “yes.”,20260820T143619Z_a1aca67a
+2260,7,Question sweep living room. Answer dust all over the floor. Strong “yes” to sweeping.,20260820T143619Z_a1aca67a
+2261,6,Question would you like toothpaste. Answer brought mine. That implies you don’t need theirs. Strong “no.”,20260820T143619Z_a1aca67a
+2262,7,Question want lip balm. Answer lips chapped. Strong “yes” to needing balm.,20260820T143619Z_a1aca67a
+2263,1,Question joining for drinks tonight. Answer working early tomorrow morning. That suggests not joining. Strong “no.”,20260820T143619Z_a1aca67a
+2264,6,Question cook for both of us. Answer plan to eat at a restaurant. So no cooking at home. Strong “no.”,20260820T143619Z_a1aca67a
+2265,6,Question prune hedges. Answer grown a lot recently; could indicate need pruning but not explicit. Ambiguous; slightly likely yes to pruning.,20260820T143619Z_a1aca67a
+2266,7,Question set the table. Answer lunch now ready. Strong “yes.”,20260820T143619Z_a1aca67a
+2267,6,"Question calculator for homework. Answer math exercise very complicated. Doesn’t directly say calculator needed, but suggests need help; somewhat likely yes to needing calculator.",20260820T143619Z_a1aca67a
+2268,1,"Question buy train tickets. Answer not sure where to go yet. So no, don’t buy tickets. Strong “no.”",20260820T143619Z_a1aca67a
+2269,6,Question cigarette to smoke. Answer smoke cigars only. Strong “no” for cigarettes.,20260820T143619Z_a1aca67a
+2270,5,Question want some paper. Answer usually type directly on laptop. Implies no paper needed. Somewhat likely no.,20260820T143619Z_a1aca67a
+2271,6,Question get delivery food. Answer stove not delivered yet. Doesn’t address delivery food; ambiguous but suggests not. Likely “no.”,20260820T143619Z_a1aca67a
+2272,1,Question lock your car. Answer cars get stolen regularly here. That suggests you should lock it; question 'would you like me to lock your car?' implies yes. Strong “yes” actually. The safest mapping: theft occurs regularly -> lock is advisable -> yes. So score 6.,20260820T143619Z_a1aca67a
+2273,6,Question go shopping for clothes. Answer wardrobe completely full. So no need shopping. Strong “no.”,20260820T143619Z_a1aca67a
+2274,7,Question do the laundry. Answer dirty laundry piling up. That implies yes need doing. Strong “yes.”,20260820T143619Z_a1aca67a
+2275,6,Question want pancakes for breakfast. Answer can have relaxed breakfast. Doesn’t specify pancakes; ambiguous but likely no. Somewhat likely no.,20260820T143619Z_a1aca67a

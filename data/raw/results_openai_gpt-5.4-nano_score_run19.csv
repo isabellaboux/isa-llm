@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,7,"Person B responds with, ""I have not seen him for ages,"" which directly indicates they have not met Martin lately. This is a clear negative answer to whether they met him recently.",20260820T143619Z_a1aca67a
+1102,7,"Person B says, ""I am sending out an application,"" which explicitly indicates an ongoing activity. That strongly answers yes to whether they are doing something right now.",20260820T143619Z_a1aca67a
+1103,7,"Person B: ""I train with him at the gym,"" directly confirms exercising with Lukas. This is an unambiguous yes.",20260820T143619Z_a1aca67a
+1104,7,"Person B confirms: ""His grandfather passed away recently,"" which answers yes to there being a death in the family.",20260820T143619Z_a1aca67a
+1105,7,"Person B states the distance: ""about 1000 Km away,"" confirming it is far. This is a direct yes.",20260820T143619Z_a1aca67a
+1106,6,"Person B: ""It is a six hour drive,"" which implies it takes a long time. Likely yes, though “long” is slightly relative, but six hours is clearly long.",20260820T143619Z_a1aca67a
+1107,6,"Person B says the train ""has some delay,"" indicating the journey is not going exactly as planned. That is very likely a negative with respect to “going as planned,” but the question expects yes/no about whether it is going as planned; answer implies no. Score should lean no—however delay indicates uncertainty. Interpreting strictly, it is likely no, so score should be 2-3. But the rubric asks yes vs no: since statement implies not as planned, give likely no.",20260820T143619Z_a1aca67a
+1108,7,"Person B says there is still some cereal left, meaning they have not finished. This is a definitive yes to the negation, but question asks ""Have they finished?""—answer is effectively no. So score should be likely no; correcting: score 2/3? It's clearly no.",20260820T143619Z_a1aca67a
+1109,6,"Person B: ""It is not due for three months,"" which means the deadline is not next week. That is very likely a no.",20260820T143619Z_a1aca67a
+1110,7,"""The streets are always congested with cars"" directly supports that there is usually a lot of traffic. Yes, strongly.",20260820T143619Z_a1aca67a
+1111,7,"Person B: ""She is vegetarian"" directly answers no to eating meat. Since the question is 'Does Megan eat meat?', the answer implies no very strongly—so score should be likely no.",20260820T143619Z_a1aca67a
+1112,7,"Person B: ""He has the flu"" is a clear confirmation he is sick today. Yes strongly.",20260820T143619Z_a1aca67a
+1113,7,"""She runs for hours every day"" indicates daily training. Clear yes.",20260820T143619Z_a1aca67a
+1114,6,"""She just woke up"" suggests she was sleeping and now is not. That implies the answer to 'still sleeping' is no, likely yes for no. So likely no.",20260820T143619Z_a1aca67a
+1115,6,"""It comes out next week"" means not released today. Very likely no.",20260820T143619Z_a1aca67a
+1116,6,"""I have used one before"" indicates experience with a drill. Yes to having ever worked with it.",20260820T143619Z_a1aca67a
+1117,6,"""I am celebrating tonight"" suggests the party is not tomorrow. Very likely no.",20260820T143619Z_a1aca67a
+1118,7,"""I am moving out tomorrow"" indicates leaving the flat soon (tomorrow). Strongly yes.",20260820T143619Z_a1aca67a
+1119,6,"""He was always falling behind"" indicates he is a slacker. Very likely yes.",20260820T143619Z_a1aca67a
+1120,6,"""famous for surfing"" indicates the area is popular for something. Very likely yes.",20260820T143619Z_a1aca67a
+1121,5,"Person B says ""quite rough,"" implying sea is not calm. For 'Is the sea calm?', that is somewhat likely no, so score should reflect likely no. Give 3-4; it is fairly direct, so 3.",20260820T143619Z_a1aca67a
+1122,7,"Person B says their job is at an NGO, not a corporate company. The question is 'Do you work for a corporate company?'—so answer implies no very likely.",20260820T143619Z_a1aca67a
+1123,7,"""He has authored many successful books"" directly indicates he is a writer. Yes.",20260820T143619Z_a1aca67a
+1124,7,"""I am still analyzing it"" means not finished working on the data. Question: 'Are you finished...?' Answer implies no, very likely.",20260820T143619Z_a1aca67a
+1125,6,"""They are an endangered species"" answers yes that there are not many pandas left. So likely yes.",20260820T143619Z_a1aca67a
+1126,7,"""I have enrolled at the gym"" confirms joining a fitness studio. Yes.",20260820T143619Z_a1aca67a
+1127,7,"""My thesis is not complete yet"" means not finished. Question 'Have you finished?' => no very likely.",20260820T143619Z_a1aca67a
+1128,7,"""My hair was way too long"" indicates they used to have long hair. Yes.",20260820T143619Z_a1aca67a
+1129,6,"""It was a business trip"" means not a vacation in Japan. Very likely no.",20260820T143619Z_a1aca67a
+1130,6,"""I need a larger one"" indicates a one-room flat is not enough. Very likely no.",20260820T143619Z_a1aca67a
+1131,7,"""The deadline is tomorrow"" confirms she has to hand in soon. Yes.",20260820T143619Z_a1aca67a
+1132,7,"""I slept only four hours"" indicates a short night. Yes.",20260820T143619Z_a1aca67a
+1133,6,"""The offer had already expired"" suggests the flight was not still discounted. Very likely no.",20260820T143619Z_a1aca67a
+1134,7,"""It got wounded"" confirms the cat is hurt. Yes.",20260820T143619Z_a1aca67a
+1135,6,"""Mark is still missing"" implies not all are here. For 'Are we all here?', that's very likely no.",20260820T143619Z_a1aca67a
+1137,7,"""I am Chinese"" answers yes to coming from Asia. Yes strongly.",20260820T143619Z_a1aca67a
+1138,7,"""The line went dead"" indicates the call connection is ended; implies hung up. For 'Did you hang up?', yes.",20260820T143619Z_a1aca67a
+1139,6,"""They have domestics"" suggests someone is taking care of the house. Yes likely.",20260820T143619Z_a1aca67a
+1140,6,"""They have just opened"" indicates the bar has not been here long. For 'been here for long?', answer implies no very likely.",20260820T143619Z_a1aca67a
+1141,7,"""His house is full of history books"" indicates he owns many books. Yes.",20260820T143619Z_a1aca67a
+1143,5,"""only few guests over for dinner"" implies small gathering. Yes somewhat likely.",20260820T143619Z_a1aca67a
+1144,6,"""I only have one week off work"" means not two weeks. Very likely no.",20260820T143619Z_a1aca67a
+1145,6,"""I am going to have a baby"" indicates pregnancy. Yes very likely.",20260820T143619Z_a1aca67a
+1147,7,"""I still owe the bank some money"" indicates debts not fully paid back. So 'Have you paid back your debts?' => no very likely.",20260820T143619Z_a1aca67a
+1148,7,"""He only had water"" indicates no cocktail tonight. For 'Did he drink a cocktail?', answer implies no very likely.",20260820T143619Z_a1aca67a
+1149,5,"""I own an orchard"" could imply some garden produce but not specifically a vegetable garden. Unclear; likely no to vegetable garden.",20260820T143619Z_a1aca67a
+1150,7,"""He is 25 years old"" indicates not underage. So 'Is your son underage?' => no very likely.",20260820T143619Z_a1aca67a
+1151,6,"""tuition fee is extremely expensive"" implies not affordable. Very likely no.",20260820T143619Z_a1aca67a
+1152,7,"""She made a bank transfer few moments ago"" suggests they have been paid. Yes to 'Has she paid us yet?'.",20260820T143619Z_a1aca67a
+1153,7,"""They cannot swim yet"" answers no to being good at swimming. So 'Are the kids good at swimming?' => likely no.",20260820T143619Z_a1aca67a
+1154,7,"""I am healthy again"" means no longer have a cold. Question 'Have you still got a cold?' => no very likely.",20260820T143619Z_a1aca67a
+1155,7,"""People are not allowed to get closer"" directly confirms it's forbidden to approach. Yes.",20260820T143619Z_a1aca67a
+1156,7,"""I have watered them regularly"" indicates someone did take care of plants (you did). Yes.",20260820T143619Z_a1aca67a
+1157,7,"""He was already dead by then"" means not alive in the 80s. So 'still alive in the 80s?' => no very likely.",20260820T143619Z_a1aca67a
+1158,6,"""ice layer is quite thick"" implies frozen. Yes likely.",20260820T143619Z_a1aca67a
+1159,7,"""in the advanced course"" means not attending beginners class. So 'Are you attending the beginners' class?' => no very likely.",20260820T143619Z_a1aca67a
+1160,6,"""I have seen a doctor"" indicates sought medical advice. Yes likely.",20260820T143619Z_a1aca67a
+1161,7,"""I went out with some friends"" contradicts staying home. So 'Did you stay home last night?' => no very likely.",20260820T143619Z_a1aca67a
+1162,6,"""They voted yesterday"" indicates election occurred recently. Yes likely.",20260820T143619Z_a1aca67a
+1163,7,"""It is spotless"" confirms completely clean. Yes.",20260820T143619Z_a1aca67a
+1164,7,"""submitted a blank sheet"" means not answered all questions. So question 'Have they answered all questions?' => no very likely.",20260820T143619Z_a1aca67a
+1165,6,"""She has just got into the changing room"" suggests not out on the tennis field yet. So 'out on the tennis field?' => likely no.",20260820T143619Z_a1aca67a
+1166,7,"""He was compensated"" indicates lawsuit settled. Yes.",20260820T143619Z_a1aca67a
+1167,7,"""No one has responded"" means no answers to house sale ad. So 'Has anyone answer?' => no very likely.",20260820T143619Z_a1aca67a
+1168,7,"""He does not play any instrument"" implies not a musician. So 'Is he a musician?' => no very likely.",20260820T143619Z_a1aca67a
+1169,7,"""been in Japan for several months"" indicates travel in Asia. Yes.",20260820T143619Z_a1aca67a
+1170,6,"""aiming for the mountain top"" corresponds to summit goal. Yes likely.",20260820T143619Z_a1aca67a
+1171,7,"""The customer received it"" confirms they got the package. Yes.",20260820T143619Z_a1aca67a
+1173,6,"""She skipped the last four lessons"" means she did not attend whole course. So 'Did she attend the whole...?' => no very likely.",20260820T143619Z_a1aca67a
+1174,6,"""monitor's resolution is really poor"" indicates bad image. Yes likely.",20260820T143619Z_a1aca67a
+1175,7,"""She graduated... last year"" means completed medical studies. Yes.",20260820T143619Z_a1aca67a
+1176,7,"""It is a private property"" means not a public building. For 'Is that a public building?' => no very likely.",20260820T143619Z_a1aca67a
+1201,7,"""I have not seen him for ages"" means not still good friends (at least not seen). Strongly indicates no.",20260820T143619Z_a1aca67a
+1202,7,"""I am sending out an application"" answers yes to looking for a job.",20260820T143619Z_a1aca67a
+1203,7,"""I train with him at the gym"" confirms knowing Lukas. Yes.",20260820T143619Z_a1aca67a
+1204,7,"This question asks if his property now, but B says grandfather passed away—irrelevant. So ambiguous/irrelevant.",20260820T143619Z_a1aca67a
+1205,7,"""about 1000 Km away"" indicates it takes long to drive to Paris / Paris far. Yes.",20260820T143619Z_a1aca67a
+1206,6,"""six hour drive"" indicates Munich far. Likely yes.",20260820T143619Z_a1aca67a
+1207,6,"""train has some delay"" implies not by noon. So question 'Will you be home by noon?' => no very likely.",20260820T143619Z_a1aca67a
+1208,7,"""There is still some left"" means they have cereal already, so yes they have bought it. Interpreting the question as 'Have you bought cereal?' answer indicates yes.",20260820T143619Z_a1aca67a
+1209,7,"""not due for three months"" => not next week deadline; but question is 'Have you started writing?' B doesn't answer. Irrelevant; ambiguous.",20260820T143619Z_a1aca67a
+1210,6,"""streets are always congested"" implies being late likely. So yes to being late. Very likely yes.",20260820T143619Z_a1aca67a
+1211,7,"""She is vegetarian"" => no meat. So 'coming to the steak house?' suggests not likely to go? Actually eating meat doesn't imply not coming, but question is coming to steak house. B does not answer. Irrelevant; ambiguous.",20260820T143619Z_a1aca67a
+1212,7,"""He has the flu"" confirms staying home due to sickness? It directly implies John sick; yes to question? The question: Is John staying home? likely yes due to flu, so likely yes.",20260820T143619Z_a1aca67a
+1213,6,"""She runs for hours every day"" answers yes she registered? Not directly. It's about training daily vs registered. Irrelevant.",20260820T143619Z_a1aca67a
+1214,7,"""She just woke up"" implies breakfast likely not yet. Question says have breakfast already—answer implies no very likely.",20260820T143619Z_a1aca67a
+1215,6,"""comes out next week"" => not seen? Question 'Have you seen that movie?' implies no. Very likely no.",20260820T143619Z_a1aca67a
+1216,6,"""I have used one before"" indicates know how to use a drill. Yes likely.",20260820T143619Z_a1aca67a
+1217,1,"""I am celebrating tonight"" contradicts failing the exam. Thus likely not failed. Definitely no for 'Have you failed the exam?'.",20260820T143619Z_a1aca67a
+1218,1,"""I am moving out tomorrow"" suggests breaking up/ending relationship. That answers yes to 'Are you breaking up with him?' very likely.",20260820T143619Z_a1aca67a
+1219,6,"""always falling behind"" indicates slacker. Very likely yes.",20260820T143619Z_a1aca67a
+1220,6,"""famous for surfing"" indicates big waves here likely. Yes likely.",20260820T143619Z_a1aca67a
+1221,2,"""quite rough"" implies not calm/safe to swim. For 'sea safe to swim', very likely no.",20260820T143619Z_a1aca67a
+1222,6,Job at an NGO indicates not corporate company. Very likely no.,20260820T143619Z_a1aca67a
+1223,7,Authored successful books => writer. Yes.,20260820T143619Z_a1aca67a
+1224,6,"""still analyzing"" means not presented yet. So 'Did you present...?' => no likely.",20260820T143619Z_a1aca67a
+1225,6,"Endangered species suggests hunting is illegal/forbidden. Likely yes to legality of hunt? Actually question: legal to hunt pandas. Endangered implies illegal. So yes/no? It answers that they are endangered, implying not legal => no. Very likely no.",20260820T143619Z_a1aca67a
+1226,1,Question asks lost weight; B says enrolled at gym. Not addressing weight. Irrelevant/uncertain.,20260820T143619Z_a1aca67a
+1227,7,"""thesis is not complete yet"" => not graduated. So 'Have you graduated?' => no very likely.",20260820T143619Z_a1aca67a
+1228,7,"""hair was way too long"" implies used to have long hair. Yes.",20260820T143619Z_a1aca67a
+1229,1,"""business trip"" means not time for sightseeing. But question asks did you have time for sightseeing. B implies no very likely.",20260820T143619Z_a1aca67a
+1230,6,"""need a larger one"" => one-room flat not enough. Very likely no.",20260820T143619Z_a1aca67a
+1231,7,"""deadline is tomorrow"" indicates stressed about project due soon. Likely yes.",20260820T143619Z_a1aca67a
+1232,7,"""slept only four hours"" => tired. Yes.",20260820T143619Z_a1aca67a
+1233,6,"""offer had already expired"" => flight not discounted. Question 'Did he book the flight?'—irrelevant. But intent is discount. For exact question, it's irrelevant. Give uncertain.",20260820T143619Z_a1aca67a
+1234,7,"""It got wounded"" indicates cat hurt. Yes.",20260820T143619Z_a1aca67a
+1235,6,"""Mark is still missing"" => not ready to go (not all present). Very likely no.",20260820T143619Z_a1aca67a
+1237,1,"""I am Chinese"" does not answer whether can cook Cantonese rice. Irrelevant/uncertain.",20260820T143619Z_a1aca67a
+1238,2,"""line went dead"" suggests they hung up or issue, not told him about issue. It implies phone line cut, not about telling. Somewhat likely no to having told him.",20260820T143619Z_a1aca67a
+1239,1,"""They have domestics"" suggests someone cleans but does not guarantee house tidy. Uncertain.",20260820T143619Z_a1aca67a
+1240,6,"""just opened"" implies not tried yet? Actually question 'Have you tried that bar yet?' B: just opened (no). Likely no.",20260820T143619Z_a1aca67a
+1241,7,"""house is full of history books"" indicates passion for history. Yes.",20260820T143619Z_a1aca67a
+1243,2,"""only few guests over for dinner"" implies saucepan not big enough? Actually guests few -> saucepan need not be big. Question asks big enough; likely no (since only few guests)?? More likely yes that it's big enough. Hard. But mismatch: answer about guests, not saucepan. Uncertain/ambiguous.",20260820T143619Z_a1aca67a
+1244,6,"""only have one week off work"" => cannot take two weeks trip. Very likely no.",20260820T143619Z_a1aca67a
+1245,1,"""going to have a baby"" doesn't address avoiding alcohol. Irrelevant.",20260820T143619Z_a1aca67a
+1247,7,"""still owe the bank"" => debts not paid. No very likely.",20260820T143619Z_a1aca67a
+1248,2,"""He only had water"" => not a cocktail. Very likely no.",20260820T143619Z_a1aca67a
+1249,5,"Orchard indicates fruit growing/purchasing fruit, but not explicit supermarket buying. Somewhat likely yes.",20260820T143619Z_a1aca67a
+1250,2,25 years old => not underage. Very likely no.,20260820T143619Z_a1aca67a
+1251,2,Tuition extremely expensive => not affordable. Very likely no.,20260820T143619Z_a1aca67a
+1252,6,Bank transfer just made => she has paid. Likely yes.,20260820T143619Z_a1aca67a
+1253,2,"""cannot swim yet"" => not good at swimming. Very likely no.",20260820T143619Z_a1aca67a
+1254,7,"""healthy again"" => still taking pills? no, and also implies no cold. Question 'still taking these pills?' B doesn't mention pills. Somewhat uncertain. But healthy again suggests not taking pills; likely no.",20260820T143619Z_a1aca67a
+1255,2,"""People are not allowed to get closer"" indicates contamination/unsafe. For 'Is this area contaminated?' yes, but answer is about restriction. Still implies contaminated. Likely yes.",20260820T143619Z_a1aca67a
+1256,5,"""I have watered them regularly"" suggests plants still alive. Somewhat likely yes.",20260820T143619Z_a1aca67a
+1257,2,"""already dead by then"" => not alive in 1981. Very likely no.",20260820T143619Z_a1aca67a
+1258,6,"""ice layer quite thick"" suggests lake frozen/ice skating season. Yes likely.",20260820T143619Z_a1aca67a
+1259,2,Advanced course => not beginner. Very likely no.,20260820T143619Z_a1aca67a
+1260,6,"""seen a doctor"" implies sickness. Yes likely.",20260820T143619Z_a1aca67a
+1261,2,"""I went out with some friends"" => did not go to bed early. Very likely no.",20260820T143619Z_a1aca67a
+1262,5,"""They voted yesterday"" indicates election happened but doesn't address whether members can elect representative. Somewhat uncertain but leaning yes to election action, so slightly yes.",20260820T143619Z_a1aca67a
+1263,7,"""It is spotless"" => completely clean. Yes.",20260820T143619Z_a1aca67a
+1264,2,Blank sheet means not answered all questions. Very likely no.,20260820T143619Z_a1aca67a
+1265,2,In changing room implies not on tennis field. Very likely no.,20260820T143619Z_a1aca67a
+1266,7,"""He was compensated"" indicates settlement. Yes.",20260820T143619Z_a1aca67a
+1267,2,"""No one has responded"" => house not sold. Very likely no.",20260820T143619Z_a1aca67a
+1268,2,Doesn't play any instrument => not part of marching band. Very likely no.,20260820T143619Z_a1aca67a
+1269,6,In Japan several months => traveled in Asia. Yes likely.,20260820T143619Z_a1aca67a
+1270,6,Aiming for mountain top implies uphill goal. Yes likely.,20260820T143619Z_a1aca67a
+1271,7,Customer received it => shipped and delivered. Yes.,20260820T143619Z_a1aca67a
+1273,2,Skipped last four lessons => not whole course. Very likely no.,20260820T143619Z_a1aca67a
+1274,6,Poor monitor resolution => strained eyes possible. Question about strained eyes; answer supports issue. Somewhat likely yes.,20260820T143619Z_a1aca67a
+1275,7,Graduated from medical school => medical doctor. Yes likely.,20260820T143619Z_a1aca67a
+1276,2,It is a private property => not ever been inside. Very likely no.,20260820T143619Z_a1aca67a
+2101,6,"""need to revise some of the topics"" answers yes to needing to study for the test.",20260820T143619Z_a1aca67a
+2102,5,"""There is an interesting new movie"" implies something came out in cinemas recently. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2103,6,"""quite chilly"" => cold. Yes.",20260820T143619Z_a1aca67a
+2105,5,"""heard good things about that book"" suggests some knowledge but not about novel; still somewhat indicates familiarity. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2106,7,"""pulled a muscle"" indicates injured. Yes.",20260820T143619Z_a1aca67a
+2107,7,"""cannot find my phone"" => lost. Yes.",20260820T143619Z_a1aca67a
+2108,7,Minus 20 degrees => cold. Yes.,20260820T143619Z_a1aca67a
+2109,7,"""entered a church"" indicates religious building. Yes.",20260820T143619Z_a1aca67a
+2110,5,"""training very hard"" suggests workouts difficult. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2113,5,"""working on an exhausting task"" indicates were working today. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2114,6,Did not bring bikini implies no swimming gear. Question asks have swimming gear with you—very likely no.,20260820T143619Z_a1aca67a
+2115,7,"""I do not have time"" => not free. So question 'Are you free' => no very likely.",20260820T143619Z_a1aca67a
+2116,2,"Watched it last month, not yesterday. Very likely no.",20260820T143619Z_a1aca67a
+2117,2,"""I am on a diet"" implies not eating more than usual. Very likely no.",20260820T143619Z_a1aca67a
+2118,2,"""I am actually a Muslim"" contradicts Hinduism practice. Very likely no.",20260820T143619Z_a1aca67a
+2119,6,"""head is spinning"" implies not feeling ok. Question asks feeling ok—likely no, so score 2.",20260820T143619Z_a1aca67a
+2120,2,"""I am very tired"" contradicts energetic. Very likely no.",20260820T143619Z_a1aca67a
+2121,2,"""We are broke"" => no money saved. Very likely no.",20260820T143619Z_a1aca67a
+2122,6,"""used one already in the past"" indicates experience. Yes.",20260820T143619Z_a1aca67a
+2123,2,11 p.m. in Los Angeles suggests not morning. Very likely no.,20260820T143619Z_a1aca67a
+2124,2,Hangover means not feeling good. Very likely no.,20260820T143619Z_a1aca67a
+2125,2,"""actually diabetic"" means not free of chronic disease. Very likely no.",20260820T143619Z_a1aca67a
+2127,2,"""usually get seasick"" => not feel well on boats. Very likely no.",20260820T143619Z_a1aca67a
+2128,1,"""toothache is gone"" indicates no longer hurting. For 'teeth still hurting?' very likely no, but score should be near definite no. Score 1.",20260820T143619Z_a1aca67a
+2129,6,"""several bus stops"" indicates many stations. Yes likely.",20260820T143619Z_a1aca67a
+2130,6,"""I should not staple them"" => not allowed to staple. Question 'Are you allowed...' => no very likely.",20260820T143619Z_a1aca67a
+2131,2,"""very light"" => does not weigh much. For 'weigh much?' very likely no.",20260820T143619Z_a1aca67a
+2132,7,"""have to get up at 5 am"" => need to wake up early. Yes.",20260820T143619Z_a1aca67a
+2134,2,"""French is my native language"" => Spanish not mother tongue. Very likely no.",20260820T143619Z_a1aca67a
+2135,7,"""It does not work"" => remote unusable. Yes.",20260820T143619Z_a1aca67a
+2136,7,"""Wolves are very common here"" => wild animals yes. Yes.",20260820T143619Z_a1aca67a
+2137,2,"""only have cacti"" => no trees. Very likely no.",20260820T143619Z_a1aca67a
+2138,6,"""We need it for travelling"" => passport necessary for plane. Yes likely.",20260820T143619Z_a1aca67a
+2139,1,Asked if brought pie; B: sandwich. So pie not brought. Definite no.,20260820T143619Z_a1aca67a
+2140,6,"""have to go out soon"" => about to leave. Yes likely.",20260820T143619Z_a1aca67a
+2141,7,"""Right now I am starving"" => hungry now. Yes.",20260820T143619Z_a1aca67a
+2144,7,"""I drink tea all the time"" => often consume hot drinks. Yes.",20260820T143619Z_a1aca67a
+2145,6,"""too much light"" => room very bright. Yes likely.",20260820T143619Z_a1aca67a
+2146,2,"""I will be abroad then"" means not stay till Friday in town. Very likely no.",20260820T143619Z_a1aca67a
+2147,6,"""I am having a soup"" indicates eating something. Yes likely.",20260820T143619Z_a1aca67a
+2148,7,"""just started pouring"" => raining already. Yes.",20260820T143619Z_a1aca67a
+2149,7,"""I do not drink"" => consume alcohol? no. Question 'Do you consume alcohol?' so very likely no.",20260820T143619Z_a1aca67a
+2150,2,Dishwasher in kitchen indicates not everything taken away. Very likely no.,20260820T143619Z_a1aca67a
+2151,2,Gave away racket ages ago => no tennis equipment. Very likely no.,20260820T143619Z_a1aca67a
+2152,2,"""I do not eat spicy dishes"" => not all types of food. Very likely no.",20260820T143619Z_a1aca67a
+2153,7,"""live right next to you"" => neighbors yes. Yes.",20260820T143619Z_a1aca67a
+2155,6,"""I understand everything now"" => no longer confused. For 'still confused?' very likely no.",20260820T143619Z_a1aca67a
+2156,7,"""My chest hurts a lot"" indicates pain in upper body. Yes.",20260820T143619Z_a1aca67a
+2157,1,"""middle of the summer"" means not winter. Definite no.",20260820T143619Z_a1aca67a
+2159,7,"""I cut my finger"" indicates did get hurt. Yes.",20260820T143619Z_a1aca67a
+2160,5,"""dust all over"" indicates dirty living room. Yes somewhat likely.",20260820T143619Z_a1aca67a
+2161,7,"""actually brought mine"" => toothpaste not left at home. For 'left ... at home?' => no very likely.",20260820T143619Z_a1aca67a
+2162,6,"""My lips are all chapped"" indicates damaged by wind. Yes likely.",20260820T143619Z_a1aca67a
+2163,6,Working early tomorrow morning indicates doing afternoon shift? Likely no. Question 'afternoon shift tomorrow' => no likely.,20260820T143619Z_a1aca67a
+2164,2,"""plan to eat at a restaurant"" means not dinner at home. Very likely no.",20260820T143619Z_a1aca67a
+2165,6,"""grown a lot recently"" implies hedges taller. Yes likely.",20260820T143619Z_a1aca67a
+2166,7,"""Lunch is now ready"" implies finished cooking. Yes.",20260820T143619Z_a1aca67a
+2167,6,"""math exercise is very complicated"" => difficult homework. Yes likely.",20260820T143619Z_a1aca67a
+2168,2,"""not sure where to go yet"" => no destination decided. Very likely no.",20260820T143619Z_a1aca67a
+2169,5,"""smoke cigars only"" implies not cigarettes, so question 'Do you smoke cigarettes?' somewhat likely no.",20260820T143619Z_a1aca67a
+2170,2,"""type directly on my laptop"" means not writing on paper. Very likely no.",20260820T143619Z_a1aca67a
+2171,2,"""stove was not delivered yet"" suggests kitchen incomplete. Yes to incomplete? Question asks still incomplete—yes. So likely yes.",20260820T143619Z_a1aca67a
+2172,7,"""Cars get stolen regularly here"" => theft occurs often. Yes.",20260820T143619Z_a1aca67a
+2173,2,Wardrobe completely full => no room. Very likely no.,20260820T143619Z_a1aca67a
+2174,7,"""dirty laundry is piling up"" => a lot of laundry. Yes.",20260820T143619Z_a1aca67a
+2175,6,"""relaxed breakfast"" indicates taking time for breakfast. Yes likely.",20260820T143619Z_a1aca67a
+2201,3,"""need to revise some topics"" suggests studying but not necessarily together. Somewhat uncertain; more like no to studying together.",20260820T143619Z_a1aca67a
+2202,6,"""interesting new movie"" supports going to the cinema. Yes likely.",20260820T143619Z_a1aca67a
+2203,6,"""quite chilly"" => should close window? indicates chilly so yes, should close. Interpreting question: shall I close—B implies yes.",20260820T143619Z_a1aca67a
+2205,5,"""heard good things about that book"" doesn't say yes to borrowing, just opinion. Somewhat uncertain/ambiguous; likely no to borrowing.",20260820T143619Z_a1aca67a
+2206,2,"""pulled a muscle last time"" doesn't address skipping class; ambiguous.",20260820T143619Z_a1aca67a
+2207,2,"""cannot find my phone"" implies phone not available. For 'Do you want to use my phone?' yes they need it likely, so yes. But explicit says can't find my phone, thus likely yes.",20260820T143619Z_a1aca67a
+2208,7,Minus 20 degrees implies need coat. Yes.,20260820T143619Z_a1aca67a
+2209,7,"""entered a church"" is religious building; turning off phones irrelevant. Question is 'turn off our phones'—B does not answer; so ambiguous. However could mean already entered, phones allowed? It's not allowed likely? But unclear.",20260820T143619Z_a1aca67a
+2210,5,"""training very hard"" could imply wanting protein shake. But not explicit yes/no; somewhat likely yes.",20260820T143619Z_a1aca67a
+2213,5,"""exhausting task"" supports break from work. Somewhat likely yes.",20260820T143619Z_a1aca67a
+2214,2,Did not bring bikini => not going to lake. For 'Shall we go to the lake?' answer implies no.,20260820T143619Z_a1aca67a
+2215,2,"""I do not have time"" => not coming to talk. Very likely no.",20260820T143619Z_a1aca67a
+2216,2,"Watched it last month, not last night. So no to watching tonight? likely no.",20260820T143619Z_a1aca67a
+2217,2,On a diet => likely no dessert. Very likely no.,20260820T143619Z_a1aca67a
+2218,2,"""actually a Muslim"" doesn't necessarily mean no pork, but generally implies avoiding pork. Somewhat likely no.",20260820T143619Z_a1aca67a
+2219,4,Head spinning after beers implies they are already having beers; question asks another beer. Not explicitly refuse; ambiguous.,20260820T143619Z_a1aca67a
+2220,2,"""very tired"" implies not going out. Very likely no.",20260820T143619Z_a1aca67a
+2221,2,"""broke"" means can't go on trip. Very likely no.",20260820T143619Z_a1aca67a
+2222,5,"""I have used one already in the past"" indicates ability but not whether they need help. Somewhat uncertain.",20260820T143619Z_a1aca67a
+2223,1,"""It is 11 p.m."" means time is late; not necessarily cinema now. Ambiguous, but likely not going if it's 11 p.m. Score leaning no.",20260820T143619Z_a1aca67a
+2224,2,Hangover => no more drinks. Very likely no.,20260820T143619Z_a1aca67a
+2225,2,"""actually diabetic"" implies likely avoid cake. Very likely no.",20260820T143619Z_a1aca67a
+2227,2,"""usually get seasick"" implies not enjoy sea cruise. So likely no.",20260820T143619Z_a1aca67a
+2228,2,Toothache is gone => no need painkillers. Very likely no.,20260820T143619Z_a1aca67a
+2229,4,Bus seat/ticket question; B says they have several bus stops before destination—doesn't directly answer seat offer. Ambiguous.,20260820T143619Z_a1aca67a
+2230,2,"""I should not staple them"" => no, not should staple. Very likely no.",20260820T143619Z_a1aca67a
+2231,6,"""It is very light"" means luggage doesn't need help; question asks need help—very likely no.",20260820T143619Z_a1aca67a
+2232,7,"""have to get up at 5 am"" => need wake up early. Yes.",20260820T143619Z_a1aca67a
+2234,7,"""French is my native language"" => yes French spelling check possible. Yes.",20260820T143619Z_a1aca67a
+2235,7,"""It does not work"" => remote unusable/needs batteries. Yes.",20260820T143619Z_a1aca67a
+2236,1,"""Wolves are very common here"" is unrelated to locking cattle. If question is about locking up cattle, answer doesn't support. Irrelevant.",20260820T143619Z_a1aca67a
+2237,1,"""We only have cacti"" suggests not plants to water (no hedges?) so no watering plants. Likely no.",20260820T143619Z_a1aca67a
+2238,7,"""need it for travelling"" => yes passport necessary. Yes.",20260820T143619Z_a1aca67a
+2239,7,"""I have got a sandwich"" => yes to having some food. Yes.",20260820T143619Z_a1aca67a
+2240,2,"""They have to go out soon"" => waking kids may be required, so yes? But question asks shall I wake them. If they have to go out soon, likely yes. Score likely yes (5-6).",20260820T143619Z_a1aca67a
+2241,6,"""Right now I am starving"" => would like biscuits. Yes likely.",20260820T143619Z_a1aca67a
+2244,6,"""I drink tea all the time"" => yes to using kettle/for hot drink. Likely yes.",20260820T143619Z_a1aca67a
+2245,7,"""too much light in here"" => turn down dimmer. Yes.",20260820T143619Z_a1aca67a
+2246,2,"""I will be abroad then"" => not coming this Friday. Very likely no.",20260820T143619Z_a1aca67a
+2247,7,"""I am having a soup"" => need spoon. Yes.",20260820T143619Z_a1aca67a
+2248,7,"""just started pouring"" => would like umbrella. Yes.",20260820T143619Z_a1aca67a
+2249,2,"""I do not drink"" => no wine. Very likely no.",20260820T143619Z_a1aca67a
+2250,5,"""There is a dish washer in the kitchen"" doesn't say whether to do dishes; implies dishwasher available. Somewhat uncertain/lean no to doing dishes manually.",20260820T143619Z_a1aca67a
+2251,2,"""gave away my racket"" => can't play tennis. Very likely no.",20260820T143619Z_a1aca67a
+2252,2,"""I do not eat spicy dishes"" => no Mexican/likely spicy. Very likely no.",20260820T143619Z_a1aca67a
+2253,7,"""I live right next to you"" => yes a ride home. Yes.",20260820T143619Z_a1aca67a
+2255,7,"""I understand everything now"" => yes they get it. That answers 'Shall I explain again?' with no.",20260820T143619Z_a1aca67a
+2256,7,"""My chest hurts a lot"" indicates they want doctor called. Yes.",20260820T143619Z_a1aca67a
+2257,1,"""middle of the summer"" => no extra blanket needed. Definite no.",20260820T143619Z_a1aca67a
+2259,7,"""I cut my finger"" indicates need plaster. Yes.",20260820T143619Z_a1aca67a
+2260,7,"""There is dust all over"" => living room dirty, so sweeping needed. Yes.",20260820T143619Z_a1aca67a
+2261,2,"""brought mine"" => not left at home. For 'Would you like toothpaste?' actually implies they have it; they didn't answer yes/no to wanting toothpaste. Could be no need. Somewhat likely no.",20260820T143619Z_a1aca67a
+2262,7,"""My lips are all chapped"" => they likely want lip balm. Yes.",20260820T143619Z_a1aca67a
+2263,1,"""working early tomorrow morning"" doesn't address joining for drinks tonight. Likely no time. Very likely no.",20260820T143619Z_a1aca67a
+2264,2,"""plan to eat at a restaurant"" => not cook at home. Very likely no.",20260820T143619Z_a1aca67a
+2265,6,Hedges grown a lot => should prune? Suggest they need pruning. Question shall prune—implies yes. Likely yes.,20260820T143619Z_a1aca67a
+2266,7,"""Lunch is now ready"" => set the table. Yes.",20260820T143619Z_a1aca67a
+2267,2,"""math exercise very complicated"" doesn't say need calculator. Unclear. Score uncertain.",20260820T143619Z_a1aca67a
+2268,2,"""not sure where to go yet"" => they have not decided destination. So buying train tickets uncertain; likely no to buy yet.",20260820T143619Z_a1aca67a
+2269,2,"""I smoke cigars only"" => no cigarette. Very likely no.",20260820T143619Z_a1aca67a
+2270,1,"""type directly on my laptop"" => no need paper. Definite no.",20260820T143619Z_a1aca67a
+2271,2,"""stove was not delivered yet"" => delivery food shopping not. Irrelevant; but suggests not ready/possible. Ambiguous.",20260820T143619Z_a1aca67a
+2272,2,"""Cars get stolen regularly here"" implies locking car is needed. So yes would like you to lock it. Likely yes, but question asks would you like me to lock—answer suggests yes. Score 6.",20260820T143619Z_a1aca67a
+2273,2,Wardrobe completely full => going shopping for clothes not needed. Very likely no.,20260820T143619Z_a1aca67a
+2274,6,Dirty laundry piling up => yes do laundry. Likely yes.,20260820T143619Z_a1aca67a
+2275,5,Relaxed breakfast suggests pancakes might be okay but not explicit. Somewhat likely yes.,20260820T143619Z_a1aca67a

@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,router,upstream_id,finish_reason,native_finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_cost,latency,generation_time,run_id
+gen-1787232325-Qnls4GMses3GpUTvkSpV,openai/gpt-5.4-nano,openai/gpt-5.4-nano,OpenAI,,resp_0504ceebb4797b82016a8700457fc087d1b2fc0c4739f091e2,stop,completed,7562,22955,0,0.02736245,724,143109,20260820T143619Z_a1aca67a

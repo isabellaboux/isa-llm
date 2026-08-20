@@ -1,0 +1,178 @@
+id,score,rationale,run_id
+1101,5,"Person A asks whether Person B has met Martin lately. Person B responds “I have not seen him for ages,” which directly indicates they have not met him recently. This clearly answers “no.”",20260820T143619Z_a1aca67a
+1102,6,"Person A asks if Person B is doing something right now. Person B answers “I am sending out an application,” which confirms they are doing something at the moment. This is very likely a “yes.”",20260820T143619Z_a1aca67a
+1103,6,"Person A asks if they usually exercise with Lukas. Person B says “I train with him at the gym,” indicating they do exercise with Lukas regularly. That strongly supports a “yes.”",20260820T143619Z_a1aca67a
+1104,6,"Person A asks whether there was a death in his family. Person B replies that “His grandfather passed away recently,” which is a direct confirmation. Very likely “yes.”",20260820T143619Z_a1aca67a
+1105,6,"Person A asks whether Paris is very far from here. Person B states “It is about 1000 Km away,” which indicates it is far. That supports “yes” strongly.",20260820T143619Z_a1aca67a
+1106,6,"Person A asks if it takes long to get to Munich. Person B answers “It is a six hour drive,” clearly indicating it takes a long time. Very likely “yes.”",20260820T143619Z_a1aca67a
+1107,5,"Person A asks whether the journey is going as planned. Person B says “My train has some delay,” which suggests it is not going entirely as planned. This is somewhat likely “no,” but the question is phrased toward “as planned,” so it’s closer to “no” than “yes.”",20260820T143619Z_a1aca67a
+1108,2,"Person A asks if they have finished their cereal. Person B says “There is still some left,” meaning they have not finished. That is a clear “no.”",20260820T143619Z_a1aca67a
+1109,2,"Person A asks if the essay deadline is next week. Person B says “It is not due for three months,” which contradicts next week. Very likely “no.”",20260820T143619Z_a1aca67a
+1110,6,"Person A asks if there is usually a lot of traffic. Person B says “The streets are always congested with cars,” confirming heavy traffic. Very likely “yes.”",20260820T143619Z_a1aca67a
+1111,2,"Person A asks if Megan eats meat. Person B says “She is vegetarian,” indicating she does not eat meat. That is a clear “no.”",20260820T143619Z_a1aca67a
+1112,6,"Person A asks if John is sick today. Person B: “He has the flu,” which is direct confirmation of sickness. Very likely “yes.”",20260820T143619Z_a1aca67a
+1113,6,"Person A asks if Sonya trains daily. Person B says “She runs for hours every day,” confirming daily training. Very likely “yes.”",20260820T143619Z_a1aca67a
+1114,2,"Person A asks if Clara is still sleeping. Person B says “She just woke up,” meaning she is not still sleeping. That is a clear “no.”",20260820T143619Z_a1aca67a
+1115,2,"Person A asks if the movie is going to be released today. Person B says it “comes out next week,” so not today. Very likely “no.”",20260820T143619Z_a1aca67a
+1116,5,"Person A asks if they have ever worked with a drill. Person B responds “I have used one before,” which indicates past experience. That supports a “yes.”",20260820T143619Z_a1aca67a
+1117,2,"Person A asks if the birthday party takes place tomorrow. Person B says “I am celebrating tonight,” not tomorrow. Very likely “no.”",20260820T143619Z_a1aca67a
+1118,5,"Person A asks if they are leaving their flat soon. Person B says “I am moving out tomorrow,” which indicates soon. That is somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1119,6,"Person A asks if he is a slacker. Person B: “He was always falling behind,” which characterizes him as not keeping up (consistent with slacking). Very likely “yes.”",20260820T143619Z_a1aca67a
+1120,5,"Person A asks if this area is popular for something. Person B says “The region is famous for surfing,” confirming it’s popular for that activity. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1121,2,"Person A asks if the sea is calm these days. Person B says “It is quite rough,” which indicates not calm. Very likely “no.”",20260820T143619Z_a1aca67a
+1122,2,"Person A asks if they work for a corporate company. Person B says their job is at an NGO, not corporate. That supports “no.”",20260820T143619Z_a1aca67a
+1123,6,"Person A asks if he is a writer. Person B says “He has authored many successful books,” which directly indicates he is a writer. Very likely “yes.”",20260820T143619Z_a1aca67a
+1124,2,"Person A asks if they are finished working on data. Person B says “I am still analyzing it,” meaning not finished. Very likely “no.”",20260820T143619Z_a1aca67a
+1125,6,"Person A asks whether there are many pandas left in the world. Person B says “They are an endangered species,” implying very few remain. This strongly indicates “no” to “many,” so the correct interpretation is actually “no.”",20260820T143619Z_a1aca67a
+1125,2,"Person A asks if there are many pandas left. Person B replies that pandas are an endangered species, which implies they are not many. Therefore this is very likely “no.”",20260820T143619Z_a1aca67a
+1126,6,"Person A asks if they have joined a fitness studio. Person B: “I have enrolled at the gym,” confirming joining. Very likely “yes.”",20260820T143619Z_a1aca67a
+1127,2,"Person A asks if they have finished writing their thesis. Person B says “My thesis is not complete yet,” so not finished. Very likely “no.”",20260820T143619Z_a1aca67a
+1128,5,"Person A asks if they used to have long hair. Person B says “My hair was way too long,” confirming long hair previously. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1129,2,"Person A asks if they went to Japan for vacation. Person B says “It was a business trip,” not vacation. Very likely “no.”",20260820T143619Z_a1aca67a
+1130,2,"Person A asks if a one-room flat is enough. Person B says “I need a larger one,” meaning it isn’t enough. Very likely “no.”",20260820T143619Z_a1aca67a
+1131,6,"Person A asks if she has to hand in soon. Person B says “The deadline is tomorrow,” which is soon. Very likely “yes.”",20260820T143619Z_a1aca67a
+1132,6,"Person A asks if they had a short night. Person B: “I slept only four hours,” indicating a short night. Very likely “yes.”",20260820T143619Z_a1aca67a
+1133,2,"Person A asks if the flight was still discounted. Person B says “The offer had already expired,” meaning no discount currently. Very likely “no.”",20260820T143619Z_a1aca67a
+1134,6,"Person A asks if their cat is hurt. Person B says “It got wounded,” confirming injury. Very likely “yes.”",20260820T143619Z_a1aca67a
+1135,2,"Person A asks if everyone is here. Person B says “Mark is still missing,” so not everyone is present. Very likely “no.”",20260820T143619Z_a1aca67a
+1137,6,"Person A asks if they come from Asia. Person B says “I am Chinese,” which implies they are from Asia. Very likely “yes.”",20260820T143619Z_a1aca67a
+1138,6,"Person A asks if you hung up. Person B says “The line went dead,” which suggests the call ended unexpectedly (no, you hung up is not explicit, but it confirms the line is dead). Overall it answers the situation as ended, so somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1138,5,"Person A’s question is whether they hung up. Person B says the line went dead, which indicates the call ended. While not exactly saying “I hung up,” it strongly aligns with the effect of hanging up.",20260820T143619Z_a1aca67a
+1139,5,"Person A asks if someone is taking care of their house. Person B says “They have domestics,” meaning they have help for the house. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1140,5,"Person A asks if that bar has been here for long. Person B says “They have just opened,” which implies it hasn’t been long. That is a “no” to “been here for long,” so somewhat likely “no.”",20260820T143619Z_a1aca67a
+1140,2,"Person A asks whether the bar has been here for a long time. Person B says it has just opened, meaning it has not been here long. Therefore this is very likely “no.”",20260820T143619Z_a1aca67a
+1141,5,"Person A asks if he owns many books. Person B says “His house is full of history books,” indicating many books. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1143,5,"Person A asks if there is a small gathering tonight. Person B says “We have only few guests over,” which indicates a small gathering. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1144,2,"Person A asks if they have two weeks of holiday. Person B says “I only have one week off work,” so not two. Very likely “no.”",20260820T143619Z_a1aca67a
+1145,6,"Person A asks if they are pregnant. Person B says “I am going to have a baby,” which is a confirmation. Very likely “yes.”",20260820T143619Z_a1aca67a
+1147,2,"Person A asks if they have paid back their debts. Person B says “I still owe the bank some money,” meaning not paid back. Very likely “no.”",20260820T143619Z_a1aca67a
+1148,2,"Person A asks if he drank a cocktail tonight. Person B says “He only had water,” indicating he did not. Very likely “no.”",20260820T143619Z_a1aca67a
+1149,2,"Person A asks if they have a vegetable garden. Person B says “I own an orchard,” which does not match a vegetable garden. That suggests “no.”",20260820T143619Z_a1aca67a
+1150,2,"Person A asks if their son is underage. Person B says “He is 25 years old,” which is not underage. Very likely “no.”",20260820T143619Z_a1aca67a
+1151,2,"Person A asks if Harvard University is affordable. Person B says “Their tuition fee is extremely expensive,” which means not affordable. Very likely “no.”",20260820T143619Z_a1aca67a
+1152,6,"Person A asks if she has paid us yet. Person B says she made a bank transfer moments ago, indicating payment has occurred. Very likely “yes.”",20260820T143619Z_a1aca67a
+1153,2,"Person A asks if the kids are good at swimming. Person B says “They cannot swim yet,” indicating they are not good/able. Very likely “no.”",20260820T143619Z_a1aca67a
+1154,2,"Person A asks if they still have a cold. Person B says “I am healthy again,” meaning no cold. Very likely “no.”",20260820T143619Z_a1aca67a
+1155,6,"Person A asks if it is forbidden to approach this area. Person B says “People are not allowed to get closer,” confirming restriction. Very likely “yes.”",20260820T143619Z_a1aca67a
+1156,6,"Person A asks if someone took care of the plants. Person B says “I have watered them regularly,” which indicates they were cared for. Very likely “yes.”",20260820T143619Z_a1aca67a
+1157,2,"Person A asks if this artist was still alive in the 80s. Person B says “He was already dead by then,” indicating no. Very likely “no.”",20260820T143619Z_a1aca67a
+1158,6,"Person A asks if the lake is frozen. Person B says “The ice layer is quite thick,” indicating it is frozen. Very likely “yes.”",20260820T143619Z_a1aca67a
+1159,2,"Person A asks if they are attending the beginners’ class. Person B says they are in the advanced course, not beginners. Very likely “no.”",20260820T143619Z_a1aca67a
+1160,6,"Person A asks if they have sought medical advice. Person B says “I have seen a doctor,” confirming medical advice. Very likely “yes.”",20260820T143619Z_a1aca67a
+1161,2,"Person A asks if they stayed home last night. Person B says “I went out with some friends,” so not stayed home. Very likely “no.”",20260820T143619Z_a1aca67a
+1162,5,"Person A asks if there was an election recently. Person B says “They voted yesterday,” which implies an election occurred. While it doesn’t explicitly say “there was an election,” it strongly supports it. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1163,6,"Person A asks if the car is completely clean. Person B says “It is spotless,” which confirms. Very likely “yes.”",20260820T143619Z_a1aca67a
+1164,2,"Person A asks if they have answered all questions. Person B says they submitted a blank sheet, indicating no answers. Very likely “no.”",20260820T143619Z_a1aca67a
+1165,2,"Person A asks if she is out on the tennis field. Person B says she just got into the changing room, so she is not out playing. Very likely “no.”",20260820T143619Z_a1aca67a
+1166,6,"Person A asks if he got the money back. Person B says “He was compensated,” which implies he received compensation (money back or equivalent). Very likely “yes.”",20260820T143619Z_a1aca67a
+1167,2,"Person A asks if anyone has answered the house sale ad. Person B says “No one has responded,” meaning nobody answered. Very likely “no.”",20260820T143619Z_a1aca67a
+1168,2,"Person A asks if he is a musician. Person B says “He does not play any instrument,” which contradicts being a musician. Very likely “no.”",20260820T143619Z_a1aca67a
+1169,5,"Person A asks if he traveled in Asia. Person B says he has been in Japan for several months, which is in Asia. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1170,5,"Person A asks if their goal is the summit. Person B says they are aiming for the mountain top, which is essentially the summit. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1171,6,"Person A asks if the customer got his package. Person B says “The customer received it,” confirming delivery. Very likely “yes.”",20260820T143619Z_a1aca67a
+1173,2,"Person A asks if she attended the whole singing course. Person B says she skipped the last four lessons, so not whole. Very likely “no.”",20260820T143619Z_a1aca67a
+1174,5,"Person A asks if the screen has a bad image. Person B says “My monitor's resolution is really poor,” which indicates poor image quality. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1175,6,"Person A asks if she completed her medical studies. Person B says she graduated last year, confirming completion. Very likely “yes.”",20260820T143619Z_a1aca67a
+1176,2,"Person A asks if that is a public building. Person B says “It is a private property,” so not public. Very likely “no.”",20260820T143619Z_a1aca67a
+1201,2,"Person A asks if they are still good friends with Martin. Person B says “I have not seen him for ages,” which suggests distance and not meeting, so likely not still good friends. Somewhat likely “no.”",20260820T143619Z_a1aca67a
+1201,3,"Not seeing someone for ages suggests they may not be very close anymore, but it does not explicitly confirm friendship status. Hence it’s somewhat likely “no” but with some uncertainty.",20260820T143619Z_a1aca67a
+1202,6,"Person A asks if they are looking for a job. Person B says they are sending out an application, indicating job seeking. Very likely “yes.”",20260820T143619Z_a1aca67a
+1203,6,"Person A asks if they know Lukas. Person B says “I train with him at the gym,” implying they know him. Very likely “yes.”",20260820T143619Z_a1aca67a
+1204,3,"Person A asks if this is his property now. Person B mentions the grandfather passed away recently, which doesn’t clearly establish current ownership. It’s ambiguous, so near uncertainty.",20260820T143619Z_a1aca67a
+1204,2,"B’s answer refers to a grandfather passing away but does not explicitly say the property transfers. That’s not sufficient to confirm it is his property now, so likely “no” or at least not confirmed.",20260820T143619Z_a1aca67a
+1205,6,"Person A asks if it takes long to drive to Paris. Person B says it is about 1000 Km away, implying it takes a long drive. Very likely “yes.”",20260820T143619Z_a1aca67a
+1206,6,"Person A asks if Munich is far from here. Person B says it is a six hour drive, clearly far. Very likely “yes.”",20260820T143619Z_a1aca67a
+1207,4,"Person A asks if they will be home by noon. Person B says “My train has some delay,” which suggests they may not be on time, but doesn’t explicitly state arrival by noon. Ambiguous.",20260820T143619Z_a1aca67a
+1207,3,"Train delay makes arriving by noon uncertain; the answer doesn’t directly confirm or deny “by noon,” so it is somewhat likely “no” but mostly ambiguous.",20260820T143619Z_a1aca67a
+1208,2,"Person A asks if they have bought cereal. Person B says “There is still some left,” indicating they already have cereal, not that they bought it now. Very likely “no.”",20260820T143619Z_a1aca67a
+1209,2,"Person A asks if they started writing the essay. Person B says “It is not due for three months,” which addresses the due date, not whether it was started. This is not answering the question, so likely “no/uncertain.”",20260820T143619Z_a1aca67a
+1209,4,"B talks about when it is due, not whether writing has started. That makes the response ambiguous and not a direct answer.",20260820T143619Z_a1aca67a
+1210,6,"Person A asks if we will be late to the cinema. Person B says streets are always congested, implying traffic likely causes lateness. Somewhat likely “yes,” but still fairly direct about being late due to congestion.",20260820T143619Z_a1aca67a
+1210,5,"Constant congestion suggests potential delay and lateness, but it doesn’t explicitly say they will be late. Therefore it’s somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1211,2,"Person A asks if Megan is coming to the steak house. Person B says she is vegetarian, which implies she may not go to a steak house. Very likely “no.”",20260820T143619Z_a1aca67a
+1212,6,"Person A asks if John is staying home. Person B says he has the flu, which often means staying home, but it’s not explicit. It still indicates likely staying home; somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1212,5,"Flu strongly suggests he’s sick and likely staying home, but the response doesn’t directly state he will stay home. So it’s somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1213,6,"Person A asks if Sonya registered for the marathon. Person B says she runs for hours every day, which supports she is a runner but doesn’t confirm registration. This is ambiguous and likely “no.”",20260820T143619Z_a1aca67a
+1213,3,"Daily running doesn’t necessarily mean she registered for a marathon. The answer provides related info but doesn’t directly confirm registration, so it’s somewhat likely no/uncertain.",20260820T143619Z_a1aca67a
+1214,2,"Person A asks if Clara had breakfast already. Person B says she just woke up, so she likely hasn’t had breakfast yet. Very likely “no.”",20260820T143619Z_a1aca67a
+1215,3,"Person A asks if they have seen that movie. Person B says it comes out next week, which is about release date, not whether it has been seen. Not answering; ambiguous.",20260820T143619Z_a1aca67a
+1215,2,"Because B doesn’t address whether it was seen, it is best treated as not confirming “seen it.” That implies a “no” to having already seen it, though it’s somewhat indirect.",20260820T143619Z_a1aca67a
+1216,5,"Person A asks if they know how to use a drill. Person B says they have used one before, indicating capability. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1217,2,"Person A asks if they have failed the exam. Person B says “I am celebrating tonight,” implying success rather than failure. Very likely “no.”",20260820T143619Z_a1aca67a
+1217,2,"Celebrating suggests they did well, which contradicts failing. So it’s very likely “no” to having failed.",20260820T143619Z_a1aca67a
+1218,6,"Person A asks if they are breaking up with him. Person B says “I am moving out tomorrow,” indicating a breakup/ending of cohabitation. Very likely “yes.”",20260820T143619Z_a1aca67a
+1218,6,"Moving out tomorrow strongly aligns with ending the relationship or leaving him, so it answers as “yes.”",20260820T143619Z_a1aca67a
+1219,5,"Person A asks if he was fired. Person B says “He was always falling behind,” which doesn’t explicitly say fired. It describes performance issues, but not dismissal. Somewhat likely “no” or ambiguous.",20260820T143619Z_a1aca67a
+1219,2,"Falling behind could lead to being fired, but it doesn’t explicitly confirm he was fired. So it is very likely “no” or at least not confirmed.",20260820T143619Z_a1aca67a
+1220,5,"Person A asks if there are big waves here. Person B says the region is famous for surfing, which implies waves but not necessarily big waves. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1221,2,"Person A asks if the sea is safe to swim here. Person B says it is quite rough, which implies not safe. Very likely “no.”",20260820T143619Z_a1aca67a
+1222,2,"Person A asks if they make a lot of money. Person B says their job is at an NGO, which doesn’t directly indicate salary but usually not high. Still the response doesn’t directly say money; but most likely “no.”",20260820T143619Z_a1aca67a
+1222,3,"“Job is at an NGO” is only indirectly related to whether they make a lot of money, so it’s uncertain, leaning “no.”",20260820T143619Z_a1aca67a
+1223,6,"Person A asks if he is famous. Person B says he has authored many successful books, implying fame. Very likely “yes.”",20260820T143619Z_a1aca67a
+1224,4,"Person A asks if you presented your data at the meeting. Person B says they are still analyzing it, which suggests they did not present it yet. That strongly indicates “no,” though it’s not explicitly about presentation, so it’s somewhat likely “no.”",20260820T143619Z_a1aca67a
+1224,2,"If the data is still being analyzed, it’s unlikely it has been presented at a meeting already. So it’s very likely a “no.”",20260820T143619Z_a1aca67a
+1225,2,"Person A asks if it is legal to hunt pandas. Person B says pandas are endangered species, which implies it is not legal. Very likely “no.”",20260820T143619Z_a1aca67a
+1226,2,"Person A asks if they have lost some weight. Person B says they enrolled at the gym, which is about starting exercise, not confirmed weight loss. Ambiguous leaning “no.”",20260820T143619Z_a1aca67a
+1226,3,Joining the gym doesn’t confirm that weight has been lost yet. So it’s somewhat likely “no” due to lack of direct confirmation.,20260820T143619Z_a1aca67a
+1227,2,"Person A asks if they have graduated. Person B says their thesis is not complete yet, implying not finished/ not graduated. Very likely “no.”",20260820T143619Z_a1aca67a
+1227,2,Incomplete thesis means they likely haven’t graduated yet. So “no” is very likely.,20260820T143619Z_a1aca67a
+1228,6,"Person A asks if they got their hair cut. Person B says their hair was way too long, which indicates they did not necessarily get it cut (it’s describing length). However the question is mismatched; still, it does not confirm hair cut. Likely “no.”",20260820T143619Z_a1aca67a
+1228,2,"The answer focuses on having very long hair, not on getting a haircut. That does not support “yes,” so treat as “no.”",20260820T143619Z_a1aca67a
+1229,2,"Person A asks if they had time for sightseeing. Person B says it was a business trip, implying less time for sightseeing. Very likely “no.”",20260820T143619Z_a1aca67a
+1230,2,"Person A asks if they bought a one-room flat. Person B says “I need a larger one,” suggesting they did not buy that and need bigger. Very likely “no.”",20260820T143619Z_a1aca67a
+1231,5,"Person A asks if she is stressed about the project. Person B says the deadline is tomorrow, which would cause stress. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1232,6,"Person A asks if they are tired. Person B says slept only four hours, which explains tiredness. Very likely “yes.”",20260820T143619Z_a1aca67a
+1233,2,"Person A asks if he booked the flight. Person B talks about the offer expired, which doesn’t answer booking. Likely “no” due to mismatch.",20260820T143619Z_a1aca67a
+1233,4,"The response is about the discount offer timing, not whether the flight was booked. This makes it ambiguous and not a direct answer, leaning “uncertain.”",20260820T143619Z_a1aca67a
+1234,6,"Person A asks if they are bringing their cat to the vet. Person B says “It got wounded,” which motivates vet care but doesn’t explicitly say they will bring it. Still, strongly implies vet visit; somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1234,5,"Wounded cat implies seeking care, but B doesn’t explicitly state “I will bring it to the vet.” So it’s somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1235,2,"Person A asks if we are ready to go. Person B says Mark is still missing, meaning not ready. Very likely “no.”",20260820T143619Z_a1aca67a
+1237,6,"Person A asks if they can cook Cantonese rice. Person B says “I am Chinese,” which doesn’t explicitly confirm cooking skill but suggests cultural capability. Still likely “yes.”",20260820T143619Z_a1aca67a
+1237,4,"Being Chinese is not direct evidence of knowing how to cook Cantonese rice, so it’s uncertain and only loosely supportive of “yes.”",20260820T143619Z_a1aca67a
+1238,2,"Person A asks if you told him about that issue. Person B says the line went dead, which is about communication failing, not informing. Not answering; likely “no.”",20260820T143619Z_a1aca67a
+1238,2,B’s response doesn’t indicate that the issue was communicated; it suggests the call dropped. That implies “no.”,20260820T143619Z_a1aca67a
+1239,5,"Person A asks if their house is always tidy. Person B says they have domestics, which suggests cleanliness help but doesn’t explicitly say tidy. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1240,2,"Person A asks if they tried that bar yet. Person B says “They have just opened,” which is about opening time, not whether tried. Not answering; likely “no.”",20260820T143619Z_a1aca67a
+1240,4,"The answer is about the bar opening, not whether the person has tried it. That makes the response ambiguous with respect to the question.",20260820T143619Z_a1aca67a
+1241,5,"Person A asks if he has a passion for history. Person B says his house is full of history books, indicating interest in history. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1243,4,"Person A asks if a saucepan is big enough. Person B says “We have only few guests over for dinner,” which is unrelated to saucepan size. Irrelevant/unclear.",20260820T143619Z_a1aca67a
+1243,1,"B’s answer does not address whether the saucepan is big enough, so it’s effectively not answering and should be treated as definitely not confirmed.",20260820T143619Z_a1aca67a
+1244,2,Person A asks if they will take a two-week trip. Person B says only one week off work. Very likely “no.”,20260820T143619Z_a1aca67a
+1245,2,"Person A asks if they are avoiding drinking alcohol. Person B says “I am going to have a baby,” which doesn’t address alcohol avoidance. Not directly related; likely “no.”",20260820T143619Z_a1aca67a
+1245,4,"The response mentions having a baby, which is not an explicit statement about drinking or avoiding alcohol. That makes it ambiguous.",20260820T143619Z_a1aca67a
+1247,2,"Person A asks if they got a new loan. Person B says they still owe the bank money, not that they got a new loan. Likely “no.”",20260820T143619Z_a1aca67a
+1247,2,"Owing money is not evidence of receiving a new loan, so the question is not answered positively. Very likely “no.”",20260820T143619Z_a1aca67a
+1248,2,"Person A asks if he is drunk. Person B says he only had water, so he isn’t drunk. Very likely “no.”",20260820T143619Z_a1aca67a
+1249,4,"Person A asks if they buy fruit in the supermarket. Person B says they own an orchard, which implies they may get fruit elsewhere, not necessarily from the supermarket. Unclear but leaning “no.”",20260820T143619Z_a1aca67a
+1250,2,"Person A asks if their son is at elementary school. Person B says he is 25 years old, so not elementary. Very likely “no.”",20260820T143619Z_a1aca67a
+1251,2,"Person A asks if Harvard is an option for you (affordable). Person B says tuition is extremely expensive, implying not viable. Very likely “no.”",20260820T143619Z_a1aca67a
+1252,6,"Person A asks if she accepted their deal. Person B says she made a bank transfer moments ago, indicating acceptance/payment. Very likely “yes.”",20260820T143619Z_a1aca67a
+1253,2,"Person A asks if the kids went to the swimming pool. Person B says they cannot swim yet, not about going. But it strongly suggests they did not go for swimming. Very likely “no.”",20260820T143619Z_a1aca67a
+1254,2,"Person A asks if they are still taking these pills. Person B says “I am healthy again,” which implies they no longer need them. Very likely “no.”",20260820T143619Z_a1aca67a
+1255,6,"Person A asks if the area is contaminated. Person B says people are not allowed to get closer, which suggests hazard/contamination. Very likely “yes.”",20260820T143619Z_a1aca67a
+1256,4,"Person A asks if the plants are still alive. Person B says they have watered them regularly, which indicates care but doesn’t explicitly state they are alive. Ambiguous.",20260820T143619Z_a1aca67a
+1256,3,"Regular watering suggests they might be alive, but it does not confirm survival. Hence somewhat likely “no”/uncertain.",20260820T143619Z_a1aca67a
+1257,2,"Person A asks if artwork was created by him in 1981. Person B says he was already dead by then, so it couldn’t be created in 1981. Very likely “no.”",20260820T143619Z_a1aca67a
+1258,6,"Person A asks if it is ice skating season. Person B says the ice layer is quite thick, implying suitable ice. Very likely “yes.”",20260820T143619Z_a1aca67a
+1259,2,Person A asks if they are a beginner. Person B says they are in the advanced course. Very likely “no.”,20260820T143619Z_a1aca67a
+1260,4,"Person A asks if they have been sick. Person B says “I have seen a doctor,” which implies sickness, but could be for other reasons. Still fairly likely yes; somewhat uncertain.",20260820T143619Z_a1aca67a
+1260,5,"Seeing a doctor usually follows being sick, so it likely answers “yes” to having been sick, though not definitively.",20260820T143619Z_a1aca67a
+1261,2,Person A asks if they went to bed early last night. Person B says they went out with friends. That contradicts going to bed early. Very likely “no.”,20260820T143619Z_a1aca67a
+1262,5,"Person A asks if members can elect a representative. Person B says “They voted yesterday,” implying an election/selection occurred. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1263,6,"Person A asks if the car is back from the car wash. Person B says “It is spotless,” which implies it has been washed. Very likely “yes.”",20260820T143619Z_a1aca67a
+1264,2,"Person A asks if they have written a good exam. Person B says they submitted a blank sheet, indicating very bad exam performance. Very likely “no.”",20260820T143619Z_a1aca67a
+1265,2,"Person A asks if she is dressed for the tennis game. Person B says she just got into the changing room, which suggests not yet dressed. Very likely “no.”",20260820T143619Z_a1aca67a
+1266,6,"Person A asks if he settled the lawsuit. Person B says he was compensated, which implies settlement/resolution. Very likely “yes.”",20260820T143619Z_a1aca67a
+1267,2,"Person A asks if they sold that house. Person B says “No one has responded,” meaning not sold. Very likely “no.”",20260820T143619Z_a1aca67a
+1268,2,"Person A asks if he is part of the marching band. Person B says he does not play any instrument, so likely not in the band. Very likely “no.”",20260820T143619Z_a1aca67a
+1269,5,"Person A asks if he has ever tried sushi. Person B says he has been in Japan for several months, which doesn’t directly say he tried sushi. Ambiguous but leaning uncertain.",20260820T143619Z_a1aca67a
+1269,3,"Japan exposure suggests possible sushi, but it doesn’t confirm he tried it. So it’s somewhat likely “no”/uncertain.",20260820T143619Z_a1aca67a
+1270,4,"Person A asks if their whole way is going uphill. Person B says they are aiming for the mountain top, which is about destination, not whether the way is uphill. Ambiguous.",20260820T143619Z_a1aca67a
+1270,2,"The answer doesn’t address whether the path is uphill, so it does not confirm the question. Treat as likely “no.”",20260820T143619Z_a1aca67a
+1271,6,"Person A asks if the package was shipped to the customer. Person B says the customer received it, which implies it was shipped. Very likely “yes.”",20260820T143619Z_a1aca67a
+1273,2,"Person A asks if she is very dedicated to that singing course. Person B says she skipped the last four lessons, indicating lack of full dedication. Very likely “no.”",20260820T143619Z_a1aca67a
+1274,5,"Person A asks if the eyes get strained sometimes. Person B says the monitor resolution is very poor, which could cause strain but doesn’t say strain occurs. Somewhat likely “yes.”",20260820T143619Z_a1aca67a
+1274,4,"Poor resolution may lead to eye strain, but B doesn’t explicitly report symptoms. Hence it’s uncertain.",20260820T143619Z_a1aca67a
+1275,6,"Person A asks if she is a medical doctor. Person B says she graduated from medical school last year, implying she is a doctor (or at least trained). Very likely “yes.”",20260820T143619Z_a1aca67a
+1276,2,"Person A asks if they have ever been inside that building. Person B says it is a private property, which doesn’t answer whether they have been inside. Likely “no/uncertain.”",20260820T143619Z_a1aca67a
+1276,4,"B only describes the property type, not personal experience of entering. This is ambiguous and not a direct answer.",20260820T143619Z_a1aca67a
