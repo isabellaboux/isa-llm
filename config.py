@@ -27,9 +27,8 @@ MODELS = [
     "google/gemini-3.5-flash-lite",
     "google/gemini-3.1-flash-lite",
     # google models (gemma family)  - checked
-    "google/gemma-4-31b-it",
     "google/gemma-4-26b-a4b-it",
-    "google/gemma-4-31b-it",
+    #"google/gemma-4-31b-it", # does not support json output
     "google/gemma-3-27b-it",
     "google/gemma-3-12b-it",
     "google/gemma-3-4b-it",
