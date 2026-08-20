@@ -1,3 +1,0 @@
-id,score,rationale,run_id
-1101,6,"Person A asks if Person B has met Martin lately. Person B replies, “I have not seen him for ages,” which strongly indicates no recent contact. This is very likely a “no” with clear negation and specificity about the time since last seeing him.",20260820T173015Z_2baff65b
-1102,7,"Person A asks if Person B is doing something right now. Person B answers, “I am sending out an application,” which is an unambiguous statement of current action. This directly confirms the question, making it definitely a “yes.”",20260820T173015Z_2baff65b
