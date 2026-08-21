@@ -1,0 +1,3 @@
+id,score,rationale,run_id
+1101,1,"Person B's answer explicitly states that they have not seen Martin for a long time ('for ages'), which directly implies they have not met him lately. This is a clear and definitive 'no' to Person A's question.",20260821T123807Z_763d2eb7
+1102,7,"Person B's response indicates they are currently engaged in an activity ('sending out an application'). This is a direct and affirmative answer to Person A's question about whether they are doing something right now, warranting a 'definitely yes' score.",20260821T123807Z_763d2eb7

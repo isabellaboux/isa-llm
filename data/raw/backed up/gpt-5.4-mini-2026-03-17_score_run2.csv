@@ -1,0 +1,277 @@
+id,score,rationale
+1101,2,Not seeing Martin for ages strongly implies the answer is no to having met him lately.
+1102,5,"Sending out an application suggests the person is currently occupied, so it likely answers yes to doing something right now."
+1103,6,"Training with Lukas at the gym indicates they usually exercise together, so this is very likely yes."
+1104,7,Saying his grandfather passed away recently directly confirms a death in the family.
+1105,7,Saying Paris is about 1000 km away directly answers that it is far.
+1106,7,A six hour drive clearly indicates it takes a long time to get there.
+1107,2,"A train delay suggests the journey is not going as planned, so this is likely no."
+1108,2,"If there is still some cereal left, they have not finished it."
+1109,1,"If it is not due for three months, then the deadline is not next week."
+1110,7,Always congested with cars directly confirms there is usually a lot of traffic.
+1111,7,Being vegetarian means she does not eat meat.
+1112,7,Having the flu directly indicates he is sick.
+1113,7,Running for hours every day strongly confirms daily training.
+1114,7,"If she just woke up, she is no longer sleeping."
+1115,1,"If it comes out next week, it is not being released today."
+1116,6,"Having used a drill before strongly suggests prior experience, so yes."
+1117,2,Celebrating tonight implies the birthday party is not tomorrow.
+1118,7,Moving out tomorrow directly means leaving the flat soon.
+1119,6,"Always falling behind suggests he is a slacker, though it is slightly inferential."
+1120,7,Being famous for surfing directly answers that the area is popular for something.
+1121,1,"Quite rough is the opposite of calm, so this is clearly no."
+1122,1,Working at an NGO is not working for a corporate company.
+1123,7,Authoring many successful books directly indicates he is a writer.
+1124,2,Still analyzing it means the data work is not finished yet.
+1125,6,Calling pandas an endangered species strongly implies there are not many left.
+1126,6,Enrolling at the gym strongly suggests joining a fitness studio.
+1127,1,"If the thesis is not complete yet, it has not been finished."
+1128,6,"Saying the hair was way too long implies it used to be long, though not perfectly explicit."
+1129,1,"A business trip is not a vacation, so the answer is no."
+1130,1,Needing a larger one means a one-room flat is not enough.
+1131,7,"If the deadline is tomorrow, she has to hand it in soon."
+1132,7,Sleeping only four hours directly indicates a short night.
+1133,1,"If the offer had already expired, the flight was not still discounted."
+1134,7,Got wounded directly means the cat is hurt.
+1135,2,"If Mark is still missing, then not everyone is here."
+1137,6,"Being Chinese strongly suggests coming from Asia, though it is slightly indirect."
+1138,4,"The line went dead suggests the call ended, but it is somewhat indirect and could be ambiguous."
+1139,6,"Having domestics implies someone is taking care of the house, though not explicitly stated."
+1140,2,Just opened means the bar has not been there for long.
+1141,6,A house full of history books strongly suggests he owns many books.
+1143,7,Only a few guests over for dinner directly indicates a small gathering.
+1144,1,Having only one week off means they do not have two weeks of holiday.
+1145,6,"Going to have a baby strongly suggests pregnancy, though it is phrased indirectly."
+1147,2,Still owing the bank money means the debts have not been paid back.
+1148,1,Only having water means he did not drink a cocktail.
+1149,2,"Owning an orchard does not imply having a vegetable garden, so likely no."
+1150,1,Being 25 years old means he is not underage.
+1151,2,Extremely expensive tuition suggests it is not affordable.
+1152,7,A bank transfer a few moments ago directly indicates she paid already.
+1153,1,"If they cannot swim yet, they are not good at swimming."
+1154,7,Being healthy again directly means the cold is gone.
+1155,7,Not allowed to get closer directly confirms it is forbidden to approach.
+1156,6,Watering them regularly strongly suggests someone took care of the plants.
+1157,1,Already dead by then means he was not alive in the 80s.
+1158,6,A thick ice layer strongly suggests the lake is frozen.
+1159,1,Being in the advanced course means she is not a beginner.
+1160,6,Seeing a doctor strongly suggests seeking medical advice.
+1161,1,Going out with friends means he did not stay home.
+1162,6,Voting yesterday strongly suggests there was an election recently.
+1163,7,Spotless directly means completely clean.
+1164,1,Submitting a blank sheet means they did not answer all questions.
+1165,1,Being in the changing room means she is not out on the tennis field.
+1166,6,Being compensated strongly suggests he got the money back.
+1167,1,No one has responded means nobody answered the ad.
+1168,1,Not playing any instrument means he is not a musician.
+1169,6,Being in Japan for several months implies he has travelled in Asia.
+1170,6,Aiming for the mountain top strongly suggests the goal is the summit.
+1171,7,The customer received it directly confirms the package was delivered.
+1173,1,Skipping the last four lessons means she did not attend the whole course.
+1174,6,Poor monitor resolution strongly suggests a bad image on the screen.
+1175,7,Graduating from medical school last year directly confirms completion of medical studies.
+1176,1,A private property is not a public building.
+1201,2,"Not seeing him for ages suggests they are not still good friends, or at least not in close contact."
+1202,5,Sending out an application suggests looking for a job.
+1203,5,"Training with Lukas at the gym suggests knowing him, but it is not fully explicit."
+1204,4,"His grandfather passing away may relate to inheritance, but it does not clearly answer whether it is his property now."
+1205,7,Saying it is about 1000 km away directly answers that it takes long to drive there.
+1206,7,A six hour drive directly indicates Munich is far.
+1207,2,A train delay suggests he will not be home by noon.
+1208,2,"There is still some left means they have not bought cereal, or at least not necessarily."
+1209,1,"If it is not due for three months, they have not started writing the essay in the sense implied."
+1210,6,Congested streets strongly suggest they will be late to the cinema.
+1211,1,Being vegetarian means she is unlikely to come to a steak house.
+1212,7,Having the flu directly means he is staying home.
+1213,6,"Running for hours every day strongly suggests marathon registration or training, though not explicit."
+1214,1,Just woke up means she did not have breakfast already.
+1215,1,"If it comes out next week, he has not seen it yet."
+1216,6,Having used one before strongly suggests knowing how to use a drill.
+1217,1,Celebrating tonight is inconsistent with having failed the exam.
+1218,2,"Moving out tomorrow suggests breaking up, but it is not certain."
+1219,6,"Always falling behind strongly suggests he was fired, though it is inferential."
+1220,6,Being famous for surfing strongly suggests there are big waves.
+1221,1,Quite rough means the sea is not safe to swim in.
+1222,1,Working at an NGO usually implies not making a lot of money.
+1223,6,Authoring many successful books strongly suggests he is famous.
+1224,1,Still analyzing it means he did not present the data at the meeting.
+1225,1,Endangered species means hunting pandas is not legal.
+1226,5,"Enrolling at the gym suggests trying to lose weight, but it is not explicit."
+1227,1,"If the thesis is not complete yet, she has not graduated."
+1228,2,"Saying the hair was way too long suggests it was not cut, or at least not necessarily cut recently."
+1229,1,A business trip means it was not for sightseeing vacation.
+1230,1,Needing a larger one means he did not buy the one-room flat.
+1231,6,A deadline tomorrow strongly suggests she is stressed about the project.
+1232,6,Sleeping only four hours strongly suggests being tired.
+1233,1,"If the offer had already expired, he did not book the flight under that offer."
+1234,7,Got wounded directly means the cat needs a vet.
+1235,2,Mark is still missing means we are not all ready to go.
+1237,6,"Being Chinese strongly suggests being able to cook cantonese rice, though not guaranteed."
+1238,4,"The line went dead suggests the conversation ended, but it does not clearly answer whether he was told."
+1239,6,Having domestics strongly suggests the house is tidy.
+1240,2,They have just opened means the bar is not yet something you have tried.
+1241,6,A house full of history books strongly suggests a passion for history.
+1243,2,"Only a few guests over for dinner suggests the saucepan may not need to be big enough, but the answer is indirect."
+1244,1,Only one week off work means not taking a two-week trip.
+1245,6,"Going to have a baby strongly suggests avoiding alcohol, though it is indirect."
+1247,2,"Still owing the bank money means he did not get a new loan, or at least not clearly yes."
+1248,1,Only having water means he is not drunk.
+1249,1,Owning an orchard does not mean buying fruit in the supermarket.
+1250,1,Being 25 years old means he is not at elementary school age.
+1251,2,"Extremely expensive tuition suggests Harvard is not an option, though it is not explicit."
+1252,7,A bank transfer a few moments ago directly indicates she accepted or paid the deal.
+1253,1,"If they cannot swim yet, they did not go to the swimming pool for swimming ability."
+1254,7,Being healthy again directly means she is no longer taking those pills.
+1255,7,Not allowed to get closer directly indicates contamination or restricted area.
+1256,6,Watering them regularly strongly suggests the plants are still alive.
+1257,1,Already dead by then means the artwork was not created by him in 1981.
+1258,6,A thick ice layer strongly suggests it is ice skating season.
+1259,1,Being in the advanced course means she is not a beginner.
+1260,6,Seeing a doctor strongly suggests having been sick.
+1261,1,Going out with friends means he did not go to bed early.
+1262,6,Voting yesterday strongly suggests the members could elect a representative.
+1263,7,Spotless directly means the car is back clean.
+1264,1,Submitting a blank sheet means they did not write a good exam.
+1265,1,Being in the changing room means she is not dressed for the tennis game yet.
+1266,6,Being compensated strongly suggests he settled the lawsuit.
+1267,1,No one has responded means the house has not been sold.
+1268,1,Not playing any instrument means he is not part of a marching band.
+1269,5,"Being in Japan for several months suggests he may have tried sushi, but it is not certain."
+1270,6,Aiming for the mountain top strongly suggests the route is uphill.
+1271,7,The customer received it directly confirms the package was shipped and delivered.
+1273,1,Skipping the last four lessons means she is not very dedicated to the course.
+1274,6,Poor monitor resolution strongly suggests eyes get strained sometimes.
+1275,7,Graduating from medical school directly confirms she is a medical doctor.
+1276,1,"A private property means he has not been inside that building, or at least not legally."
+2101,5,"Needing to revise topics suggests yes, but it is phrased as a related activity rather than a direct answer."
+2102,5,"An interesting new movie suggests something has come out recently, though not explicitly in cinemas."
+2103,7,Quite chilly directly answers yes to it being cold.
+2105,5,"Heard good things about that book suggests some knowledge about the novel, but not direct knowledge."
+2106,6,Pulling a muscle last time strongly suggests getting injured at yoga class.
+2107,7,Cannot find my phone directly means the phone is lost.
+2108,7,Minus 20 degrees directly indicates it is cold outside.
+2109,7,Just entered a church directly confirms they are in a religious building.
+2110,6,Training very hard strongly suggests workouts are usually difficult.
+2113,5,"Working on an exhausting task suggests yes, but it is not a direct answer to whether they were working today."
+2114,2,Not bringing a bikini suggests they do not have swimming gear with them.
+2115,1,Not having time directly means they are not free.
+2116,1,Watching it last month means they did not watch it yesterday.
+2117,1,Being on a diet suggests they are not eating more than usual.
+2118,1,Being a Muslim means they do not practise Hinduism.
+2119,6,Head spinning after beers strongly suggests they are not feeling ok.
+2120,1,Very tired means they are not feeling energetic.
+2121,1,Being broke means they do not have money saved up.
+2122,6,Having used one already in the past strongly suggests prior experience with a chainsaw.
+2123,1,11 p.m. means it is not morning in Los Angeles.
+2124,1,Having a hangover means they are not feeling good.
+2125,1,Being diabetic means they are not free of chronic disease.
+2127,1,Usually getting seasick means they do not feel well on boats.
+2128,7,My toothache is gone directly means the teeth are no longer hurting.
+2129,5,"Several bus stops before the destination suggests there are many stations on the way, though not exactly the same."
+2130,7,Should not staple them directly answers that it is not allowed.
+2131,7,Very light directly answers that the luggage does not weigh much.
+2132,7,"Having to get up at 5 am directly means yes, early tomorrow."
+2134,1,French being the native language means Spanish is not the mother tongue.
+2135,7,Does not work directly means the remote is unusable.
+2136,7,Wolves are very common here directly confirms wild animals in the region.
+2137,1,Only having cacti means there are no trees in the garden.
+2138,7,Need it for travelling directly confirms the passport is necessary.
+2139,1,Having a sandwich means they did not bring pie for lunch.
+2140,5,"Having to go out soon suggests the kids are about to leave, but it is slightly indirect."
+2141,7,Starving directly answers yes to already being hungry.
+2144,7,Drinking tea all the time directly indicates often consuming hot drinks.
+2145,7,Too much light directly means the room is very bright.
+2146,1,Being abroad then means they will not stay in town till Friday.
+2147,7,Having a soup directly means they are eating something.
+2148,7,Just started pouring directly means it is raining already.
+2149,1,Not drinking directly means they do not consume alcohol.
+2150,1,A dishwasher in the kitchen means not everything was taken away from the flat.
+2151,1,Giving away the racket ages ago means they do not still have tennis equipment.
+2152,1,Not eating spicy dishes means they do not consume all types of food.
+2153,7,Living right next to you directly confirms they are neighbours.
+2155,1,Understanding everything now means they are not still confused.
+2156,7,Chest hurts a lot directly indicates pain in the upper body.
+2157,1,Being in the middle of summer means it is not winter there.
+2159,7,Cutting a finger while cooking directly means they got hurt.
+2160,7,Dust all over the floor directly indicates the living room is dirty.
+2161,1,Having brought mine means they did not leave toothpaste at home.
+2162,7,Chapped lips directly indicates the lips got damaged by the wind.
+2163,1,Working early tomorrow morning means they are not doing the afternoon shift tomorrow.
+2164,1,Planning to eat at a restaurant means they are not going to have dinner at home.
+2165,6,Grown a lot recently strongly suggests the hedges are taller than last time.
+2166,7,Lunch is now ready directly indicates cooking is finished.
+2167,6,A very complicated math exercise strongly suggests difficult homework.
+2168,4,Not sure where to go yet is ambiguous about whether a destination has been decided.
+2169,2,Smoking cigars only means they do not smoke cigarettes.
+2170,1,Usually typing directly on a laptop means they are not writing on paper.
+2171,2,A stove not delivered yet suggests the kitchen is still incomplete.
+2172,7,Cars get stolen regularly here directly indicates car theft occurs often.
+2173,1,A wardrobe completely full means there is no room left.
+2174,7,Dirty laundry piling up directly indicates there is a lot to wash.
+2175,5,"Having a relaxed breakfast suggests taking some time for breakfast, though not explicitly."
+2201,5,"Needing to revise topics suggests studying together could make sense, but it is not a direct yes."
+2202,5,"An interesting new movie suggests going to the cinema, but it is indirect."
+2203,5,"It is quite chilly suggests closing the window, but does not directly answer the suggestion."
+2205,4,Heard good things about that book is related but does not clearly answer whether they would like to borrow it.
+2206,6,Pulling a muscle last time strongly suggests skipping yoga class.
+2207,2,"Cannot find my phone suggests they do not want to use another phone, but it is not a direct yes/no."
+2208,7,Minus 20 degrees directly indicates a coat is needed.
+2209,7,Just entered a church directly supports turning off phones.
+2210,6,Training very hard strongly suggests wanting a protein shake.
+2213,2,Working on an exhausting task suggests taking a break is not the immediate answer.
+2214,2,Not bringing a bikini suggests they likely do not want to go to the lake.
+2215,1,Not having time directly means they are not coming to the talk.
+2216,1,Watching it last month means they do not need to watch it tonight.
+2217,1,Being on a diet means they likely do not want dessert.
+2218,1,Being Muslim means they do not want pork.
+2219,1,Having a spinning head after beers means they do not want another beer.
+2220,1,Being very tired means they do not want to go out.
+2221,1,Being broke means they do not want to go on a trip.
+2222,6,Having used one already in the past suggests they can handle a chainsaw.
+2223,1,"11 p.m. means it is not a good time to go to the cinema, so likely no."
+2224,1,Having a hangover means they do not want drinks.
+2225,1,Being diabetic means they do not want cake.
+2227,1,Usually getting seasick means they do not want to join a sea cruise.
+2228,1,"If the toothache is gone, they do not want painkillers."
+2229,1,Having several bus stops before the destination means they do not need the seat.
+2230,1,Should not staple them means they do not want the stapler.
+2231,1,Very light luggage means they do not need help with it.
+2232,7,"Having to get up at 5 am directly means yes, set the alarm."
+2234,1,French being the native language means checking French spelling is unnecessary.
+2235,7,"It does not work directly means yes, change the batteries."
+2236,7,Wolves being very common here directly supports locking up the cattle.
+2237,1,"Only having cacti means there are no plants to water, so no."
+2238,7,"Need it for travelling directly means yes, pack the passport."
+2239,1,Having a sandwich means they do not want food.
+2240,7,"Having to go out soon directly means yes, wake up the kids."
+2241,7,Starving directly indicates they want biscuits.
+2244,7,Drinking tea all the time directly indicates they would like to use the kettle.
+2245,7,Too much light directly supports turning down the dimmer.
+2246,1,Being abroad then means they are not coming to the party this Friday.
+2247,7,Having a soup directly indicates they want a spoon.
+2248,7,It just started pouring directly indicates they would like an umbrella.
+2249,1,Not drinking directly means they do not want wine.
+2250,1,Having a dishwasher means they do not need help doing the dishes.
+2251,1,Giving away the racket ages ago means they do not want to play tennis.
+2252,1,Not eating spicy dishes means they do not want Mexican food.
+2253,7,Living right next to you directly means they do not need a ride home.
+2255,1,Understanding everything now means they do not need it explained again.
+2256,7,Chest hurts a lot directly indicates they want the doctor called.
+2257,1,Being in the middle of summer means they do not want an extra blanket.
+2259,7,Cutting a finger while cooking directly indicates they want a plaster.
+2260,7,"Dust all over the floor directly indicates yes, sweep the living room."
+2261,1,Having brought mine means they do not want toothpaste.
+2262,7,Chapped lips directly indicates they want lip balm.
+2263,1,Working early tomorrow morning means they are not joining for drinks tonight.
+2264,1,Planning to eat at a restaurant means they do not want home cooking.
+2265,6,They have grown a lot recently strongly suggests pruning the hedges.
+2266,7,"Lunch is now ready directly means yes, set the table."
+2267,6,A very complicated math exercise strongly suggests wanting a calculator.
+2268,1,Not sure where to go yet means they should not buy train tickets yet.
+2269,1,Smoking cigars only means they do not want a cigarette.
+2270,1,Usually typing on a laptop means they do not want paper.
+2271,1,The stove not delivered yet means they do not need delivery food in the intended sense.
+2272,6,Cars get stolen regularly here strongly suggests locking the car.
+2273,1,A wardrobe completely full means they do not want to go shopping for clothes.
+2274,7,"Dirty laundry piling up directly indicates yes, do the laundry."
+2275,5,"Having a relaxed breakfast suggests wanting pancakes, but it is not explicit."

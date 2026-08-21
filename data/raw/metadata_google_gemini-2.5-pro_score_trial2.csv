@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
+gen-1787242850-pIx3HkS0Q7cqV36cF1Fv,google/gemini-2.5-pro,google/gemini-2.5-pro,Google,stop,220,577,401,797,0.006045,20260820T181304Z_d396d5cf
