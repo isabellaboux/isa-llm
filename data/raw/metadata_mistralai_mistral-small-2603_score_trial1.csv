@@ -1,2 +1,2 @@
 generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
-gen-1787307929-rcaYePZZctdmcX2y9Y65,mistralai/mistral-small-2603,mistralai/mistral-small-2603,Mistral,stop,220,140,0,360,0.000117,20260821T121335Z_ac1303de
+gen-1787308707-HCdJitlUpgclKNOT9uqe,mistralai/mistral-small-2603,mistralai/mistral-small-2603,Mistral,stop,220,129,0,349,0.0001104,20260821T123807Z_763d2eb7

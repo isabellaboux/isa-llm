@@ -1,3 +1,3 @@
 id,score,rationale,run_id
-1101,2,"Person B's answer ('I have not seen him for ages') strongly implies that they have not met Martin lately. The phrase 'for ages' emphasizes a long period of absence, making it very likely a 'no' response to the question.",20260821T121335Z_ac1303de
-1102,7,Person B's answer ('I am sending out an application') directly confirms that they are engaged in an activity at the moment. This is a clear 'yes' to the question about whether they are doing something right now.,20260821T121335Z_ac1303de
+1101,1,"Person B's answer explicitly states that they have not seen Martin for a long time ('for ages'), which directly implies they have not met him lately. This is a clear and definitive 'no' to Person A's question.",20260821T123807Z_763d2eb7
+1102,7,"Person B's response indicates they are currently engaged in an activity ('sending out an application'). This is a direct and affirmative answer to Person A's question about whether they are doing something right now, warranting a 'definitely yes' score.",20260821T123807Z_763d2eb7

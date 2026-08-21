@@ -1,3 +1,3 @@
 id,score,rationale,run_id
-1101,1,Person B's response 'I have not seen him for ages' directly negates the possibility of having met Martin lately. The phrasing is unambiguous and strongly indicates a 'no' answer to Person A's question.,20260821T121335Z_ac1303de
-1102,7,"Person B's response 'I am sending out an application' clearly indicates that they are currently engaged in an activity, which directly answers Person A's question in the affirmative. The response is unambiguous and strongly suggests a 'yes'.",20260821T121335Z_ac1303de
+1101,1,"Person B's answer 'I have not seen him for ages' directly indicates that they have not met Martin recently, which strongly implies a 'no' to the question of whether they have met Martin lately.",20260821T123807Z_763d2eb7
+1102,7,"Person B's answer 'I am sending out an application' clearly indicates that they are currently engaged in an activity, which directly answers 'yes' to the question of whether they are doing something right now.",20260821T123807Z_763d2eb7
