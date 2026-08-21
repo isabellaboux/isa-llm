@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
+gen-1787307755-LowO4EQgyimZGIiSM8zT,qwen/qwen3.8-2.4t-a95b,qwen/qwen3.8-2.4t-a95b,SiliconFlow,stop,275,1473,1386,1748,0.009388,20260821T121335Z_ac1303de

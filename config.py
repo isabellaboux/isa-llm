@@ -5,27 +5,27 @@ TRIALS = 2 #28
 METADATA_MAX_RETRIES = 5
 
 MODELS = [
-    # openai models
-    "openai/gpt-5.4-nano",
-    "openai/gpt-5.4-mini",
-    "openai/gpt-5.4",
-    "openai/gpt-5.5",
-    "openai/gpt-5.6-luna",
-    "openai/gpt-5.6-terra",
-    "openai/gpt-5.6-sol",
-    # anthropic models  - checked
-    "anthropic/claude-opus-5",
-    "anthropic/claude-opus-4.8",
-    "anthropic/claude-sonnet-5",
-    "anthropic/claude-sonnet-4.6",
-    "anthropic/claude-haiku-4.5",
-    # google models (gemini family) - checked
-    "google/gemini-3.1-pro-preview",
-    "google/gemini-2.5-pro",
-    "google/gemini-3.7-flash",
-    "google/gemini-3.6-flash",
-    "google/gemini-3.5-flash-lite",
-    "google/gemini-3.1-flash-lite",
+    # # openai models
+    # "openai/gpt-5.4-nano",
+    # "openai/gpt-5.4-mini",
+    # "openai/gpt-5.4",
+    # "openai/gpt-5.5",
+    # "openai/gpt-5.6-luna",
+    # "openai/gpt-5.6-terra",
+    # "openai/gpt-5.6-sol",
+    # # anthropic models  - checked
+    # "anthropic/claude-opus-5",
+    # "anthropic/claude-opus-4.8",
+    # "anthropic/claude-sonnet-5",
+    # "anthropic/claude-sonnet-4.6",
+    # "anthropic/claude-haiku-4.5",
+    # # google models (gemini family) - checked
+    # "google/gemini-3.1-pro-preview",
+    # "google/gemini-2.5-pro",
+    # "google/gemini-3.7-flash",
+    # "google/gemini-3.6-flash",
+    # "google/gemini-3.5-flash-lite",
+    # "google/gemini-3.1-flash-lite",
     # google models (gemma family)  - checked
     "google/gemma-4-26b-a4b-it",
     #"google/gemma-4-31b-it", # does not support json output

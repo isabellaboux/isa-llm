@@ -1,0 +1,3 @@
+id,score,rationale,run_id
+1101,2,"Person B says they have not seen Martin 'for ages,' which strongly implies they have not met him lately. This is a very likely 'no' answer to whether they have met Martin recently.",20260820T181304Z_d396d5cf
+1102,7,"Person B explicitly states they are sending out an application, which directly confirms they are doing something right now. This is a definite 'yes' answer.",20260820T181304Z_d396d5cf

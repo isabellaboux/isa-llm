@@ -1,0 +1,3 @@
+id,score,rationale,run_id
+1101,2,"Person B states they haven't seen Martin 'for ages,' which strongly implies they haven't met him *lately*. While not a direct 'no,' it's a very strong indication that a recent meeting hasn't occurred. It's not a definite 'no' because 'ages' is vague, but it leans heavily that way.",20260821T121335Z_ac1303de
+1102,3,"Person B's response describes an action they *are* doing, 'sending out an application'. This doesn't directly answer whether they are doing something *right now* in the sense of being occupied or unavailable. It suggests they are busy, but doesn't confirm or deny if that's what Person A meant by 'doing something'. Therefore, it leans towards 'no' but isn't conclusive.",20260821T121335Z_ac1303de

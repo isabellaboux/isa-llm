@@ -1,0 +1,3 @@
+id,score,rationale,run_id
+1101,2,"Person B says they have not seen Martin for ages, which strongly implies they have not met Martin lately. It is not an explicit ""no,"" but it clearly answers in the negative direction.",20260820T181304Z_d396d5cf
+1102,5,"Person B says they are sending out an application, which suggests they are occupied at the moment. This is a reasonable answer to whether they are doing something right now, so it leans yes, though it does not directly repeat the question.",20260820T181304Z_d396d5cf

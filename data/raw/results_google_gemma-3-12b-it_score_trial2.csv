@@ -1,0 +1,3 @@
+id,score,rationale,run_id
+1101,2,"Person B's response 'I have not seen him for ages' strongly implies they have *not* met Martin lately. While not a direct 'no', the phrasing indicates a significant amount of time has passed since they last saw him, making a 'no' response very likely.",20260821T121335Z_ac1303de
+1102,5,"Person B's response 'I am sending out an application' suggests they are actively engaged in something. This implies they are doing *something* right now, which aligns with a 'yes' answer to the question 'Are you doing something right now?'.",20260821T121335Z_ac1303de

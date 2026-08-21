@@ -1,0 +1,3 @@
+id,score,rationale,run_id
+1101,1,"Person B says they have not seen Martin for ages, which directly negates having met or seen him lately. The wording is a clear negative answer, so it should be interpreted as definitely no.",20260821T121335Z_ac1303de
+1102,7,"Person B states they are sending out an application, which is a current activity. This directly answers the question by indicating that they are doing something right now, so it should be interpreted as definitely yes.",20260821T121335Z_ac1303de
