@@ -1,2 +1,0 @@
-generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
-gen-1787307555-RRfUUnMdbvdcxCpXYGXX,qwen/qwen3.7-plus,qwen/qwen3.7-plus,Alibaba,stop,237,1890,1781,2127,0.00249504,20260821T121335Z_ac1303de

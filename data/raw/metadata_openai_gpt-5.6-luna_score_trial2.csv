@@ -1,2 +1,0 @@
-generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
-gen-1787242528-OylrgS2H8VE4SBJpoMZG,openai/gpt-5.6-luna,openai/gpt-5.6-luna,OpenAI,stop,275,153,54,428,0.0002386,20260820T181304Z_d396d5cf

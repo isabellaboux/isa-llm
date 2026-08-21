@@ -1,3 +1,0 @@
-id,score,rationale,run_id
-1101,2,"Person B states they haven't seen Martin 'for ages,' which strongly implies they haven't met him *lately*. While not a direct 'no,' it's a very strong indication that a recent meeting hasn't occurred. The phrasing leans towards a negative response.",20260821T121335Z_ac1303de
-1102,3,"Person B's response describes an action they *are* doing, 'sending out an application'. This doesn't directly answer whether they are doing something *right now* in the sense Person A might have intended (e.g., are they busy, available). It suggests they are occupied, leaning towards 'no', but it's not definitive. It's possible to send an application and still be generally available.",20260821T121335Z_ac1303de

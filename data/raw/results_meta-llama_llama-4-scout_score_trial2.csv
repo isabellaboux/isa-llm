@@ -1,3 +1,0 @@
-id,score,rationale,run_id
-1101,2,"Person B's response 'I have not seen him for ages' implies that it is very likely that Person B has not met Martin lately, which leans towards 'no'. The phrase 'for ages' suggests a long period of time, indicating a strong likelihood of not having seen him.",20260821T121335Z_ac1303de
-1102,6,"Person B's response 'I am sending out an application' directly answers the question of whether they are doing something right now with a specific activity, indicating that it is very likely they are doing something. This suggests a 'yes' answer, as they are indeed occupied.",20260821T121335Z_ac1303de

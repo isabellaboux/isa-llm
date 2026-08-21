@@ -1,2 +1,0 @@
-generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
-gen-1787307232-s9pCnGAcKyRRviSBHcas,google/gemma-4-26b-a4b-it,google/gemma-4-26b-a4b-it,DeepInfra,stop,237,111,0,348,5.433e-05,20260821T121335Z_ac1303de

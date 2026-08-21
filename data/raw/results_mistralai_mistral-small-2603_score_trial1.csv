@@ -1,3 +1,0 @@
-id,score,rationale,run_id
-1101,1,"Person B's response explicitly states they have not seen Martin for ages, which directly answers 'no' to the question of whether they have met Martin lately. There is no ambiguity in the response.",20260821T123807Z_763d2eb7
-1102,7,"Person B's response clearly indicates they are currently engaged in sending out an application, which directly answers 'yes' to the question of whether they are doing something right now. The response is unambiguous and relevant.",20260821T123807Z_763d2eb7

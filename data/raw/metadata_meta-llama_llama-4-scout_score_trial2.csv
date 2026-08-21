@@ -1,2 +1,0 @@
-generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
-gen-1787307413-is6cavFDDXSMlbf6Xgu8,meta-llama/llama-4-scout,meta-llama/llama-4-scout,DeepInfra,stop,225,168,0,393,7.29e-05,20260821T121335Z_ac1303de

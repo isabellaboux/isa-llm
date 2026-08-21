@@ -1,3 +1,0 @@
-id,score,rationale,run_id
-1101,1,"The answer should be interpreted as 'no' because Person B explicitly states they have not seen Martin for ages, indicating no recent meeting.",20260821T121335Z_ac1303de
-1102,7,"The answer should be interpreted as 'yes' because Person B is actively engaged in an activity, sending out an application, which directly answers the question about doing something right now.",20260821T121335Z_ac1303de

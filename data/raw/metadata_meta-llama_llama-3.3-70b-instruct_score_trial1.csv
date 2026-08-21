@@ -1,2 +1,0 @@
-generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
-gen-1787307433-fdipZYnufGQZV6OK0aJQ,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,Parasail,stop,246,119,0,365,0.00011362,20260821T121335Z_ac1303de

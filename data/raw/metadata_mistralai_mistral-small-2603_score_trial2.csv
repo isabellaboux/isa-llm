@@ -1,2 +1,0 @@
-generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
-gen-1787308722-RrA1eP5dEK3U9XKE6Vcf,mistralai/mistral-small-2603,mistralai/mistral-small-2603,Venice,stop,232,146,0,378,0.000153,20260821T123807Z_763d2eb7
