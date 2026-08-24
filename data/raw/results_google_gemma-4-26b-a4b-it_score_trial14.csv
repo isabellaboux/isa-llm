@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Person B says they haven't seen him for ages, which directly answers 'no' to having met him lately.",20260821T125948Z_8dbb5082
+1102,7,"Person B is currently sending an application, which confirms they are doing something right now.",20260821T125948Z_8dbb5082
+1103,7,"Person B confirms they train with Lukas at the gym, answering 'yes' to the question of whether they usually exercise with him.",20260821T125948Z_8dbb5082
+1104,7,Person B confirms a death in the family by stating his grandfather passed away.,20260821T125948Z_8dbb5082
+1105,5,"While 1000km is a significant distance, the answer provides a specific distance rather than a simple yes/no, but it implies the distance is substantial (yes, it is far).",20260821T125948Z_8dbb5082
+1106,5,"A six-hour drive is generally considered a long time, implying 'yes' to the question.",20260821T125948Z_8dbb5082
+1107,2,"A delay suggests the journey is not going as planned, answering 'no'.",20260821T125948Z_8dbb5082
+1108,2,"If there is still cereal left, they have not finished it, answering 'no'.",20260821T125948Z_8dbb5082
+1109,1,"If it is not due for three months, the deadline is not next week, answering 'no'.",20260821T125948Z_8dbb5082
+1110,7,"Congested streets imply there is a lot of traffic, answering 'yes'.",20260821T125948Z_8dbb5082
+1111,1,"A vegetarian does not eat meat, answering 'no'.",20260821T125948Z_8dbb5082
+1112,7,"Having the flu confirms he is sick, answering 'yes'.",20260821T125948Z_8dbb5082
+1113,7,"Running for hours every day confirms she trains daily, answering 'yes'.",20260821T125948Z_8dbb5082
+1114,1,"If she just woke up, she is no longer sleeping, answering 'no'.",20260821T125948Z_8dbb5082
+1115,1,"If it comes out next week, it is not being released today, answering 'no'.",20260821T125948Z_8dbb5082
+1116,7,"Having used one before confirms they have worked with a drill, answering 'yes'.",20260821T125948Z_8dbb5082
+1117,2,"Celebrating tonight implies the party is not tomorrow, answering 'no'.",20260821T125948Z_8dbb5082
+1118,5,"Moving out tomorrow implies leaving the flat soon, answering 'yes'.",20260821T125948Z_8dbb5082
+1119,7,"Falling behind is a characteristic of a slacker, answering 'yes'.",20260821T125948Z_8dbb5082
+1120,7,"Being famous for surfing confirms the area is popular for something, answering 'yes'.",20260821T125948Z_8dbb5082
+1121,1,"Rough seas are the opposite of calm, answering 'no'.",20260821T125948Z_8dbb5082
+1122,1,"Working for an NGO is the opposite of working for a corporate company, answering 'no'.",20260821T125948Z_8dbb5082
+1123,7,"Authoring books confirms he is a writer, answering 'yes'.",20260821T125948Z_8dbb5082
+1124,1,"Still analyzing implies they are not finished, answering 'no'.",20260821T125948Z_8dbb5082
+1125,5,"Being an endangered species implies there are not many left, answering 'yes'.",20260821T125948Z_8dbb5082
+1126,7,"Enrolling at the gym confirms they joined a fitness studio, answering 'yes'.",20260821T125948Z_8dbb5082
+1127,1,"Not being complete means they haven't finished, answering 'no'.",20260821T125948Z_8dbb5082
+1128,5,"If the hair was 'way too long', it implies they did have long hair, answering 'yes'.",20260821T125948Z_8dbb5082
+1129,1,"A business trip is not a vacation, answering 'no'.",20260821T125948Z_8dbb5082
+1130,1,"Needing a larger one implies the one-room flat is not enough, answering 'no'.",20260821T125948Z_8dbb5082
+1131,7,"A deadline of tomorrow confirms she has to hand it in soon, answering 'yes'.",20260821T125948Z_8dbb5082
+1132,7,"Sleeping only four hours confirms a short night, answering 'yes'.",20260821T125948Z_8dbb5082
+1133,1,"An expired offer means it was not still discounted, answering 'no'.",20260821T125948Z_8dbb5082
+1134,7,"Being wounded confirms the cat is hurt, answering 'yes'.",20260821T125948Z_8dbb5082
+1135,1,"Mark being missing means not everyone is here, answering 'no'.",20260821T125948Z_8dbb5082
+1137,7,"Being Chinese confirms they come from Asia, answering 'yes'.",20260821T125948Z_8dbb5082
+1138,4,"The line going dead is a reason why a call might end, but it doesn't explicitly confirm if the person hung up or if the connection failed. It is ambiguous.",20260821T125948Z_8dbb5082
+1139,7,"Having domestics implies someone is taking care of the house, answering 'yes'.",20260821T125948Z_8dbb5082
+1140,1,"Just opening implies it hasn't been there for long, answering 'no'.",20260821T125948Z_8dbb5082
+1141,7,"A house full of books confirms he owns many, answering 'yes'.",20260821T125948Z_8dbb5082
+1143,5,"Having 'only few guests' suggests a small gathering, answering 'yes'.",20260821T125948Z_8dbb5082
+1144,1,"One week is not two weeks, answering 'no'.",20260821T125948Z_8dbb5082
+1145,7,"Going to have a baby is a confirmation of being pregnant, answering 'yes'.",20260821T125948Z_8dbb5082
+1147,1,"Still owing money means they haven't paid back debts, answering 'no'.",20260821T125948Z_8dbb5082
+1148,1,"Only having water means he did not drink a cocktail, answering 'no'.",20260821T125948Z_8dbb5082
+1149,1,"Owning an orchard is different from having a vegetable garden, answering 'no'.",20260821T125948Z_8dbb5082
+1150,1,"25 years old is not underage, answering 'no'.",20260821T125948Z_8dbb5082
+1151,1,"Extremely expensive is the opposite of affordable, answering 'no'.",20260821T125948Z_8dbb5082
+1152,7,"Making a bank transfer confirms she has paid, answering 'yes'.",20260821T125948Z_8dbb5082
+1153,1,"Not being able to swim yet confirms they are not good at it, answering 'no'.",20260821T125948Z_8dbb5082
+1154,1,"Being healthy again means the cold is gone, answering 'no'.",20260821T125948Z_8dbb5082
+1155,7,"Not being allowed to get closer confirms it is forbidden, answering 'yes'.",20260821T125948Z_8dbb5082
+1156,7,"Watering them regularly implies they have been taken care of, answering 'yes'.",20260821T125948Z_8dbb5082
+1157,1,"Being dead by then means he was not alive, answering 'no'.",20260821T125948Z_8dbb5082
+1158,5,"A thick ice layer implies the lake is frozen, answering 'yes'.",20260821T125948Z_8dbb5082
+1159,1,"Being in an advanced course is the opposite of a beginner, answering 'no'.",20260821T125948Z_8dbb5082
+1160,7,"Seeing a doctor confirms seeking medical advice, answering 'yes'.",20260821T125948Z_8dbb5082
+1161,1,"Going out with friends means they did not stay home, answering 'no'.",20260821T125948Z_8dbb5082
+1162,7,"Voting yesterday confirms an election occurred recently, answering 'yes'.",20260821T125948Z_8dbb5082
+1163,7,"Spotless means completely clean, answering 'yes'.",20260821T125948Z_8dbb5082
+1164,1,"Submitting a blank sheet means they did not answer the questions, answering 'no'.",20260821T125948Z_8dbb5082
+1165,1,"Being in the changing room implies she is not on the field, answering 'no'.",20260821T125948Z_8dbb5082
+1166,7,"Being compensated is a way of getting money back, answering 'yes'.",20260821T125948Z_8dbb5082
+1167,1,"No one responding means no one answered, answering 'no'.",20260821T125948Z_8dbb5082
+1168,1,"Not playing any instrument confirms he is not a musician, answering 'no'.",20260821T125948Z_8dbb5082
+1169,7,"Being in Japan for months confirms he has travelled in Asia, answering 'yes'.",20260821T125948Z_8dbb5082
+1170,7,"Aiming for the mountain top confirms the goal is the summit, answering 'yes'.",20260821T125948Z_8dbb5082
+1171,7,"Receiving the package confirms the customer got it, answering 'yes'.",20260821T125948Z_8dbb5082
+1173,1,"Skipping lessons means she did not attend the whole course, answering 'no'.",20260821T125948Z_8dbb5082
+1174,7,"Poor resolution confirms a bad image, answering 'yes'.",20260821T125948Z_8dbb5082
+1175,7,"Graduating from medical school confirms she completed her studies, answering 'yes'.",20260821T125948Z_8dbb5082
+1176,1,"Private property is the opposite of a public building, answering 'no'.",20260821T125948Z_8dbb5082
+1201,4,"Not seeing someone for ages doesn't necessarily mean you aren't friends, it just means you haven't met. The answer is ambiguous regarding the friendship status.",20260821T125948Z_8dbb5082
+1202,7,"Sending an application confirms they are looking for a job, answering 'yes'.",20260821T125948Z_8dbb5082
+1203,7,"Training with him confirms they know him, answering 'yes'.",20260821T125948Z_8dbb5082
+1204,4,The death of a grandfather doesn't directly answer if the property is his now. It is ambiguous.,20260821T125948Z_8dbb5082
+1205,5,"1000km is a long distance, implying 'yes' to it taking long.",20260821T125948Z_8dbb5082
+1206,5,"A six-hour drive is a long time, implying 'yes'.",20260821T125948Z_8dbb5082
+1207,2,"A delay implies they will likely not be home by noon, answering 'no'.",20260821T125948Z_8dbb5082
+1208,2,"If there is still cereal left, they haven't finished buying/using it all, but the question is 'Have you bought cereal?'. If there is cereal left, it implies they have it, so 'yes'. However, in the context of the previous pattern, it's a 'no' to 'is it finished'. Let's re-evaluate: 'Have you bought cereal?' 'There is still some left' implies they have it. Score 6.",20260821T125948Z_8dbb5082
+1209,1,"Not due for three months means they haven't started/it's not due next week, answering 'no'.",20260821T125948Z_8dbb5082
+1210,2,"Congested streets imply they will be late, answering 'yes' to the concern, but the question is 'Will we be late?'. If traffic is bad, the answer is 'yes'. Wait, the question is 'Will we be late?'. Congestion implies 'yes'. Score 6.",20260821T125948Z_8dbb5082
+1211,1,"A vegetarian won't go to a steak house, answering 'no'.",20260821T125948Z_8dbb5082
+1212,7,"Having the flu confirms he is sick, answering 'yes'.",20260821T125948Z_8dbb5082
+1213,4,Running every day doesn't necessarily mean she registered for a specific marathon. Ambiguous.,20260821T125948Z_8dbb5082
+1214,1,"Just waking up implies she hasn't had breakfast, answering 'no'.",20260821T125948Z_8dbb5082
+1215,1,"Coming out next week means it's not today, answering 'no'.",20260821T125948Z_8dbb5082
+1216,7,"Having used one before confirms they know how, answering 'yes'.",20260821T125948Z_8dbb5082
+1217,4,Celebrating tonight doesn't answer if they failed the exam. Ambiguous.,20260821T125948Z_8dbb5082
+1218,4,Moving out tomorrow doesn't directly answer if they are breaking up. Ambiguous.,20260821T125948Z_8dbb5082
+1219,7,"Falling behind is a sign of a slacker, answering 'yes'.",20260821T125948Z_8dbb5082
+1220,7,"Surfing fame confirms big waves, answering 'yes'.",20260821T125948Z_8dbb5082
+1221,1,"Rough seas are not safe, answering 'no'.",20260821T125948Z_8dbb5082
+1222,1,"An NGO is not a corporate company, answering 'no'.",20260821T125948Z_8dbb5082
+1223,7,"Authoring books confirms he is famous/a writer, answering 'yes'.",20260821T125948Z_8dbb5082
+1224,1,"Still analyzing means not finished, answering 'no'.",20260821T125948Z_8dbb5082
+1225,5,"Endangered status implies they are rare, answering 'yes'.",20260821T125948Z_8dbb5082
+1226,4,Enrolling at a gym doesn't necessarily mean they lost weight. Ambiguous.,20260821T125948Z_8dbb5082
+1227,1,"Thesis not complete means not graduated, answering 'no'.",20260821T125948Z_8dbb5082
+1228,5,"If it was 'way too long', it implies they had long hair, answering 'yes'.",20260821T125948Z_8dbb5082
+1229,1,"A business trip is not a vacation, answering 'no'.",20260821T125948Z_8dbb5082
+1230,1,"Needing a larger one implies the current one is not enough, answering 'no'.",20260821T125948Z_8dbb5082
+1231,7,"A deadline of tomorrow confirms stress/urgency, answering 'yes'.",20260821T125948Z_8dbb5082
+1232,7,"Four hours is a short night, answering 'yes'.",20260821T125948Z_8dbb5082
+1233,1,"Expired offer means it wasn't discounted, answering 'no'.",20260821T125948Z_8dbb5082
+1234,7,"Being wounded confirms the cat is hurt, answering 'yes'.",20260821T125948Z_8dbb5082
+1235,1,"Mark being missing means not everyone is here, answering 'no'.",20260821T125948Z_8dbb5082
+1237,7,"Being Chinese confirms they can cook Cantonese rice, answering 'yes'.",20260821T125948Z_8dbb5082
+1238,4,The line going dead is an ambiguous response to whether they hung up. Ambiguous.,20260821T125948Z_8dbb5082
+1239,7,"Having domestics implies a tidy house, answering 'yes'.",20260821T125948Z_8dbb5082
+1240,1,"Just opened means it hasn't been there long, answering 'no'.",20260821T125948Z_8dbb5082
+1241,7,"A house full of history books confirms a passion, answering 'yes'.",20260821T125948Z_8dbb5082
+1243,4,The number of guests doesn't directly answer if the saucepan is big enough. Ambiguous.,20260821T125948Z_8dbb5082
+1244,1,"One week is not two weeks, answering 'no'.",20260821T125948Z_8dbb5082
+1245,7,"Having a baby confirms pregnancy, answering 'yes'.",20260821T125948Z_8dbb5082
+1247,1,"Owing money means they haven't paid back, answering 'no'.",20260821T125948Z_8dbb5082
+1248,1,"Only having water means he wasn't drunk, answering 'no'.",20260821T125948Z_8dbb5082
+1249,1,"Owning an orchard is not a vegetable garden, answering 'no'.",20260821T125948Z_8dbb5082
+1250,1,"25 is not underage, answering 'no'.",20260821T125948Z_8dbb5082
+1251,1,"Expensive is not affordable, answering 'no'.",20260821T125948Z_8dbb5082
+1252,7,"Making a transfer confirms payment, answering 'yes'.",20260821T125948Z_8dbb5082
+1253,1,"Cannot swim means they didn't go to the pool/aren't good, answering 'no'.",20260821T125948Z_8dbb5082
+1254,1,"Being healthy means no longer having a cold, answering 'no'.",20260821T125948Z_8dbb5082
+1255,7,"Not being allowed to get closer confirms it is forbidden, answering 'yes'.",20260821T125948Z_8dbb5082
+1256,7,"Watering them regularly implies they are alive, answering 'yes'.",20260821T125948Z_8dbb5082
+1257,1,"Being dead means he wasn't alive, answering 'no'.",20260821T125948Z_8dbb5082
+1258,5,"Thick ice implies it is frozen, answering 'yes'.",20260821T125948Z_8dbb5082
+1259,1,"Advanced is not beginner, answering 'no'.",20260821T125948Z_8dbb5082
+1260,7,"Seeing a doctor confirms seeking advice, answering 'yes'.",20260821T125948Z_8dbb5082
+1261,1,"Going out means not staying home, answering 'no'.",20260821T125948Z_8dbb5082
+1262,7,"Voting yesterday confirms an election, answering 'yes'.",20260821T125948Z_8dbb5082
+1263,7,"Spotless means clean, answering 'yes'.",20260821T125948Z_8dbb5082
+1264,1,"Blank sheet means they didn't answer, answering 'no'.",20260821T125948Z_8dbb5082
+1265,1,"In the changing room means not on the field, answering 'no'.",20260821T125948Z_8dbb5082
+1266,7,"Being compensated confirms getting money back, answering 'yes'.",20260821T125948Z_8dbb5082
+1267,1,"No response means no one answered, answering 'no'.",20260821T125948Z_8dbb5082
+1268,1,"No instrument means not a musician, answering 'no'.",20260821T125948Z_8dbb5082
+1269,7,"Being in Japan confirms travel in Asia, answering 'yes'.",20260821T125948Z_8dbb5082
+1270,7,"Aiming for the top confirms the goal is the summit, answering 'yes'.",20260821T125948Z_8dbb5082
+1271,7,"Receiving it confirms he got it, answering 'yes'.",20260821T125948Z_8dbb5082
+1273,1,"Skipping lessons means not attending the whole course, answering 'no'.",20260821T125948Z_8dbb5082
+1274,7,"Poor resolution confirms bad image, answering 'yes'.",20260821T125948Z_8dbb5082
+1275,7,"Graduating confirms she is a doctor, answering 'yes'.",20260821T125948Z_8dbb5082
+1276,1,"Private property is not public, answering 'no'.",20260821T125948Z_8dbb5082
+2101,7,"Needing to revise confirms they have to study, answering 'yes'.",20260821T125948Z_8dbb5082
+2102,7,"An interesting new movie confirms something has come out, answering 'yes'.",20260821T125948Z_8dbb5082
+2103,7,"Chilly confirms it is cold, answering 'yes'.",20260821T125948Z_8dbb5082
+2105,5,"Hearing good things implies knowledge of the novel, answering 'yes'.",20260821T125948Z_8dbb5082
+2106,7,"Pulling a muscle confirms an injury, answering 'yes'.",20260821T125948Z_8dbb5082
+2107,7,"Cannot find phone confirms it is lost, answering 'yes'.",20260821T125948Z_8dbb5082
+2108,7,"Minus 20 degrees confirms it is cold, answering 'yes'.",20260821T125948Z_8dbb5082
+2109,7,"Entering a church confirms it is a religious building, answering 'yes'.",20260821T125948Z_8dbb5082
+2110,7,"Training hard confirms difficult workouts, answering 'yes'.",20260821T125948Z_8dbb5082
+2113,7,"Working on an exhausting task confirms they were working, answering 'yes'.",20260821T125948Z_8dbb5082
+2114,1,"Not bringing a bikini means they don't have swimming gear, answering 'no'.",20260821T125948Z_8dbb5082
+2115,1,"Not having time means not being free, answering 'no'.",20260821T125948Z_8dbb5082
+2116,1,"Watching it last month means they didn't watch it yesterday, answering 'no'.",20260821T125948Z_8dbb5082
+2117,1,"Being on a diet implies not eating more than usual, answering 'no'.",20260821T125948Z_8dbb5082
+2118,1,"Being Muslim confirms they do not practice Hinduism, answering 'no'.",20260821T125948Z_8dbb5082
+2119,1,"Head spinning from beers implies not feeling ok, answering 'no' (to feeling ok). Wait, the question is 'Are you feeling ok?'. If they are dizzy, the answer is 'no'. Score 1.",20260821T125948Z_8dbb5082
+2120,1,"Being very tired is the opposite of feeling energetic, answering 'no'.",20260821T125948Z_8dbb5082
+2121,1,"Being broke means no money saved, answering 'no'.",20260821T125948Z_8dbb5082
+2122,7,"Having used it before confirms it's not the first experience, answering 'no' to 'is it your first?'. Wait, the question is 'Is it your first experience?'. If they have used it before, the answer is 'no'. Score 1.",20260821T125948Z_8dbb5082
+2123,1,"11 p.m. is not morning, answering 'no'.",20260821T125948Z_8dbb5082
+2124,1,"Having a hangover means not feeling good, answering 'no'.",20260821T125948Z_8dbb5082
+2125,1,"Being diabetic means not free of chronic disease, answering 'no'.",20260821T125948Z_8dbb5082
+2127,1,"Getting seasick means not feeling well on boats, answering 'no'.",20260821T125948Z_8dbb5082
+2128,7,"Toothache being gone confirms they were hurting, answering 'yes' to the state of having had pain, but the question is 'Are your teeth still hurting?'. If the ache is gone, the answer is 'no'. Score 1.",20260821T125948Z_8dbb5082
+2129,7,"Having several bus stops confirms there are many stations/stops, answering 'yes'.",20260821T125948Z_8dbb5082
+2130,1,"Should not staple implies they are not allowed, answering 'no' to 'Are you allowed?'. Wait, 'Should not' is a recommendation. 'Are you allowed' is permission. It's close to 'no'. Score 2.",20260821T125948Z_8dbb5082
+2131,1,"Very light means it doesn't weigh much, answering 'no' to 'weigh much'. Score 1.",20260821T125948Z_8dbb5082
+2132,7,"Getting up at 5 am confirms needing to wake up early, answering 'yes'.",20260821T125948Z_8dbb5082
+2134,1,"French being native confirms Spanish is not the mother tongue, answering 'no'.",20260821T125948Z_8dbb5082
+2135,7,"Not working confirms it is unusable, answering 'yes'.",20260821T125948Z_8dbb5082
+2136,7,"Wolves being common confirms wild animals are there, answering 'yes'.",20260821T125948Z_8dbb5082
+2137,1,"Only having cacti means no trees, answering 'no'.",20260821T125948Z_8dbb5082
+2138,7,"Needing it for travelling confirms it is necessary, answering 'yes'.",20260821T125948Z_8dbb5082
+2139,1,Having a sandwich instead of pie answers 'no'.,20260821T125948Z_8dbb5082
+2140,7,"Having to go out soon confirms they are about to leave, answering 'yes'.",20260821T125948Z_8dbb5082
+2141,7,"Starving confirms being hungry, answering 'yes'.",20260821T125948Z_8dbb5082
+2144,7,"Drinking tea all the time confirms consuming hot drinks, answering 'yes'.",20260821T125948Z_8dbb5082
+2145,1,"Too much light means it is not 'not bright', it is very bright. So 'yes'. Score 7.",20260821T125948Z_8dbb5082
+2146,1,"Being abroad means not staying in town, answering 'no'.",20260821T125948Z_8dbb5082
+2147,7,"Having soup confirms eating something, answering 'yes'.",20260821T125948Z_8dbb5082
+2148,7,"It starting to pour confirms it is raining, answering 'yes'.",20260821T125948Z_8dbb5082
+2149,1,"Not drinking confirms not consuming alcohol, answering 'no'.",20260821T125948Z_8dbb5082
+2150,4,Mentioning a dishwasher doesn't answer if everything was taken away. Ambiguous.,20260821T125948Z_8dbb5082
+2151,1,"Giving away the racket means they don't have it, answering 'no'.",20260821T125948Z_8dbb5082
+2152,1,"Not eating spicy dishes means they don't consume all types, answering 'no'.",20260821T125948Z_8dbb5082
+2153,7,"Living right next to confirms being neighbours, answering 'yes'.",20260821T125948Z_8dbb5082
+2155,1,"Understanding everything means not being confused, answering 'no'.",20260821T125948Z_8dbb5082
+2156,7,"Chest hurting confirms pain, answering 'yes'.",20260821T125948Z_8dbb5082
+2157,1,"Being in summer confirms it is not winter, answering 'no'.",20260821T125948Z_8dbb5082
+2159,7,"Cutting a finger confirms getting hurt, answering 'yes'.",20260821T125948Z_8dbb5082
+2160,7,"Dust on the floor confirms it is dirty, answering 'yes'.",20260821T125948Z_8dbb5082
+2161,1,"Bringing it means they didn't leave it at home, answering 'no'.",20260821T125948Z_8dbb5082
+2162,7,"Chapped lips confirm damage, answering 'yes'.",20260821T125948Z_8dbb5082
+2163,1,"Working early is the opposite of the afternoon shift, answering 'no'.",20260821T125948Z_8dbb5082
+2164,1,"Eating at a restaurant means not eating at home, answering 'no'.",20260821T125948Z_8dbb5082
+2165,7,"Growing a lot confirms they are taller, answering 'yes'.",20260821T125948Z_8dbb5082
+2166,7,"Lunch being ready confirms cooking is finished, answering 'yes'.",20260821T125948Z_8dbb5082
+2167,7,"Complicated math confirms difficult homework, answering 'yes'.",20260821T125948Z_8dbb5082
+2168,1,"Not being sure means no destination is decided, answering 'no'.",20260821T125948Z_8dbb5082
+2169,1,"Smoking cigars only means they don't smoke cigarettes, answering 'no'.",20260821T125948Z_8dbb5082
+2170,1,"Typing on a laptop means not writing on paper, answering 'no'.",20260821T125948Z_8dbb5082
+2171,1,"Stove not delivered means the kitchen is incomplete, answering 'yes'. Wait, if it's not delivered, it is incomplete. So 'yes'. Score 7.",20260821T125948Z_8dbb5082
+2172,7,"Regular theft confirms theft occurs often, answering 'yes'.",20260821T125948Z_8dbb5082
+2173,1,"Full wardrobe means no room, answering 'no'.",20260821T125948Z_8dbb5082
+2174,7,"Piling up confirms a lot of laundry, answering 'yes'.",20260821T125948Z_8dbb5082
+2175,5,"Having a relaxed breakfast implies they are taking time, answering 'yes'.",20260821T125948Z_8dbb5082
+2201,7,"Needing to revise confirms they have to study, answering 'yes'.",20260821T125948Z_8dbb5082
+2202,7,"An interesting movie confirms something is out, answering 'yes'.",20260821T125948Z_8dbb5082
+2203,5,"Chilly implies a need for a coat/closing window, answering 'yes'.",20260821T125948Z_8dbb5082
+2205,5,"Hearing good things implies interest, answering 'yes'.",20260821T125948Z_8dbb5082
+2206,7,"Pulling a muscle confirms the injury, answering 'yes'.",20260821T125948Z_8dbb5082
+2207,7,"Cannot find phone confirms it is lost, answering 'yes'.",20260821T125948Z_8dbb5082
+2208,7,"Minus 20 degrees confirms it is cold, answering 'yes'.",20260821T125948Z_8dbb5082
+2209,7,"Entering a church confirms the need to turn off phones, answering 'yes'.",20260821T125948Z_8dbb5082
+2210,7,"Training hard confirms the need for protein, answering 'yes'.",20260821T125948Z_8dbb5082
+2213,7,"Exhausting task confirms the need for a break, answering 'yes'.",20260821T125948Z_8dbb5082
+2214,1,"Not bringing a bikini means they don't have it, answering 'no'.",20260821T125948Z_8dbb5082
+2215,1,"No time means not coming, answering 'no'.",20260821T125948Z_8dbb5082
+2216,1,"Watched it last month means not tonight, answering 'no'.",20260821T125948Z_8dbb5082
+2217,1,"Being on a diet means no dessert, answering 'no'.",20260821T125948Z_8dbb5082
+2218,1,"Being Muslim means no pork, answering 'no'.",20260821T125948Z_8dbb5082
+2219,1,"Head spinning means not wanting another beer, answering 'no'.",20260821T125948Z_8dbb5082
+2220,1,"Being tired means not going out, answering 'no'.",20260821T125948Z_8dbb5082
+2221,1,"Being broke means no trip, answering 'no'.",20260821T125948Z_8dbb5082
+2222,1,"Having used it before means it's not the first time, answering 'no'.",20260821T125948Z_8dbb5082
+2223,1,"11 p.m. is not cinema time/not morning, answering 'no'.",20260821T125948Z_8dbb5082
+2224,1,"Having a hangover means no drinks, answering 'no'.",20260821T125948Z_8dbb5082
+2225,1,"Being diabetic means no cake, answering 'no'.",20260821T125948Z_8dbb5082
+2227,1,"Seasickness means no cruise, answering 'no'.",20260821T125948Z_8dbb5082
+2228,1,"Toothache gone means no painkillers needed, answering 'no'.",20260821T125948Z_8dbb5082
+2229,4,Bus stops don't directly answer if they want the seat. Ambiguous.,20260821T125948Z_8dbb5082
+2230,1,"Should not staple means no, answering 'no'.",20260821T125948Z_8dbb5082
+2231,1,"Light luggage means no help needed, answering 'no'.",20260821T125948Z_8dbb5082
+2232,7,"5 am confirms early wake up, answering 'yes'.",20260821T125948Z_8dbb5082
+2234,7,"Native language confirms the need to check spelling, answering 'yes'.",20260821T125948Z_8dbb5082
+2235,7,"Not working confirms it's unusable, answering 'yes'.",20260821T125948Z_8dbb5082
+2236,5,"Wolves being common implies a need to lock cattle, answering 'yes'.",20260821T125948Z_8dbb5082
+2237,1,"Only cacti means no trees, answering 'no'.",20260821T125948Z_8dbb5082
+2238,7,"Needing it for travel confirms it's necessary, answering 'yes'.",20260821T125948Z_8dbb5082
+2239,7,"Having a sandwich confirms they have food, answering 'yes'.",20260821T125948Z_8dbb5082
+2240,7,"Having to go out soon confirms they are about to leave, answering 'yes'.",20260821T125948Z_8dbb5082
+2241,7,"Starving confirms they want biscuits, answering 'yes'.",20260821T125948Z_8dbb5082
+2244,7,"Drinking tea confirms they use a kettle, answering 'yes'.",20260821T125948Z_8dbb5082
+2245,1,"Too much light means it's not 'not bright', it's very bright. So 'yes'. Score 7.",20260821T125948Z_8dbb5082
+2246,1,"Being abroad means not in town, answering 'no'.",20260821T125948Z_8dbb5082
+2247,7,"Having soup confirms they want a spoon, answering 'yes'.",20260821T125948Z_8dbb5082
+2248,7,"It pouring confirms they need an umbrella, answering 'yes'.",20260821T125948Z_8dbb5082
+2249,1,"Not drinking confirms no wine, answering 'no'.",20260821T125948Z_8dbb5082
+2250,4,Dishwasher doesn't answer if they should do dishes. Ambiguous.,20260821T125948Z_8dbb5082
+2251,1,"Giving away racket means no tennis, answering 'no'.",20260821T125948Z_8dbb5082
+2252,1,"Not eating spicy means no Mexican, answering 'no'.",20260821T125948Z_8dbb5082
+2253,1,"Living next door means no ride needed, answering 'no'.",20260821T125948Z_8dbb5082
+2255,1,"Understanding everything means no explanation needed, answering 'no'.",20260821T125948Z_8dbb5082
+2256,7,"Chest hurting confirms need for doctor, answering 'yes'.",20260821T125948Z_8dbb5082
+2257,1,"Summer means no blanket needed, answering 'no'.",20260821T125948Z_8dbb5082
+2259,7,"Cutting finger confirms need for plaster, answering 'yes'.",20260821T125948Z_8dbb5082
+2260,7,"Dust confirms need to sweep, answering 'yes'.",20260821T125948Z_8dbb5082
+2261,1,"Bringing it means no need for more, answering 'no'.",20260821T125948Z_8dbb5082
+2262,7,"Chapped lips confirms need for balm, answering 'yes'.",20260821T125948Z_8dbb5082
+2263,1,"Working early means no drinks tonight, answering 'no'.",20260821T125948Z_8dbb5082
+2264,1,"Eating at restaurant means no home dinner, answering 'no'.",20260821T125948Z_8dbb5082
+2265,7,"Growing a lot confirms need to prune, answering 'yes'.",20260821T125948Z_8dbb5082
+2266,7,"Lunch ready confirms cooking is done, answering 'yes'.",20260821T125948Z_8dbb5082
+2267,7,"Complicated math confirms need for calculator, answering 'yes'.",20260821T125948Z_8dbb5082
+2268,1,"Not sure means no destination, answering 'no'.",20260821T125948Z_8dbb5082
+2269,1,"Cigars only means no cigarettes, answering 'no'.",20260821T125948Z_8dbb5082
+2270,1,"Typing means no paper, answering 'no'.",20260821T125948Z_8dbb5082
+2271,7,"Stove not delivered means kitchen is incomplete, answering 'yes'.",20260821T125948Z_8dbb5082
+2272,7,"Regular theft confirms need to lock car, answering 'yes'.",20260821T125948Z_8dbb5082
+2273,1,"Full wardrobe means no shopping needed, answering 'no'.",20260821T125948Z_8dbb5082
+2274,7,"Piling up confirms need to do laundry, answering 'yes'.",20260821T125948Z_8dbb5082
+2275,5,"Relaxed breakfast implies they can have pancakes, answering 'yes'.",20260821T125948Z_8dbb5082

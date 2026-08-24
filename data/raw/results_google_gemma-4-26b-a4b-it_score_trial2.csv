@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Person B explicitly states they have not seen him for ages, which is a direct 'no' to having met him lately.",20260821T125948Z_8dbb5082
+1102,7,"Person B confirms they are currently sending an application, which answers 'yes' to doing something right now.",20260821T125948Z_8dbb5082
+1103,7,"Person B confirms they train with Lukas at the gym, answering 'yes' to the question of whether they usually exercise with him.",20260821T125948Z_8dbb5082
+1104,7,"Person B confirms a death occurred (grandfather passed away), answering 'yes' to whether there was a death in his family.",20260821T125948Z_8dbb5082
+1105,5,"While 1000 km is a distance, it doesn't explicitly say 'yes' or 'no' to 'very far', but in common parlance, it implies a significant distance.",20260821T125948Z_8dbb5082
+1106,5,"A six-hour drive is generally considered a long time, implying 'yes' to it taking long.",20260821T125948Z_8dbb5082
+1107,2,"Person B mentions a delay, which implies the journey is NOT going as planned, answering 'no'.",20260821T125948Z_8dbb5082
+1108,2,"Person B says there is still cereal left, implying they have NOT finished it, answering 'no'.",20260821T125948Z_8dbb5082
+1109,1,"Person B says it is not due for three months, which directly answers 'no' to it being due next week.",20260821T125948Z_8dbb5082
+1110,7,"Person B says the streets are always congested, which confirms 'yes' to there being a lot of traffic.",20260821T125948Z_8dbb5082
+1111,1,"Person B says she is vegetarian, which means she does not eat meat, answering 'no'.",20260821T125948Z_8dbb5082
+1112,7,"Person B confirms he has the flu, which answers 'yes' to him being sick.",20260821T125948Z_8dbb5082
+1113,7,"Person B says she runs for hours every day, confirming 'yes' to daily training.",20260821T125948Z_8dbb5082
+1114,2,"Person B says she just woke up, meaning she is no longer sleeping, answering 'no' to 'is she still sleeping'.",20260821T125948Z_8dbb5082
+1115,1,"Person B says it comes out next week, answering 'no' to it being released today.",20260821T125948Z_8dbb5082
+1116,7,"Person B says they have used one before, answering 'yes' to having worked with a drill.",20260821T125948Z_8dbb5082
+1117,2,"Person B says they are celebrating tonight, implying the party is not tomorrow, answering 'no'.",20260821T125948Z_8dbb5082
+1118,7,"Person B says they are moving out tomorrow, which implies they are leaving the flat soon, answering 'yes'.",20260821T125948Z_8dbb5082
+1119,7,"Person B says he was always falling behind, which is a characteristic of a slacker, answering 'yes'.",20260821T125948Z_8dbb5082
+1120,7,"Person B says the region is famous for surfing, answering 'yes' to the area being popular for something.",20260821T125948Z_8dbb5082
+1121,1,"Person B says it is quite rough, which is the opposite of calm, answering 'no'.",20260821T125948Z_8dbb5082
+1122,1,"Person B says they work at an NGO, which is not a corporate company, answering 'no'.",20260821T125948Z_8dbb5082
+1123,7,"Person B says he has authored many books, answering 'yes' to him being a writer.",20260821T125948Z_8dbb5082
+1124,2,"Person B says they are still analyzing it, meaning they are not finished, answering 'no'.",20260821T125948Z_8dbb5082
+1125,7,"Being an endangered species implies there are not many left, answering 'yes'.",20260821T125948Z_8dbb5082
+1126,7,"Person B says they enrolled at the gym, answering 'yes' to joining a fitness studio.",20260821T125948Z_8dbb5082
+1127,1,"Person B says it is not complete yet, answering 'no' to having finished it.",20260821T125948Z_8dbb5082
+1128,7,"Person B says their hair was way too long, answering 'yes' to having had long hair.",20260821T125948Z_8dbb5082
+1129,1,"Person B says it was a business trip, not a vacation, answering 'no'.",20260821T125948Z_8dbb5082
+1130,1,"Person B says they need a larger one, answering 'no' to the one room flat being enough.",20260821T125948Z_8dbb5082
+1131,7,"Person B says the deadline is tomorrow, answering 'yes' to having to hand it in soon.",20260821T125948Z_8dbb5082
+1132,7,"Person B says they slept only four hours, which is a short night, answering 'yes'.",20260821T125948Z_8dbb5082
+1133,1,"Person B says the offer expired, meaning the flight was not discounted, answering 'no'.",20260821T125948Z_8dbb5082
+1134,7,"Person B says it got wounded, answering 'yes' to the cat being hurt.",20260821T125948Z_8dbb5082
+1135,2,"Person B says Mark is missing, meaning not everyone is here, answering 'no'.",20260821T125948Z_8dbb5082
+1137,7,"Person B says they are Chinese, which implies they come from Asia, answering 'yes'.",20260821T125948Z_8dbb5082
+1138,4,"The line going dead is a reason why a call might end, but doesn't directly confirm if the person 'hung up' or if the connection failed. It's ambiguous.",20260821T125948Z_8dbb5082
+1139,7,"Person B says they have domestics, answering 'yes' to someone taking care of the house.",20260821T125948Z_8dbb5082
+1140,1,"Person B says they have just opened, answering 'no' to the bar having been there for long.",20260821T125948Z_8dbb5082
+1141,7,"Person B says the house is full of history books, answering 'yes' to him owning many books.",20260821T125948Z_8dbb5082
+1143,5,"Having 'only a few guests' can be interpreted as a small gathering, answering 'yes'.",20260821T125948Z_8dbb5082
+1144,1,"Person B says they only have one week, answering 'no' to having two weeks.",20260821T125948Z_8dbb5082
+1145,7,"Person B says they are going to have a baby, which is a way of saying 'yes' to being pregnant.",20260821T125948Z_8dbb5082
+1147,1,"Person B says they still owe money, answering 'no' to having paid back debts.",20260821T125948Z_8dbb5082
+1148,1,"Person B says he only had water, answering 'no' to him drinking a cocktail.",20260821T125948Z_8dbb5082
+1149,2,"Person B says they own an orchard, which is different from a vegetable garden, answering 'no'.",20260821T125948Z_8dbb5082
+1150,1,"Person B says he is 25, answering 'no' to being underage.",20260821T125948Z_8dbb5082
+1151,1,"Person B says it is extremely expensive, answering 'no' to it being affordable.",20260821T125948Z_8dbb5082
+1152,7,"Person B says she made a transfer, answering 'yes' to having paid.",20260821T125948Z_8dbb5082
+1153,1,"Person B says they cannot swim yet, answering 'no' to being good at swimming.",20260821T125948Z_8dbb5082
+1154,1,"Person B says they are healthy again, answering 'no' to still having a cold.",20260821T125948Z_8dbb5082
+1155,7,"Person B says people are not allowed to get closer, answering 'yes' to it being forbidden.",20260821T125948Z_8dbb5082
+1156,7,"Person B says they have watered them regularly, answering 'yes' to someone taking care of the plants.",20260821T125948Z_8dbb5082
+1157,1,"Person B says he was already dead, answering 'no' to him being alive in the 80s.",20260821T125948Z_8dbb5082
+1158,5,"A thick ice layer implies the lake is frozen, answering 'yes'.",20260821T125948Z_8dbb5082
+1159,1,"Person B says they are in the advanced course, answering 'no' to being in the beginners' class.",20260821T125948Z_8dbb5082
+1160,7,"Person B says they have seen a doctor, answering 'yes' to seeking medical advice.",20260821T125948Z_8dbb5082
+1161,1,"Person B says they went out, answering 'no' to staying home.",20260821T125948Z_8dbb5082
+1162,7,"Person B says they voted yesterday, answering 'yes' to there being an election recently.",20260821T125948Z_8dbb5082
+1163,7,"Person B says it is spotless, answering 'yes' to it being completely clean.",20260821T125948Z_8dbb5082
+1164,1,"Person B says they submitted a blank sheet, meaning they did not answer the questions, answering 'no'.",20260821T125948Z_8dbb5082
+1165,2,"Person B says she just got into the changing room, meaning she is not currently on the field, answering 'no'.",20260821T125948Z_8dbb5082
+1166,7,"Person B says he was compensated, answering 'yes' to getting the money back.",20260821T125948Z_8dbb5082
+1167,1,"Person B says no one has responded, answering 'no' to anyone answering the ad.",20260821T125948Z_8dbb5082
+1168,1,"Person B says he does not play any instrument, answering 'no' to him being a musician.",20260821T125948Z_8dbb5082
+1169,7,"Person B says he has been in Japan, answering 'yes' to having travelled in Asia.",20260821T125948Z_8dbb5082
+1170,7,"Person B says they are aiming for the mountain top, answering 'yes' to the goal being the summit.",20260821T125948Z_8dbb5082
+1171,7,"Person B says the customer received it, answering 'yes' to the customer getting the package.",20260821T125948Z_8dbb5082
+1173,2,"Person B says she skipped the last four lessons, answering 'no' to attending the whole course.",20260821T125948Z_8dbb5082
+1174,7,"Person B says the resolution is poor, answering 'yes' to the screen having a bad image.",20260821T125948Z_8dbb5082
+1175,7,"Person B says she graduated from medical school, answering 'yes' to completing medical studies.",20260821T125948Z_8dbb5082
+1176,1,"Person B says it is private property, answering 'no' to it being a public building.",20260821T125948Z_8dbb5082
+1201,4,"Not seeing someone for ages doesn't necessarily mean you aren't friends, it just means you haven't met. The answer is ambiguous regarding the status of the friendship.",20260821T125948Z_8dbb5082
+1202,7,"Sending an application confirms they are looking for a job, answering 'yes'.",20260821T125948Z_8dbb5082
+1203,7,"Training with him at the gym confirms they know him, answering 'yes'.",20260821T125948Z_8dbb5082
+1204,4,The death of a grandfather doesn't directly answer whether the property is now his. It's ambiguous.,20260821T125948Z_8dbb5082
+1205,5,"1000 km is a significant distance, implying 'yes' to it being a long drive.",20260821T125948Z_8dbb5082
+1206,5,"A six-hour drive is long, implying 'yes' to it taking long.",20260821T125948Z_8dbb5082
+1207,2,"A train delay implies they will not be home by noon, answering 'no'.",20260821T125948Z_8dbb5082
+1208,2,"Saying 'there is still some left' implies they haven't bought more/finished, but in the context of 'Have you bought cereal?', it's a bit ambiguous. However, usually, if you have some left, you have it, but the question is about the act of buying. If they have it, they likely bought it. But if they are answering about the state of the cereal, it's a weak 'yes'. Let's look at the prompt logic: 'There is still some left' usually implies they didn't need to buy more or are talking about current stock. It's ambiguous, but leans towards 'no' if they are implying they didn't need to buy any.",20260821T125948Z_8dbb5082
+1209,1,Not due for three months answers 'no' to it being due next week.,20260821T125948Z_8dbb5082
+1210,2,"Congested streets imply they will be late, answering 'yes' to the possibility, but the answer is a reason for 'yes'. Wait, the question is 'Will we be late?'. Congestion implies 'yes'.",20260821T125948Z_8dbb5082
+1211,1,"Being vegetarian means she won't eat at a steak house, answering 'no'.",20260821T125948Z_8dbb5082
+1212,7,"Having the flu confirms he is staying home (or is sick), answering 'yes'.",20260821T125948Z_8dbb5082
+1213,4,"Running every day is a sign of training, but doesn't explicitly confirm registration for a specific marathon. It's a 'likely yes' but not definitive.",20260821T125948Z_8dbb5082
+1214,2,"Just waking up means she hasn't had breakfast, answering 'no'.",20260821T125948Z_8dbb5082
+1215,1,Coming out next week answers 'no' to it being released today.,20260821T125948Z_8dbb5082
+1216,7,Having used one before answers 'yes' to knowing how to use it.,20260821T125948Z_8dbb5082
+1217,7,"Celebrating tonight implies they passed/are happy, answering 'yes' to the question (though the question is 'Have you failed', the answer 'I am celebrating' is a sarcastic or indirect 'no'. Wait, if they failed, they wouldn't celebrate. So it's a 'no'. Let's re-evaluate. If the question is 'Have you failed?' and the answer is 'I am celebrating', the answer is 'no'.",20260821T125948Z_8dbb5082
+1218,2,"Moving out tomorrow is a different action than breaking up, but the prompt is a bit disjointed. However, moving out is often a result of a breakup. But strictly, it doesn't answer 'yes' or 'no' to the breakup itself. It's ambiguous.",20260821T125948Z_8dbb5082
+1219,7,"Falling behind is a sign of being a slacker, answering 'yes'.",20260821T125948Z_8dbb5082
+1220,7,"Famous for surfing implies big waves, answering 'yes'.",20260821T125948Z_8dbb5082
+1221,1,"Rough sea is not safe, answering 'no'.",20260821T125948Z_8dbb5082
+1222,1,"Working at an NGO is not a corporate company, answering 'no'.",20260821T125948Z_8dbb5082
+1223,7,"Authoring books confirms he is a writer, answering 'yes'.",20260821T125948Z_8dbb5082
+1224,2,"Still analyzing means not finished, answering 'no'.",20260821T125948Z_8dbb5082
+1225,7,"Endangered species implies they are rare, answering 'yes'.",20260821T125948Z_8dbb5082
+1226,4,"Enrolling at a gym is a way to lose weight, but doesn't directly answer 'yes' or 'no' to having lost weight yet. It's an indirect 'yes' or 'I am trying'.",20260821T125948Z_8dbb5082
+1227,1,Not complete yet answers 'no' to having graduated.,20260821T125948Z_8dbb5082
+1228,7,"Hair being way too long implies they had long hair, answering 'yes'.",20260821T125948Z_8dbb5082
+1229,1,"A business trip is not a vacation, answering 'no'.",20260821T125948Z_8dbb5082
+1230,1,Needing a larger one answers 'no' to the one room being enough.,20260821T125948Z_8dbb5082
+1231,7,Deadline being tomorrow answers 'yes' to being stressed/having to hand in soon.,20260821T125948Z_8dbb5082
+1232,7,"Sleeping four hours is a short night, answering 'yes'.",20260821T125948Z_8dbb5082
+1233,1,Offer expired answers 'no' to the flight being discounted.,20260821T125948Z_8dbb5082
+1234,7,Being wounded answers 'yes' to being hurt.,20260821T125948Z_8dbb5082
+1235,2,"Mark being missing means not everyone is here, answering 'no'.",20260821T125948Z_8dbb5082
+1237,5,"Being Chinese implies they can cook Cantonese rice, answering 'yes'.",20260821T125948Z_8dbb5082
+1238,4,"The line going dead is an explanation for why the conversation ended, but doesn't confirm if the person hung up. Ambiguous.",20260821T125948Z_8dbb5082
+1239,7,Having domestics answers 'yes' to the house being tidy/taken care of.,20260821T125948Z_8dbb5082
+1240,1,Just opened answers 'no' to having tried it (if 'tried' implies it's been around).,20260821T125948Z_8dbb5082
+1241,7,House full of history books answers 'yes' to a passion for history.,20260821T125948Z_8dbb5082
+1243,5,"Few guests implies a small gathering, answering 'yes'.",20260821T125948Z_8dbb5082
+1244,1,Only having one week answers 'no' to having two weeks.,20260821T125948Z_8dbb5082
+1245,7,Having a baby is a way of saying 'yes' to being pregnant.,20260821T125948Z_8dbb5082
+1247,1,Still owing money answers 'no' to having paid back debts.,20260821T125948Z_8dbb5082
+1248,1,Only having water answers 'no' to drinking a cocktail.,20260821T125948Z_8dbb5082
+1249,2,"Owning an orchard is different from a vegetable garden, answering 'no'.",20260821T125948Z_8dbb5082
+1250,1,Being 25 answers 'no' to being underage.,20260821T125948Z_8dbb5082
+1251,1,Extremely expensive answers 'no' to being affordable.,20260821T125948Z_8dbb5082
+1252,7,Making a bank transfer answers 'yes' to having paid.,20260821T125948Z_8dbb5082
+1253,1,Cannot swim yet answers 'no' to being good at swimming.,20260821T125948Z_8dbb5082
+1254,1,Being healthy again answers 'no' to still having a cold.,20260821T125948Z_8dbb5082
+1255,7,Not allowed to get closer answers 'yes' to it being forbidden.,20260821T125948Z_8dbb5082
+1256,7,Watering regularly answers 'yes' to taking care of plants.,20260821T125948Z_8dbb5082
+1257,1,Already dead answers 'no' to being alive in the 80s.,20260821T125948Z_8dbb5082
+1258,5,"Thick ice layer implies it is frozen, answering 'yes'.",20260821T125948Z_8dbb5082
+1259,1,Advanced course answers 'no' to being a beginner.,20260821T125948Z_8dbb5082
+1260,7,Seeing a doctor answers 'yes' to seeking medical advice.,20260821T125948Z_8dbb5082
+1261,1,Going out answers 'no' to staying home.,20260821T125948Z_8dbb5082
+1262,7,Voting yesterday answers 'yes' to an election recently.,20260821T125948Z_8dbb5082
+1263,7,Spotless answers 'yes' to being completely clean.,20260821T125948Z_8dbb5082
+1264,1,Blank sheet answers 'no' to answering all questions.,20260821T125948Z_8dbb5082
+1265,2,"In the changing room means not on the field, answering 'no'.",20260821T125948Z_8dbb5082
+1266,7,Being compensated answers 'yes' to getting money back.,20260821T125948Z_8dbb5082
+1267,1,No one responded answers 'no' to anyone answering the ad.,20260821T125948Z_8dbb5082
+1268,1,Does not play any instrument answers 'no' to being a musician.,20260821T125948Z_8dbb5082
+1269,7,Being in Japan answers 'yes' to having travelled in Asia.,20260821T125948Z_8dbb5082
+1270,7,Aiming for the mountain top answers 'yes' to the goal being the summit.,20260821T125948Z_8dbb5082
+1271,7,Received it answers 'yes' to getting the package.,20260821T125948Z_8dbb5082
+1273,2,Skipping lessons answers 'no' to attending the whole course.,20260821T125948Z_8dbb5082
+1274,7,Poor resolution answers 'yes' to a bad image.,20260821T125948Z_8dbb5082
+1275,7,Graduated from medical school answers 'yes' to completing studies.,20260821T125948Z_8dbb5082
+1276,1,Private property answers 'no' to being a public building.,20260821T125948Z_8dbb5082
+2101,7,"Needing to revise confirms they have to study, answering 'yes'.",20260821T125948Z_8dbb5082
+2102,7,"An interesting new movie confirms something has come out, answering 'yes'.",20260821T125948Z_8dbb5082
+2103,7,"Quite chilly confirms it is cold, answering 'yes'.",20260821T125948Z_8dbb5082
+2105,5,"Hearing good things implies they know something about it, answering 'yes'.",20260821T125948Z_8dbb5082
+2106,7,"Pulling a muscle confirms an injury, answering 'yes'.",20260821T125948Z_8dbb5082
+2107,7,"Cannot find the phone confirms it is lost, answering 'yes'.",20260821T125948Z_8dbb5082
+2108,7,"Minus 20 degrees confirms it is cold, answering 'yes'.",20260821T125948Z_8dbb5082
+2109,7,"Entering a church confirms they are in a religious building, answering 'yes'.",20260821T125948Z_8dbb5082
+2110,7,"Training very hard confirms workouts are difficult, answering 'yes'.",20260821T125948Z_8dbb5082
+2113,7,"Working on an exhausting task confirms they were working, answering 'yes'.",20260821T125948Z_8dbb5082
+2114,1,Not bringing a bikini answers 'no' to having swimming gear (specifically the bikini mentioned).,20260821T125948Z_8dbb5082
+2115,1,Not having time answers 'no' to being free.,20260821T125948Z_8dbb5082
+2116,2,Watching it last month answers 'no' to watching it yesterday.,20260821T125948Z_8dbb5082
+2117,1,"Being on a diet implies not eating more than usual, answering 'no'.",20260821T125948Z_8dbb5082
+2118,1,Being Muslim answers 'no' to practicing Hinduism.,20260821T125948Z_8dbb5082
+2119,4,"Head spinning is a symptom of feeling unwell, but doesn't directly answer 'yes' or 'no' to 'Are you feeling ok?'. It's an indirect 'no'.",20260821T125948Z_8dbb5082
+2120,1,Being very tired answers 'no' to feeling energetic.,20260821T125948Z_8dbb5082
+2121,1,Being broke answers 'no' to having money saved up.,20260821T125948Z_8dbb5082
+2122,7,Having used one before answers 'yes' to it being their first experience.,20260821T125948Z_8dbb5082
+2123,1,"11 p.m. is night, answering 'no' to it being morning.",20260821T125948Z_8dbb5082
+2124,1,Having a hangover answers 'no' to feeling good.,20260821T125948Z_8dbb5082
+2125,1,Being diabetic answers 'no' to being free of chronic disease.,20260821T125948Z_8dbb5082
+2127,1,Getting seasick answers 'no' to feeling well on boats.,20260821T125948Z_8dbb5082
+2128,7,"Toothache being gone answers 'no' to teeth still hurting. Wait, the question is 'Are your teeth still hurting?'. If the ache is gone, the answer is 'no'.",20260821T125948Z_8dbb5082
+2129,5,"Having several bus stops implies there are stations/stops on the way, answering 'yes'.",20260821T125948Z_8dbb5082
+2130,1,Should not staple them answers 'no' to being allowed to staple.,20260821T125948Z_8dbb5082
+2131,1,Very light answers 'no' to weighing much.,20260821T125948Z_8dbb5082
+2132,7,"Getting up at 5 am confirms they need to wake up early, answering 'yes'.",20260821T125948Z_8dbb5082
+2134,1,French being native answers 'no' to Spanish being the mother tongue.,20260821T125948Z_8dbb5082
+2135,1,Does not work answers 'no' to being usable.,20260821T125948Z_8dbb5082
+2136,7,"Wolves being common confirms wild animals are in the region, answering 'yes'.",20260821T125948Z_8dbb5082
+2137,1,Only having cacti answers 'no' to having trees.,20260821T125948Z_8dbb5082
+2138,7,Needing it for travelling answers 'yes' to it being necessary.,20260821T125948Z_8dbb5082
+2139,1,Having a sandwich answers 'no' to having brought pie.,20260821T125948Z_8dbb5082
+2140,7,Having to go out soon answers 'yes' to being about to leave.,20260821T125948Z_8dbb5082
+2141,7,Being starving answers 'yes' to being hungry.,20260821T125948Z_8dbb5082
+2144,7,Drinking tea all the time answers 'yes' to consuming hot drinks.,20260821T125948Z_8dbb5082
+2145,1,"Too much light answers 'no' to the room being bright (or rather, it's too bright, but the question is 'Is it very bright?'. If there is too much light, the answer is 'yes'). Let's re-read. 'Is the room very bright?' 'We have too much light'. This is a 'yes'.",20260821T125948Z_8dbb5082
+2146,1,Being abroad answers 'no' to staying in town.,20260821T125948Z_8dbb5082
+2147,7,Having soup answers 'yes' to eating something.,20260821T125948Z_8dbb5082
+2148,7,It just started pouring answers 'yes' to it raining already.,20260821T125948Z_8dbb5082
+2149,1,Not drinking answers 'no' to consuming alcohol.,20260821T125948Z_8dbb5082
+2150,4,Mentioning a dishwasher doesn't directly answer if everything was taken away. It's an irrelevant/ambiguous response.,20260821T125948Z_8dbb5082
+2151,1,Giving away the racket answers 'no' to still having equipment.,20260821T125948Z_8dbb5082
+2152,1,Not eating spicy dishes answers 'no' to consuming all types of food.,20260821T125948Z_8dbb5082
+2153,7,Living right next to you answers 'yes' to being neighbours.,20260821T125948Z_8dbb5082
+2155,1,Understanding everything answers 'no' to being confused.,20260821T125948Z_8dbb5082
+2156,7,Chest hurting answers 'yes' to feeling pain.,20260821T125948Z_8dbb5082
+2157,1,Being in summer answers 'no' to it being winter.,20260821T125948Z_8dbb5082
+2159,7,"Cutting a finger confirms getting hurt, answering 'yes'.",20260821T125948Z_8dbb5082
+2160,7,Dust on the floor answers 'yes' to the room being dirty.,20260821T125948Z_8dbb5082
+2161,1,Having brought it answers 'no' to having left it at home.,20260821T125948Z_8dbb5082
+2162,7,Lips being chapped answers 'yes' to being damaged.,20260821T125948Z_8dbb5082
+2163,1,Working early morning answers 'no' to the afternoon shift.,20260821T125948Z_8dbb5082
+2164,1,Eating at a restaurant answers 'no' to having dinner at home.,20260821T125948Z_8dbb5082
+2165,7,Growing a lot answers 'yes' to being taller.,20260821T125948Z_8dbb5082
+2166,7,Lunch is ready answers 'yes' to having finished cooking.,20260821T125948Z_8dbb5082
+2167,7,Math exercise being complicated answers 'yes' to having difficult homework.,20260821T125948Z_8dbb5082
+2168,2,Not being sure answers 'no' to having decided.,20260821T125948Z_8dbb5082
+2169,1,Smoking cigars only answers 'no' to smoking cigarettes.,20260821T125948Z_8dbb5082
+2170,1,Typing on a laptop answers 'no' to writing on paper.,20260821T125948Z_8dbb5082
+2171,1,Stove not delivered answers 'no' to the kitchen being complete.,20260821T125948Z_8dbb5082
+2172,7,Cars being stolen regularly answers 'yes' to theft occurring often.,20260821T125948Z_8dbb5082
+2173,1,Wardrobe being full answers 'no' to having room.,20260821T125948Z_8dbb5082
+2174,7,Laundry piling up answers 'yes' to having a lot of laundry.,20260821T125948Z_8dbb5082
+2175,5,"Having a relaxed breakfast implies they can take time, answering 'yes'.",20260821T125948Z_8dbb5082
+2201,7,"Needing to revise confirms they have to study, answering 'yes'.",20260821T125948Z_8dbb5082
+2202,7,"An interesting new movie confirms something has come out, answering 'yes'.",20260821T125948Z_8dbb5082
+2203,5,"Being chilly implies a need for a coat, answering 'yes'.",20260821T125948Z_8dbb5082
+2205,5,"Hearing good things implies interest, answering 'yes'.",20260821T125948Z_8dbb5082
+2206,7,"Pulling a muscle confirms an injury, answering 'yes'.",20260821T125948Z_8dbb5082
+2207,7,"Cannot find the phone confirms it is lost, answering 'yes'.",20260821T125948Z_8dbb5082
+2208,5,"Minus 20 degrees implies a need for a coat, answering 'yes'.",20260821T125948Z_8dbb5082
+2209,7,"Entering a church confirms they are in a religious building, answering 'yes'.",20260821T125948Z_8dbb5082
+2210,7,"Training very hard confirms workouts are difficult, answering 'yes'.",20260821T125948Z_8dbb5082
+2213,7,"Working on an exhausting task confirms they have been working, answering 'yes'.",20260821T125948Z_8dbb5082
+2214,1,Not bringing a bikini answers 'no' to having swimming gear.,20260821T125948Z_8dbb5082
+2215,1,Not having time answers 'no' to being free.,20260821T125948Z_8dbb5082
+2216,2,Watching it last month answers 'no' to watching it tonight.,20260821T125948Z_8dbb5082
+2217,1,Being on a diet answers 'no' to having dessert.,20260821T125948Z_8dbb5082
+2218,1,Being Muslim answers 'no' to wanting pork.,20260821T125948Z_8dbb5082
+2219,4,"Head spinning is a symptom of feeling unwell, but doesn't directly answer 'yes' or 'no' to 'Do you want another beer?'. It's an indirect 'no'.",20260821T125948Z_8dbb5082
+2220,1,Being very tired answers 'no' to going out.,20260821T125948Z_8dbb5082
+2221,1,Being broke answers 'no' to going on a trip.,20260821T125948Z_8dbb5082
+2222,7,Having used one before answers 'yes' to having experience.,20260821T125948Z_8dbb5082
+2223,1,11 p.m. answers 'no' to going to the cinema (if it's too late).,20260821T125948Z_8dbb5082
+2224,1,Having a hangover answers 'no' to having drinks.,20260821T125948Z_8dbb5082
+2225,1,Being diabetic answers 'no' to wanting cake.,20260821T125948Z_8dbb5082
+2227,1,Getting seasick answers 'no' to joining a cruise.,20260821T125948Z_8dbb5082
+2228,1,Toothache being gone answers 'no' to needing painkillers.,20260821T125948Z_8dbb5082
+2229,4,Mentioning bus stops doesn't directly answer if they want to take the seat. It's ambiguous.,20260821T125948Z_8dbb5082
+2230,1,Should not staple answers 'no' to wanting the stapler.,20260821T125948Z_8dbb5082
+2231,1,Very light answers 'no' to needing help with heavy luggage.,20260821T125948Z_8dbb5082
+2232,7,"Getting up at 5 am confirms they need to set an alarm, answering 'yes'.",20260821T125948Z_8dbb5082
+2234,7,French being native answers 'yes' to checking spelling.,20260821T125948Z_8dbb5082
+2235,1,Does not work answers 'no' to changing batteries.,20260821T125948Z_8dbb5082
+2236,7,Wolves being common answers 'yes' to the need to lock up cattle.,20260821T125948Z_8dbb5082
+2237,1,Only having cacti answers 'no' to watering plants.,20260821T125948Z_8dbb5082
+2238,7,Needing it for travelling answers 'yes' to packing the passport.,20260821T125948Z_8dbb5082
+2239,1,Having a sandwich answers 'no' to wanting food (if they are already eating).,20260821T125948Z_8dbb5082
+2240,7,Having to go out soon answers 'yes' to waking the kids.,20260821T125948Z_8dbb5082
+2241,7,Being starving answers 'yes' to wanting biscuits.,20260821T125948Z_8dbb5082
+2244,7,Drinking tea all the time answers 'yes' to using a kettle.,20260821T125948Z_8dbb5082
+2245,1,Too much light answers 'no' to turning down the dimmer.,20260821T125948Z_8dbb5082
+2246,1,Being abroad answers 'no' to coming to the party.,20260821T125948Z_8dbb5082
+2247,7,Having soup answers 'yes' to wanting a spoon.,20260821T125948Z_8dbb5082
+2248,7,It just started pouring answers 'yes' to needing an umbrella.,20260821T125948Z_8dbb5082
+2249,1,Not drinking answers 'no' to wanting wine.,20260821T125948Z_8dbb5082
+2250,5,Having a dishwasher answers 'yes' to the suggestion of doing dishes (as it's easier).,20260821T125948Z_8dbb5082
+2251,1,Giving away the racket answers 'no' to playing tennis.,20260821T125948Z_8dbb5082
+2252,1,Not eating spicy dishes answers 'no' to getting Mexican food.,20260821T125948Z_8dbb5082
+2253,1,Living next door answers 'no' to needing a ride home.,20260821T125948Z_8dbb5082
+2255,1,Understanding everything answers 'no' to needing an explanation.,20260821T125948Z_8dbb5082
+2256,7,Chest hurting answers 'yes' to needing a doctor.,20260821T125948Z_8dbb5082
+2257,1,Being in summer answers 'no' to needing a blanket.,20260821T125948Z_8dbb5082
+2259,7,Cutting a finger answers 'yes' to needing a plaster.,20260821T125948Z_8dbb5082
+2260,7,Dust on the floor answers 'yes' to needing to sweep.,20260821T125948Z_8dbb5082
+2261,1,Having brought it answers 'no' to needing toothpaste.,20260821T125948Z_8dbb5082
+2262,7,Lips being chapped answers 'yes' to needing lip balm.,20260821T125948Z_8dbb5082
+2263,1,Working early morning answers 'no' to joining for drinks tonight.,20260821T125948Z_8dbb5082
+2264,1,Eating at a restaurant answers 'no' to cooking for both.,20260821T125948Z_8dbb5082
+2265,7,Growing a lot answers 'yes' to pruning the hedges.,20260821T125948Z_8dbb5082
+2266,7,Lunch is ready answers 'yes' to setting the table.,20260821T125948Z_8dbb5082
+2267,7,Math exercise being complicated answers 'yes' to needing a calculator.,20260821T125948Z_8dbb5082
+2268,2,Not being sure answers 'no' to buying tickets.,20260821T125948Z_8dbb5082
+2269,1,Smoking cigars only answers 'no' to wanting a cigarette.,20260821T125948Z_8dbb5082
+2270,1,Typing on a laptop answers 'no' to wanting paper.,20260821T125948Z_8dbb5082
+2271,1,"Stove not delivered answers 'no' to getting delivery food (if it's about the stove). Wait, the question is 'Shall we get some delivery food?'. If the stove isn't delivered, they might need delivery. So it's a 'yes'. Let's re-evaluate. If the stove is not there, you can't cook, so you might want delivery. So it's a 'yes'.",20260821T125948Z_8dbb5082
+2272,7,Cars being stolen regularly answers 'yes' to the need to lock the car.,20260821T125948Z_8dbb5082
+2273,1,Wardrobe being full answers 'no' to shopping for clothes.,20260821T125948Z_8dbb5082
+2274,7,Laundry piling up answers 'yes' to doing the laundry.,20260821T125948Z_8dbb5082
+2275,5,"Having a relaxed breakfast implies they can have pancakes, answering 'yes'.",20260821T125948Z_8dbb5082

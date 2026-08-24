@@ -1,0 +1,6 @@
+id,score,rationale,run_id
+1101,1,"B says he has not seen Martin for ages, which strongly implies the answer to whether he has met Martin lately is no.",20260821T125948Z_8dbb5082
+1102,5,"B is describing an activity happening right now, so it likely answers yes to doing something right now, though it is not a direct yes/no.",20260821T125948Z_8dbb5082
+1103,6,"Training with Lukas at the gym strongly supports that he usually exercises with Lukas, so this is very likely yes.",20260821T125948Z_8dbb5082
+1104,6,Saying the grandfather passed away recently clearly indicates there was a death in the family.,20260821T125948Z_8dbb5082
+1105,6,Saying Paris is about 1000 km away clearly supports that it is very far from here.,20260821T125948Z_8dbb5082

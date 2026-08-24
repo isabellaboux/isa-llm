@@ -1,0 +1,6 @@
+id,score,rationale,run_id
+1101,1,"Person B says he has not seen Martin for ages, which strongly indicates the answer to whether they met lately is no.",20260821T125948Z_8dbb5082
+1102,5,"Sending out an application suggests being busy right now, so it likely answers yes, but it is not perfectly explicit.",20260821T125948Z_8dbb5082
+1103,7,"Training with Lukas at the gym directly supports that they usually exercise together, so this is definitely yes.",20260821T125948Z_8dbb5082
+1104,6,"Saying his grandfather passed away recently clearly indicates a death in the family, though it does not literally say 'yes'.",20260821T125948Z_8dbb5082
+1105,6,"Saying Paris is about 1000 km away is a direct indication that it is very far, so this is very likely yes.",20260821T125948Z_8dbb5082

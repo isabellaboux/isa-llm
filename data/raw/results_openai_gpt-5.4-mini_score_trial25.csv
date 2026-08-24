@@ -1,0 +1,12 @@
+id,score,rationale,run_id
+1101,1,"Person B says he has not seen Martin for ages, which strongly indicates he has not met him lately. This answers the question with a clear no.",20260821T125948Z_8dbb5082
+1102,6,"Sending out an application is something the person is doing right now, so it directly supports a yes. It is not perfectly explicit, but clearly affirmative.",20260821T125948Z_8dbb5082
+1103,6,"Training with Lukas at the gym implies they exercise together regularly, which is very close to 'usually exercise with Lukas.' This is a strong yes, though 'train' is slightly broader than exercise.",20260821T125948Z_8dbb5082
+1104,7,Saying the grandfather passed away recently directly confirms a death in the family. This is a definite yes.,20260821T125948Z_8dbb5082
+1105,6,Saying Paris is about 1000 km away clearly indicates it is very far from here. The answer strongly supports yes.,20260821T125948Z_8dbb5082
+1106,6,A six hour drive clearly implies it takes long to get to Munich. This is a strong yes.,20260821T125948Z_8dbb5082
+1107,2,"A delay means the journey is not going as planned, so this is likely a no. The wording does not fully specify the whole journey, but the implication is negative.",20260821T125948Z_8dbb5082
+1108,1,"If there is still some cereal left, they have not finished it. That is a clear no.",20260821T125948Z_8dbb5082
+1109,1,"If it is not due for three months, then the deadline is not next week. This is a definite no.",20260821T125948Z_8dbb5082
+1110,7,Saying the streets are always congested with cars directly confirms a lot of traffic. This is a definite yes.,20260821T125948Z_8dbb5082
+1111,7,"Being vegetarian means she does not eat meat. This is a definite no to the literal question, so interpreted as answering whether she eats meat, the answer is clearly no.",20260821T125948Z_8dbb5082

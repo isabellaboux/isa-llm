@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
+gen-1787333216-FJGr6VttZz4DQiVjMj5f,google/gemma-4-26b-a4b-it,google/gemma-4-26b-a4b-it,NextBit,stop,9181,12177,0,21358,0.0057889,20260821T125948Z_8dbb5082

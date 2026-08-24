@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,Not having seen him for ages directly implies he has not met him lately.,20260821T125948Z_8dbb5082
+1102,7,"Sending out an application is an activity, confirming they are doing something right now.",20260821T125948Z_8dbb5082
+1103,6,Training with him at the gym strongly implies regular exercise together.,20260821T125948Z_8dbb5082
+1104,7,The grandfather passing away recently confirms a death in the family.,20260821T125948Z_8dbb5082
+1105,6,"1000 km is a large distance, implying yes it is far.",20260821T125948Z_8dbb5082
+1106,6,"A six hour drive is a long time, implying yes.",20260821T125948Z_8dbb5082
+1107,2,"Train delay implies the journey is not going as planned, though a minor delay leaves slight room.",20260821T125948Z_8dbb5082
+1108,2,Some cereal remaining implies they have not finished it.,20260821T125948Z_8dbb5082
+1109,1,Not due for three months directly contradicts a next-week deadline.,20260821T125948Z_8dbb5082
+1110,7,Always congested with cars confirms lots of traffic.,20260821T125948Z_8dbb5082
+1111,1,Being vegetarian means she does not eat meat.,20260821T125948Z_8dbb5082
+1112,7,Having the flu confirms he is sick.,20260821T125948Z_8dbb5082
+1113,7,Running for hours every day confirms daily training.,20260821T125948Z_8dbb5082
+1114,1,Having just woken up means she is not still sleeping.,20260821T125948Z_8dbb5082
+1115,1,Coming out next week means it is not released today.,20260821T125948Z_8dbb5082
+1116,7,Having used one before confirms working with a drill.,20260821T125948Z_8dbb5082
+1117,2,"Celebrating tonight implies the party is today, not tomorrow.",20260821T125948Z_8dbb5082
+1118,7,Moving out tomorrow confirms leaving the flat soon.,20260821T125948Z_8dbb5082
+1119,5,"Always falling behind suggests slacking, though falling behind could have other causes.",20260821T125948Z_8dbb5082
+1120,7,Famous for surfing confirms the area is popular for something.,20260821T125948Z_8dbb5082
+1121,1,Quite rough is the opposite of calm.,20260821T125948Z_8dbb5082
+1122,1,Working at an NGO indicates not a corporate company.,20260821T125948Z_8dbb5082
+1123,7,Having authored many books confirms he is a writer.,20260821T125948Z_8dbb5082
+1124,1,Still analyzing means not finished.,20260821T125948Z_8dbb5082
+1125,2,"Endangered implies few remain, so no there aren't many.",20260821T125948Z_8dbb5082
+1126,7,Enrolling at the gym is joining a fitness studio.,20260821T125948Z_8dbb5082
+1127,1,Explicitly says the thesis is not complete.,20260821T125948Z_8dbb5082
+1128,6,Saying hair was way too long confirms having had long hair in the past.,20260821T125948Z_8dbb5082
+1129,1,A business trip is not a vacation.,20260821T125948Z_8dbb5082
+1130,1,Needing a larger one means one room is not enough.,20260821T125948Z_8dbb5082
+1131,7,Deadline tomorrow confirms handing in soon.,20260821T125948Z_8dbb5082
+1132,6,Only four hours of sleep confirms a short night.,20260821T125948Z_8dbb5082
+1133,1,"The offer had expired, so no discount.",20260821T125948Z_8dbb5082
+1134,7,Being wounded means the cat is hurt.,20260821T125948Z_8dbb5082
+1135,1,Mark missing means not everyone is present.,20260821T125948Z_8dbb5082
+1137,7,Being Chinese implies coming from Asia.,20260821T125948Z_8dbb5082
+1138,3,"The line going dead suggests the call ended by itself rather than the speaker hanging up, but it's somewhat indirect.",20260821T125948Z_8dbb5082
+1139,6,Having domestic help implies someone takes care of the house.,20260821T125948Z_8dbb5082
+1140,1,Having just opened means it has not been there long.,20260821T125948Z_8dbb5082
+1141,6,A house full of history books implies owning many books.,20260821T125948Z_8dbb5082
+1143,6,Only a few guests for dinner indicates a small gathering.,20260821T125948Z_8dbb5082
+1144,1,Only one week off contradicts two weeks.,20260821T125948Z_8dbb5082
+1145,7,Going to have a baby confirms pregnancy.,20260821T125948Z_8dbb5082
+1147,2,Still owing money means debts are not fully paid.,20260821T125948Z_8dbb5082
+1148,1,Only water means no cocktail.,20260821T125948Z_8dbb5082
+1149,3,"An orchard is fruit trees, not a vegetable garden, so likely no, though it hints at growing produce.",20260821T125948Z_8dbb5082
+1150,1,25 years old is not underage.,20260821T125948Z_8dbb5082
+1151,1,Extremely expensive tuition means not affordable.,20260821T125948Z_8dbb5082
+1152,7,A bank transfer moments ago confirms she paid.,20260821T125948Z_8dbb5082
+1153,1,Cannot swim yet means not good at swimming.,20260821T125948Z_8dbb5082
+1154,1,Being healthy again means the cold is gone.,20260821T125948Z_8dbb5082
+1155,7,Not allowed to get closer confirms approaching is forbidden.,20260821T125948Z_8dbb5082
+1156,6,Watering regularly indicates the plants were cared for.,20260821T125948Z_8dbb5082
+1157,1,Already dead by then means not alive in the 80s.,20260821T125948Z_8dbb5082
+1158,6,A thick ice layer implies the lake is frozen.,20260821T125948Z_8dbb5082
+1159,1,Being in the advanced course means not the beginners' class.,20260821T125948Z_8dbb5082
+1160,7,Seeing a doctor is seeking medical advice.,20260821T125948Z_8dbb5082
+1161,1,Going out means not staying home.,20260821T125948Z_8dbb5082
+1162,7,Voting yesterday confirms a recent election.,20260821T125948Z_8dbb5082
+1163,7,Spotless means completely clean.,20260821T125948Z_8dbb5082
+1164,1,A blank sheet means no questions were answered.,20260821T125948Z_8dbb5082
+1165,2,Just entering the changing room implies she is not on the field yet.,20260821T125948Z_8dbb5082
+1166,6,"Being compensated implies he got money back, though compensation may differ from a refund.",20260821T125948Z_8dbb5082
+1167,1,No one has responded is an explicit no.,20260821T125948Z_8dbb5082
+1168,2,"Not playing an instrument suggests he's not a musician, though singers exist.",20260821T125948Z_8dbb5082
+1169,7,Being in Japan for months confirms travel in Asia.,20260821T125948Z_8dbb5082
+1170,7,Aiming for the mountain top is the summit.,20260821T125948Z_8dbb5082
+1171,7,The customer received it confirms he got the package.,20260821T125948Z_8dbb5082
+1173,1,Skipping four lessons means she didn't attend the whole course.,20260821T125948Z_8dbb5082
+1174,6,Poor resolution implies a bad image.,20260821T125948Z_8dbb5082
+1175,7,Graduating from medical school confirms completing studies.,20260821T125948Z_8dbb5082
+1176,1,Private property means not a public building.,20260821T125948Z_8dbb5082
+1201,2,"Not having seen him for ages suggests the friendship has faded, though friends can be distant.",20260821T125948Z_8dbb5082
+1202,6,Sending out an application strongly implies job seeking.,20260821T125948Z_8dbb5082
+1203,7,Training with him confirms knowing him.,20260821T125948Z_8dbb5082
+1204,5,"The grandfather's death hints at inheritance, so likely yes, but it's not explicit.",20260821T125948Z_8dbb5082
+1205,6,1000 km implies a long drive.,20260821T125948Z_8dbb5082
+1206,6,A six hour drive means it is far.,20260821T125948Z_8dbb5082
+1207,2,Train delay suggests they will not be home by noon.,20260821T125948Z_8dbb5082
+1208,3,"Some cereal left implies no need to buy, so likely they didn't buy it, though it's indirect.",20260821T125948Z_8dbb5082
+1209,2,Not due for three months implies they haven't started yet.,20260821T125948Z_8dbb5082
+1210,5,"Always congested traffic suggests they may be late, though not certain.",20260821T125948Z_8dbb5082
+1211,2,"Being vegetarian suggests she won't come to a steak house, though she could still join.",20260821T125948Z_8dbb5082
+1212,6,Having the flu implies staying home.,20260821T125948Z_8dbb5082
+1213,5,"Daily hours of running suggests marathon training, but registration isn't confirmed.",20260821T125948Z_8dbb5082
+1214,2,Just waking up implies she hasn't had breakfast yet.,20260821T125948Z_8dbb5082
+1215,1,Not yet released means it hasn't been seen.,20260821T125948Z_8dbb5082
+1216,6,Having used one before implies knowing how.,20260821T125948Z_8dbb5082
+1217,2,"Celebrating implies success, so likely not failing.",20260821T125948Z_8dbb5082
+1218,5,"Moving out tomorrow suggests a breakup, but could be for other reasons.",20260821T125948Z_8dbb5082
+1219,5,"Always falling behind suggests a reason for being fired, implying yes, but not stated directly.",20260821T125948Z_8dbb5082
+1220,6,Famous for surfing implies big waves.,20260821T125948Z_8dbb5082
+1221,2,Quite rough implies not safe to swim.,20260821T125948Z_8dbb5082
+1222,2,"NGO jobs are typically low-paying, implying no.",20260821T125948Z_8dbb5082
+1223,6,Many successful books implies fame.,20260821T125948Z_8dbb5082
+1224,1,Still analyzing means not yet presented.,20260821T125948Z_8dbb5082
+1225,2,"Endangered species are protected, implying hunting is illegal.",20260821T125948Z_8dbb5082
+1226,5,"Gym enrollment suggests weight loss, but doesn't confirm it.",20260821T125948Z_8dbb5082
+1227,1,Incomplete thesis means not graduated.,20260821T125948Z_8dbb5082
+1228,6,Saying hair was way too long implies it was cut.,20260821T125948Z_8dbb5082
+1229,2,A business trip implies little time for sightseeing.,20260821T125948Z_8dbb5082
+1230,2,Needing a larger one implies they didn't buy it.,20260821T125948Z_8dbb5082
+1231,6,A deadline tomorrow implies stress.,20260821T125948Z_8dbb5082
+1232,6,Only four hours of sleep implies tiredness.,20260821T125948Z_8dbb5082
+1233,3,"The expired offer suggests he may not have booked, but he could have booked at full price; leans no.",20260821T125948Z_8dbb5082
+1234,6,A wounded cat implies a vet visit.,20260821T125948Z_8dbb5082
+1235,1,Mark missing means not ready to go.,20260821T125948Z_8dbb5082
+1237,5,"Being Chinese suggests ability to cook Cantonese rice, but nationality doesn't guarantee cooking skill.",20260821T125948Z_8dbb5082
+1238,2,The line going dead implies the message wasn't conveyed.,20260821T125948Z_8dbb5082
+1239,6,"Having domestic help explains the constant tidiness, implying yes.",20260821T125948Z_8dbb5082
+1240,2,Just opened implies they haven't tried it yet.,20260821T125948Z_8dbb5082
+1241,6,A house full of history books implies passion for history.,20260821T125948Z_8dbb5082
+1243,6,Only a few guests implies the saucepan is big enough.,20260821T125948Z_8dbb5082
+1244,2,Only one week off implies no two-week trip.,20260821T125948Z_8dbb5082
+1245,6,Pregnancy implies avoiding alcohol.,20260821T125948Z_8dbb5082
+1247,3,Still owing money doesn't clearly indicate a new loan; leans no as it refers to existing debt.,20260821T125948Z_8dbb5082
+1248,1,Only water means not drunk.,20260821T125948Z_8dbb5082
+1249,2,"Owning an orchard implies growing own fruit, not buying it.",20260821T125948Z_8dbb5082
+1250,1,25 years old is well past elementary school.,20260821T125948Z_8dbb5082
+1251,2,Extremely expensive tuition implies it's not an option.,20260821T125948Z_8dbb5082
+1252,6,A bank transfer implies acceptance of the deal.,20260821T125948Z_8dbb5082
+1253,3,"Not being able to swim suggests they didn't go, though non-swimmers can visit pools; leans no.",20260821T125948Z_8dbb5082
+1254,2,Being healthy again implies no longer taking pills.,20260821T125948Z_8dbb5082
+1255,5,"Restricted access hints at contamination, but many other reasons could apply.",20260821T125948Z_8dbb5082
+1256,6,Regular watering implies the plants are alive.,20260821T125948Z_8dbb5082
+1257,1,Being already dead means he could not have created it in 1981.,20260821T125948Z_8dbb5082
+1258,6,Thick ice implies ice skating season.,20260821T125948Z_8dbb5082
+1259,1,Being in the advanced course means not a beginner.,20260821T125948Z_8dbb5082
+1260,6,Having seen a doctor implies sickness.,20260821T125948Z_8dbb5082
+1261,2,Going out with friends implies not going to bed early.,20260821T125948Z_8dbb5082
+1262,6,Having voted yesterday indicates members can elect a representative.,20260821T125948Z_8dbb5082
+1263,6,Spotless implies it's back from the car wash.,20260821T125948Z_8dbb5082
+1264,1,A blank sheet means the exam was not good.,20260821T125948Z_8dbb5082
+1265,2,Just entering the changing room means she isn't dressed yet.,20260821T125948Z_8dbb5082
+1266,6,Being compensated implies the lawsuit was settled.,20260821T125948Z_8dbb5082
+1267,1,No responses means the house was not sold.,20260821T125948Z_8dbb5082
+1268,2,"Not playing instruments suggests he's not in the band, though he could carry a flag.",20260821T125948Z_8dbb5082
+1269,6,Months in Japan strongly implies he has tried sushi.,20260821T125948Z_8dbb5082
+1270,5,"Aiming for the summit suggests mostly uphill, but not necessarily the whole way.",20260821T125948Z_8dbb5082
+1271,7,Receiving it entails it was shipped.,20260821T125948Z_8dbb5082
+1273,1,Skipping four lessons indicates lack of dedication.,20260821T125948Z_8dbb5082
+1274,6,Poor resolution implies eye strain.,20260821T125948Z_8dbb5082
+1275,6,Graduating from medical school implies being a doctor.,20260821T125948Z_8dbb5082
+1276,2,Private property implies they haven't been inside.,20260821T125948Z_8dbb5082
+2101,7,Needing to revise topics confirms having to study.,20260821T125948Z_8dbb5082
+2102,7,An interesting new movie confirms something came out.,20260821T125948Z_8dbb5082
+2103,6,"Chilly confirms it is cold, though 'quite chilly' is milder than 'cold'.",20260821T125948Z_8dbb5082
+2105,6,Having heard good things confirms knowing something about it.,20260821T125948Z_8dbb5082
+2106,6,Pulling a muscle is an injury at yoga class.,20260821T125948Z_8dbb5082
+2107,6,Not finding the phone implies it's lost.,20260821T125948Z_8dbb5082
+2108,7,Minus 20 degrees is definitively cold.,20260821T125948Z_8dbb5082
+2109,7,A church is a religious building.,20260821T125948Z_8dbb5082
+2110,6,Training very hard implies difficult workouts.,20260821T125948Z_8dbb5082
+2113,7,Working on an exhausting task confirms working.,20260821T125948Z_8dbb5082
+2114,1,Not bringing a bikini means no swimming gear.,20260821T125948Z_8dbb5082
+2115,1,Not having time means not free.,20260821T125948Z_8dbb5082
+2116,1,Watching it last month means not yesterday.,20260821T125948Z_8dbb5082
+2117,2,"Being on a diet implies eating less, not more.",20260821T125948Z_8dbb5082
+2118,1,Being Muslim means not practising Hinduism.,20260821T125948Z_8dbb5082
+2119,2,A spinning head means not feeling ok.,20260821T125948Z_8dbb5082
+2120,1,Being very tired means not energetic.,20260821T125948Z_8dbb5082
+2121,1,Being broke means no savings.,20260821T125948Z_8dbb5082
+2122,1,Having used one before means it's not the first time.,20260821T125948Z_8dbb5082
+2123,1,11 p.m. is not morning.,20260821T125948Z_8dbb5082
+2124,1,A hangover means not feeling good.,20260821T125948Z_8dbb5082
+2125,1,Being diabetic means having a chronic disease.,20260821T125948Z_8dbb5082
+2127,2,Getting seasick means not feeling well on boats.,20260821T125948Z_8dbb5082
+2128,1,The toothache being gone means teeth no longer hurt.,20260821T125948Z_8dbb5082
+2129,6,Several bus stops confirms many stations on the way.,20260821T125948Z_8dbb5082
+2130,2,Saying they should not staple implies it's not allowed.,20260821T125948Z_8dbb5082
+2131,1,Very light means it doesn't weigh much.,20260821T125948Z_8dbb5082
+2132,7,Getting up at 5 am is waking up early.,20260821T125948Z_8dbb5082
+2134,1,French being native means Spanish is not.,20260821T125948Z_8dbb5082
+2135,7,It does not work confirms it is still unusable.,20260821T125948Z_8dbb5082
+2136,7,Common wolves confirm wild animals.,20260821T125948Z_8dbb5082
+2137,2,"Only cacti implies no trees, though some cacti are tree-like.",20260821T125948Z_8dbb5082
+2138,6,Needing it for travelling implies it's necessary for the plane.,20260821T125948Z_8dbb5082
+2139,2,Having a sandwich implies not pie.,20260821T125948Z_8dbb5082
+2140,7,Having to go out soon confirms they are about to leave.,20260821T125948Z_8dbb5082
+2141,7,Starving confirms hunger.,20260821T125948Z_8dbb5082
+2144,7,Drinking tea all the time confirms frequent hot drinks.,20260821T125948Z_8dbb5082
+2145,7,Too much light confirms the room is very bright.,20260821T125948Z_8dbb5082
+2146,1,Being abroad then means not staying in town.,20260821T125948Z_8dbb5082
+2147,7,Having soup confirms eating.,20260821T125948Z_8dbb5082
+2148,7,Just started pouring confirms it's raining.,20260821T125948Z_8dbb5082
+2149,1,I do not drink is an explicit no.,20260821T125948Z_8dbb5082
+2150,2,The remaining dishwasher shows not everything was taken away.,20260821T125948Z_8dbb5082
+2151,2,Giving away the racket implies no tennis equipment.,20260821T125948Z_8dbb5082
+2152,2,Not eating spicy dishes means not all food types.,20260821T125948Z_8dbb5082
+2153,7,Living right next door confirms being neighbours.,20260821T125948Z_8dbb5082
+2155,1,Understanding everything now means no longer confused.,20260821T125948Z_8dbb5082
+2156,7,Chest pain is upper body pain.,20260821T125948Z_8dbb5082
+2157,1,Middle of summer means it's not winter.,20260821T125948Z_8dbb5082
+2159,7,Cutting a finger confirms getting hurt.,20260821T125948Z_8dbb5082
+2160,7,Dust all over the floor confirms dirtiness.,20260821T125948Z_8dbb5082
+2161,1,Having brought their own means it wasn't left at home.,20260821T125948Z_8dbb5082
+2162,7,Chapped lips confirm damage.,20260821T125948Z_8dbb5082
+2163,2,Working early morning suggests not the afternoon shift.,20260821T125948Z_8dbb5082
+2164,1,Planning to eat at a restaurant means not at home.,20260821T125948Z_8dbb5082
+2165,7,Having grown a lot means they are taller.,20260821T125948Z_8dbb5082
+2166,7,Lunch being ready means cooking is finished.,20260821T125948Z_8dbb5082
+2167,7,A very complicated math exercise is difficult homework.,20260821T125948Z_8dbb5082
+2168,1,Not sure where to go means no decision made.,20260821T125948Z_8dbb5082
+2169,2,Smoking cigars only means not cigarettes.,20260821T125948Z_8dbb5082
+2170,2,Typing on a laptop implies not writing on paper.,20260821T125948Z_8dbb5082
+2171,6,The undelivered stove confirms the kitchen is incomplete.,20260821T125948Z_8dbb5082
+2172,7,Cars stolen regularly confirms frequent car theft.,20260821T125948Z_8dbb5082
+2173,1,Completely full means no room left.,20260821T125948Z_8dbb5082
+2174,7,Laundry piling up confirms a lot to wash.,20260821T125948Z_8dbb5082
+2175,6,Being able to have a relaxed breakfast confirms taking time.,20260821T125948Z_8dbb5082
+2201,6,"Needing to revise suggests willingness to study, implying agreement to study together.",20260821T125948Z_8dbb5082
+2202,6,Mentioning an interesting new movie signals agreement to go.,20260821T125948Z_8dbb5082
+2203,6,"Saying it's chilly implies yes, close the window.",20260821T125948Z_8dbb5082
+2205,6,Having heard good things suggests interest in borrowing it.,20260821T125948Z_8dbb5082
+2206,6,"A pulled muscle gives reason to skip, implying yes.",20260821T125948Z_8dbb5082
+2207,6,Not finding their own phone implies they'd accept the offer.,20260821T125948Z_8dbb5082
+2208,6,"Minus 20 degrees implies yes, a coat is needed.",20260821T125948Z_8dbb5082
+2209,6,Being in a church implies phones should be turned off.,20260821T125948Z_8dbb5082
+2210,6,Training hard implies wanting a protein shake.,20260821T125948Z_8dbb5082
+2213,6,"An exhausting task justifies taking a break, implying yes.",20260821T125948Z_8dbb5082
+2214,2,Not bringing a bikini suggests declining the lake trip.,20260821T125948Z_8dbb5082
+2215,1,Not having time means not coming.,20260821T125948Z_8dbb5082
+2216,2,Having watched it last month suggests declining to watch again.,20260821T125948Z_8dbb5082
+2217,2,Being on a diet implies declining dessert.,20260821T125948Z_8dbb5082
+2218,1,Being Muslim implies refusing pork.,20260821T125948Z_8dbb5082
+2219,2,A spinning head implies declining another beer.,20260821T125948Z_8dbb5082
+2220,2,Being very tired implies not going out.,20260821T125948Z_8dbb5082
+2221,1,Being broke means no trip.,20260821T125948Z_8dbb5082
+2222,2,Prior experience implies no help needed.,20260821T125948Z_8dbb5082
+2223,2,"11 p.m. is late, implying declining the cinema.",20260821T125948Z_8dbb5082
+2224,2,A hangover implies declining drinks.,20260821T125948Z_8dbb5082
+2225,2,Being diabetic implies declining cake.,20260821T125948Z_8dbb5082
+2227,2,Getting seasick implies declining the cruise.,20260821T125948Z_8dbb5082
+2228,1,The toothache being gone means no painkillers needed.,20260821T125948Z_8dbb5082
+2229,3,"Having several stops left is somewhat ambiguous; it could justify accepting the seat, but the framing suggests declining because the journey is long, or accepting because they'll be on board a while. Slightly leans toward declining/uncertain.",20260821T125948Z_8dbb5082
+2230,1,"They should not staple, so no stapler needed.",20260821T125948Z_8dbb5082
+2231,1,Very light luggage means no help needed.,20260821T125948Z_8dbb5082
+2232,6,"Getting up at 5 am implies yes, set the alarm.",20260821T125948Z_8dbb5082
+2234,2,Being a native French speaker implies no need for spell checking.,20260821T125948Z_8dbb5082
+2235,6,"The remote not working implies yes, change the batteries.",20260821T125948Z_8dbb5082
+2236,6,"Common wolves imply yes, lock up the cattle.",20260821T125948Z_8dbb5082
+2237,2,"Cacti need little water, implying no watering needed.",20260821T125948Z_8dbb5082
+2238,6,"Needing it for travelling implies yes, pack it.",20260821T125948Z_8dbb5082
+2239,2,Already having a sandwich implies declining food.,20260821T125948Z_8dbb5082
+2240,6,"Having to go out soon implies yes, wake them up.",20260821T125948Z_8dbb5082
+2241,6,Being starving implies accepting biscuits.,20260821T125948Z_8dbb5082
+2244,6,Drinking tea all the time implies accepting the kettle.,20260821T125948Z_8dbb5082
+2245,6,"Too much light implies yes, dim it.",20260821T125948Z_8dbb5082
+2246,1,Being abroad means not coming.,20260821T125948Z_8dbb5082
+2247,6,Having soup implies needing a spoon.,20260821T125948Z_8dbb5082
+2248,6,Pouring rain implies yes to an umbrella.,20260821T125948Z_8dbb5082
+2249,1,Not drinking means declining wine.,20260821T125948Z_8dbb5082
+2250,3,"Mentioning the dishwasher suggests hand-washing isn't needed, leaning no, though it could mean 'yes, use the dishwasher'.",20260821T125948Z_8dbb5082
+2251,2,Having given away the racket implies they can't play.,20260821T125948Z_8dbb5082
+2252,2,Not eating spicy dishes implies declining Mexican food.,20260821T125948Z_8dbb5082
+2253,2,"Living right next door implies no ride needed, though it could also mean it's easy to give one; leans no.",20260821T125948Z_8dbb5082
+2255,1,Understanding everything means no explanation needed.,20260821T125948Z_8dbb5082
+2256,6,"Severe chest pain implies yes, call the doctor.",20260821T125948Z_8dbb5082
+2257,2,Midsummer implies no extra blanket needed.,20260821T125948Z_8dbb5082
+2259,6,Having cut a finger implies yes to a plaster.,20260821T125948Z_8dbb5082
+2260,6,"Dust all over implies yes, sweep.",20260821T125948Z_8dbb5082
+2261,1,Having brought their own means declining.,20260821T125948Z_8dbb5082
+2262,6,Chapped lips imply accepting lip balm.,20260821T125948Z_8dbb5082
+2263,2,Working early next morning implies declining drinks.,20260821T125948Z_8dbb5082
+2264,2,Planning to eat out implies no need to cook for both.,20260821T125948Z_8dbb5082
+2265,6,"Hedges having grown a lot implies yes, prune them.",20260821T125948Z_8dbb5082
+2266,6,"Lunch being ready implies yes, set the table.",20260821T125948Z_8dbb5082
+2267,6,A complicated math exercise implies accepting the calculator.,20260821T125948Z_8dbb5082
+2268,2,Not knowing the destination means don't buy tickets yet.,20260821T125948Z_8dbb5082
+2269,2,Smoking only cigars implies declining a cigarette.,20260821T125948Z_8dbb5082
+2270,2,Typing on a laptop implies no paper needed.,20260821T125948Z_8dbb5082
+2271,6,No working stove implies yes to delivery food.,20260821T125948Z_8dbb5082
+2272,6,"Frequent car theft implies yes, lock the car.",20260821T125948Z_8dbb5082
+2273,2,A full wardrobe implies no need to shop.,20260821T125948Z_8dbb5082
+2274,6,"Piling dirty laundry implies yes, do the laundry.",20260821T125948Z_8dbb5082
+2275,5,"Having time for a relaxed breakfast suggests accepting pancakes, though it doesn't directly state a preference.",20260821T125948Z_8dbb5082

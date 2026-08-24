@@ -1,0 +1,6 @@
+id,score,rationale,run_id
+1101,2,"B says they have not seen Martin for ages, which strongly implies no, they have not met Martin lately.",20260821T125948Z_8dbb5082
+1102,7,Saying they are sending out an application clearly indicates they are doing something right now.,20260821T125948Z_8dbb5082
+1103,6,"Training with him at the gym strongly supports that they usually exercise together, though it does not explicitly say 'usually'.",20260821T125948Z_8dbb5082
+1104,7,"If his grandfather passed away recently, that directly answers yes to a death in the family.",20260821T125948Z_8dbb5082
+1105,7,Saying Paris is about 1000 km away directly means it is very far.,20260821T125948Z_8dbb5082

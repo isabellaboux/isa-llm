@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
+gen-1787329504-uN6e3ejTl89p29m9lDqe,anthropic/claude-sonnet-5,anthropic/claude-sonnet-5,Claude Platform on AWS,stop,12316,17260,7998,29576,0.197232,20260821T125948Z_8dbb5082

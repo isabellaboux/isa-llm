@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
+gen-1787329223-JIMZxn0bQSELqyYaP6mI,anthropic/claude-opus-5,anthropic/claude-opus-5,Claude Platform on AWS,stop,12316,9926,0,22242,0.30973,20260821T125948Z_8dbb5082
