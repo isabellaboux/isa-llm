@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Person B says they have not seen Martin for ages, which directly implies they have not met him lately. This is a clear 'no' answer.",20260824T093740Z_5937923c
+1102,7,"Person B says they are sending out an application, which is clearly something they are doing right now. This is a definite 'yes'.",20260824T093740Z_5937923c
+1103,7,"Person B confirms they train with Lukas at the gym, directly answering yes to whether they exercise with him.",20260824T093740Z_5937923c
+1104,7,"Person B says his grandfather passed away recently, which directly confirms a death in the family.",20260824T093740Z_5937923c
+1105,5,"1000 km is quite far, so the answer implies yes, Paris is very far, though 'very far' is subjective. The distance strongly suggests yes.",20260824T093740Z_5937923c
+1106,6,"A six-hour drive is quite long, strongly implying yes, it does take long to get to Munich.",20260824T093740Z_5937923c
+1107,2,"A train delay suggests the journey is not going as planned, so the answer is likely 'no'.",20260824T093740Z_5937923c
+1108,2,"There is still some left implies they have not finished it, so the answer is 'no'.",20260824T093740Z_5937923c
+1109,1,"The deadline is not for three months, clearly indicating it is not next week. Definite 'no'.",20260824T093740Z_5937923c
+1110,7,Streets always congested with cars directly confirms there is usually a lot of traffic.,20260824T093740Z_5937923c
+1111,1,"She is vegetarian, which means she does not eat meat. Definite 'no'.",20260824T093740Z_5937923c
+1112,7,Having the flu confirms John is sick today. Definite 'yes'.,20260824T093740Z_5937923c
+1113,7,Running for hours every day confirms Sonya trains daily. Definite 'yes'.,20260824T093740Z_5937923c
+1114,1,She just woke up means she is no longer sleeping. Definite 'no'.,20260824T093740Z_5937923c
+1115,1,"It comes out next week, not today. Definite 'no'.",20260824T093740Z_5937923c
+1116,7,Having used one before directly confirms experience with a drill. Definite 'yes'.,20260824T093740Z_5937923c
+1117,2,"The party is tonight, not tomorrow, so the answer is 'no' to whether it takes place tomorrow.",20260824T093740Z_5937923c
+1118,6,Moving out tomorrow strongly implies they are leaving their flat soon. Very likely 'yes'.,20260824T093740Z_5937923c
+1119,6,Always falling behind strongly implies he is a slacker. Very likely 'yes'.,20260824T093740Z_5937923c
+1120,7,The region being famous for surfing directly confirms it is popular for something. Definite 'yes'.,20260824T093740Z_5937923c
+1121,1,"It is quite rough, which is the opposite of calm. Definite 'no'.",20260824T093740Z_5937923c
+1122,1,Working at an NGO is not a corporate company. Definite 'no'.,20260824T093740Z_5937923c
+1123,7,Authoring many successful books confirms he is a writer. Definite 'yes'.,20260824T093740Z_5937923c
+1124,1,Still analyzing the data means they are not finished. Definite 'no'.,20260824T093740Z_5937923c
+1125,1,Being an endangered species implies there are not many left. Definite 'no'.,20260824T093740Z_5937923c
+1126,7,Enrolling at the gym directly confirms joining a fitness studio. Definite 'yes'.,20260824T093740Z_5937923c
+1127,1,"The thesis is not complete yet, so they have not finished writing it. Definite 'no'.",20260824T093740Z_5937923c
+1128,7,Hair being way too long confirms they used to have long hair. Definite 'yes'.,20260824T093740Z_5937923c
+1129,1,"It was a business trip, not a vacation. Definite 'no'.",20260824T093740Z_5937923c
+1130,1,Needing a larger one means a one-room flat is not enough. Definite 'no'.,20260824T093740Z_5937923c
+1131,7,The deadline being tomorrow confirms she has to hand in soon. Definite 'yes'.,20260824T093740Z_5937923c
+1132,7,Sleeping only four hours confirms it was a short night. Definite 'yes'.,20260824T093740Z_5937923c
+1133,1,The offer had already expired means the flight was no longer discounted. Definite 'no'.,20260824T093740Z_5937923c
+1134,7,Getting wounded confirms the cat is hurt. Definite 'yes'.,20260824T093740Z_5937923c
+1135,1,Mark is still missing means not everyone is there. Definite 'no'.,20260824T093740Z_5937923c
+1137,7,Being Chinese confirms coming from Asia. Definite 'yes'.,20260824T093740Z_5937923c
+1138,4,The line going dead is ambiguous - it could mean the call ended but not necessarily that Person B hung up intentionally. Could be either party or a technical issue.,20260824T093740Z_5937923c
+1139,7,Having domestics confirms someone is taking care of their house. Definite 'yes'.,20260824T093740Z_5937923c
+1140,1,They have just opened means the bar has not been there for long. Definite 'no'.,20260824T093740Z_5937923c
+1141,7,A house full of history books confirms he owns many books. Definite 'yes'.,20260824T093740Z_5937923c
+1143,7,Having only a few guests over for dinner confirms it is a small gathering. Definite 'yes'.,20260824T093740Z_5937923c
+1144,1,Only having one week off means they do not have two weeks of holiday. Definite 'no'.,20260824T093740Z_5937923c
+1145,7,Going to have a baby directly confirms pregnancy. Definite 'yes'.,20260824T093740Z_5937923c
+1147,1,Still owing the bank money means debts have not been paid back. Definite 'no'.,20260824T093740Z_5937923c
+1148,1,"He only had water, so he did not drink a cocktail. Definite 'no'.",20260824T093740Z_5937923c
+1149,4,"Owning an orchard is related to gardening but is not a vegetable garden specifically. The answer is ambiguous - an orchard grows fruit, not vegetables.",20260824T093740Z_5937923c
+1150,1,Being 25 years old means he is not underage. Definite 'no'.,20260824T093740Z_5937923c
+1151,1,An extremely expensive tuition fee means it is not affordable. Definite 'no'.,20260824T093740Z_5937923c
+1152,7,Making a bank transfer confirms she has paid. Definite 'yes'.,20260824T093740Z_5937923c
+1153,1,"They cannot swim yet, so they are not good at swimming. Definite 'no'.",20260824T093740Z_5937923c
+1154,1,Being healthy again means they no longer have a cold. Definite 'no'.,20260824T093740Z_5937923c
+1155,7,People not being allowed to get closer confirms it is forbidden to approach. Definite 'yes'.,20260824T093740Z_5937923c
+1156,7,Watering them regularly confirms someone took care of the plants. Definite 'yes'.,20260824T093740Z_5937923c
+1157,1,Already being dead by then means the artist was not alive in the 80s. Definite 'no'.,20260824T093740Z_5937923c
+1158,7,A thick ice layer confirms the lake is frozen. Definite 'yes'.,20260824T093740Z_5937923c
+1159,1,Being in the advanced course means they are not attending the beginners' class. Definite 'no'.,20260824T093740Z_5937923c
+1160,7,Having seen a doctor confirms they sought medical advice. Definite 'yes'.,20260824T093740Z_5937923c
+1161,1,Going out with friends means they did not stay home. Definite 'no'.,20260824T093740Z_5937923c
+1162,7,Voting yesterday confirms there was a recent election. Definite 'yes'.,20260824T093740Z_5937923c
+1163,7,Being spotless confirms the car is completely clean. Definite 'yes'.,20260824T093740Z_5937923c
+1164,1,Submitting a blank sheet means they answered no questions. Definite 'no'.,20260824T093740Z_5937923c
+1165,1,Just getting into the changing room means she is no longer on the tennis field. Definite 'no'.,20260824T093740Z_5937923c
+1166,7,Being compensated confirms he got the money back. Definite 'yes'.,20260824T093740Z_5937923c
+1167,1,No one has responded directly confirms no one answered the ad. Definite 'no'.,20260824T093740Z_5937923c
+1168,1,Not playing any instrument strongly implies he is not a musician. Definite 'no'.,20260824T093740Z_5937923c
+1169,7,Being in Japan for several months confirms he has travelled in Asia. Definite 'yes'.,20260824T093740Z_5937923c
+1170,7,Aiming for the mountain top confirms the summit is the goal. Definite 'yes'.,20260824T093740Z_5937923c
+1171,7,The customer receiving it confirms the package was delivered. Definite 'yes'.,20260824T093740Z_5937923c
+1173,1,Skipping the last four lessons means she did not attend the whole course. Definite 'no'.,20260824T093740Z_5937923c
+1174,7,A poor monitor resolution confirms the screen has a bad image. Definite 'yes'.,20260824T093740Z_5937923c
+1175,7,Graduating from medical school confirms she completed her medical studies. Definite 'yes'.,20260824T093740Z_5937923c
+1176,1,Being private property means it is not a public building. Definite 'no'.,20260824T093740Z_5937923c
+1201,2,"Not having seen Martin for ages suggests the friendship may have faded, making it likely 'no' they are still good friends, though it's not completely certain.",20260824T093740Z_5937923c
+1202,7,Sending out an application directly confirms they are looking for a job. Definite 'yes'.,20260824T093740Z_5937923c
+1203,7,Training with Lukas at the gym confirms knowing him. Definite 'yes'.,20260824T093740Z_5937923c
+1204,4,"The grandfather passing away could mean he inherited property, but it's not certain. The answer is ambiguous regarding ownership.",20260824T093740Z_5937923c
+1205,6,"1000 km is a long drive, strongly implying yes it takes long to drive to Paris.",20260824T093740Z_5937923c
+1206,6,"A six-hour drive implies Munich is quite far, so likely 'yes'.",20260824T093740Z_5937923c
+1207,2,"A train delay suggests they likely won't be home by noon, making it likely 'no'.",20260824T093740Z_5937923c
+1208,2,"There still being some left implies they didn't need to buy more, suggesting 'no' they haven't bought cereal recently (or don't need to).",20260824T093740Z_5937923c
+1209,2,"Not being due for three months implies they likely haven't started yet, but the answer is somewhat ambiguous. Leaning toward 'no'.",20260824T093740Z_5937923c
+1210,6,"Streets always congested suggests they will likely be late, so 'yes' they will be late.",20260824T093740Z_5937923c
+1211,1,Being vegetarian means she won't come to a steak house (or at least it's very unlikely). Definite 'no'.,20260824T093740Z_5937923c
+1212,6,Having the flu strongly implies he would stay home. Very likely 'yes'.,20260824T093740Z_5937923c
+1213,5,"Running for hours every day suggests she is a serious runner and likely registered for the marathon, but it's not certain. Somewhat likely 'yes'.",20260824T093740Z_5937923c
+1214,1,Just waking up means she hasn't had breakfast yet. Definite 'no'.,20260824T093740Z_5937923c
+1215,1,Coming out next week means it hasn't been seen yet. Definite 'no'.,20260824T093740Z_5937923c
+1216,7,Having used one before confirms knowing how to use a drill. Definite 'yes'.,20260824T093740Z_5937923c
+1217,1,"Celebrating tonight strongly implies passing, not failing. Definite 'no'.",20260824T093740Z_5937923c
+1218,5,Moving out tomorrow could suggest a breakup but could also be for other reasons. Somewhat likely 'yes' but ambiguous.,20260824T093740Z_5937923c
+1219,5,"Always falling behind could suggest he was fired, but it's not certain. Somewhat likely 'yes'.",20260824T093740Z_5937923c
+1220,6,Being famous for surfing implies there are big waves. Very likely 'yes'.,20260824T093740Z_5937923c
+1221,1,Being quite rough means it is not safe to swim. Definite 'no'.,20260824T093740Z_5937923c
+1222,2,"Working at an NGO typically implies lower pay, making it likely 'no' they make a lot of money.",20260824T093740Z_5937923c
+1223,6,Authoring many successful books implies fame. Very likely 'yes'.,20260824T093740Z_5937923c
+1224,1,Still analyzing data means they couldn't have presented it. Definite 'no'.,20260824T093740Z_5937923c
+1225,1,Being endangered implies it is illegal to hunt them. Definite 'no'.,20260824T093740Z_5937923c
+1226,4,Enrolling at the gym suggests intent to lose weight but doesn't confirm it. Ambiguous.,20260824T093740Z_5937923c
+1227,1,Thesis not complete means they haven't graduated. Definite 'no'.,20260824T093740Z_5937923c
+1228,4,Hair being way too long could mean they got it cut (reason for cutting) or haven't yet. Ambiguous.,20260824T093740Z_5937923c
+1229,2,Being a business trip suggests little time for sightseeing. Likely 'no'.,20260824T093740Z_5937923c
+1230,1,Needing a larger one means they didn't buy the one-room flat. Definite 'no'.,20260824T093740Z_5937923c
+1231,7,Deadline being tomorrow confirms she would be stressed. Definite 'yes'.,20260824T093740Z_5937923c
+1232,7,Only sleeping four hours confirms being tired. Definite 'yes'.,20260824T093740Z_5937923c
+1233,1,"The offer expiring means he couldn't book the flight at the discounted price, likely didn't book it. Definite 'no'.",20260824T093740Z_5937923c
+1234,7,Getting wounded confirms bringing the cat to the vet is warranted. Definite 'yes'.,20260824T093740Z_5937923c
+1235,1,Mark still missing means they are not ready to go. Definite 'no'.,20260824T093740Z_5937923c
+1237,5,"Being Chinese suggests familiarity with Chinese cuisine including cantonese rice, but doesn't guarantee it. Somewhat likely 'yes'.",20260824T093740Z_5937923c
+1238,1,The line going dead suggests the call ended before they could tell him. Definite 'no'.,20260824T093740Z_5937923c
+1239,7,Having domestics explains why the house is always tidy. Definite 'yes'.,20260824T093740Z_5937923c
+1240,1,Just opening means they haven't been there yet. Definite 'no'.,20260824T093740Z_5937923c
+1241,6,A house full of history books strongly implies a passion for history. Very likely 'yes'.,20260824T093740Z_5937923c
+1243,7,Having only a few guests means the saucepan is likely big enough. Definite 'yes'.,20260824T093740Z_5937923c
+1244,1,Only having one week off means a two-week trip is not possible. Definite 'no'.,20260824T093740Z_5937923c
+1245,7,Having a baby is a strong reason to avoid alcohol. Definite 'yes'.,20260824T093740Z_5937923c
+1247,1,Still owing the bank money means no new loan was obtained (or it's not resolved). Definite 'no'.,20260824T093740Z_5937923c
+1248,1,Only having water means he is not drunk. Definite 'no'.,20260824T093740Z_5937923c
+1249,1,Owning an orchard means they grow their own fruit and don't need to buy it at the supermarket. Definite 'no'.,20260824T093740Z_5937923c
+1250,1,Being 25 years old means he is not at elementary school age. Definite 'no'.,20260824T093740Z_5937923c
+1251,2,"The extremely expensive tuition fee makes Harvard unlikely to be an option, suggesting 'no'.",20260824T093740Z_5937923c
+1252,7,Making a bank transfer confirms she accepted the deal. Definite 'yes'.,20260824T093740Z_5937923c
+1253,2,Not being able to swim yet makes going to the swimming pool unlikely or inadvisable. Likely 'no'.,20260824T093740Z_5937923c
+1254,1,Being healthy again means they are no longer taking pills. Definite 'no'.,20260824T093740Z_5937923c
+1255,5,"Not being allowed to get closer suggests possible contamination, but could be for other reasons. Somewhat likely 'yes'.",20260824T093740Z_5937923c
+1256,7,Watering them regularly confirms the plants are still alive. Definite 'yes'.,20260824T093740Z_5937923c
+1257,1,Being already dead by then means he couldn't have created artwork in 1981. Definite 'no'.,20260824T093740Z_5937923c
+1258,7,A thick ice layer confirms it is ice skating season. Definite 'yes'.,20260824T093740Z_5937923c
+1259,1,Being in the advanced course means they are not a beginner. Definite 'no'.,20260824T093740Z_5937923c
+1260,7,Having seen a doctor confirms they have been sick. Definite 'yes'.,20260824T093740Z_5937923c
+1261,1,Going out with friends means they did not go to bed early. Definite 'no'.,20260824T093740Z_5937923c
+1262,7,Voting yesterday confirms they can elect a representative. Definite 'yes'.,20260824T093740Z_5937923c
+1263,7,Being spotless confirms the car is back and clean. Definite 'yes'.,20260824T093740Z_5937923c
+1264,1,Submitting a blank sheet means they did not write a good exam. Definite 'no'.,20260824T093740Z_5937923c
+1265,4,Just getting into the changing room is ambiguous - she could be getting dressed for the game or undressing after. Uncertain.,20260824T093740Z_5937923c
+1266,6,Being compensated suggests the lawsuit was settled. Very likely 'yes'.,20260824T093740Z_5937923c
+1267,1,No one responding means the house has not been sold. Definite 'no'.,20260824T093740Z_5937923c
+1268,1,Not playing any instrument means he cannot be in the marching band. Definite 'no'.,20260824T093740Z_5937923c
+1269,6,Being in Japan for several months makes it very likely he tried sushi. Very likely 'yes'.,20260824T093740Z_5937923c
+1270,5,"Aiming for the mountain top suggests much of the way goes uphill, but not necessarily the whole way. Somewhat likely 'yes'.",20260824T093740Z_5937923c
+1271,7,The customer receiving it confirms it was shipped and delivered. Definite 'yes'.,20260824T093740Z_5937923c
+1273,1,Skipping the last four lessons shows she is not dedicated. Definite 'no'.,20260824T093740Z_5937923c
+1274,6,A poor monitor resolution is a common cause of eye strain. Very likely 'yes'.,20260824T093740Z_5937923c
+1275,7,Graduating from medical school confirms she is a medical doctor. Definite 'yes'.,20260824T093740Z_5937923c
+1276,2,Being private property makes it unlikely one has been inside. Likely 'no'.,20260824T093740Z_5937923c
+2101,7,Needing to revise some topics directly confirms they need to study for the test. Definite 'yes'.,20260824T093740Z_5937923c
+2102,7,There being an interesting new movie confirms something has come out recently. Definite 'yes'.,20260824T093740Z_5937923c
+2103,7,Being quite chilly confirms it is cold. Definite 'yes'.,20260824T093740Z_5937923c
+2105,7,Having heard good things about the book confirms knowing something about it. Definite 'yes'.,20260824T093740Z_5937923c
+2106,7,Pulling a muscle confirms getting injured at yoga class. Definite 'yes'.,20260824T093740Z_5937923c
+2107,7,Not being able to find the phone directly confirms losing it. Definite 'yes'.,20260824T093740Z_5937923c
+2108,7,"Minus 20 degrees is extremely cold, confirming it is cold outside. Definite 'yes'.",20260824T093740Z_5937923c
+2109,7,Just entering a church confirms being in a religious building. Definite 'yes'.,20260824T093740Z_5937923c
+2110,7,Training very hard confirms workouts are usually difficult. Definite 'yes'.,20260824T093740Z_5937923c
+2113,7,Working on an exhausting task confirms they were working today. Definite 'yes'.,20260824T093740Z_5937923c
+2114,1,Not bringing a bikini means they don't have swimming gear. Definite 'no'.,20260824T093740Z_5937923c
+2115,1,Not having time means they are not free. Definite 'no'.,20260824T093740Z_5937923c
+2116,1,Watching it last month means they did not watch it yesterday. Definite 'no'.,20260824T093740Z_5937923c
+2117,1,Being on a diet means they are not eating more than usual. Definite 'no'.,20260824T093740Z_5937923c
+2118,1,Being Muslim means they do not practice Hinduism. Definite 'no'.,20260824T093740Z_5937923c
+2119,1,Head spinning after beers indicates they are not feeling ok. Definite 'no'.,20260824T093740Z_5937923c
+2120,1,Being very tired is the opposite of energetic. Definite 'no'.,20260824T093740Z_5937923c
+2121,1,Being broke means they have no money saved up. Definite 'no'.,20260824T093740Z_5937923c
+2122,1,Having used one before means it is not their first experience. Definite 'no'.,20260824T093740Z_5937923c
+2123,1,"11 p.m. is nighttime, not morning. Definite 'no'.",20260824T093740Z_5937923c
+2124,1,Having a hangover means they are not feeling good. Definite 'no'.,20260824T093740Z_5937923c
+2125,1,Being diabetic means they are not free of chronic disease. Definite 'no'.,20260824T093740Z_5937923c
+2127,1,Usually getting seasick means they do not feel well on boats. Definite 'no'.,20260824T093740Z_5937923c
+2128,1,Toothache being gone means teeth are no longer hurting. Definite 'no'.,20260824T093740Z_5937923c
+2129,7,Having several bus stops before destination confirms there are many stations. Definite 'yes'.,20260824T093740Z_5937923c
+2130,1,Should not staple them means they are not allowed to staple. Definite 'no'.,20260824T093740Z_5937923c
+2131,1,Being very light means the luggage does not weigh much. Definite 'no'.,20260824T093740Z_5937923c
+2132,7,Getting up at 5 am confirms needing to wake up early. Definite 'yes'.,20260824T093740Z_5937923c
+2134,1,French being the native language means Spanish is not. Definite 'no'.,20260824T093740Z_5937923c
+2135,7,Not working confirms the remote is still unusable. Definite 'yes'.,20260824T093740Z_5937923c
+2136,7,Wolves being very common confirms there are wild animals in the region. Definite 'yes'.,20260824T093740Z_5937923c
+2137,1,Only having cacti means there are no trees in the garden. Definite 'no'.,20260824T093740Z_5937923c
+2138,7,Needing it for travelling confirms the passport is necessary. Definite 'yes'.,20260824T093740Z_5937923c
+2139,1,Having a sandwich means they did not bring pie. Definite 'no'.,20260824T093740Z_5937923c
+2140,7,Having to go out soon confirms the kids are about to leave. Definite 'yes'.,20260824T093740Z_5937923c
+2141,7,Being starving right now confirms being already hungry. Definite 'yes'.,20260824T093740Z_5937923c
+2144,7,Drinking tea all the time confirms often consuming hot drinks. Definite 'yes'.,20260824T093740Z_5937923c
+2145,7,Having too much light confirms the room is very bright. Definite 'yes'.,20260824T093740Z_5937923c
+2146,1,Being abroad on Friday means they will not stay in town till Friday. Definite 'no'.,20260824T093740Z_5937923c
+2147,7,Having a soup confirms they are eating something. Definite 'yes'.,20260824T093740Z_5937923c
+2148,7,Just starting to pour confirms it is already raining. Definite 'yes'.,20260824T093740Z_5937923c
+2149,1,Not drinking confirms they do not consume alcohol. Definite 'no'.,20260824T093740Z_5937923c
+2150,1,A dishwasher still being in the kitchen means not everything was taken away. Definite 'no'.,20260824T093740Z_5937923c
+2151,1,Giving away the racket means they no longer have tennis equipment. Definite 'no'.,20260824T093740Z_5937923c
+2152,1,Not eating spicy dishes means they do not consume all types of food. Definite 'no'.,20260824T093740Z_5937923c
+2153,7,Living right next to them confirms they are neighbours. Definite 'yes'.,20260824T093740Z_5937923c
+2155,1,Understanding everything now means they are no longer confused. Definite 'no'.,20260824T093740Z_5937923c
+2156,7,Chest hurting confirms feeling pain in the upper body. Definite 'yes'.,20260824T093740Z_5937923c
+2157,1,Being in the middle of summer means it is not winter. Definite 'no'.,20260824T093740Z_5937923c
+2159,7,Cutting a finger while cooking confirms getting hurt. Definite 'yes'.,20260824T093740Z_5937923c
+2160,7,Dust all over the floor confirms the living room is dirty. Definite 'yes'.,20260824T093740Z_5937923c
+2161,1,Having brought their own toothpaste means they did not leave it at home. Definite 'no'.,20260824T093740Z_5937923c
+2162,7,Lips being all chapped confirms they got damaged by the wind. Definite 'yes'.,20260824T093740Z_5937923c
+2163,1,Working early tomorrow morning means they are not doing the afternoon shift. Definite 'no'.,20260824T093740Z_5937923c
+2164,1,Planning to eat at a restaurant means not having dinner at home. Definite 'no'.,20260824T093740Z_5937923c
+2165,7,Having grown a lot recently confirms the hedges are taller than last time. Definite 'yes'.,20260824T093740Z_5937923c
+2166,7,Lunch being ready confirms they have finished cooking. Definite 'yes'.,20260824T093740Z_5937923c
+2167,7,The math exercise being very complicated confirms having difficult homework. Definite 'yes'.,20260824T093740Z_5937923c
+2168,1,Not being sure where to go means they have not decided on a destination. Definite 'no'.,20260824T093740Z_5937923c
+2169,4,"Smoking cigars only is ambiguous - cigars are not cigarettes, so technically 'no' to cigarettes, but they do smoke. The answer is somewhat ambiguous.",20260824T093740Z_5937923c
+2170,1,Usually typing on a laptop means they are not writing on paper. Definite 'no'.,20260824T093740Z_5937923c
+2171,7,The new stove not being delivered confirms the kitchen is still incomplete. Definite 'yes'.,20260824T093740Z_5937923c
+2172,7,Cars getting stolen regularly confirms car theft occurs often. Definite 'yes'.,20260824T093740Z_5937923c
+2173,1,Wardrobe being completely full means there is no room left. Definite 'no'.,20260824T093740Z_5937923c
+2174,7,Dirty laundry piling up confirms there is a lot of laundry to wash. Definite 'yes'.,20260824T093740Z_5937923c
+2175,7,Being able to have a relaxed breakfast confirms taking time for breakfast. Definite 'yes'.,20260824T093740Z_5937923c
+2201,7,Needing to revise topics suggests they would benefit from studying together. Definite 'yes'.,20260824T093740Z_5937923c
+2202,6,There being an interesting new movie strongly suggests they would want to go to the cinema. Very likely 'yes'.,20260824T093740Z_5937923c
+2203,7,Being quite chilly confirms the window should be closed. Definite 'yes'.,20260824T093740Z_5937923c
+2205,6,Having heard good things about the book suggests they would like to borrow it. Very likely 'yes'.,20260824T093740Z_5937923c
+2206,6,Pulling a muscle last time suggests they might want to skip class. Very likely 'yes'.,20260824T093740Z_5937923c
+2207,5,"Not finding their phone suggests they might want to use someone else's, but it's somewhat ambiguous. Somewhat likely 'yes'.",20260824T093740Z_5937923c
+2208,7,Minus 20 degrees definitely means a coat is needed. Definite 'yes'.,20260824T093740Z_5937923c
+2209,7,Being in a church strongly implies phones should be turned off. Definite 'yes'.,20260824T093740Z_5937923c
+2210,6,Training very hard suggests they would benefit from a protein shake. Very likely 'yes'.,20260824T093740Z_5937923c
+2213,7,Working on an exhausting task strongly suggests wanting a break. Definite 'yes'.,20260824T093740Z_5937923c
+2214,1,Not bringing a bikini means they cannot go to the lake for swimming. Definite 'no'.,20260824T093740Z_5937923c
+2215,1,Not having time means they are not coming to the talk. Definite 'no'.,20260824T093740Z_5937923c
+2216,4,"Having watched it last month is ambiguous - they might not want to watch it again so soon, but some people rewatch movies. Leaning toward 'no' but uncertain.",20260824T093740Z_5937923c
+2217,1,Being on a diet means they should not have dessert. Definite 'no'.,20260824T093740Z_5937923c
+2218,1,Being Muslim means they do not eat pork. Definite 'no'.,20260824T093740Z_5937923c
+2219,1,Head already spinning from beers means they should not have another. Definite 'no'.,20260824T093740Z_5937923c
+2220,1,Being very tired means they do not want to go out. Definite 'no'.,20260824T093740Z_5937923c
+2221,1,Being broke means they cannot afford a trip. Definite 'no'.,20260824T093740Z_5937923c
+2222,1,Having used one before means they don't need help. Definite 'no'.,20260824T093740Z_5937923c
+2223,3,11 p.m. is late but cinemas can still be open. Somewhat likely 'no' as it's quite late.,20260824T093740Z_5937923c
+2224,1,Having a hangover means they should not have more drinks. Definite 'no'.,20260824T093740Z_5937923c
+2225,2,"Being diabetic suggests they should avoid cake, making it likely 'no'.",20260824T093740Z_5937923c
+2227,1,Usually getting seasick means they would not join a sea cruise. Definite 'no'.,20260824T093740Z_5937923c
+2228,1,Toothache being gone means they don't need painkillers. Definite 'no'.,20260824T093740Z_5937923c
+2229,6,Having several bus stops before destination suggests they would benefit from a seat. Very likely 'yes'.,20260824T093740Z_5937923c
+2230,1,Should not staple them means they don't want the stapler. Definite 'no'.,20260824T093740Z_5937923c
+2231,1,Luggage being very light means they don't need help. Definite 'no'.,20260824T093740Z_5937923c
+2232,7,Getting up at 5 am confirms they need to set the alarm. Definite 'yes'.,20260824T093740Z_5937923c
+2234,1,French being their native language means they don't need spelling help. Definite 'no'.,20260824T093740Z_5937923c
+2235,7,The remote not working confirms batteries should be changed. Definite 'yes'.,20260824T093740Z_5937923c
+2236,7,Wolves being common confirms the cattle should be locked up. Definite 'yes'.,20260824T093740Z_5937923c
+2237,3,"Cacti don't need much water, so watering is less necessary but not entirely unnecessary. Somewhat likely 'no'.",20260824T093740Z_5937923c
+2238,7,Needing it for travelling confirms the passport should be packed. Definite 'yes'.,20260824T093740Z_5937923c
+2239,1,Already having a sandwich means they don't need food. Definite 'no'.,20260824T093740Z_5937923c
+2240,7,Having to go out soon confirms the kids should be woken up. Definite 'yes'.,20260824T093740Z_5937923c
+2241,7,Being starving means they would definitely accept biscuits. Definite 'yes'.,20260824T093740Z_5937923c
+2244,7,Drinking tea all the time confirms they would use the kettle. Definite 'yes'.,20260824T093740Z_5937923c
+2245,7,Having too much light confirms the dimmer should be turned down. Definite 'yes'.,20260824T093740Z_5937923c
+2246,1,Being abroad on Friday means they cannot come to the party. Definite 'no'.,20260824T093740Z_5937923c
+2247,7,Having a soup confirms they need a spoon. Definite 'yes'.,20260824T093740Z_5937923c
+2248,7,It just starting to pour confirms an umbrella is needed. Definite 'yes'.,20260824T093740Z_5937923c
+2249,1,Not drinking means they would not want wine. Definite 'no'.,20260824T093740Z_5937923c
+2250,4,"Having a dishwasher means the dishes can be done but by machine, not by hand. Ambiguous whether Person A should do them manually.",20260824T093740Z_5937923c
+2251,1,Having given away the racket means they cannot play tennis. Definite 'no'.,20260824T093740Z_5937923c
+2252,1,Not eating spicy dishes means they would not want Mexican food. Definite 'no'.,20260824T093740Z_5937923c
+2253,1,Living right next to them means they don't need a ride. Definite 'no'.,20260824T093740Z_5937923c
+2255,1,Understanding everything means they don't need another explanation. Definite 'no'.,20260824T093740Z_5937923c
+2256,7,Chest hurting a lot confirms a doctor should be called. Definite 'yes'.,20260824T093740Z_5937923c
+2257,1,Being in the middle of summer means an extra blanket is not needed. Definite 'no'.,20260824T093740Z_5937923c
+2259,7,Cutting a finger confirms a plaster is needed. Definite 'yes'.,20260824T093740Z_5937923c
+2260,7,Dust all over the floor confirms the living room needs sweeping. Definite 'yes'.,20260824T093740Z_5937923c
+2261,1,Having brought their own toothpaste means they don't need any. Definite 'no'.,20260824T093740Z_5937923c
+2262,7,Lips being all chapped confirms lip balm is needed. Definite 'yes'.,20260824T093740Z_5937923c
+2263,2,Working early tomorrow morning suggests they should not join for drinks tonight. Likely 'no'.,20260824T093740Z_5937923c
+2264,1,Planning to eat at a restaurant means they don't need cooking for. Definite 'no'.,20260824T093740Z_5937923c
+2265,7,Having grown a lot confirms the hedges need pruning. Definite 'yes'.,20260824T093740Z_5937923c
+2266,7,Lunch being ready confirms the table should be set. Definite 'yes'.,20260824T093740Z_5937923c
+2267,6,A very complicated math exercise suggests a calculator would be helpful. Very likely 'yes'.,20260824T093740Z_5937923c
+2268,1,Not being sure where to go means tickets cannot be bought yet. Definite 'no'.,20260824T093740Z_5937923c
+2269,3,"Smoking cigars only means they would likely decline a cigarette, but they do smoke. Somewhat likely 'no'.",20260824T093740Z_5937923c
+2270,1,Usually typing on a laptop means they don't need paper. Definite 'no'.,20260824T093740Z_5937923c
+2271,5,The stove not being delivered suggests they might want delivery food as an alternative. Somewhat likely 'yes'.,20260824T093740Z_5937923c
+2272,7,Cars being stolen regularly confirms locking the car is a good idea. Definite 'yes'.,20260824T093740Z_5937923c
+2273,1,Wardrobe being completely full means they don't need more clothes. Definite 'no'.,20260824T093740Z_5937923c
+2274,7,Dirty laundry piling up confirms the laundry needs to be done. Definite 'yes'.,20260824T093740Z_5937923c
+2275,5,"Being able to have a relaxed breakfast suggests they might enjoy pancakes, but it's not certain. Somewhat likely 'yes'.",20260824T093740Z_5937923c

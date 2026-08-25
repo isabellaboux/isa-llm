@@ -1,0 +1,145 @@
+id,score,rationale,run_id
+1101,5,"Person B says they have not seen Martin for ages, which directly supports the idea that they have not met him lately. That is a clear factual answer to the question.",20260821T125948Z_8dbb5082
+1102,6,"Person B responds “I am sending out an application,” which indicates they are actively doing something right now. That strongly matches the question about doing something at the moment.",20260821T125948Z_8dbb5082
+1103,6,"Person B states “I train with him at the gym,” directly answering whether they usually exercise with Lukas. This is a clear yes.",20260821T125948Z_8dbb5082
+1104,6,"Person B confirms “His grandfather passed away recently,” which is a death in his family. This directly answers yes.",20260821T125948Z_8dbb5082
+1105,6,"Person B says Paris is about 1000 Km away, indicating it is very far. That is a straightforward yes.",20260821T125948Z_8dbb5082
+1106,6,"Person B replies “It is a six hour drive,” meaning getting to Munich takes a long time. This supports yes.",20260821T125948Z_8dbb5082
+1107,5,"Person A asks if the journey is as planned; Person B says the train has some delay. That suggests things are not going as planned, so it leans toward no, but it’s not fully explicit beyond the delay.",20260821T125948Z_8dbb5082
+1108,3,"The question is whether they have finished their cereal; Person B says there is still some left. That implies not finished, so likely no.",20260821T125948Z_8dbb5082
+1109,2,Person A asks if the essay deadline is next week; Person B says it is not due for three months. That is clearly no.,20260821T125948Z_8dbb5082
+1110,7,"Person B says “The streets are always congested with cars,” which strongly supports that there is usually a lot of traffic. That is definitely yes.",20260821T125948Z_8dbb5082
+1111,7,"Person B answers “She is vegetarian,” which directly answers whether Megan eats meat (no). Interpreting the question as “Does Megan eat meat?” yields a definite no.",20260821T125948Z_8dbb5082
+1112,6,"Person B states “He has the flu,” directly answering whether John is sick today. That is very likely yes.",20260821T125948Z_8dbb5082
+1113,7,"Person B says “She runs for hours every day,” which directly confirms daily training. Definitely yes.",20260821T125948Z_8dbb5082
+1114,5,"Person A asks if Clara is still sleeping; Person B says she just woke up, implying she is not still sleeping. That leans toward no, but “just woke up” clearly indicates she was sleeping earlier. Interpreting as answering the yes/no question: likely no.",20260821T125948Z_8dbb5082
+1115,2,"Person B says the movie comes out next week, not today. That is clearly no.",20260821T125948Z_8dbb5082
+1116,6,"Person B says “I have used one before,” which confirms they have worked with a drill at least once. That is very likely yes.",20260821T125948Z_8dbb5082
+1117,2,"Person A asks if the party is tomorrow; Person B says “I am celebrating tonight.” That contradicts tomorrow, so likely no.",20260821T125948Z_8dbb5082
+1118,5,"Person B says they are moving out tomorrow, which suggests leaving soon. That supports yes, though it’s specifically tomorrow rather than immediate.",20260821T125948Z_8dbb5082
+1119,3,"Person A asks if he is a slacker; Person B says he was always falling behind, which is consistent with being a slacker but not explicitly saying so. Somewhat likely yes vs no; this leans no-to-unclear. Slightly toward somewhat likely no/uncertain: score 3.",20260821T125948Z_8dbb5082
+1120,6,"Person B says the region is famous for surfing, indicating popularity for something. That strongly supports yes.",20260821T125948Z_8dbb5082
+1121,2,Person A asks if the sea is calm; Person B says it is quite rough. That is clearly no.,20260821T125948Z_8dbb5082
+1122,2,"Person B says their job is at an NGO, not a corporate company. So the answer to “Do you work for a corporate company?” is no.",20260821T125948Z_8dbb5082
+1123,6,"Person B says he has authored many successful books, which clearly means he is a writer. Very likely yes.",20260821T125948Z_8dbb5082
+1124,2,"Person B says “I am still analyzing it,” meaning they are not finished working on the data. So the answer to “Are you finished…?” is no.",20260821T125948Z_8dbb5082
+1125,6,"Person A asks if many pandas are left; Person B says they are an endangered species, implying few remain. That indicates yes to the “many left” being false; but as asked, it’s “Are there many pandas left?” The provided answer suggests not many, so likely no. However the content answers indirectly: “They are endangered species” implies not many left, so score should be no. Score 2.",20260821T125948Z_8dbb5082
+1126,6,"Person B says “I have enrolled at the gym,” confirming joining a fitness studio. Very likely yes.",20260821T125948Z_8dbb5082
+1127,2,Person B says their thesis is not complete yet. So “finished” is no.,20260821T125948Z_8dbb5082
+1128,6,"Person B says “My hair was way too long,” supporting that they used to have long hair. Yes.",20260821T125948Z_8dbb5082
+1129,2,Person A asks if they went to Japan for vacation; Person B says it was a business trip. That is no.,20260821T125948Z_8dbb5082
+1130,2,"Person B says they need a larger one, so a one-room flat is not enough. That’s clearly no.",20260821T125948Z_8dbb5082
+1131,6,"Person B says the deadline is tomorrow, which answers whether she has to hand in soon. Very likely yes.",20260821T125948Z_8dbb5082
+1132,6,"Person B says they slept only four hours, meaning they had a short night. Very likely yes.",20260821T125948Z_8dbb5082
+1133,2,"Person B says the offer had already expired, meaning it was not still discounted. That’s no.",20260821T125948Z_8dbb5082
+1134,6,"Person B says “It got wounded,” directly confirming the cat is hurt. Yes.",20260821T125948Z_8dbb5082
+1135,2,Person A asks if everyone is here; Person B says Mark is still missing. That implies no.,20260821T125948Z_8dbb5082
+1137,6,"Person B says “I am Chinese,” which answers whether they come from Asia. Very likely yes.",20260821T125948Z_8dbb5082
+1138,5,"Person A asks if they hung up; Person B says “The line went dead,” which suggests the call disconnected, effectively like hanging up. Likely yes.",20260821T125948Z_8dbb5082
+1139,3,"Person A asks if someone is taking care of their house; Person B says they have domestics. That implies someone is taking care (staff/maids), so answer is likely yes, though “domestics” could be more indirect. Slightly toward yes: score 5? But since it’s indirect, choose 3 uncertain/lean no. I'll set 5? Actually it supports care. Choose 5.",20260821T125948Z_8dbb5082
+1140,6,"Person B says “They have just opened,” indicating the bar has not been here for long. That’s yes to being recently opened.",20260821T125948Z_8dbb5082
+1141,5,"Person B says the house is full of history books, indicating he owns many books. Likely yes.",20260821T125948Z_8dbb5082
+1143,5,"Person B says “We have only few guests over,” answering whether there is a small gathering. That supports yes.",20260821T125948Z_8dbb5082
+1144,2,"Person B says they only have one week off work, not two weeks. So no.",20260821T125948Z_8dbb5082
+1145,6,"Person B says “I am going to have a baby,” which means pregnant. Very likely yes.",20260821T125948Z_8dbb5082
+1147,2,"Person B says they still owe the bank money, meaning they have not paid back debts. No.",20260821T125948Z_8dbb5082
+1148,2,Person A asks if he drank a cocktail; Person B says he only had water. Clearly no.,20260821T125948Z_8dbb5082
+1149,2,"Person A asks about a vegetable garden; Person B says they own an orchard. That does not confirm a vegetable garden, so no.",20260821T125948Z_8dbb5082
+1150,2,"Person B says the son is 25 years old, meaning not underage. So no.",20260821T125948Z_8dbb5082
+1151,2,"Person B says their tuition fee is extremely expensive, meaning Harvard is not affordable. So no.",20260821T125948Z_8dbb5082
+1152,6,"Person B says she made a bank transfer moments ago, which indicates payment has occurred. Yes.",20260821T125948Z_8dbb5082
+1153,2,Person B says they cannot swim yet. Therefore the answer to whether the kids are good at swimming is no.,20260821T125948Z_8dbb5082
+1154,2,"Person B says “I am healthy again,” meaning no longer have a cold. So the answer is no.",20260821T125948Z_8dbb5082
+1155,6,"Person B says people are not allowed to get closer, meaning it is forbidden to approach. Yes.",20260821T125948Z_8dbb5082
+1156,6,"Person B says they have watered the plants regularly, which means someone has taken care of the plants. Yes.",20260821T125948Z_8dbb5082
+1157,2,"Person B says “He was already dead by then,” so he was not alive in the 80s. No.",20260821T125948Z_8dbb5082
+1158,7,"Person B says the ice layer is quite thick, supporting that the lake is frozen. Definitely yes.",20260821T125948Z_8dbb5082
+1159,2,Person A asks about attending beginners’ class; Person B says they are in the advanced course. That is no.,20260821T125948Z_8dbb5082
+1160,6,"Person B says they have seen a doctor, which answers whether they sought medical advice. Yes.",20260821T125948Z_8dbb5082
+1161,2,"Person B says they went out with friends, so they did not stay home. No.",20260821T125948Z_8dbb5082
+1162,6,"Person B says they voted yesterday, indicating an election occurred recently. Yes.",20260821T125948Z_8dbb5082
+1163,7,"Person B says “It is spotless,” meaning completely clean. Definitely yes.",20260821T125948Z_8dbb5082
+1164,2,"Person B says they submitted a blank sheet, meaning they did not answer all questions. No.",20260821T125948Z_8dbb5082
+1165,2,"Person B says she just got into the changing room, so she is not out on the tennis field yet. So no.",20260821T125948Z_8dbb5082
+1166,6,"Person B says he was compensated, indicating he got the money back. Yes.",20260821T125948Z_8dbb5082
+1167,2,"Person B says no one has responded, so no one has answered the house sale ad. No.",20260821T125948Z_8dbb5082
+1168,2,"Person B says he does not play any instrument, contradicting being a musician. No.",20260821T125948Z_8dbb5082
+1169,5,"Person B says he has been in Japan for several months, which answers whether he has travelled in Asia (Japan is in Asia). Likely yes.",20260821T125948Z_8dbb5082
+1170,5,Person A asks if the goal is the summit; Person B says aiming for the mountain top. That is effectively yes.,20260821T125948Z_8dbb5082
+1171,6,Person B says the customer received the package. That is yes.,20260821T125948Z_8dbb5082
+1173,2,"Person B says she skipped the last four lessons, so she did not attend the whole course. No.",20260821T125948Z_8dbb5082
+1174,6,"Person B says resolution is really poor, indicating a bad image. Yes.",20260821T125948Z_8dbb5082
+1175,6,"Person B says she graduated from medical school last year, meaning completed medical studies. Yes.",20260821T125948Z_8dbb5082
+1176,2,"Person B says it is a private property, not a public building. No.",20260821T125948Z_8dbb5082
+1201,2,"Person A asks if they are still good friends; Person B says they have not seen him for ages, which suggests they may not be close. That leans no.",20260821T125948Z_8dbb5082
+1202,6,"Person B says they are sending out an application, indicating actively looking for a job. Yes.",20260821T125948Z_8dbb5082
+1203,6,Training with Lukas at the gym confirms they know him. Yes.,20260821T125948Z_8dbb5082
+1204,2,"Person A asks if it is his property now; Person B talks about his grandfather passing away recently, which does not answer the property question. Irrelevant/unclear, but likely no.",20260821T125948Z_8dbb5082
+1205,6,"It is about 1000 km away, so driving to Paris takes long. Yes.",20260821T125948Z_8dbb5082
+1206,6,Six hour drive to Munich implies it is far. Yes.,20260821T125948Z_8dbb5082
+1207,5,"Person A asks if they will be home by noon; Person B says the train has some delay, which suggests they may not make it by noon. That leans toward no.",20260821T125948Z_8dbb5082
+1208,2,"Buying cereal vs having some left are inconsistent; Person B says there is still some left, which implies they may already have cereal rather than have bought it. Likely no to having bought.",20260821T125948Z_8dbb5082
+1209,2,"Person B says not due for three months, so not started/needed next week. Interpreting “started writing” vs “not due”: it doesn’t confirm started. But it suggests deadline far away, not that they started. Slightly ambiguous; overall likely no.",20260821T125948Z_8dbb5082
+1210,6,Congested streets suggest they will be late to the cinema. Yes.,20260821T125948Z_8dbb5082
+1211,2,"Person B says she is vegetarian, so she does not eat meat. No.",20260821T125948Z_8dbb5082
+1212,6,"He has the flu, so staying home due to being sick is yes. Very likely yes.",20260821T125948Z_8dbb5082
+1213,6,"She runs for hours every day; indicates she is registered and likely participating. However it doesn’t explicitly say registered, but strongly implies marathon running. Likely yes.",20260821T125948Z_8dbb5082
+1214,2,"She just woke up, so not already eaten breakfast. No to having breakfast already.",20260821T125948Z_8dbb5082
+1215,2,"Movie comes out next week, so not seen/released today. No.",20260821T125948Z_8dbb5082
+1216,6,Used a drill before indicates they know how. Yes.,20260821T125948Z_8dbb5082
+1217,2,"Person B says “I am celebrating tonight,” which could imply passing, not failing. So likely no.",20260821T125948Z_8dbb5082
+1218,2,"Moving out tomorrow is about leaving, not explicitly breaking up. Somewhat unrelated; but it contradicts break-up context. Likely no.",20260821T125948Z_8dbb5082
+1219,3,"Falling behind suggests being a slacker, but not explicit “slacker.” Somewhat likely yes; score 5 would fit better, but ambiguity makes it lower. Use 5? I'll set 5.",20260821T125948Z_8dbb5082
+1220,6,Region famous for surfing implies big waves here. Yes to big waves.,20260821T125948Z_8dbb5082
+1221,2,"Sea is quite rough, so not safe to swim. No.",20260821T125948Z_8dbb5082
+1222,2,"Job at an NGO, not corporate company. No.",20260821T125948Z_8dbb5082
+1223,6,Authored many successful books means he is a writer. Yes.,20260821T125948Z_8dbb5082
+1224,2,Still analyzing data means not finished presenting. No.,20260821T125948Z_8dbb5082
+1225,2,"They are an endangered species, implying it is not legal to hunt them. So answer to “Is it legal?” is no.",20260821T125948Z_8dbb5082
+1226,2,Enrolled at the gym does not answer whether they lost weight. Likely no/uncertain. Score 3 would be ambiguous; choose 3.,20260821T125948Z_8dbb5082
+1227,2,Thesis not complete yet means not graduated. No.,20260821T125948Z_8dbb5082
+1228,6,Hair was way too long implies it was cut. Yes.,20260821T125948Z_8dbb5082
+1229,2,"It was a business trip, which suggests little sightseeing. No.",20260821T125948Z_8dbb5082
+1230,2,Need a larger one means a one-room flat is not enough; thus no.,20260821T125948Z_8dbb5082
+1231,6,Deadline tomorrow suggests she is stressed about the project. Yes.,20260821T125948Z_8dbb5082
+1232,6,Sleeping only four hours means short night/tired. Yes to being tired.,20260821T125948Z_8dbb5082
+1233,2,Offer expired means flight not still discounted. No.,20260821T125948Z_8dbb5082
+1234,6,Cat got wounded: yes it’s hurt.,20260821T125948Z_8dbb5082
+1235,2,Mark still missing means not all ready to go. No.,20260821T125948Z_8dbb5082
+1237,5,Saying “I am Chinese” answers question about Cantonese—likely implies Chinese background but does not explicitly state ability to cook Cantonese rice. Somewhat likely yes.,20260821T125948Z_8dbb5082
+1238,2,Line went dead does not address whether they told him about the issue. Irrelevant/uncertain; treat as no.,20260821T125948Z_8dbb5082
+1239,2,"They have domestics (help at home) could mean house is tidy, but not explicitly. Answer doesn’t directly confirm tidiness. Likely no/uncertain; choose 3? Use 3.",20260821T125948Z_8dbb5082
+1240,6,"Just opened means tried that bar and it has opened recently; indicates it exists now. Interpreting “Have you tried that bar yet?”: response about opening is irrelevant. Still, “just opened” doesn’t confirm trying. Likely no/uncertain. Score 3.",20260821T125948Z_8dbb5082
+1241,6,History books suggest passion for history. Yes.,20260821T125948Z_8dbb5082
+1243,2,Question about saucepan big enough; response about dinner guests is irrelevant. No/uncertain; choose 1? Better 4 uncertain. Use 4.,20260821T125948Z_8dbb5082
+1244,2,"Only one week off work, not two-week trip. No.",20260821T125948Z_8dbb5082
+1245,2,Going to have a baby is unrelated to avoiding alcohol. Likely no to avoiding drinking.,20260821T125948Z_8dbb5082
+1247,2,Still owe the bank money means debts not repaid. No.,20260821T125948Z_8dbb5082
+1248,2,Only had water indicates not drunk. No.,20260821T125948Z_8dbb5082
+1249,2,Own an orchard does not necessarily mean buying fruit in supermarket. Likely no.,20260821T125948Z_8dbb5082
+1250,2,"Son is 25, so not underage. No.",20260821T125948Z_8dbb5082
+1251,2,Tuition extremely expensive implies not affordable. No.,20260821T125948Z_8dbb5082
+1252,6,Made a bank transfer means she has paid us. Yes.,20260821T125948Z_8dbb5082
+1253,2,Cannot swim yet means not good at swimming. No.,20260821T125948Z_8dbb5082
+1254,2,Healthy again means not still taking pills/cold. So no.,20260821T125948Z_8dbb5082
+1255,6,Not allowed to get closer implies area contaminated/unsafe. Yes.,20260821T125948Z_8dbb5082
+1256,6,Regularly watered plants implies they are still alive. Yes.,20260821T125948Z_8dbb5082
+1257,2,Already dead by then means not alive in 1981. No.,20260821T125948Z_8dbb5082
+1258,6,Ice layer is quite thick indicates ice skating season/conditions. Yes.,20260821T125948Z_8dbb5082
+1259,2,Advanced course means not a beginner. No.,20260821T125948Z_8dbb5082
+1260,6,Seen a doctor means has been sick. Yes.,20260821T125948Z_8dbb5082
+1261,2,Went out with friends means didn’t stay home early bedtime. No to going to bed early.,20260821T125948Z_8dbb5082
+1262,6,They voted yesterday implies members can elect a representative. Yes.,20260821T125948Z_8dbb5082
+1263,7,Spotless indicates completely clean; answering whether car is back from car wash: yes.,20260821T125948Z_8dbb5082
+1264,2,Submitted a blank sheet means they did not write a good exam. No.,20260821T125948Z_8dbb5082
+1265,2,Changing room means not out on field yet. No.,20260821T125948Z_8dbb5082
+1266,6,Compensated suggests lawsuit settled with payment. Yes.,20260821T125948Z_8dbb5082
+1267,2,No one has responded indicates the house has not been sold. No.,20260821T125948Z_8dbb5082
+1268,2,Does not play any instrument suggests not part of marching band. No.,20260821T125948Z_8dbb5082
+1269,6,Being in Japan for months indicates travel in Asia. Yes.,20260821T125948Z_8dbb5082
+1270,5,Aiming for the mountain top aligns with going uphill toward summit. Somewhat likely yes.,20260821T125948Z_8dbb5082
+1271,6,Customer received it indicates package shipped and delivered. Yes.,20260821T125948Z_8dbb5082
+1273,2,Skipped last four lessons means not attending whole course. No.,20260821T125948Z_8dbb5082
+1274,6,Poor monitor resolution corresponds to strained eyes/bad image. Yes.,20260821T125948Z_8dbb5082
+1275,6,Graduated from medical school last year indicates she is a medical doctor. Yes.,20260821T125948Z_8dbb5082
+1276,2,"It is a private property, not necessarily public; thus not inside building (public). Interpreting question literally: “Have you ever been inside that building?” response doesn’t confirm being inside; it’s unclear, but suggests no. Likely no/uncertain; choose 4? I'll choose 4.",20260821T125948Z_8dbb5082

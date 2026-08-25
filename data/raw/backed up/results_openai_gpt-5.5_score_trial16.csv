@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Person B says they have not seen Martin for ages, which directly rules out having met him lately.",20260821T125948Z_8dbb5082
+1102,7,"Sending out an application is an activity happening right now, so this answers yes.",20260821T125948Z_8dbb5082
+1103,6,"Training with Lukas at the gym strongly suggests Person B usually exercises with him, though 'usually' is not stated explicitly.",20260821T125948Z_8dbb5082
+1104,7,"A grandfather passing away is a death in the family, so this is a definite yes.",20260821T125948Z_8dbb5082
+1105,7,A distance of about 1000 km is very far in ordinary terms.,20260821T125948Z_8dbb5082
+1106,6,"A six-hour drive strongly suggests it takes a long time, though 'long' is somewhat subjective.",20260821T125948Z_8dbb5082
+1107,2,A train delay indicates the journey is probably not going as planned.,20260821T125948Z_8dbb5082
+1108,1,"If there is still some cereal left, they have not finished it.",20260821T125948Z_8dbb5082
+1109,1,"If the essay is not due for three months, the deadline is not next week.",20260821T125948Z_8dbb5082
+1110,7,Streets always congested with cars directly indicates there is usually a lot of traffic.,20260821T125948Z_8dbb5082
+1111,1,Being vegetarian means Megan does not eat meat.,20260821T125948Z_8dbb5082
+1112,7,Having the flu means John is sick today.,20260821T125948Z_8dbb5082
+1113,7,Running for hours every day directly indicates daily training.,20260821T125948Z_8dbb5082
+1114,1,"If Clara just woke up, she is no longer sleeping.",20260821T125948Z_8dbb5082
+1115,1,"If the movie comes out next week, it is not being released today.",20260821T125948Z_8dbb5082
+1116,7,Having used a drill before means Person B has worked with one before.,20260821T125948Z_8dbb5082
+1117,1,Celebrating tonight means the birthday party is not taking place tomorrow.,20260821T125948Z_8dbb5082
+1118,7,Moving out tomorrow clearly means leaving the flat soon.,20260821T125948Z_8dbb5082
+1119,5,"Always falling behind suggests slacker-like behavior, but it is still an evaluative judgment rather than a direct answer.",20260821T125948Z_8dbb5082
+1120,7,Being famous for surfing means the area is popular for something.,20260821T125948Z_8dbb5082
+1121,1,A rough sea is the opposite of a calm sea.,20260821T125948Z_8dbb5082
+1122,1,"An NGO is not a corporate company, so the answer is no.",20260821T125948Z_8dbb5082
+1123,7,Having authored many successful books clearly indicates he is a writer.,20260821T125948Z_8dbb5082
+1124,1,Still analyzing the data means Person B is not finished working on it.,20260821T125948Z_8dbb5082
+1125,2,"Being endangered strongly suggests there are not many pandas left, though it does not give an exact number.",20260821T125948Z_8dbb5082
+1126,7,Enrolling at the gym is equivalent to joining a fitness studio.,20260821T125948Z_8dbb5082
+1127,1,Saying the thesis is not complete yet directly means it is not finished.,20260821T125948Z_8dbb5082
+1128,7,Saying the hair was way too long confirms Person B used to have long hair.,20260821T125948Z_8dbb5082
+1129,1,"Person B says the Japan trip was for business, not vacation.",20260821T125948Z_8dbb5082
+1130,1,Needing a larger flat means a one-room flat is not enough.,20260821T125948Z_8dbb5082
+1131,7,A deadline tomorrow means she has to hand it in soon.,20260821T125948Z_8dbb5082
+1132,7,Sleeping only four hours clearly means Person B had a short night.,20260821T125948Z_8dbb5082
+1133,1,"If the offer had expired, the flight was no longer discounted.",20260821T125948Z_8dbb5082
+1134,7,A wounded cat is hurt.,20260821T125948Z_8dbb5082
+1135,1,"If Mark is still missing, not everyone is here.",20260821T125948Z_8dbb5082
+1137,7,Being Chinese means Person B comes from Asia.,20260821T125948Z_8dbb5082
+1138,2,"The line going dead suggests the call ended, but it implies Person B probably did not deliberately hang up.",20260821T125948Z_8dbb5082
+1139,6,Having domestics strongly suggests someone takes care of their house.,20260821T125948Z_8dbb5082
+1140,1,"If the bar has just opened, it has not been there for long.",20260821T125948Z_8dbb5082
+1141,7,A house full of history books clearly indicates he owns many books.,20260821T125948Z_8dbb5082
+1143,7,Only a few guests over for dinner indicates a small gathering.,20260821T125948Z_8dbb5082
+1144,1,Having only one week off means Person B does not have two weeks of holiday.,20260821T125948Z_8dbb5082
+1145,7,Going to have a baby directly indicates pregnancy.,20260821T125948Z_8dbb5082
+1147,1,Still owing the bank money means the debts have not been fully paid back.,20260821T125948Z_8dbb5082
+1148,1,"If he only had water, he did not drink a cocktail.",20260821T125948Z_8dbb5082
+1149,2,"An orchard is for fruit trees, not a vegetable garden, so this is likely no.",20260821T125948Z_8dbb5082
+1150,1,A 25-year-old son is not underage.,20260821T125948Z_8dbb5082
+1151,1,Extremely expensive tuition strongly indicates Harvard is not affordable.,20260821T125948Z_8dbb5082
+1152,7,Making a bank transfer moments ago means she has paid.,20260821T125948Z_8dbb5082
+1153,1,"If the kids cannot swim yet, they are not good at swimming.",20260821T125948Z_8dbb5082
+1154,1,Being healthy again means Person B no longer has a cold.,20260821T125948Z_8dbb5082
+1155,7,People not being allowed to get closer means approaching the area is forbidden.,20260821T125948Z_8dbb5082
+1156,7,Watering the plants regularly means someone took care of them.,20260821T125948Z_8dbb5082
+1157,1,"If the artist was already dead in the 80s, he was not alive then.",20260821T125948Z_8dbb5082
+1158,7,A thick ice layer means the lake is frozen.,20260821T125948Z_8dbb5082
+1159,1,Being in the advanced course means Person B is not attending the beginners' class.,20260821T125948Z_8dbb5082
+1160,7,Seeing a doctor is seeking medical advice.,20260821T125948Z_8dbb5082
+1161,1,Going out with friends means Person B did not stay home.,20260821T125948Z_8dbb5082
+1162,7,Voting yesterday indicates there was an election recently.,20260821T125948Z_8dbb5082
+1163,7,Spotless means completely clean.,20260821T125948Z_8dbb5082
+1164,1,Submitting a blank sheet means they did not answer all questions.,20260821T125948Z_8dbb5082
+1165,2,Having just entered the changing room suggests she is not out on the tennis field.,20260821T125948Z_8dbb5082
+1166,7,Being compensated means he got the money back or was repaid.,20260821T125948Z_8dbb5082
+1167,1,No one responding means no one answered the house sale ad.,20260821T125948Z_8dbb5082
+1168,2,"Not playing any instrument makes it very unlikely he is a musician, though singers can be musicians too.",20260821T125948Z_8dbb5082
+1169,7,"Japan is in Asia, so spending months there means he has traveled in Asia.",20260821T125948Z_8dbb5082
+1170,7,Aiming for the mountain top means the goal is the summit.,20260821T125948Z_8dbb5082
+1171,7,"If the customer received the package, they got it.",20260821T125948Z_8dbb5082
+1173,1,Skipping the last four lessons means she did not attend the whole course.,20260821T125948Z_8dbb5082
+1174,7,A really poor monitor resolution means the screen has a bad image.,20260821T125948Z_8dbb5082
+1175,7,Graduating from medical school means she completed her medical studies.,20260821T125948Z_8dbb5082
+1176,1,Private property is not a public building.,20260821T125948Z_8dbb5082
+1201,3,"Not seeing Martin for ages suggests they may no longer be good friends, but friendships can persist without recent contact.",20260821T125948Z_8dbb5082
+1202,6,"Sending out an application strongly suggests Person B is looking for a job, though the application type is not specified.",20260821T125948Z_8dbb5082
+1203,7,Training with Lukas at the gym means Person B knows him.,20260821T125948Z_8dbb5082
+1204,4,"The grandfather's recent death could relate to inheritance, but it does not establish that the property is his now.",20260821T125948Z_8dbb5082
+1205,7,A 1000 km distance clearly implies it takes long to drive to Paris.,20260821T125948Z_8dbb5082
+1206,6,"A six-hour drive strongly implies Munich is far away, though distance is subjective.",20260821T125948Z_8dbb5082
+1207,3,"A train delay suggests Person B may not be home by noon, but the answer does not make that certain.",20260821T125948Z_8dbb5082
+1208,3,"Saying there is still cereal left suggests Person B may not have bought more, but it does not directly answer whether they bought any.",20260821T125948Z_8dbb5082
+1209,3,"Not being due for three months suggests Person B may not have started yet, but it is not explicit.",20260821T125948Z_8dbb5082
+1210,5,"Congested streets make being late plausible, but whether they will be late depends on timing and distance.",20260821T125948Z_8dbb5082
+1211,3,"Megan being vegetarian makes attending a steak house less likely, but she could still come.",20260821T125948Z_8dbb5082
+1212,6,Having the flu strongly suggests John is staying home.,20260821T125948Z_8dbb5082
+1213,4,"Running for hours daily shows fitness, but it does not say whether Sonya registered for the marathon.",20260821T125948Z_8dbb5082
+1214,2,"If Clara just woke up, she probably has not had breakfast yet.",20260821T125948Z_8dbb5082
+1215,1,"If the movie comes out next week, Person B could not have seen it already in normal circumstances.",20260821T125948Z_8dbb5082
+1216,6,Having used a drill before strongly suggests Person B knows how to use one.,20260821T125948Z_8dbb5082
+1217,2,"Celebrating tonight suggests Person B probably did not fail the exam, though it is not direct.",20260821T125948Z_8dbb5082
+1218,5,"Moving out tomorrow could indicate a breakup, but it could also happen for other reasons.",20260821T125948Z_8dbb5082
+1219,5,"Always falling behind gives a plausible reason he may have been fired, but it does not confirm it.",20260821T125948Z_8dbb5082
+1220,6,"A region famous for surfing likely has big waves, though this is an inference.",20260821T125948Z_8dbb5082
+1221,2,A rough sea suggests it is probably not safe to swim.,20260821T125948Z_8dbb5082
+1222,3,"Working at an NGO may imply not making a lot of money, but it is not guaranteed.",20260821T125948Z_8dbb5082
+1223,6,Authoring many successful books strongly suggests he is famous.,20260821T125948Z_8dbb5082
+1224,2,Still analyzing the data suggests Person B probably did not present it yet.,20260821T125948Z_8dbb5082
+1225,2,"Because pandas are endangered, hunting them is very likely not legal, though the law is not stated explicitly.",20260821T125948Z_8dbb5082
+1226,4,"Joining a gym may be related to weight loss, but it does not indicate that weight has already been lost.",20260821T125948Z_8dbb5082
+1227,1,"An incomplete thesis means Person B has not graduated yet, assuming it is required.",20260821T125948Z_8dbb5082
+1228,6,Saying the hair was way too long strongly implies Person B got it cut.,20260821T125948Z_8dbb5082
+1229,3,"A business trip makes sightseeing less likely, but it does not rule it out.",20260821T125948Z_8dbb5082
+1230,2,Needing a larger flat suggests Person B did not buy the one-room flat.,20260821T125948Z_8dbb5082
+1231,6,A deadline tomorrow strongly suggests she is stressed about the project.,20260821T125948Z_8dbb5082
+1232,6,Sleeping only four hours strongly suggests Person B is tired.,20260821T125948Z_8dbb5082
+1233,4,"The expired offer may imply he did not book, but he could have booked before it expired.",20260821T125948Z_8dbb5082
+1234,5,"The cat being wounded gives a reason to take it to the vet, but does not directly say Person B is bringing it.",20260821T125948Z_8dbb5082
+1235,2,"If Mark is still missing, the group is probably not ready to go.",20260821T125948Z_8dbb5082
+1237,4,Being Chinese does not establish the ability to cook Cantonese rice.,20260821T125948Z_8dbb5082
+1238,2,The line going dead suggests Person B probably did not manage to tell him.,20260821T125948Z_8dbb5082
+1239,6,Having domestic staff strongly suggests the house is kept tidy.,20260821T125948Z_8dbb5082
+1240,4,The bar having just opened does not indicate whether Person B has tried it yet.,20260821T125948Z_8dbb5082
+1241,6,A house full of history books strongly suggests a passion for history.,20260821T125948Z_8dbb5082
+1243,5,"Having only a few guests suggests the saucepan may be big enough, but the answer does not mention its size.",20260821T125948Z_8dbb5082
+1244,1,Only having one week off means Person B cannot take a two-week trip.,20260821T125948Z_8dbb5082
+1245,6,Being pregnant strongly suggests Person B is avoiding alcohol.,20260821T125948Z_8dbb5082
+1247,4,"Still owing the bank money indicates debt, but not whether Person B got a new loan.",20260821T125948Z_8dbb5082
+1248,1,"If he only had water, he is not drunk from alcohol.",20260821T125948Z_8dbb5082
+1249,3,"Owning an orchard may reduce the need to buy fruit at the supermarket, but it does not rule it out.",20260821T125948Z_8dbb5082
+1250,1,A 25-year-old is not at elementary-school age.,20260821T125948Z_8dbb5082
+1251,3,"Extremely expensive tuition suggests Harvard may not be an option, but financial aid or other resources could change that.",20260821T125948Z_8dbb5082
+1252,6,Making a bank transfer strongly suggests she accepted the deal.,20260821T125948Z_8dbb5082
+1253,3,"If the kids cannot swim, they probably did not go to the swimming pool, but they still could have gone.",20260821T125948Z_8dbb5082
+1254,2,Being healthy again suggests Person B is probably no longer taking the pills.,20260821T125948Z_8dbb5082
+1255,5,"People not being allowed closer suggests the area may be contaminated or dangerous, but contamination is not specified.",20260821T125948Z_8dbb5082
+1256,6,Watering the plants regularly strongly suggests they are still alive.,20260821T125948Z_8dbb5082
+1257,1,"If the artist was already dead by 1981, he could not have created the artwork then.",20260821T125948Z_8dbb5082
+1258,6,A thick ice layer strongly suggests conditions suitable for ice skating season.,20260821T125948Z_8dbb5082
+1259,1,Being in the advanced course means Person B is not a beginner.,20260821T125948Z_8dbb5082
+1260,6,"Seeing a doctor strongly suggests Person B has been sick, though it could be for another reason.",20260821T125948Z_8dbb5082
+1261,2,Going out with friends makes it unlikely Person B went to bed early.,20260821T125948Z_8dbb5082
+1262,6,"If the members voted yesterday, they can elect a representative or at least participate in elections.",20260821T125948Z_8dbb5082
+1263,5,"A spotless car suggests it may be back from the car wash, but it could be clean for another reason.",20260821T125948Z_8dbb5082
+1264,1,Submitting a blank sheet means they did not write a good exam.,20260821T125948Z_8dbb5082
+1265,2,Having just entered the changing room suggests she is not dressed for the tennis game yet.,20260821T125948Z_8dbb5082
+1266,6,Being compensated strongly suggests the lawsuit was settled or resolved.,20260821T125948Z_8dbb5082
+1267,1,"If no one has responded to the house sale ad, the house has not been sold.",20260821T125948Z_8dbb5082
+1268,2,"Not playing any instrument makes membership in a marching band unlikely, though not impossible.",20260821T125948Z_8dbb5082
+1269,5,"Spending several months in Japan makes it plausible he has tried sushi, but it is not certain.",20260821T125948Z_8dbb5082
+1270,5,"Aiming for the mountain top suggests much of the way goes uphill, but not necessarily the whole way.",20260821T125948Z_8dbb5082
+1271,7,"If the customer received the package, it must have been shipped to them.",20260821T125948Z_8dbb5082
+1273,2,Skipping the last four lessons suggests she is not very dedicated to the course.,20260821T125948Z_8dbb5082
+1274,5,"Poor monitor resolution could strain the eyes, but Person B does not directly say their eyes get strained.",20260821T125948Z_8dbb5082
+1275,6,"Graduating from medical school strongly suggests she is a medical doctor, though licensing is not specified.",20260821T125948Z_8dbb5082
+1276,3,"Being private property makes it less likely Person B has been inside, but it does not rule it out.",20260821T125948Z_8dbb5082
+2101,7,Needing to revise topics directly indicates Person B has to study for the test.,20260821T125948Z_8dbb5082
+2102,7,An interesting new movie means something has come out in cinemas recently.,20260821T125948Z_8dbb5082
+2103,7,Quite chilly means it is cold.,20260821T125948Z_8dbb5082
+2105,6,Having heard good things about the book means Person B knows something about the novel.,20260821T125948Z_8dbb5082
+2106,7,Pulling a muscle at yoga class is an injury.,20260821T125948Z_8dbb5082
+2107,6,"Not being able to find the phone strongly suggests it is lost, though it may just be misplaced.",20260821T125948Z_8dbb5082
+2108,7,Minus 20 degrees is clearly cold.,20260821T125948Z_8dbb5082
+2109,7,A church is a religious building.,20260821T125948Z_8dbb5082
+2110,6,"Training very hard strongly suggests the workouts are difficult, though 'usually' is not directly stated.",20260821T125948Z_8dbb5082
+2113,7,Having been working on a task today means Person B was working.,20260821T125948Z_8dbb5082
+2114,2,"Not bringing a bikini suggests Person B probably does not have swimming gear, though they might have other gear.",20260821T125948Z_8dbb5082
+2115,1,Not having time directly means Person B is not free.,20260821T125948Z_8dbb5082
+2116,1,Watching it last month means Person B did not watch it yesterday.,20260821T125948Z_8dbb5082
+2117,2,Being on a diet suggests Person B is probably not eating more than usual.,20260821T125948Z_8dbb5082
+2118,1,Being Muslim means Person B does not practise Hinduism.,20260821T125948Z_8dbb5082
+2119,1,A spinning head after many beers means Person B is not feeling okay.,20260821T125948Z_8dbb5082
+2120,1,Being very tired is the opposite of feeling energetic.,20260821T125948Z_8dbb5082
+2121,1,Being broke means Person B does not have money saved up.,20260821T125948Z_8dbb5082
+2122,1,Having used a chain saw before means it is not Person B's first experience.,20260821T125948Z_8dbb5082
+2123,1,"11 p.m. is night, not morning.",20260821T125948Z_8dbb5082
+2124,1,Having a hangover means Person B is not feeling good.,20260821T125948Z_8dbb5082
+2125,1,Being diabetic means Person B is not free of chronic disease.,20260821T125948Z_8dbb5082
+2127,1,Usually getting seasick means Person B does not feel well on boats.,20260821T125948Z_8dbb5082
+2128,1,"If the toothache is gone, the teeth are no longer hurting.",20260821T125948Z_8dbb5082
+2129,6,Several bus stops suggests there are many stations or stops on the way.,20260821T125948Z_8dbb5082
+2130,1,Saying they should not staple the documents means they are not allowed to.,20260821T125948Z_8dbb5082
+2131,1,Very light luggage does not weigh much.,20260821T125948Z_8dbb5082
+2132,7,Having to get up at 5 a.m. clearly means needing to wake up early.,20260821T125948Z_8dbb5082
+2134,1,"If French is Person B's native language, Spanish is not their mother tongue.",20260821T125948Z_8dbb5082
+2135,7,"If the remote does not work, it is still unusable.",20260821T125948Z_8dbb5082
+2136,7,Common wolves mean there are wild animals in the region.,20260821T125948Z_8dbb5082
+2137,1,Only having cacti means there are no trees in the garden.,20260821T125948Z_8dbb5082
+2138,6,Needing the passport for travelling strongly suggests it is necessary for taking the plane.,20260821T125948Z_8dbb5082
+2139,1,Having a sandwich means Person B did not bring pie.,20260821T125948Z_8dbb5082
+2140,7,Having to go out soon means the kids are about to leave.,20260821T125948Z_8dbb5082
+2141,7,Being starving clearly means Person B is hungry.,20260821T125948Z_8dbb5082
+2144,7,Drinking tea all the time means Person B often consumes hot drinks.,20260821T125948Z_8dbb5082
+2145,7,Too much light means the room is very bright.,20260821T125948Z_8dbb5082
+2146,1,Being abroad on Friday means Person B will not stay in town until then.,20260821T125948Z_8dbb5082
+2147,7,Having soup means Person B is eating something.,20260821T125948Z_8dbb5082
+2148,7,Pouring means it is raining.,20260821T125948Z_8dbb5082
+2149,1,Saying 'I do not drink' means Person B does not consume alcohol.,20260821T125948Z_8dbb5082
+2150,1,A dishwasher still being in the kitchen means not everything was taken away.,20260821T125948Z_8dbb5082
+2151,2,"Giving away the racket makes it unlikely Person B still has tennis equipment, though they might have other items.",20260821T125948Z_8dbb5082
+2152,1,Not eating spicy dishes means Person B does not consume all types of food.,20260821T125948Z_8dbb5082
+2153,7,Living right next to someone means being neighbors.,20260821T125948Z_8dbb5082
+2155,1,Understanding everything now means Person B is no longer confused.,20260821T125948Z_8dbb5082
+2156,7,Chest pain is pain in the upper body.,20260821T125948Z_8dbb5082
+2157,1,Being in the middle of summer means it is not winter there.,20260821T125948Z_8dbb5082
+2159,7,Cutting a finger means Person B got hurt.,20260821T125948Z_8dbb5082
+2160,7,Dust all over the floor means the living room is dirty.,20260821T125948Z_8dbb5082
+2161,1,Having brought toothpaste means Person B did not leave it at home.,20260821T125948Z_8dbb5082
+2162,7,Chapped lips mean the lips were damaged by the wind or conditions.,20260821T125948Z_8dbb5082
+2163,1,Working early tomorrow morning means Person B is not doing the afternoon shift.,20260821T125948Z_8dbb5082
+2164,1,Planning to eat at a restaurant means Person B is not having dinner at home.,20260821T125948Z_8dbb5082
+2165,7,"If the hedges have grown a lot, they are taller than last time.",20260821T125948Z_8dbb5082
+2166,7,Lunch being ready means the cooking is finished.,20260821T125948Z_8dbb5082
+2167,7,A very complicated math exercise means the homework is difficult.,20260821T125948Z_8dbb5082
+2168,1,Not being sure where to go means no destination has been decided.,20260821T125948Z_8dbb5082
+2169,1,Smoking cigars only means Person B does not smoke cigarettes.,20260821T125948Z_8dbb5082
+2170,2,"Usually typing on a laptop suggests Person B is probably not writing on paper, though the current situation is not explicit.",20260821T125948Z_8dbb5082
+2171,7,A missing stove means the kitchen is still incomplete.,20260821T125948Z_8dbb5082
+2172,7,Cars being stolen regularly means car theft occurs often.,20260821T125948Z_8dbb5082
+2173,1,A completely full wardrobe means there is no room left.,20260821T125948Z_8dbb5082
+2174,7,Dirty laundry piling up means there is a lot to wash.,20260821T125948Z_8dbb5082
+2175,7,Being able to have a relaxed breakfast means Person B is taking time for breakfast.,20260821T125948Z_8dbb5082
+2201,6,Needing to revise topics makes studying together a likely yes.,20260821T125948Z_8dbb5082
+2202,6,Mentioning an interesting new movie suggests Person B is interested in going to the cinema.,20260821T125948Z_8dbb5082
+2203,6,Saying it is chilly implies closing the window would be welcome.,20260821T125948Z_8dbb5082
+2205,6,Having heard good things about the book suggests Person B would like to borrow it.,20260821T125948Z_8dbb5082
+2206,6,A pulled muscle gives a strong reason to skip yoga class.,20260821T125948Z_8dbb5082
+2207,6,Not being able to find their own phone strongly suggests Person B wants to use the offered phone.,20260821T125948Z_8dbb5082
+2208,7,Minus 20 degrees clearly means a coat is needed.,20260821T125948Z_8dbb5082
+2209,6,Entering a church strongly suggests turning off phones is appropriate.,20260821T125948Z_8dbb5082
+2210,5,"Training very hard makes a protein shake plausible, but Person B does not directly accept.",20260821T125948Z_8dbb5082
+2213,6,Working on an exhausting task strongly suggests Person B would welcome a break.,20260821T125948Z_8dbb5082
+2214,2,Not bringing a bikini suggests Person B probably does not want to go to the lake.,20260821T125948Z_8dbb5082
+2215,1,Not having time directly means Person B is not coming to the talk.,20260821T125948Z_8dbb5082
+2216,2,Having watched the movie last month suggests Person B probably does not want to watch it tonight.,20260821T125948Z_8dbb5082
+2217,2,Being on a diet suggests Person B probably does not want dessert.,20260821T125948Z_8dbb5082
+2218,2,"Being Muslim strongly suggests Person B does not want pork, though individual practice can vary.",20260821T125948Z_8dbb5082
+2219,2,A spinning head after beers suggests Person B probably does not want another beer.,20260821T125948Z_8dbb5082
+2220,2,Being very tired suggests Person B probably does not want to go out.,20260821T125948Z_8dbb5082
+2221,2,Being broke suggests Person B probably does not want or cannot afford a trip.,20260821T125948Z_8dbb5082
+2222,2,Having used a chain saw before suggests Person B probably does not need help.,20260821T125948Z_8dbb5082
+2223,3,"Saying it is 11 p.m. suggests it may be too late for the cinema, but it is not a direct refusal.",20260821T125948Z_8dbb5082
+2224,2,Having a hangover suggests Person B probably does not want drinks.,20260821T125948Z_8dbb5082
+2225,3,"Being diabetic makes cake less likely, but it does not completely rule out wanting some.",20260821T125948Z_8dbb5082
+2227,2,Usually getting seasick suggests Person B probably is not joining the sea cruise.,20260821T125948Z_8dbb5082
+2228,2,"If the toothache is gone, Person B probably does not want painkillers.",20260821T125948Z_8dbb5082
+2229,5,"Having several stops left suggests Person B may appreciate the bus seat, but it is not an explicit yes.",20260821T125948Z_8dbb5082
+2230,1,Saying they should not staple the documents means they do not want the stapler.,20260821T125948Z_8dbb5082
+2231,2,Very light luggage suggests Person B probably does not need help.,20260821T125948Z_8dbb5082
+2232,7,Having to get up at 5 a.m. clearly means they should set an alarm.,20260821T125948Z_8dbb5082
+2234,2,French being Person B's native language suggests they probably do not need French spelling checked.,20260821T125948Z_8dbb5082
+2235,6,The remote not working gives a strong reason to change the batteries.,20260821T125948Z_8dbb5082
+2236,6,Common wolves give a strong reason to lock up the cattle.,20260821T125948Z_8dbb5082
+2237,3,"Only having cacti suggests watering may be less necessary, but cacti can still need water.",20260821T125948Z_8dbb5082
+2238,7,Needing the passport for travelling clearly means it should be packed.,20260821T125948Z_8dbb5082
+2239,2,Having a sandwich suggests Person B probably does not need more food.,20260821T125948Z_8dbb5082
+2240,6,The kids having to go out soon suggests waking them up is appropriate.,20260821T125948Z_8dbb5082
+2241,7,Being starving clearly indicates Person B would accept biscuits.,20260821T125948Z_8dbb5082
+2244,6,Drinking tea all the time suggests Person B would likely use the kettle.,20260821T125948Z_8dbb5082
+2245,7,Too much light directly supports turning down the dimmer.,20260821T125948Z_8dbb5082
+2246,1,Being abroad on Friday means Person B is not coming to the party.,20260821T125948Z_8dbb5082
+2247,7,Having soup clearly indicates a spoon would be useful.,20260821T125948Z_8dbb5082
+2248,7,"If it has started pouring, an umbrella is clearly wanted or needed.",20260821T125948Z_8dbb5082
+2249,1,Not drinking means Person B does not want wine.,20260821T125948Z_8dbb5082
+2250,2,Having a dishwasher suggests Person B probably does not need the other person to do the dishes.,20260821T125948Z_8dbb5082
+2251,2,Having given away the racket makes playing tennis unlikely.,20260821T125948Z_8dbb5082
+2252,3,"Not eating spicy dishes makes Mexican food less likely, but Mexican food is not always spicy.",20260821T125948Z_8dbb5082
+2253,2,Living right next door suggests Person B probably does not need a ride home.,20260821T125948Z_8dbb5082
+2255,1,Understanding everything now means Person B does not need it explained again.,20260821T125948Z_8dbb5082
+2256,6,Severe chest pain strongly supports calling a doctor.,20260821T125948Z_8dbb5082
+2257,2,Being in the middle of summer suggests Person B probably does not want an extra blanket.,20260821T125948Z_8dbb5082
+2259,7,A cut finger clearly indicates a plaster would be useful.,20260821T125948Z_8dbb5082
+2260,7,Dust all over the floor directly supports sweeping the living room.,20260821T125948Z_8dbb5082
+2261,1,Having brought toothpaste means Person B does not want more.,20260821T125948Z_8dbb5082
+2262,7,Chapped lips clearly indicate lip balm would be useful.,20260821T125948Z_8dbb5082
+2263,2,Working early tomorrow morning suggests Person B probably is not joining for drinks.,20260821T125948Z_8dbb5082
+2264,1,Planning to eat at a restaurant means Person B does not want the other person to cook.,20260821T125948Z_8dbb5082
+2265,7,Hedges having grown a lot clearly supports pruning them.,20260821T125948Z_8dbb5082
+2266,6,Lunch being ready suggests it is time to set the table.,20260821T125948Z_8dbb5082
+2267,6,A complicated math exercise strongly suggests a calculator would be useful.,20260821T125948Z_8dbb5082
+2268,1,Not knowing the destination yet means they should not buy train tickets.,20260821T125948Z_8dbb5082
+2269,1,Smoking cigars only means Person B does not want a cigarette.,20260821T125948Z_8dbb5082
+2270,2,Usually typing on a laptop suggests Person B probably does not want paper.,20260821T125948Z_8dbb5082
+2271,6,The stove not being delivered strongly supports getting delivery food.,20260821T125948Z_8dbb5082
+2272,7,Cars being stolen regularly clearly supports locking the car.,20260821T125948Z_8dbb5082
+2273,2,A completely full wardrobe suggests Person B probably does not want to shop for clothes.,20260821T125948Z_8dbb5082
+2274,7,Laundry piling up clearly supports doing the laundry.,20260821T125948Z_8dbb5082
+2275,6,Having time for a relaxed breakfast suggests Person B would likely want pancakes.,20260821T125948Z_8dbb5082

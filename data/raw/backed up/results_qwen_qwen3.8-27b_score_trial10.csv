@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"The answer explicitly says he has not seen Martin for ages, which directly negates meeting him lately.",20260824T093740Z_5937923c
+1102,7,Saying he is sending out an application directly confirms he is doing something right now.,20260824T093740Z_5937923c
+1103,7,Training with him at the gym directly confirms regular exercise together.,20260824T093740Z_5937923c
+1104,7,A grandfather's recent death directly confirms a family death.,20260824T093740Z_5937923c
+1105,7,A distance of about 1000 km strongly implies Paris is very far away.,20260824T093740Z_5937923c
+1106,7,A six hour drive strongly implies the trip takes a long time.,20260824T093740Z_5937923c
+1107,1,A train delay directly indicates the journey is not going as planned.,20260824T093740Z_5937923c
+1108,1,"If cereal is still left, they have not finished it.",20260824T093740Z_5937923c
+1109,1,A deadline three months away directly contradicts next week.,20260824T093740Z_5937923c
+1110,7,Always congested streets directly confirm a lot of traffic.,20260824T093740Z_5937923c
+1111,1,Being vegetarian directly means she does not eat meat.,20260824T093740Z_5937923c
+1112,7,Having the flu directly confirms he is sick.,20260824T093740Z_5937923c
+1113,7,Running for hours every day directly confirms daily training.,20260824T093740Z_5937923c
+1114,1,Just waking up directly means she is not still sleeping.,20260824T093740Z_5937923c
+1115,1,A release next week directly contradicts release today.,20260824T093740Z_5937923c
+1116,7,Having used a drill before directly confirms experience with one.,20260824T093740Z_5937923c
+1117,1,Celebrating tonight directly contradicts the party being tomorrow.,20260824T093740Z_5937923c
+1118,7,Moving out tomorrow directly confirms leaving the flat soon.,20260824T093740Z_5937923c
+1119,6,Always falling behind strongly supports the idea that he is a slacker.,20260824T093740Z_5937923c
+1120,7,Being famous for surfing directly confirms the area is popular for something.,20260824T093740Z_5937923c
+1121,1,A rough sea directly contradicts the sea being calm.,20260824T093740Z_5937923c
+1122,1,Working at an NGO directly contradicts working for a corporate company.,20260824T093740Z_5937923c
+1123,7,Authoring many successful books directly confirms he is a writer.,20260824T093740Z_5937923c
+1124,1,Still analyzing the data directly means the work is not finished.,20260824T093740Z_5937923c
+1125,6,Endangered status strongly implies there are not many pandas left.,20260824T093740Z_5937923c
+1126,7,Enrolling at the gym directly confirms joining a fitness studio.,20260824T093740Z_5937923c
+1127,1,Saying the thesis is not complete directly means it is not finished.,20260824T093740Z_5937923c
+1128,7,Saying his hair was way too long implies he used to have long hair.,20260824T093740Z_5937923c
+1129,1,A business trip directly contradicts the trip being for vacation.,20260824T093740Z_5937923c
+1130,1,Needing a larger flat directly means a one room flat is not enough.,20260824T093740Z_5937923c
+1131,7,A deadline tomorrow directly confirms it is soon.,20260824T093740Z_5937923c
+1132,7,Sleeping only four hours directly confirms a short night.,20260824T093740Z_5937923c
+1133,1,An expired offer directly means the flight was no longer discounted.,20260824T093740Z_5937923c
+1134,7,Getting wounded directly confirms the cat is hurt.,20260824T093740Z_5937923c
+1135,1,Mark being missing directly means not everyone is here.,20260824T093740Z_5937923c
+1137,7,Being Chinese directly confirms coming from Asia.,20260824T093740Z_5937923c
+1138,4,"The line going dead does not specify who ended the call, so it is ambiguous.",20260824T093740Z_5937923c
+1139,7,Having domestics directly confirms someone is taking care of the house.,20260824T093740Z_5937923c
+1140,1,Just opening directly means the bar has not been there for long.,20260824T093740Z_5937923c
+1141,7,A house full of history books directly confirms he owns many books.,20260824T093740Z_5937923c
+1143,7,Only a few guests directly confirms a small gathering.,20260824T093740Z_5937923c
+1144,1,Having only one week off directly contradicts having two weeks of holiday.,20260824T093740Z_5937923c
+1145,7,Going to have a baby directly confirms pregnancy.,20260824T093740Z_5937923c
+1147,1,Still owing money directly means the debts have not been paid back.,20260824T093740Z_5937923c
+1148,1,Only having water directly contradicts drinking a cocktail.,20260824T093740Z_5937923c
+1149,2,"Owning an orchard suggests the answer is not a vegetable garden, though it is not explicit.",20260824T093740Z_5937923c
+1150,1,Being 25 years old directly means he is not underage.,20260824T093740Z_5937923c
+1151,1,Extremely expensive tuition directly means Harvard is not affordable.,20260824T093740Z_5937923c
+1152,7,A recent bank transfer directly confirms she has paid.,20260824T093740Z_5937923c
+1153,1,Not being able to swim directly means they are not good at swimming.,20260824T093740Z_5937923c
+1154,1,Being healthy again directly means the cold is gone.,20260824T093740Z_5937923c
+1155,7,People not being allowed to get closer directly confirms it is forbidden.,20260824T093740Z_5937923c
+1156,7,Watering them regularly directly confirms someone took care of the plants.,20260824T093740Z_5937923c
+1157,1,Being already dead by then directly means he was not alive in the 80s.,20260824T093740Z_5937923c
+1158,7,A thick ice layer directly confirms the lake is frozen.,20260824T093740Z_5937923c
+1159,1,Being in the advanced course directly contradicts attending the beginners' class.,20260824T093740Z_5937923c
+1160,7,Seeing a doctor directly confirms seeking medical advice.,20260824T093740Z_5937923c
+1161,1,Going out with friends directly contradicts staying home.,20260824T093740Z_5937923c
+1162,7,Voting yesterday directly confirms a recent election.,20260824T093740Z_5937923c
+1163,7,Being spotless directly confirms the car is completely clean.,20260824T093740Z_5937923c
+1164,1,Submitting a blank sheet directly means they did not answer all questions.,20260824T093740Z_5937923c
+1165,1,Just getting into the changing room directly means she is not out on the tennis field.,20260824T093740Z_5937923c
+1166,7,Being compensated directly confirms he got the money back.,20260824T093740Z_5937923c
+1167,1,No one responding directly means no one answered the ad.,20260824T093740Z_5937923c
+1168,1,Not playing any instrument directly means he is not a musician.,20260824T093740Z_5937923c
+1169,7,Being in Japan for several months directly confirms travel in Asia.,20260824T093740Z_5937923c
+1170,7,Aiming for the mountain top directly confirms the goal is the summit.,20260824T093740Z_5937923c
+1171,7,The customer receiving it directly confirms he got the package.,20260824T093740Z_5937923c
+1173,1,Skipping the last four lessons directly means she did not attend the whole course.,20260824T093740Z_5937923c
+1174,7,A really poor resolution directly confirms a bad image.,20260824T093740Z_5937923c
+1175,7,Graduating from medical school directly confirms completed medical studies.,20260824T093740Z_5937923c
+1176,1,Private property directly contradicts it being a public building.,20260824T093740Z_5937923c
+1201,3,"Not seeing him for ages suggests they are not still good friends, but it does not state it directly.",20260824T093740Z_5937923c
+1202,7,Sending out an application directly confirms looking for a job.,20260824T093740Z_5937923c
+1203,7,Training with him at the gym directly confirms knowing Lukas.,20260824T093740Z_5937923c
+1204,4,"A grandfather's death may suggest inheritance, but it does not confirm the property is his now.",20260824T093740Z_5937923c
+1205,7,A distance of about 1000 km strongly implies driving to Paris takes long.,20260824T093740Z_5937923c
+1206,7,A six hour drive strongly implies Munich is far away.,20260824T093740Z_5937923c
+1207,3,"A train delay suggests he may not be home by noon, but it is not explicit.",20260824T093740Z_5937923c
+1208,4,Having cereal left does not clearly say whether it was bought.,20260824T093740Z_5937923c
+1209,4,A distant deadline does not clearly say whether writing has started.,20260824T093740Z_5937923c
+1210,5,"Constant congestion suggests they may be late, but it is not explicit.",20260824T093740Z_5937923c
+1211,3,"Being vegetarian suggests she is unlikely to come to a steak house, but not certain.",20260824T093740Z_5937923c
+1212,5,"Having the flu suggests he is likely staying home, but it is not explicit.",20260824T093740Z_5937923c
+1213,4,Running daily does not clearly confirm marathon registration.,20260824T093740Z_5937923c
+1214,3,"Just waking up suggests she has not had breakfast, but it is not explicit.",20260824T093740Z_5937923c
+1215,1,A movie coming out next week strongly implies it has not been seen yet.,20260824T093740Z_5937923c
+1216,7,Having used a drill before directly confirms knowing how to use one.,20260824T093740Z_5937923c
+1217,3,"Celebrating tonight suggests he did not fail, but it could be for another reason.",20260824T093740Z_5937923c
+1218,4,"Moving out tomorrow may relate to a breakup, but it does not confirm it.",20260824T093740Z_5937923c
+1219,4,"Falling behind may suggest he was fired, but it does not confirm it.",20260824T093740Z_5937923c
+1220,5,"Being famous for surfing suggests there are big waves, but it is not explicit.",20260824T093740Z_5937923c
+1221,3,"A rough sea suggests it is not safe to swim, but it is not explicit.",20260824T093740Z_5937923c
+1222,3,"Working at an NGO suggests not making a lot of money, but it is not explicit.",20260824T093740Z_5937923c
+1223,5,"Authoring many successful books suggests he is famous, but it is not explicit.",20260824T093740Z_5937923c
+1224,3,"Still analyzing the data suggests he has not presented it, but it is not explicit.",20260824T093740Z_5937923c
+1225,3,"Endangered status suggests hunting pandas is not legal, but it is not explicit.",20260824T093740Z_5937923c
+1226,4,Enrolling at the gym does not clearly confirm weight loss.,20260824T093740Z_5937923c
+1227,1,An incomplete thesis directly means he has not graduated.,20260824T093740Z_5937923c
+1228,4,"Saying the hair was too long may imply a cut, but it does not confirm it.",20260824T093740Z_5937923c
+1229,3,"A business trip suggests there was no time for sightseeing, but it is not explicit.",20260824T093740Z_5937923c
+1230,3,"Needing a larger flat suggests he did not buy the one room flat, but it is not explicit.",20260824T093740Z_5937923c
+1231,5,"A deadline tomorrow suggests she is stressed, but it is not explicit.",20260824T093740Z_5937923c
+1232,5,"Sleeping only four hours suggests tiredness, but it is not explicit.",20260824T093740Z_5937923c
+1233,3,"An expired offer suggests he did not book the flight, but it is not explicit.",20260824T093740Z_5937923c
+1234,5,"A wounded cat suggests it is being brought to the vet, but it is not explicit.",20260824T093740Z_5937923c
+1235,1,Mark being missing directly means they are not ready to go.,20260824T093740Z_5937923c
+1237,5,"Being Chinese suggests he can cook Cantonese rice, but it is not guaranteed.",20260824T093740Z_5937923c
+1238,4,The line going dead does not clearly say whether he told him about the issue.,20260824T093740Z_5937923c
+1239,5,"Having domestics suggests the house is tidy, but it is not explicit.",20260824T093740Z_5937923c
+1240,2,A bar that just opened strongly suggests it has not been tried yet.,20260824T093740Z_5937923c
+1241,5,"A house full of history books suggests a passion for history, but it is not explicit.",20260824T093740Z_5937923c
+1243,5,"Only a few guests suggests the saucepan is big enough, but it is not explicit.",20260824T093740Z_5937923c
+1244,1,Having only one week off directly means a two week trip is not possible.,20260824T093740Z_5937923c
+1245,5,"Going to have a baby suggests avoiding alcohol, but it is not explicit.",20260824T093740Z_5937923c
+1247,4,Owing the bank money does not clearly say whether a new loan was taken.,20260824T093740Z_5937923c
+1248,1,Only having water directly means he is not drunk.,20260824T093740Z_5937923c
+1249,3,"Owning an orchard suggests not buying fruit in the supermarket, but it is not explicit.",20260824T093740Z_5937923c
+1250,1,Being 25 years old directly means he is not at elementary school.,20260824T093740Z_5937923c
+1251,3,"Extremely expensive tuition suggests Harvard is not an option, but it is not explicit.",20260824T093740Z_5937923c
+1252,5,"A recent bank transfer suggests she accepted the deal, but it is not explicit.",20260824T093740Z_5937923c
+1253,3,"Not being able to swim suggests the kids did not go to the pool, but it is not explicit.",20260824T093740Z_5937923c
+1254,3,"Being healthy again suggests the pills are no longer needed, but it is not explicit.",20260824T093740Z_5937923c
+1255,5,"People not being allowed to get closer suggests the area is contaminated, but it is not explicit.",20260824T093740Z_5937923c
+1256,5,"Watering them regularly suggests the plants are alive, but it is not explicit.",20260824T093740Z_5937923c
+1257,1,Being already dead by then directly means he did not create the artwork in 1981.,20260824T093740Z_5937923c
+1258,5,"A thick ice layer suggests it is ice skating season, but it is not explicit.",20260824T093740Z_5937923c
+1259,1,Being in the advanced course directly means he is not a beginner.,20260824T093740Z_5937923c
+1260,5,"Seeing a doctor suggests he has been sick, but it is not explicit.",20260824T093740Z_5937923c
+1261,3,"Going out with friends suggests he did not go to bed early, but it is not explicit.",20260824T093740Z_5937923c
+1262,5,"Voting yesterday suggests the members can elect a representative, but it is not explicit.",20260824T093740Z_5937923c
+1263,5,"Being spotless suggests the car is back from the car wash, but it is not explicit.",20260824T093740Z_5937923c
+1264,1,Submitting a blank sheet directly means they did not write a good exam.,20260824T093740Z_5937923c
+1265,3,"Just getting into the changing room suggests she is not dressed for the game, but it is not explicit.",20260824T093740Z_5937923c
+1266,5,"Being compensated suggests the lawsuit was settled, but it is not explicit.",20260824T093740Z_5937923c
+1267,1,No one responding directly means the house has not been sold.,20260824T093740Z_5937923c
+1268,1,Not playing any instrument directly means he is not part of the marching band.,20260824T093740Z_5937923c
+1269,5,"Being in Japan for several months suggests he has tried sushi, but it is not explicit.",20260824T093740Z_5937923c
+1270,4,"Aiming for the mountain top suggests the way may be uphill, but it does not confirm the whole way.",20260824T093740Z_5937923c
+1271,6,The customer receiving the package strongly implies it was shipped to him.,20260824T093740Z_5937923c
+1273,1,Skipping the last four lessons directly suggests she is not very dedicated.,20260824T093740Z_5937923c
+1274,5,"A poor monitor resolution suggests eye strain, but it is not explicit.",20260824T093740Z_5937923c
+1275,7,Graduating from medical school directly confirms she is a medical doctor.,20260824T093740Z_5937923c
+1276,4,Private property does not clearly say whether he has ever been inside.,20260824T093740Z_5937923c
+2101,7,Needing to revise topics directly confirms he has to study.,20260824T093740Z_5937923c
+2102,7,An interesting new movie directly confirms something has come out recently.,20260824T093740Z_5937923c
+2103,7,Being quite chilly directly confirms it is cold.,20260824T093740Z_5937923c
+2105,5,Having heard good things indicates some knowledge about the novel.,20260824T093740Z_5937923c
+2106,7,Pulling a muscle last time directly confirms getting injured at yoga class.,20260824T093740Z_5937923c
+2107,5,"Not being able to find the phone suggests it may be lost, but it is not explicit.",20260824T093740Z_5937923c
+2108,7,Minus 20 degrees directly confirms it is cold outside.,20260824T093740Z_5937923c
+2109,7,Entering a church directly confirms being in a religious building.,20260824T093740Z_5937923c
+2110,6,"Training very hard suggests the workouts are difficult, though not explicitly usual.",20260824T093740Z_5937923c
+2113,7,Working on an exhausting task directly confirms he was working today.,20260824T093740Z_5937923c
+2114,1,Not bringing a bikini directly means he does not have swimming gear.,20260824T093740Z_5937923c
+2115,1,Not having time directly means he is not free.,20260824T093740Z_5937923c
+2116,1,Watching it last month directly contradicts watching it yesterday.,20260824T093740Z_5937923c
+2117,3,"Being on a diet suggests not eating more than usual, but it is not explicit.",20260824T093740Z_5937923c
+2118,1,Being Muslim directly contradicts practising Hinduism.,20260824T093740Z_5937923c
+2119,1,A spinning head after beers directly means he is not feeling ok.,20260824T093740Z_5937923c
+2120,1,Being very tired directly contradicts feeling energetic.,20260824T093740Z_5937923c
+2121,1,Being broke directly means there is no money saved up.,20260824T093740Z_5937923c
+2122,1,Having used one before directly means it is not his first experience.,20260824T093740Z_5937923c
+2123,1,11 p.m. directly means it is not morning.,20260824T093740Z_5937923c
+2124,1,Having a hangover directly means he is not feeling good.,20260824T093740Z_5937923c
+2125,1,Being diabetic directly means he is not free of chronic disease.,20260824T093740Z_5937923c
+2127,1,Usually getting seasick directly means he does not feel well on boats.,20260824T093740Z_5937923c
+2128,1,The toothache being gone directly means his teeth are not still hurting.,20260824T093740Z_5937923c
+2129,5,"Several bus stops suggests there are many stations, though not explicitly many.",20260824T093740Z_5937923c
+2130,1,Saying he should not staple them directly means he is not allowed to.,20260824T093740Z_5937923c
+2131,1,Very light luggage directly means it does not weigh much.,20260824T093740Z_5937923c
+2132,7,Having to get up at 5 am directly confirms waking up early.,20260824T093740Z_5937923c
+2134,1,French being native directly contradicts Spanish being mother tongue.,20260824T093740Z_5937923c
+2135,7,The remote not working directly confirms it is still unusable.,20260824T093740Z_5937923c
+2136,7,Wolves being very common directly confirms wild animals are present.,20260824T093740Z_5937923c
+2137,1,Only having cacti directly means there are no trees in the garden.,20260824T093740Z_5937923c
+2138,7,Needing it for travelling directly confirms the passport is necessary.,20260824T093740Z_5937923c
+2139,1,Having a sandwich directly contradicts bringing pie.,20260824T093740Z_5937923c
+2140,7,Having to go out soon directly confirms the kids are about to leave.,20260824T093740Z_5937923c
+2141,7,Starving directly confirms he is already hungry.,20260824T093740Z_5937923c
+2144,7,Drinking tea all the time directly confirms often consuming hot drinks.,20260824T093740Z_5937923c
+2145,7,Too much light directly confirms the room is very bright.,20260824T093740Z_5937923c
+2146,1,Being abroad then directly means he will not stay in town till Friday.,20260824T093740Z_5937923c
+2147,7,Having a soup directly confirms he is eating something.,20260824T093740Z_5937923c
+2148,7,Just started pouring directly confirms it is raining already.,20260824T093740Z_5937923c
+2149,1,Not drinking directly means he does not consume alcohol.,20260824T093740Z_5937923c
+2150,1,A dishwasher still being in the kitchen directly means not everything was taken away.,20260824T093740Z_5937923c
+2151,1,Giving away the racket directly means he no longer has tennis equipment.,20260824T093740Z_5937923c
+2152,1,Not eating spicy dishes directly means he does not consume all types of food.,20260824T093740Z_5937923c
+2153,7,Living right next to you directly confirms they are neighbours.,20260824T093740Z_5937923c
+2155,1,Understanding everything now directly means he is not still confused.,20260824T093740Z_5937923c
+2156,7,Chest hurting a lot directly confirms pain in the upper body.,20260824T093740Z_5937923c
+2157,1,Being in the middle of summer directly contradicts it being winter.,20260824T093740Z_5937923c
+2159,7,Cutting a finger directly confirms getting hurt.,20260824T093740Z_5937923c
+2160,7,Dust all over the floor directly confirms the living room is dirty.,20260824T093740Z_5937923c
+2161,1,Having brought toothpaste directly means it was not left at home.,20260824T093740Z_5937923c
+2162,7,Chapped lips directly confirms the lips got damaged.,20260824T093740Z_5937923c
+2163,1,Working early tomorrow morning directly contradicts doing the afternoon shift.,20260824T093740Z_5937923c
+2164,1,Eating at a restaurant directly contradicts having dinner at home.,20260824T093740Z_5937923c
+2165,7,Having grown a lot recently directly confirms the hedges are taller.,20260824T093740Z_5937923c
+2166,7,Lunch being ready directly confirms cooking is finished.,20260824T093740Z_5937923c
+2167,7,A very complicated math exercise directly confirms difficult homework.,20260824T093740Z_5937923c
+2168,1,Not being sure where to go directly means no destination has been decided.,20260824T093740Z_5937923c
+2169,1,Smoking cigars only directly contradicts smoking cigarettes.,20260824T093740Z_5937923c
+2170,1,Typing on a laptop directly contradicts writing on paper.,20260824T093740Z_5937923c
+2171,7,The stove not being delivered directly means the kitchen is still incomplete.,20260824T093740Z_5937923c
+2172,7,Cars getting stolen regularly directly confirms car theft occurs often.,20260824T093740Z_5937923c
+2173,1,A completely full wardrobe directly means there is no room left.,20260824T093740Z_5937923c
+2174,7,Dirty laundry piling up directly confirms there is a lot to wash.,20260824T093740Z_5937923c
+2175,7,Having a relaxed breakfast directly confirms taking time for breakfast.,20260824T093740Z_5937923c
+2201,5,"Needing to revise topics suggests he wants to study together, but it is not explicit.",20260824T093740Z_5937923c
+2202,5,"An interesting new movie suggests he wants to go to the cinema, but it is not explicit.",20260824T093740Z_5937923c
+2203,5,"It being chilly suggests he wants the window closed, but it is not explicit.",20260824T093740Z_5937923c
+2205,5,"Having heard good things suggests he wants to borrow the book, but it is not explicit.",20260824T093740Z_5937923c
+2206,5,"Pulling a muscle last time suggests he wants to skip yoga, but it is not explicit.",20260824T093740Z_5937923c
+2207,5,"Not finding his phone suggests he wants to use the offered phone, but it is not explicit.",20260824T093740Z_5937923c
+2208,5,"Minus 20 degrees suggests he needs a coat, but it is not explicit.",20260824T093740Z_5937923c
+2209,5,"Entering a church suggests they should turn off phones, but it is not explicit.",20260824T093740Z_5937923c
+2210,5,"Training very hard suggests he wants a protein shake, but it is not explicit.",20260824T093740Z_5937923c
+2213,5,"Working on an exhausting task suggests he wants a break, but it is not explicit.",20260824T093740Z_5937923c
+2214,3,"Not bringing a bikini suggests he does not want to go to the lake, but it is not explicit.",20260824T093740Z_5937923c
+2215,1,Not having time directly means he is not coming to the talk.,20260824T093740Z_5937923c
+2216,3,"Having watched it last month suggests he does not want to watch it tonight, but it is not explicit.",20260824T093740Z_5937923c
+2217,3,"Being on a diet suggests he does not want dessert, but it is not explicit.",20260824T093740Z_5937923c
+2218,1,Being Muslim strongly suggests he does not want pork.,20260824T093740Z_5937923c
+2219,3,"A spinning head after beers suggests he does not want another beer, but it is not explicit.",20260824T093740Z_5937923c
+2220,3,"Being very tired suggests he does not want to go out, but it is not explicit.",20260824T093740Z_5937923c
+2221,3,"Being broke suggests he does not want to go on a trip, but it is not explicit.",20260824T093740Z_5937923c
+2222,3,"Having used a chainsaw before suggests he does not need help, but it is not explicit.",20260824T093740Z_5937923c
+2223,3,"It being 11 p.m. suggests he does not want to go to the cinema, but it is not explicit.",20260824T093740Z_5937923c
+2224,3,"Having a hangover suggests he does not want drinks, but it is not explicit.",20260824T093740Z_5937923c
+2225,3,"Being diabetic suggests he does not want cake, but it is not explicit.",20260824T093740Z_5937923c
+2227,3,"Usually getting seasick suggests he is not joining the sea cruise, but it is not explicit.",20260824T093740Z_5937923c
+2228,3,"The toothache being gone suggests he does not want painkillers, but it is not explicit.",20260824T093740Z_5937923c
+2229,3,"Having several bus stops left suggests he does not want to give up the seat, but it is not explicit.",20260824T093740Z_5937923c
+2230,1,Saying he should not staple them directly means he does not want the stapler.,20260824T093740Z_5937923c
+2231,3,"The luggage being very light suggests he does not need help, but it is not explicit.",20260824T093740Z_5937923c
+2232,5,"Having to get up at 5 am suggests they should set the alarm, but it is not explicit.",20260824T093740Z_5937923c
+2234,3,"French being native suggests he does not need spelling checked, but it is not explicit.",20260824T093740Z_5937923c
+2235,5,"The remote not working suggests he wants the batteries changed, but it is not explicit.",20260824T093740Z_5937923c
+2236,5,"Wolves being common suggests he wants the cattle locked up, but it is not explicit.",20260824T093740Z_5937923c
+2237,3,"Only having cacti suggests he does not want them watered, but it is not explicit.",20260824T093740Z_5937923c
+2238,5,"Needing the passport for travelling suggests he wants it packed, but it is not explicit.",20260824T093740Z_5937923c
+2239,3,"Having a sandwich suggests he does not want more food, but it is not explicit.",20260824T093740Z_5937923c
+2240,5,"The kids having to go out soon suggests they should be woken up, but it is not explicit.",20260824T093740Z_5937923c
+2241,5,"Being starving suggests he wants biscuits, but it is not explicit.",20260824T093740Z_5937923c
+2244,5,"Drinking tea all the time suggests he wants to use the kettle, but it is not explicit.",20260824T093740Z_5937923c
+2245,5,"Too much light suggests he wants the dimmer turned down, but it is not explicit.",20260824T093740Z_5937923c
+2246,1,Being abroad then directly means he is not coming to the party.,20260824T093740Z_5937923c
+2247,5,"Having soup suggests he wants a spoon, but it is not explicit.",20260824T093740Z_5937923c
+2248,5,"It just started pouring suggests he wants an umbrella, but it is not explicit.",20260824T093740Z_5937923c
+2249,1,Not drinking directly means he does not want wine.,20260824T093740Z_5937923c
+2250,3,"Having a dishwasher suggests he does not want the dishes done by hand, but it is not explicit.",20260824T093740Z_5937923c
+2251,3,"Giving away the racket suggests he does not want to play tennis, but it is not explicit.",20260824T093740Z_5937923c
+2252,3,"Not eating spicy dishes suggests he does not want Mexican food, but it is not explicit.",20260824T093740Z_5937923c
+2253,3,"Living right next to you suggests he does not want a ride, but it is not explicit.",20260824T093740Z_5937923c
+2255,3,"Understanding everything now suggests he does not need another explanation, but it is not explicit.",20260824T093740Z_5937923c
+2256,5,"Chest hurting a lot suggests he wants the doctor called, but it is not explicit.",20260824T093740Z_5937923c
+2257,3,"Being in the middle of summer suggests he does not want an extra blanket, but it is not explicit.",20260824T093740Z_5937923c
+2259,5,"Cutting a finger suggests he wants a plaster, but it is not explicit.",20260824T093740Z_5937923c
+2260,5,"Dust all over the floor suggests he wants the room swept, but it is not explicit.",20260824T093740Z_5937923c
+2261,3,"Having brought toothpaste suggests he does not want some, but it is not explicit.",20260824T093740Z_5937923c
+2262,5,"Chapped lips suggests he wants lip balm, but it is not explicit.",20260824T093740Z_5937923c
+2263,3,"Working early tomorrow morning suggests he is not joining for drinks, but it is not explicit.",20260824T093740Z_5937923c
+2264,3,"Planning to eat at a restaurant suggests he does not want cooking, but it is not explicit.",20260824T093740Z_5937923c
+2265,5,"The hedges having grown a lot suggests he wants them pruned, but it is not explicit.",20260824T093740Z_5937923c
+2266,5,"Lunch being ready suggests he wants the table set, but it is not explicit.",20260824T093740Z_5937923c
+2267,5,"A complicated math exercise suggests he wants a calculator, but it is not explicit.",20260824T093740Z_5937923c
+2268,3,"Not being sure where to go suggests he does not want tickets bought yet, but it is not explicit.",20260824T093740Z_5937923c
+2269,3,"Smoking cigars only suggests he does not want a cigarette, but it is not explicit.",20260824T093740Z_5937923c
+2270,3,"Typing on a laptop suggests he does not want paper, but it is not explicit.",20260824T093740Z_5937923c
+2271,5,"The stove not being delivered suggests they want delivery food, but it is not explicit.",20260824T093740Z_5937923c
+2272,5,"Cars getting stolen regularly suggests he wants the car locked, but it is not explicit.",20260824T093740Z_5937923c
+2273,3,"A full wardrobe suggests he does not want to shop for clothes, but it is not explicit.",20260824T093740Z_5937923c
+2274,5,"Dirty laundry piling up suggests he wants the laundry done, but it is not explicit.",20260824T093740Z_5937923c
+2275,5,"Having a relaxed breakfast suggests he wants pancakes, but it is not explicit.",20260824T093740Z_5937923c

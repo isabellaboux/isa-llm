@@ -1,0 +1,139 @@
+id,score,rationale,run_id
+1101,2,The phrase 'I have not seen him for ages' strongly implies a negative answer to the question of whether they've met Martin lately. It indicates a long period of no contact.,20260824T093740Z_5937923c
+1102,3,"While not a direct 'no', 'I am sending out an application' doesn't answer whether they are currently doing something else. It implies they are busy, but doesn't rule out doing something *else* simultaneously.",20260824T093740Z_5937923c
+1103,6,'I train with him at the gym' is a strong affirmation that they do usually exercise with Lukas. It provides a specific context for their exercise routine.,20260824T093740Z_5937923c
+1104,7,'His grandfather passed away recently' is a direct and affirmative answer to the question about a death in the family. It confirms the event occurred.,20260824T093740Z_5937923c
+1105,3,"Providing a distance ('1000 Km') doesn't answer whether Paris is *very far*. It's a factual statement, but doesn't express a judgment of distance.",20260824T093740Z_5937923c
+1106,3,"Stating the drive time ('six hour drive') doesn't directly answer if it takes *long* to get to Munich. 'Long' is subjective, and six hours could be considered short or long depending on context.",20260824T093740Z_5937923c
+1107,3,"A train delay doesn't answer whether the journey is going as planned. It indicates a problem, but doesn't negate the possibility of the overall plan still being viable.",20260824T093740Z_5937923c
+1108,3,"Saying 'There is still some left' implies they haven't finished it, but doesn't directly answer if they *have* finished it. It's an indirect negative response.",20260824T093740Z_5937923c
+1109,2,'It is not due for three months' is a clear negative response to the question about the deadline being next week.,20260824T093740Z_5937923c
+1110,6,'The streets are always congested with cars' strongly implies that there *is* usually a lot of traffic. It's a descriptive affirmation.,20260824T093740Z_5937923c
+1111,7,'She is vegetarian' is a definitive answer to the question of whether Megan eats meat. It directly states her dietary preference.,20260824T093740Z_5937923c
+1112,7,'He has the flu' is a direct and affirmative answer to the question of whether John is sick.,20260824T093740Z_5937923c
+1113,6,'She runs for hours every day' strongly suggests that Sonya does train daily. It provides evidence of her consistent training routine.,20260824T093740Z_5937923c
+1114,3,"'She just woke up' doesn't directly answer if Clara is *still* sleeping. It indicates she *was* sleeping, but is no longer.",20260824T093740Z_5937923c
+1115,2,'It comes out next week' is a clear negative response to the question of whether the movie is being released today.,20260824T093740Z_5937923c
+1116,6,'I have used one before' indicates prior experience and therefore a 'yes' to the question of whether they've ever worked with a drill.,20260824T093740Z_5937923c
+1117,3,"'I am celebrating tonight' doesn't directly answer if the party is tomorrow. It indicates a celebration, but doesn't confirm the timing.",20260824T093740Z_5937923c
+1118,5,"'I am moving out tomorrow' suggests they are leaving their flat soon, but focuses on the act of moving rather than a simple 'yes' or 'no' to leaving *soon*.",20260824T093740Z_5937923c
+1119,5,"'He was always falling behind' suggests a tendency towards being a slacker, but isn't a direct confirmation. It's an observation about past behavior.",20260824T093740Z_5937923c
+1120,6,"'The region is famous for surfing' strongly implies that the area *is* popular for something, specifically surfing.",20260824T093740Z_5937923c
+1121,2,'It is quite rough' is a negative response to the question of whether the sea is calm.,20260824T093740Z_5937923c
+1122,2,'My job is at an NGO' is a negative response to the question of working for a corporate company.,20260824T093740Z_5937923c
+1123,7,'He has authored many successful books' is a strong affirmation that he is a writer. It provides evidence of his writing career.,20260824T093740Z_5937923c
+1124,3,'I am still analyzing it' doesn't answer if they are finished. It indicates the work is ongoing.,20260824T093740Z_5937923c
+1125,5,"'They are an endangered species' implies a 'yes' to the question of whether there are many pandas left, but focuses on their conservation status rather than their abundance.",20260824T093740Z_5937923c
+1126,6,'I have enrolled at the gym' is a strong affirmation that they have joined a fitness studio.,20260824T093740Z_5937923c
+1127,2,'My thesis is not complete yet' is a clear negative response to the question of whether they've finished writing their thesis.,20260824T093740Z_5937923c
+1128,6,"'My hair was way too long' implies they used to have long hair, confirming the question.",20260824T093740Z_5937923c
+1129,3,'It was a business trip' doesn't answer if they went to Japan for vacation. It provides a different reason for the trip.,20260824T093740Z_5937923c
+1130,2,'I need a larger one' is a negative response to the question of whether a one-room flat is enough.,20260824T093740Z_5937923c
+1131,6,"'The deadline is tomorrow' strongly implies that the deadline *is* next week, as it's a very short time frame.",20260824T093740Z_5937923c
+1132,3,"Sleeping for four hours doesn't directly answer if they had a short night. It provides information about sleep duration, but not a judgment of 'shortness'. ",20260824T093740Z_5937923c
+1133,2,'The offer had already expired' is a clear negative response to the question of whether the flight was still discounted.,20260824T093740Z_5937923c
+1134,7,'It got wounded' is a direct confirmation that the cat is hurt.,20260824T093740Z_5937923c
+1135,3,"Mark being missing doesn't answer if everyone is there. It indicates someone is absent, but doesn't negate the possibility of everyone else being present.",20260824T093740Z_5937923c
+1137,6,"'I am Chinese' strongly implies they come from Asia, as China is a continent within Asia.",20260824T093740Z_5937923c
+1138,2,'The line went dead' is a negative response to the question of whether they hung up.,20260824T093740Z_5937923c
+1139,6,'They have domestics' implies someone is taking care of their house.,20260824T093740Z_5937923c
+1140,6,'They have just opened' implies the bar hasn't been there for long.,20260824T093740Z_5937923c
+1141,7,'His house is full of history books' strongly suggests he owns many books.,20260824T093740Z_5937923c
+1143,5,"'We have only few guests over for dinner' suggests there is a gathering, but doesn't confirm it's a 'small' one.",20260824T093740Z_5937923c
+1144,2,'I only have one week off work' is a negative response to the question of having two weeks of holiday.,20260824T093740Z_5937923c
+1145,7,'I am going to have a baby' is a direct and affirmative answer to the question of whether they are pregnant.,20260824T093740Z_5937923c
+1147,3,'I still owe the bank some money' doesn't answer if they've paid back their debts. It indicates outstanding debt.,20260824T093740Z_5937923c
+1148,2,'He only had water' is a negative response to the question of whether he drank a cocktail.,20260824T093740Z_5937923c
+1149,2,'I own an orchard' is a negative response to the question of having a vegetable garden.,20260824T093740Z_5937923c
+1150,2,'He is 25 years old' is a negative response to the question of whether the son is underage.,20260824T093740Z_5937923c
+1151,2,'Their tuition fee is extremely expensive' implies Harvard is not affordable.,20260824T093740Z_5937923c
+1152,7,'She made a bank transfer few moments ago' is a direct confirmation that she has paid them.,20260824T093740Z_5937923c
+1153,2,'They cannot swim yet' is a negative response to the question of whether the kids are good at swimming.,20260824T093740Z_5937923c
+1154,7,'I am healthy again' is a direct confirmation that they no longer have a cold.,20260824T093740Z_5937923c
+1155,7,'People are not allowed to get closer' is a direct confirmation that it is forbidden to approach the area.,20260824T093740Z_5937923c
+1156,6,'I have watered them regularly' implies someone took care of the plants.,20260824T093740Z_5937923c
+1157,2,'He was already dead by then' is a negative response to the question of whether the artist was still alive in the 80s.,20260824T093740Z_5937923c
+1158,6,'The ice layer is quite thick' implies the lake is frozen.,20260824T093740Z_5937923c
+1159,2,'I am in the advanced course' is a negative response to the question of attending the beginners' class.,20260824T093740Z_5937923c
+1160,6,'I have seen a doctor' implies they have sought medical advice.,20260824T093740Z_5937923c
+1161,2,'I went out with some friends' is a negative response to the question of staying home.,20260824T093740Z_5937923c
+1162,7,'They voted yesterday' is a direct confirmation that there was an election recently.,20260824T093740Z_5937923c
+1163,7,'It is spotless' is a strong affirmation that the car is completely clean.,20260824T093740Z_5937923c
+1164,2,'They have submitted a blank sheet' is a negative response to the question of whether they have answered all questions.,20260824T093740Z_5937923c
+1165,3,"'She has just got into the changing room' doesn't directly answer if she is on the tennis field. It indicates she was, but is no longer.",20260824T093740Z_5937923c
+1166,7,'He was compensated' is a direct confirmation that he got the money back.,20260824T093740Z_5937923c
+1167,2,'No one has responded' is a negative response to the question of whether anyone has answered the house sale ad.,20260824T093740Z_5937923c
+1168,2,'He does not play any instrument' is a negative response to the question of whether he is a musician.,20260824T093740Z_5937923c
+1169,6,'He has been in Japan for several months' implies he has travelled in Asia.,20260824T093740Z_5937923c
+1170,6,'We are aiming for the mountain top' implies the goal is the summit.,20260824T093740Z_5937923c
+1171,7,'The customer received it' is a direct confirmation that the package was delivered.,20260824T093740Z_5937923c
+1173,3,'She skipped the last four lessons' doesn't answer if she attended the whole course. It indicates she missed some lessons.,20260824T093740Z_5937923c
+1174,3,'My monitor's resolution is really poor' doesn't answer if the screen has a bad image. It provides a reason for a potentially bad image.,20260824T093740Z_5937923c
+1175,7,'She graduated from medical school last year' is a direct confirmation that she completed her medical studies.,20260824T093740Z_5937923c
+1176,2,'It is a private property' is a negative response to the question of whether it is a public building.,20260824T093740Z_5937923c
+2101,5,"The response 'I need to revise some of the topics' suggests a need to study, implying a positive response, but it's not a direct affirmation.",20260824T093740Z_5937923c
+2102,5,"The response 'There is an interesting new movie' suggests a willingness to go to the cinema, implying a positive response, but it's not a direct affirmation.",20260824T093740Z_5937923c
+2103,3,"The response 'It is quite chilly' doesn't directly answer if it's cold, but suggests a low temperature.",20260824T093740Z_5937923c
+2105,5,"The response 'I have heard good things about that book' suggests interest in borrowing it, implying a positive response, but it's not a direct affirmation.",20260824T093740Z_5937923c
+2106,2,"The response 'I pulled a muscle last time' suggests a reason to skip the yoga class, implying a negative response.",20260824T093740Z_5937923c
+2107,7,The response 'I cannot find my phone' implies they have lost it.,20260824T093740Z_5937923c
+2108,7,The response 'It is minus 20 degrees' strongly implies it is cold outside.,20260824T093740Z_5937923c
+2109,6,The response 'We have just entered a church' implies they should turn off their phones.,20260824T093740Z_5937923c
+2110,6,The response 'I am training very hard' implies they would like a protein shake.,20260824T093740Z_5937923c
+2113,6,The response 'I have been working on an exhausting task' implies they need a break from work.,20260824T093740Z_5937923c
+2114,2,The response 'I did not bring my bikini' suggests they won't go to the lake.,20260824T093740Z_5937923c
+2115,2,The response 'I do not have time' implies they are not free at the moment.,20260824T093740Z_5937923c
+2116,2,The response 'I watched it last month' implies they won't watch it tonight.,20260824T093740Z_5937923c
+2117,2,The response 'I am on a diet' implies they won't have dessert.,20260824T093740Z_5937923c
+2118,2,The response 'I am actually a Muslim' implies they don't practice Hinduism.,20260824T093740Z_5937923c
+2119,3,"The response 'My head is spinning after all these beers' suggests they might want another beer, but it's not a direct affirmation.",20260824T093740Z_5937923c
+2120,2,The response 'I am very tired' implies they won't go out.,20260824T093740Z_5937923c
+2121,2,The response 'We are broke at the moment' implies they won't go on a trip.,20260824T093740Z_5937923c
+2122,6,The response 'I have used one already in the past' implies they need no help with the chain saw.,20260824T093740Z_5937923c
+2123,2,The response 'It is 11 p.m.' implies they won't go to the cinema.,20260824T093740Z_5937923c
+2124,2,The response 'I have a hangover' implies they won't have some drinks.,20260824T093740Z_5937923c
+2125,2,The response 'I am actually diabetic' implies they won't have some cake.,20260824T093740Z_5937923c
+2127,2,The response 'I usually get seasick' implies they won't join a sea cruise.,20260824T093740Z_5937923c
+2128,7,The response 'My toothache is gone' implies they don't need painkillers.,20260824T093740Z_5937923c
+2129,5,The response 'I have several bus stops before my destination' suggests they would like to take your bus seat.,20260824T093740Z_5937923c
+2130,2,The response 'I should not staple them' implies they don't want the stapler.,20260824T093740Z_5937923c
+2131,7,The response 'It is very light' implies they don't need help with their luggage.,20260824T093740Z_5937923c
+2132,7,The response 'We have to get up at 5 am' implies they need to set the alarm clock.,20260824T093740Z_5937923c
+2134,6,The response 'French is my native language' implies they don't need you to check their French spelling.,20260824T093740Z_5937923c
+2135,2,The response 'It does not work' implies they don't need you to change the remote's batteries.,20260824T093740Z_5937923c
+2136,6,The response 'Wolves are very common here' implies there are wild animals in this region.,20260824T093740Z_5937923c
+2137,2,The response 'We only have cacti' implies there are no trees in their garden.,20260824T093740Z_5937923c
+2138,7,The response 'We need it for travelling' implies the passport is necessary for taking the plane.,20260824T093740Z_5937923c
+2139,3,The response 'I have got a sandwich' doesn't answer if they want some pie.,20260824T093740Z_5937923c
+2140,6,The response 'They have to go out soon' implies they are about to leave.,20260824T093740Z_5937923c
+2141,7,The response 'Right now I am starving' implies they are already hungry.,20260824T093740Z_5937923c
+2144,6,The response 'I drink tea all the time' implies they often consume hot drinks.,20260824T093740Z_5937923c
+2145,2,The response 'We have too much light in here' implies they don't want to turn down the dimmer.,20260824T093740Z_5937923c
+2146,2,The response 'I will be abroad then' implies they won't stay in town till Friday.,20260824T093740Z_5937923c
+2147,6,The response 'I am having a soup' implies they are eating something.,20260824T093740Z_5937923c
+2148,7,The response 'It just started pouring' implies it is raining already.,20260824T093740Z_5937923c
+2149,2,The response 'I do not drink' implies they don't want some wine.,20260824T093740Z_5937923c
+2150,3,The response 'There is a dish washer in the kitchen' doesn't answer if everything was taken away from the flat.,20260824T093740Z_5937923c
+2151,2,The response 'I gave away my racket ages ago' implies they don't want to play tennis.,20260824T093740Z_5937923c
+2152,2,The response 'I do not eat spicy dishes' implies they don't want some mexican food.,20260824T093740Z_5937923c
+2153,7,The response 'I live right next to you' implies they are actually neighbours.,20260824T093740Z_5937923c
+2155,7,The response 'I understand everything now' implies they don't need you to explain it to them again.,20260824T093740Z_5937923c
+2156,7,The response 'My chest hurts a lot' implies they want you to call the doctor.,20260824T093740Z_5937923c
+2157,2,The response 'We are in the middle of the summer' implies it is not winter there.,20260824T093740Z_5937923c
+2159,7,The response 'I cut my finger while cooking' implies they got hurt.,20260824T093740Z_5937923c
+2160,6,The response 'There is dust all over the floor' implies the living room is dirty.,20260824T093740Z_5937923c
+2161,6,The response 'I have actually brought mine' implies they don't need your toothpaste.,20260824T093740Z_5937923c
+2162,6,The response 'My lips are all chapped' implies they want some lip balm.,20260824T093740Z_5937923c
+2163,2,The response 'I am working early tomorrow morning' implies they won't join you for drinks tonight.,20260824T093740Z_5937923c
+2164,2,The response 'I plan to eat at a restaurant' implies they won't cook for both of you.,20260824T093740Z_5937923c
+2165,6,The response 'They have grown a lot recently' implies you should prune the hedges.,20260824T093740Z_5937923c
+2166,7,The response 'Lunch is now ready' implies you should set the table.,20260824T093740Z_5937923c
+2167,6,The response 'My math exercise is very complicated' implies they need a calculator for their homework.,20260824T093740Z_5937923c
+2168,3,The response 'We are not sure where to go yet' doesn't answer if they have decided on a destination.,20260824T093740Z_5937923c
+2169,2,The response 'I smoke cigars only' implies they don't want a cigarette.,20260824T093740Z_5937923c
+2170,2,The response 'I usually type directly on my laptop' implies they don't want some paper.,20260824T093740Z_5937923c
+2171,3,The response 'Our new stove was not delivered yet' doesn't answer if the kitchen is still incomplete.,20260824T093740Z_5937923c
+2172,6,The response 'Cars get stolen regularly here' implies car theft occurs often.,20260824T093740Z_5937923c
+2173,2,The response 'My wardrobe is completely full of clothes' implies they don't need to go shopping for clothes.,20260824T093740Z_5937923c
+2174,6,The response 'The dirty laundry is piling up' implies you should do the laundry.,20260824T093740Z_5937923c
+2175,6,The response 'I can have a relaxed breakfast' implies they want some pancakes for breakfast.,20260824T093740Z_5937923c

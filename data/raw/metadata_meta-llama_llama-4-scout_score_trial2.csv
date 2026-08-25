@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787585638-oHCk5QIFtr1DTXkkV2No,meta-llama/llama-4-scout,meta-llama/llama-4-scout,Groq,stop,9299,7258,0,16557,0.00349061,,chatcmpl-884a594a-ccb6-4cb9-bd93-0539e81f198e,stop,17172,17175,20260824T093740Z_5937923c

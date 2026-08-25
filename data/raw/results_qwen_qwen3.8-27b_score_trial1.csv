@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,Not seeing him for ages strongly implies he has not met him lately.,20260824T093740Z_5937923c
+1102,7,Saying he is sending out an application directly indicates he is doing something.,20260824T093740Z_5937923c
+1103,7,Training with him at the gym directly confirms regular exercise together.,20260824T093740Z_5937923c
+1104,7,A grandfather passing away is a death in the family.,20260824T093740Z_5937923c
+1105,6,A distance of about 1000 km strongly suggests Paris is very far.,20260824T093740Z_5937923c
+1106,6,A six hour drive strongly suggests the trip takes long.,20260824T093740Z_5937923c
+1107,2,A train delay suggests the journey is not going exactly as planned.,20260824T093740Z_5937923c
+1108,1,Cereal still being left means they have not finished it.,20260824T093740Z_5937923c
+1109,1,A deadline three months away means it is not next week.,20260824T093740Z_5937923c
+1110,7,Always congested streets strongly indicate a lot of traffic.,20260824T093740Z_5937923c
+1111,1,Being vegetarian means she does not eat meat.,20260824T093740Z_5937923c
+1112,7,Having the flu means he is sick.,20260824T093740Z_5937923c
+1113,7,Running for hours every day confirms daily training.,20260824T093740Z_5937923c
+1114,1,Just waking up means she is not still sleeping.,20260824T093740Z_5937923c
+1115,1,A release next week means it is not released today.,20260824T093740Z_5937923c
+1116,7,Having used a drill before confirms experience with one.,20260824T093740Z_5937923c
+1117,1,Celebrating tonight means the party is not tomorrow.,20260824T093740Z_5937923c
+1118,7,Moving out tomorrow means he is leaving soon.,20260824T093740Z_5937923c
+1119,5,"Always falling behind suggests he may be a slacker, but it is not definitive.",20260824T093740Z_5937923c
+1120,7,Being famous for surfing means the area is popular for something.,20260824T093740Z_5937923c
+1121,1,A rough sea is not calm.,20260824T093740Z_5937923c
+1122,1,Working at an NGO means not working for a corporate company.,20260824T093740Z_5937923c
+1123,7,Authoring many successful books strongly indicates he is a writer.,20260824T093740Z_5937923c
+1124,1,Still analyzing the data means the work is not finished.,20260824T093740Z_5937923c
+1125,1,Endangered status implies there are not many pandas left.,20260824T093740Z_5937923c
+1126,7,Enrolling at the gym confirms joining a fitness studio.,20260824T093740Z_5937923c
+1127,1,The thesis not being complete means it is not finished.,20260824T093740Z_5937923c
+1128,7,Saying his hair was way too long implies he used to have long hair.,20260824T093740Z_5937923c
+1129,1,A business trip is not a vacation.,20260824T093740Z_5937923c
+1130,1,Needing a larger flat means a one room flat is not enough.,20260824T093740Z_5937923c
+1131,7,A deadline tomorrow means she has to hand it in soon.,20260824T093740Z_5937923c
+1132,7,Sleeping only four hours strongly suggests a short night.,20260824T093740Z_5937923c
+1133,1,An expired offer means the flight is no longer discounted.,20260824T093740Z_5937923c
+1134,7,Getting wounded means the cat is hurt.,20260824T093740Z_5937923c
+1135,1,Mark being missing means not everyone is here.,20260824T093740Z_5937923c
+1137,7,Being Chinese means coming from Asia.,20260824T093740Z_5937923c
+1138,4,"A dead line does not clearly say who hung up, so the answer is ambiguous.",20260824T093740Z_5937923c
+1139,7,Having domestics means someone is taking care of the house.,20260824T093740Z_5937923c
+1140,1,Just opening means the bar has not been there for long.,20260824T093740Z_5937923c
+1141,7,A house full of history books strongly indicates he owns many books.,20260824T093740Z_5937923c
+1143,7,Only a few guests means the gathering is small.,20260824T093740Z_5937923c
+1144,1,Having only one week off means he does not have two weeks.,20260824T093740Z_5937923c
+1145,7,Going to have a baby strongly implies pregnancy.,20260824T093740Z_5937923c
+1147,1,Still owing money means the debts are not paid back.,20260824T093740Z_5937923c
+1148,1,Only having water means he did not drink a cocktail.,20260824T093740Z_5937923c
+1149,2,Owning an orchard suggests he does not have a vegetable garden.,20260824T093740Z_5937923c
+1150,1,Being 25 years old means he is not underage.,20260824T093740Z_5937923c
+1151,1,Extremely expensive tuition means Harvard is not affordable.,20260824T093740Z_5937923c
+1152,7,A recent bank transfer strongly indicates she has paid.,20260824T093740Z_5937923c
+1153,1,Not being able to swim means they are not good at swimming.,20260824T093740Z_5937923c
+1154,1,Being healthy again means he no longer has a cold.,20260824T093740Z_5937923c
+1155,7,People not being allowed closer means approaching is forbidden.,20260824T093740Z_5937923c
+1156,7,Watering them regularly means someone took care of the plants.,20260824T093740Z_5937923c
+1157,1,Being already dead by then means he was not alive in the 80s.,20260824T093740Z_5937923c
+1158,7,A thick ice layer means the lake is frozen.,20260824T093740Z_5937923c
+1159,1,Being in the advanced course means not attending the beginners class.,20260824T093740Z_5937923c
+1160,7,Seeing a doctor means seeking medical advice.,20260824T093740Z_5937923c
+1161,1,Going out with friends means he did not stay home.,20260824T093740Z_5937923c
+1162,7,Voting yesterday means there was an election recently.,20260824T093740Z_5937923c
+1163,7,Spotless means the car is completely clean.,20260824T093740Z_5937923c
+1164,1,Submitting a blank sheet means they did not answer all questions.,20260824T093740Z_5937923c
+1165,1,Just getting into the changing room means she is not out on the field.,20260824T093740Z_5937923c
+1166,6,"Being compensated strongly suggests he got money back, though not explicitly.",20260824T093740Z_5937923c
+1167,1,No one responding means no one answered the ad.,20260824T093740Z_5937923c
+1168,2,"Not playing any instrument strongly suggests he is not a musician, though not absolute.",20260824T093740Z_5937923c
+1169,7,Being in Japan for months means he has travelled in Asia.,20260824T093740Z_5937923c
+1170,7,Aiming for the mountain top means the goal is the summit.,20260824T093740Z_5937923c
+1171,7,The customer receiving it means he got the package.,20260824T093740Z_5937923c
+1173,1,Skipping lessons means she did not attend the whole course.,20260824T093740Z_5937923c
+1174,7,Poor resolution means the screen has a bad image.,20260824T093740Z_5937923c
+1175,7,Graduating from medical school strongly indicates she completed medical studies.,20260824T093740Z_5937923c
+1176,1,Private property means it is not a public building.,20260824T093740Z_5937923c
+1201,3,"Not seeing him for ages suggests they are not still good friends, but it is not certain.",20260824T093740Z_5937923c
+1202,7,Sending out an application strongly indicates looking for a job.,20260824T093740Z_5937923c
+1203,7,Training with him at the gym indicates he knows Lukas.,20260824T093740Z_5937923c
+1204,4,"A grandfather dying may imply inheritance, but it does not confirm the property is his.",20260824T093740Z_5937923c
+1205,6,A distance of about 1000 km strongly suggests driving to Paris takes long.,20260824T093740Z_5937923c
+1206,6,A six hour drive strongly suggests Munich is far.,20260824T093740Z_5937923c
+1207,4,"A train delay may or may not prevent being home by noon, so it is ambiguous.",20260824T093740Z_5937923c
+1208,4,Cereal being left does not clearly say whether it was bought.,20260824T093740Z_5937923c
+1209,3,"The deadline being far away suggests the essay has not been started, but it is not explicit.",20260824T093740Z_5937923c
+1210,5,"Always congested streets suggest they may be late, but not certainly.",20260824T093740Z_5937923c
+1211,2,Being vegetarian strongly suggests she is not coming to a steak house.,20260824T093740Z_5937923c
+1212,5,Having the flu strongly suggests John is staying home.,20260824T093740Z_5937923c
+1213,4,Running daily does not confirm marathon registration.,20260824T093740Z_5937923c
+1214,2,Just waking up strongly suggests she has not had breakfast.,20260824T093740Z_5937923c
+1215,1,A release next week means he has not seen the movie yet.,20260824T093740Z_5937923c
+1216,7,Having used a drill before indicates he knows how to use one.,20260824T093740Z_5937923c
+1217,2,Celebrating tonight strongly suggests he did not fail the exam.,20260824T093740Z_5937923c
+1218,4,Moving out does not clearly indicate a breakup.,20260824T093740Z_5937923c
+1219,4,Falling behind does not clearly indicate he was fired.,20260824T093740Z_5937923c
+1220,5,"Being famous for surfing suggests there are big waves, but not explicitly.",20260824T093740Z_5937923c
+1221,2,A rough sea strongly suggests it is not safe to swim.,20260824T093740Z_5937923c
+1222,2,Working at an NGO strongly suggests he does not make a lot of money.,20260824T093740Z_5937923c
+1223,5,"Authoring successful books suggests he is famous, but not explicitly.",20260824T093740Z_5937923c
+1224,2,Still analyzing the data strongly suggests he did not present it.,20260824T093740Z_5937923c
+1225,2,Endangered status strongly suggests hunting pandas is not legal.,20260824T093740Z_5937923c
+1226,4,Enrolling at the gym does not confirm weight loss.,20260824T093740Z_5937923c
+1227,1,An incomplete thesis means he has not graduated.,20260824T093740Z_5937923c
+1228,4,Hair being too long does not confirm it was cut.,20260824T093740Z_5937923c
+1229,2,A business trip strongly suggests there was no time for sightseeing.,20260824T093740Z_5937923c
+1230,1,Needing a larger flat means he did not buy the one room flat.,20260824T093740Z_5937923c
+1231,5,A deadline tomorrow strongly suggests she is stressed.,20260824T093740Z_5937923c
+1232,5,Sleeping only four hours strongly suggests he is tired.,20260824T093740Z_5937923c
+1233,2,An expired offer strongly suggests he did not book the flight.,20260824T093740Z_5937923c
+1234,5,A wounded cat strongly suggests it is being brought to the vet.,20260824T093740Z_5937923c
+1235,1,Mark being missing means they are not ready to go.,20260824T093740Z_5937923c
+1237,4,Being Chinese does not clearly mean he can cook cantonese rice.,20260824T093740Z_5937923c
+1238,2,"A dead line strongly suggests he could not tell him, but it is not explicit.",20260824T093740Z_5937923c
+1239,5,Having domestics suggests the house is tidy.,20260824T093740Z_5937923c
+1240,2,Just opening strongly suggests he has not tried the bar yet.,20260824T093740Z_5937923c
+1241,5,A house full of history books suggests a passion for history.,20260824T093740Z_5937923c
+1243,5,Only a few guests suggests the saucepan is big enough.,20260824T093740Z_5937923c
+1244,1,Having only one week off means he will not take a two week trip.,20260824T093740Z_5937923c
+1245,5,Going to have a baby strongly suggests avoiding alcohol.,20260824T093740Z_5937923c
+1247,4,Owing the bank does not clearly indicate a new loan.,20260824T093740Z_5937923c
+1248,1,Only having water means he is not drunk.,20260824T093740Z_5937923c
+1249,2,Owning an orchard strongly suggests he does not buy fruit in the supermarket.,20260824T093740Z_5937923c
+1250,1,Being 25 means he is not at elementary school.,20260824T093740Z_5937923c
+1251,2,Extremely expensive tuition strongly suggests Harvard is not an option.,20260824T093740Z_5937923c
+1252,5,A recent bank transfer strongly suggests she accepted the deal.,20260824T093740Z_5937923c
+1253,4,Not being able to swim does not clearly say whether they went to the pool.,20260824T093740Z_5937923c
+1254,2,Being healthy again strongly suggests he is not still taking the pills.,20260824T093740Z_5937923c
+1255,5,People not being allowed closer suggests the area is contaminated.,20260824T093740Z_5937923c
+1256,5,Watering them regularly suggests the plants are still alive.,20260824T093740Z_5937923c
+1257,1,Being already dead by then means he did not create the artwork in 1981.,20260824T093740Z_5937923c
+1258,5,A thick ice layer suggests it is ice skating season.,20260824T093740Z_5937923c
+1259,1,Being in the advanced course means he is not a beginner.,20260824T093740Z_5937923c
+1260,4,Seeing a doctor does not clearly confirm illness.,20260824T093740Z_5937923c
+1261,2,Going out with friends strongly suggests he did not go to bed early.,20260824T093740Z_5937923c
+1262,5,Voting yesterday suggests the members can elect a representative.,20260824T093740Z_5937923c
+1263,5,The car being spotless suggests it is back from the car wash.,20260824T093740Z_5937923c
+1264,1,Submitting a blank sheet means they did not write a good exam.,20260824T093740Z_5937923c
+1265,2,Just getting into the changing room suggests she is not dressed yet.,20260824T093740Z_5937923c
+1266,4,Being compensated does not clearly confirm the lawsuit was settled.,20260824T093740Z_5937923c
+1267,1,No one responding means the house has not been sold.,20260824T093740Z_5937923c
+1268,2,Not playing any instrument strongly suggests he is not in the marching band.,20260824T093740Z_5937923c
+1269,5,Being in Japan for months suggests he has tried sushi.,20260824T093740Z_5937923c
+1270,4,Aiming for the mountain top does not confirm the whole way is uphill.,20260824T093740Z_5937923c
+1271,7,The customer receiving it means the package was shipped to him.,20260824T093740Z_5937923c
+1273,1,Skipping lessons means she is not very dedicated.,20260824T093740Z_5937923c
+1274,5,Poor monitor resolution suggests his eyes get strained.,20260824T093740Z_5937923c
+1275,7,Graduating from medical school strongly indicates she is a medical doctor.,20260824T093740Z_5937923c
+1276,4,Private property does not clearly say whether he has been inside.,20260824T093740Z_5937923c
+2101,7,Needing to revise topics means he has to study.,20260824T093740Z_5937923c
+2102,7,An interesting new movie means something has come out recently.,20260824T093740Z_5937923c
+2103,7,Quite chilly means it is cold.,20260824T093740Z_5937923c
+2105,5,Hearing good things means he knows something about the novel.,20260824T093740Z_5937923c
+2106,6,Pulling a muscle last time strongly suggests he was injured at yoga.,20260824T093740Z_5937923c
+2107,5,Not being able to find the phone suggests he has lost it.,20260824T093740Z_5937923c
+2108,7,Minus 20 degrees means it is cold.,20260824T093740Z_5937923c
+2109,7,Entering a church means they are in a religious building.,20260824T093740Z_5937923c
+2110,5,Training very hard suggests the workouts are difficult.,20260824T093740Z_5937923c
+2113,7,Working on an exhausting task means he was working today.,20260824T093740Z_5937923c
+2114,2,Not bringing a bikini strongly suggests he does not have swimming gear.,20260824T093740Z_5937923c
+2115,1,Not having time means he is not free.,20260824T093740Z_5937923c
+2116,1,Watching it last month means he did not watch it yesterday.,20260824T093740Z_5937923c
+2117,2,Being on a diet strongly suggests he is not eating more than usual.,20260824T093740Z_5937923c
+2118,1,Being Muslim means he does not practise Hinduism.,20260824T093740Z_5937923c
+2119,1,A spinning head means he is not feeling ok.,20260824T093740Z_5937923c
+2120,1,Being very tired means he is not feeling energetic.,20260824T093740Z_5937923c
+2121,1,Being broke means they have no money saved.,20260824T093740Z_5937923c
+2122,1,Having used one before means it is not his first experience.,20260824T093740Z_5937923c
+2123,1,11 p.m. means it is not morning.,20260824T093740Z_5937923c
+2124,1,A hangover means he is not feeling good.,20260824T093740Z_5937923c
+2125,1,Being diabetic means he is not free of chronic disease.,20260824T093740Z_5937923c
+2127,1,Usually getting seasick means he does not feel well on boats.,20260824T093740Z_5937923c
+2128,1,The toothache being gone means his teeth are not still hurting.,20260824T093740Z_5937923c
+2129,5,Several bus stops suggests there are many stations on his way.,20260824T093740Z_5937923c
+2130,1,Not being allowed to staple means he is not allowed.,20260824T093740Z_5937923c
+2131,1,Very light means the luggage does not weigh much.,20260824T093740Z_5937923c
+2132,7,Getting up at 5 am means they need to wake up early.,20260824T093740Z_5937923c
+2134,1,French being native means Spanish is not his mother tongue.,20260824T093740Z_5937923c
+2135,7,Not working means the remote is still unusable.,20260824T093740Z_5937923c
+2136,7,Wolves being common means there are wild animals.,20260824T093740Z_5937923c
+2137,1,Only having cacti means there are no trees.,20260824T093740Z_5937923c
+2138,7,Needing it for travelling means the passport is necessary.,20260824T093740Z_5937923c
+2139,1,Having a sandwich means he did not bring pie.,20260824T093740Z_5937923c
+2140,7,Having to go out soon means the kids are about to leave.,20260824T093740Z_5937923c
+2141,7,Starving means he is already hungry.,20260824T093740Z_5937923c
+2144,7,Drinking tea all the time means he often consumes hot drinks.,20260824T093740Z_5937923c
+2145,7,Too much light means the room is very bright.,20260824T093740Z_5937923c
+2146,1,Being abroad then means he will not stay in town till Friday.,20260824T093740Z_5937923c
+2147,7,Having a soup means he is eating something.,20260824T093740Z_5937923c
+2148,7,Just started pouring means it is raining already.,20260824T093740Z_5937923c
+2149,1,Not drinking means he does not consume alcohol.,20260824T093740Z_5937923c
+2150,1,A dishwasher remaining means not everything was taken away.,20260824T093740Z_5937923c
+2151,2,Giving away his racket strongly suggests he no longer has tennis equipment.,20260824T093740Z_5937923c
+2152,1,Not eating spicy dishes means he does not consume all types of food.,20260824T093740Z_5937923c
+2153,7,Living right next to you means they are neighbours.,20260824T093740Z_5937923c
+2155,1,Understanding everything now means he is not still confused.,20260824T093740Z_5937923c
+2156,7,Chest hurting means he feels pain in his upper body.,20260824T093740Z_5937923c
+2157,1,Middle of summer means it is not winter.,20260824T093740Z_5937923c
+2159,7,Cutting a finger means he got hurt.,20260824T093740Z_5937923c
+2160,7,Dust all over the floor means the living room is dirty.,20260824T093740Z_5937923c
+2161,1,Bringing his toothpaste means he did not leave it at home.,20260824T093740Z_5937923c
+2162,7,Chapped lips means they got damaged by the wind.,20260824T093740Z_5937923c
+2163,1,Working early tomorrow morning means not doing the afternoon shift.,20260824T093740Z_5937923c
+2164,1,Eating at a restaurant means not having dinner at home.,20260824T093740Z_5937923c
+2165,7,Growing a lot recently means the hedges are taller than last time.,20260824T093740Z_5937923c
+2166,7,Lunch being ready means cooking is finished.,20260824T093740Z_5937923c
+2167,7,A very complicated math exercise means the homework is difficult.,20260824T093740Z_5937923c
+2168,1,Not being sure where to go means they have not decided.,20260824T093740Z_5937923c
+2169,1,Smoking cigars only means he does not smoke cigarettes.,20260824T093740Z_5937923c
+2170,1,Typing on a laptop means he is not writing on paper.,20260824T093740Z_5937923c
+2171,7,The stove not being delivered means the kitchen is still incomplete.,20260824T093740Z_5937923c
+2172,7,Cars getting stolen regularly means car theft occurs often.,20260824T093740Z_5937923c
+2173,1,A completely full wardrobe means there is no room left.,20260824T093740Z_5937923c
+2174,7,Laundry piling up means there is a lot to wash.,20260824T093740Z_5937923c
+2175,7,Having a relaxed breakfast means he is taking time for breakfast.,20260824T093740Z_5937923c
+2201,5,"Needing to revise suggests he is willing to study, though not explicitly together.",20260824T093740Z_5937923c
+2202,5,An interesting new movie suggests he wants to go to the cinema.,20260824T093740Z_5937923c
+2203,5,It being chilly suggests he wants the window closed.,20260824T093740Z_5937923c
+2205,5,Hearing good things suggests he wants to borrow the book.,20260824T093740Z_5937923c
+2206,5,Pulling a muscle suggests he wants to skip yoga.,20260824T093740Z_5937923c
+2207,5,Not finding his phone suggests he wants to use the other phone.,20260824T093740Z_5937923c
+2208,5,Minus 20 degrees suggests he needs a coat.,20260824T093740Z_5937923c
+2209,5,Entering a church suggests they should turn off phones.,20260824T093740Z_5937923c
+2210,5,Training very hard suggests he wants a protein shake.,20260824T093740Z_5937923c
+2213,5,Working on an exhausting task suggests he wants a break.,20260824T093740Z_5937923c
+2214,2,Not bringing a bikini suggests he does not want to go to the lake.,20260824T093740Z_5937923c
+2215,1,Not having time means he is not coming.,20260824T093740Z_5937923c
+2216,2,Having watched it last month suggests he does not want to watch it tonight.,20260824T093740Z_5937923c
+2217,2,Being on a diet suggests he does not want dessert.,20260824T093740Z_5937923c
+2218,1,Being Muslim means he does not want pork.,20260824T093740Z_5937923c
+2219,2,A spinning head suggests he does not want another beer.,20260824T093740Z_5937923c
+2220,2,Being very tired suggests he does not want to go out.,20260824T093740Z_5937923c
+2221,2,Being broke suggests he does not want to go on a trip.,20260824T093740Z_5937923c
+2222,2,Having used a chainsaw before suggests he does not need help.,20260824T093740Z_5937923c
+2223,3,"It being 11 p.m. suggests going to the cinema may be too late, but not certain.",20260824T093740Z_5937923c
+2224,2,Having a hangover suggests he does not want drinks.,20260824T093740Z_5937923c
+2225,2,Being diabetic suggests he does not want cake.,20260824T093740Z_5937923c
+2227,2,Usually getting seasick suggests he is not joining a sea cruise.,20260824T093740Z_5937923c
+2228,1,The toothache being gone means he does not want painkillers.,20260824T093740Z_5937923c
+2229,2,Having several stops left suggests he does not want to give up his seat.,20260824T093740Z_5937923c
+2230,1,Not being allowed to staple means he does not want the stapler.,20260824T093740Z_5937923c
+2231,2,The luggage being very light suggests he does not need help.,20260824T093740Z_5937923c
+2232,5,Having to get up at 5 am suggests they should set the alarm.,20260824T093740Z_5937923c
+2234,2,French being native suggests he does not need spelling checked.,20260824T093740Z_5937923c
+2235,5,The remote not working suggests changing batteries is needed.,20260824T093740Z_5937923c
+2236,5,Wolves being common suggests the cattle should be locked up.,20260824T093740Z_5937923c
+2237,2,Only having cacti suggests they do not need watering.,20260824T093740Z_5937923c
+2238,5,Needing the passport for travelling suggests it should be packed.,20260824T093740Z_5937923c
+2239,2,Having a sandwich suggests he does not want more food.,20260824T093740Z_5937923c
+2240,5,The kids having to go out soon suggests they should be woken.,20260824T093740Z_5937923c
+2241,5,Being starving suggests he wants biscuits.,20260824T093740Z_5937923c
+2244,5,Drinking tea all the time suggests he wants to use the kettle.,20260824T093740Z_5937923c
+2245,5,Too much light suggests the dimmer should be turned down.,20260824T093740Z_5937923c
+2246,1,Being abroad then means he is not coming to the party.,20260824T093740Z_5937923c
+2247,5,Having soup suggests he wants a spoon.,20260824T093740Z_5937923c
+2248,5,It pouring suggests he wants an umbrella.,20260824T093740Z_5937923c
+2249,1,Not drinking means he does not want wine.,20260824T093740Z_5937923c
+2250,2,Having a dishwasher suggests he does not want help with dishes.,20260824T093740Z_5937923c
+2251,2,Not having a racket suggests he does not want to play tennis.,20260824T093740Z_5937923c
+2252,2,Not eating spicy dishes suggests he does not want Mexican food.,20260824T093740Z_5937923c
+2253,1,Living right next door means he does not want a ride.,20260824T093740Z_5937923c
+2255,1,Understanding everything now means he does not want another explanation.,20260824T093740Z_5937923c
+2256,5,Chest hurting suggests he wants the doctor called.,20260824T093740Z_5937923c
+2257,2,It being summer suggests he does not want an extra blanket.,20260824T093740Z_5937923c
+2259,5,Cutting a finger suggests he wants a plaster.,20260824T093740Z_5937923c
+2260,5,Dust all over the floor suggests the room should be swept.,20260824T093740Z_5937923c
+2261,1,Bringing his own toothpaste means he does not want some.,20260824T093740Z_5937923c
+2262,5,Chapped lips suggests he wants lip balm.,20260824T093740Z_5937923c
+2263,2,Working early tomorrow suggests he is not joining drinks tonight.,20260824T093740Z_5937923c
+2264,1,Eating at a restaurant means he does not want cooking.,20260824T093740Z_5937923c
+2265,5,Hedges having grown a lot suggests they should be pruned.,20260824T093740Z_5937923c
+2266,5,Lunch being ready suggests the table should be set.,20260824T093740Z_5937923c
+2267,5,Complicated math suggests he wants a calculator.,20260824T093740Z_5937923c
+2268,1,Not knowing the destination means tickets should not be bought yet.,20260824T093740Z_5937923c
+2269,1,Smoking cigars only means he does not want a cigarette.,20260824T093740Z_5937923c
+2270,1,Typing on a laptop means he does not want paper.,20260824T093740Z_5937923c
+2271,5,The stove not being delivered suggests delivery food is needed.,20260824T093740Z_5937923c
+2272,5,Cars getting stolen regularly suggests the car should be locked.,20260824T093740Z_5937923c
+2273,2,A full wardrobe suggests he does not want to shop for clothes.,20260824T093740Z_5937923c
+2274,5,Laundry piling up suggests it should be done.,20260824T093740Z_5937923c
+2275,5,"Having a relaxed breakfast suggests he may want pancakes, but it is not explicit.",20260824T093740Z_5937923c

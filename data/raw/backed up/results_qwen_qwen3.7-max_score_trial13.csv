@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Person B says they haven't seen Martin for ages, which directly answers 'no' to whether they've met him lately.",20260824T093740Z_5937923c
+1102,7,"Person B confirms they are doing something (sending an application), which is a clear 'yes'.",20260824T093740Z_5937923c
+1103,7,"Person B confirms they train with Lukas at the gym, which is a clear 'yes'.",20260824T093740Z_5937923c
+1104,7,"Person B confirms there was a death (grandfather passed away), which is a clear 'yes'.",20260824T093740Z_5937923c
+1105,7,"Person B confirms Paris is far (1000 km away), which is a clear 'yes'.",20260824T093740Z_5937923c
+1106,7,"Person B confirms it takes long (six hour drive), which is a clear 'yes'.",20260824T093740Z_5937923c
+1107,1,"Person B says the train has a delay, indicating the journey is not going as planned, which is a clear 'no'.",20260824T093740Z_5937923c
+1108,1,"Person B says there is still some cereal left, indicating they haven't finished, which is a clear 'no'.",20260824T093740Z_5937923c
+1109,1,"Person B says the deadline is not for three months, indicating it's not next week, which is a clear 'no'.",20260824T093740Z_5937923c
+1110,7,"Person B confirms there is a lot of traffic (streets are always congested), which is a clear 'yes'.",20260824T093740Z_5937923c
+1111,1,"Person B says Megan is vegetarian, indicating she doesn't eat meat, which is a clear 'no'.",20260824T093740Z_5937923c
+1112,7,"Person B confirms John is sick (has the flu), which is a clear 'yes'.",20260824T093740Z_5937923c
+1113,7,"Person B confirms Sonya trains daily (runs for hours every day), which is a clear 'yes'.",20260824T093740Z_5937923c
+1114,1,"Person B says Clara just woke up, indicating she is no longer sleeping, which is a clear 'no'.",20260824T093740Z_5937923c
+1115,1,"Person B says the movie comes out next week, indicating it's not being released today, which is a clear 'no'.",20260824T093740Z_5937923c
+1116,7,"Person B confirms they have used a drill before, which is a clear 'yes'.",20260824T093740Z_5937923c
+1117,1,"Person B says they are celebrating tonight, indicating the party is not tomorrow, which is a clear 'no'.",20260824T093740Z_5937923c
+1118,7,"Person B confirms they are moving out tomorrow, which is a clear 'yes'.",20260824T093740Z_5937923c
+1119,7,"Person B confirms he is a slacker (always falling behind), which is a clear 'yes'.",20260824T093740Z_5937923c
+1120,7,"Person B confirms the area is popular for surfing, which is a clear 'yes'.",20260824T093740Z_5937923c
+1121,1,"Person B says the sea is quite rough, indicating it is not calm, which is a clear 'no'.",20260824T093740Z_5937923c
+1122,1,"Person B says they work at an NGO, indicating they don't work for a corporate company, which is a clear 'no'.",20260824T093740Z_5937923c
+1123,7,"Person B confirms he is a writer (authored many successful books), which is a clear 'yes'.",20260824T093740Z_5937923c
+1124,1,"Person B says they are still analyzing the data, indicating they are not finished, which is a clear 'no'.",20260824T093740Z_5937923c
+1125,1,"Person B says pandas are an endangered species, indicating there are not many left, which is a clear 'no'.",20260824T093740Z_5937923c
+1126,7,"Person B confirms they have enrolled at the gym, which is a clear 'yes'.",20260824T093740Z_5937923c
+1127,1,"Person B says their thesis is not complete yet, indicating they haven't finished, which is a clear 'no'.",20260824T093740Z_5937923c
+1128,7,"Person B confirms they used to have long hair (was way too long), which is a clear 'yes'.",20260824T093740Z_5937923c
+1129,1,"Person B says it was a business trip, indicating they didn't go for vacation, which is a clear 'no'.",20260824T093740Z_5937923c
+1130,1,"Person B says they need a larger flat, indicating one room is not enough, which is a clear 'no'.",20260824T093740Z_5937923c
+1131,7,"Person B confirms the deadline is tomorrow, indicating she has to hand in soon, which is a clear 'yes'.",20260824T093740Z_5937923c
+1132,7,"Person B confirms they had a short night (slept only four hours), which is a clear 'yes'.",20260824T093740Z_5937923c
+1133,1,"Person B says the offer had already expired, indicating the flight was not still discounted, which is a clear 'no'.",20260824T093740Z_5937923c
+1134,7,"Person B confirms the cat is hurt (got wounded), which is a clear 'yes'.",20260824T093740Z_5937923c
+1135,1,"Person B says Mark is still missing, indicating not everyone is here, which is a clear 'no'.",20260824T093740Z_5937923c
+1137,7,"Person B confirms they are Chinese, indicating they come from Asia, which is a clear 'yes'.",20260824T093740Z_5937923c
+1138,1,"Person B says the line went dead, indicating they didn't hang up intentionally, which is a clear 'no'.",20260824T093740Z_5937923c
+1139,7,"Person B confirms someone is taking care of the house (they have domestics), which is a clear 'yes'.",20260824T093740Z_5937923c
+1140,1,"Person B says the bar just opened, indicating it hasn't been there for long, which is a clear 'no'.",20260824T093740Z_5937923c
+1141,7,"Person B confirms he owns many books (house is full of history books), which is a clear 'yes'.",20260824T093740Z_5937923c
+1143,7,"Person B confirms there is a small gathering (only few guests over for dinner), which is a clear 'yes'.",20260824T093740Z_5937923c
+1144,1,"Person B says they only have one week off, indicating they don't have two weeks of holiday, which is a clear 'no'.",20260824T093740Z_5937923c
+1145,7,"Person B confirms they are pregnant (going to have a baby), which is a clear 'yes'.",20260824T093740Z_5937923c
+1147,1,"Person B says they still owe the bank money, indicating they haven't paid back their debts, which is a clear 'no'.",20260824T093740Z_5937923c
+1148,1,"Person B says he only had water, indicating he didn't drink a cocktail, which is a clear 'no'.",20260824T093740Z_5937923c
+1149,1,"Person B says they own an orchard, indicating they don't have a vegetable garden, which is a clear 'no'.",20260824T093740Z_5937923c
+1150,1,"Person B says their son is 25 years old, indicating he is not underage, which is a clear 'no'.",20260824T093740Z_5937923c
+1151,1,"Person B says Harvard's tuition is extremely expensive, indicating it is not affordable, which is a clear 'no'.",20260824T093740Z_5937923c
+1152,7,"Person B confirms she paid (made a bank transfer), which is a clear 'yes'.",20260824T093740Z_5937923c
+1153,1,"Person B says the kids cannot swim yet, indicating they are not good at swimming, which is a clear 'no'.",20260824T093740Z_5937923c
+1154,1,"Person B says they are healthy again, indicating they no longer have a cold, which is a clear 'no'.",20260824T093740Z_5937923c
+1155,7,"Person B confirms it is forbidden (people are not allowed to get closer), which is a clear 'yes'.",20260824T093740Z_5937923c
+1156,7,"Person B confirms they took care of the plants (watered them regularly), which is a clear 'yes'.",20260824T093740Z_5937923c
+1157,1,"Person B says the artist was already dead by the 80s, indicating he was not alive then, which is a clear 'no'.",20260824T093740Z_5937923c
+1158,7,"Person B confirms the lake is frozen (ice layer is quite thick), which is a clear 'yes'.",20260824T093740Z_5937923c
+1159,1,"Person B says they are in the advanced course, indicating they are not attending the beginners' class, which is a clear 'no'.",20260824T093740Z_5937923c
+1160,7,"Person B confirms they have seen a doctor, which is a clear 'yes'.",20260824T093740Z_5937923c
+1161,1,"Person B says they went out with friends, indicating they didn't stay home, which is a clear 'no'.",20260824T093740Z_5937923c
+1162,7,"Person B confirms there was an election (they voted yesterday), which is a clear 'yes'.",20260824T093740Z_5937923c
+1163,7,"Person B confirms the car is completely clean (spotless), which is a clear 'yes'.",20260824T093740Z_5937923c
+1164,1,"Person B says they submitted a blank sheet, indicating they didn't answer all questions, which is a clear 'no'.",20260824T093740Z_5937923c
+1165,1,"Person B says she just got into the changing room, indicating she is not out on the tennis field, which is a clear 'no'.",20260824T093740Z_5937923c
+1166,7,"Person B confirms he got the money back (was compensated), which is a clear 'yes'.",20260824T093740Z_5937923c
+1167,1,"Person B says no one has responded, indicating no one has answered the ad, which is a clear 'no'.",20260824T093740Z_5937923c
+1168,1,"Person B says he doesn't play any instrument, indicating he is not a musician, which is a clear 'no'.",20260824T093740Z_5937923c
+1169,7,"Person B confirms he has been in Japan for several months, indicating he has travelled in Asia, which is a clear 'yes'.",20260824T093740Z_5937923c
+1170,7,"Person B confirms the goal is the summit (aiming for the mountain top), which is a clear 'yes'.",20260824T093740Z_5937923c
+1171,7,"Person B confirms the customer received the package, which is a clear 'yes'.",20260824T093740Z_5937923c
+1173,1,"Person B says she skipped the last four lessons, indicating she didn't attend the whole course, which is a clear 'no'.",20260824T093740Z_5937923c
+1174,7,"Person B confirms the screen has a bad image (monitor's resolution is really poor), which is a clear 'yes'.",20260824T093740Z_5937923c
+1175,7,"Person B confirms she completed her medical studies (graduated from medical school), which is a clear 'yes'.",20260824T093740Z_5937923c
+1176,1,"Person B says it is private property, indicating it is not a public building, which is a clear 'no'.",20260824T093740Z_5937923c
+1201,1,"Person B says they haven't seen Martin for ages, indicating they are not still good friends, which is a clear 'no'.",20260824T093740Z_5937923c
+1202,7,"Person B confirms they are looking for a job (sending out an application), which is a clear 'yes'.",20260824T093740Z_5937923c
+1203,7,"Person B confirms they know Lukas (train with him at the gym), which is a clear 'yes'.",20260824T093740Z_5937923c
+1204,7,"Person B confirms it is his property now (grandfather passed away recently), which is a clear 'yes'.",20260824T093740Z_5937923c
+1205,7,"Person B confirms it takes long to drive to Paris (1000 km away), which is a clear 'yes'.",20260824T093740Z_5937923c
+1206,7,"Person B confirms Munich is far (six hour drive), which is a clear 'yes'.",20260824T093740Z_5937923c
+1207,1,"Person B says their train has a delay, indicating they won't be home by noon, which is a clear 'no'.",20260824T093740Z_5937923c
+1208,1,"Person B says there is still some cereal left, indicating they haven't bought more, which is a clear 'no'.",20260824T093740Z_5937923c
+1209,1,"Person B says the essay is not due for three months, indicating they haven't started writing it, which is a clear 'no'.",20260824T093740Z_5937923c
+1210,7,"Person B confirms they will be late (streets are always congested), which is a clear 'yes'.",20260824T093740Z_5937923c
+1211,1,"Person B says Megan is vegetarian, indicating she won't come to the steak house, which is a clear 'no'.",20260824T093740Z_5937923c
+1212,7,"Person B confirms John is staying home (has the flu), which is a clear 'yes'.",20260824T093740Z_5937923c
+1213,7,"Person B confirms Sonya has registered for the marathon (runs for hours every day), which is a clear 'yes'.",20260824T093740Z_5937923c
+1214,1,"Person B says Clara just woke up, indicating she hasn't had breakfast yet, which is a clear 'no'.",20260824T093740Z_5937923c
+1215,1,"Person B says the movie comes out next week, indicating they haven't seen it, which is a clear 'no'.",20260824T093740Z_5937923c
+1216,7,"Person B confirms they know how to use a drill (have used one before), which is a clear 'yes'.",20260824T093740Z_5937923c
+1217,1,"Person B says they are celebrating tonight, indicating they haven't failed the exam, which is a clear 'no'.",20260824T093740Z_5937923c
+1218,7,"Person B confirms they are breaking up (moving out tomorrow), which is a clear 'yes'.",20260824T093740Z_5937923c
+1219,7,"Person B confirms he was fired (always falling behind), which is a clear 'yes'.",20260824T093740Z_5937923c
+1220,7,"Person B confirms there are big waves (region is famous for surfing), which is a clear 'yes'.",20260824T093740Z_5937923c
+1221,1,"Person B says the sea is quite rough, indicating it is not safe to swim, which is a clear 'no'.",20260824T093740Z_5937923c
+1222,1,"Person B says they work at an NGO, indicating they don't make a lot of money, which is a clear 'no'.",20260824T093740Z_5937923c
+1223,7,"Person B confirms he is famous (authored many successful books), which is a clear 'yes'.",20260824T093740Z_5937923c
+1224,1,"Person B says they are still analyzing the data, indicating they didn't present it at the meeting, which is a clear 'no'.",20260824T093740Z_5937923c
+1225,1,"Person B says pandas are an endangered species, indicating it is not legal to hunt them, which is a clear 'no'.",20260824T093740Z_5937923c
+1226,7,"Person B confirms they have lost weight (enrolled at the gym), which is a clear 'yes'.",20260824T093740Z_5937923c
+1227,1,"Person B says their thesis is not complete yet, indicating they haven't graduated, which is a clear 'no'.",20260824T093740Z_5937923c
+1228,7,"Person B confirms they got their hair cut (hair was way too long), which is a clear 'yes'.",20260824T093740Z_5937923c
+1229,1,"Person B says it was a business trip, indicating they didn't have time for sightseeing, which is a clear 'no'.",20260824T093740Z_5937923c
+1230,1,"Person B says they need a larger flat, indicating they didn't buy the one room flat, which is a clear 'no'.",20260824T093740Z_5937923c
+1231,7,"Person B confirms she is stressed (deadline is tomorrow), which is a clear 'yes'.",20260824T093740Z_5937923c
+1232,7,"Person B confirms they are tired (slept only four hours), which is a clear 'yes'.",20260824T093740Z_5937923c
+1233,1,"Person B says the offer had already expired, indicating he didn't book the flight, which is a clear 'no'.",20260824T093740Z_5937923c
+1234,7,"Person B confirms they are bringing the cat to the vet (it got wounded), which is a clear 'yes'.",20260824T093740Z_5937923c
+1235,1,"Person B says Mark is still missing, indicating they are not ready to go, which is a clear 'no'.",20260824T093740Z_5937923c
+1237,7,"Person B confirms they can cook cantonese rice (they are Chinese), which is a clear 'yes'.",20260824T093740Z_5937923c
+1238,1,"Person B says the line went dead, indicating they haven't told him about the issue, which is a clear 'no'.",20260824T093740Z_5937923c
+1239,7,"Person B confirms the house is always tidy (they have domestics), which is a clear 'yes'.",20260824T093740Z_5937923c
+1240,1,"Person B says the bar just opened, indicating they haven't tried it yet, which is a clear 'no'.",20260824T093740Z_5937923c
+1241,7,"Person B confirms he has a passion for history (house is full of history books), which is a clear 'yes'.",20260824T093740Z_5937923c
+1243,1,"Person B says they have only few guests over, indicating the saucepan is not big enough, which is a clear 'no'.",20260824T093740Z_5937923c
+1244,1,"Person B says they only have one week off, indicating they won't take a two weeks trip, which is a clear 'no'.",20260824T093740Z_5937923c
+1245,7,"Person B confirms they are avoiding alcohol (going to have a baby), which is a clear 'yes'.",20260824T093740Z_5937923c
+1247,1,"Person B says they still owe the bank money, indicating they didn't get a new loan, which is a clear 'no'.",20260824T093740Z_5937923c
+1248,1,"Person B says he only had water, indicating he is not drunk, which is a clear 'no'.",20260824T093740Z_5937923c
+1249,1,"Person B says they own an orchard, indicating they don't buy fruit in the supermarket, which is a clear 'no'.",20260824T093740Z_5937923c
+1250,1,"Person B says their son is 25 years old, indicating he is not at elementary school, which is a clear 'no'.",20260824T093740Z_5937923c
+1251,1,"Person B says Harvard's tuition is extremely expensive, indicating it is not an option, which is a clear 'no'.",20260824T093740Z_5937923c
+1252,7,"Person B confirms she accepted the deal (made a bank transfer), which is a clear 'yes'.",20260824T093740Z_5937923c
+1253,1,"Person B says the kids cannot swim yet, indicating they didn't go to the swimming pool, which is a clear 'no'.",20260824T093740Z_5937923c
+1254,1,"Person B says they are healthy again, indicating they are no longer taking the pills, which is a clear 'no'.",20260824T093740Z_5937923c
+1255,7,"Person B confirms the area is contaminated (people are not allowed to get closer), which is a clear 'yes'.",20260824T093740Z_5937923c
+1256,7,"Person B confirms the plants are still alive (watered them regularly), which is a clear 'yes'.",20260824T093740Z_5937923c
+1257,1,"Person B says the artist was already dead by 1981, indicating the artwork was not created by him then, which is a clear 'no'.",20260824T093740Z_5937923c
+1258,7,"Person B confirms it is ice skating season (ice layer is quite thick), which is a clear 'yes'.",20260824T093740Z_5937923c
+1259,1,"Person B says they are in the advanced course, indicating they are not a beginner, which is a clear 'no'.",20260824T093740Z_5937923c
+1260,7,"Person B confirms they have been sick (seen a doctor), which is a clear 'yes'.",20260824T093740Z_5937923c
+1261,1,"Person B says they went out with friends, indicating they didn't go to bed early, which is a clear 'no'.",20260824T093740Z_5937923c
+1262,7,"Person B confirms the members can elect a representative (they voted yesterday), which is a clear 'yes'.",20260824T093740Z_5937923c
+1263,7,"Person B confirms the car is back from the car wash (it is spotless), which is a clear 'yes'.",20260824T093740Z_5937923c
+1264,1,"Person B says they submitted a blank sheet, indicating they didn't write a good exam, which is a clear 'no'.",20260824T093740Z_5937923c
+1265,1,"Person B says she just got into the changing room, indicating she is not dressed for the tennis game, which is a clear 'no'.",20260824T093740Z_5937923c
+1266,7,"Person B confirms he settled the lawsuit (was compensated), which is a clear 'yes'.",20260824T093740Z_5937923c
+1267,1,"Person B says no one has responded, indicating they haven't sold the house, which is a clear 'no'.",20260824T093740Z_5937923c
+1268,1,"Person B says he doesn't play any instrument, indicating he is not part of the marching band, which is a clear 'no'.",20260824T093740Z_5937923c
+1269,7,"Person B confirms he has been in Japan for several months, indicating he has tried sushi, which is a clear 'yes'.",20260824T093740Z_5937923c
+1270,7,"Person B confirms the whole way is going uphill (aiming for the mountain top), which is a clear 'yes'.",20260824T093740Z_5937923c
+1271,7,"Person B confirms the package was shipped (customer received it), which is a clear 'yes'.",20260824T093740Z_5937923c
+1273,1,"Person B says she skipped the last four lessons, indicating she is not very dedicated to the singing course, which is a clear 'no'.",20260824T093740Z_5937923c
+1274,7,"Person B confirms their eyes get strained (monitor's resolution is really poor), which is a clear 'yes'.",20260824T093740Z_5937923c
+1275,7,"Person B confirms she is a medical doctor (graduated from medical school), which is a clear 'yes'.",20260824T093740Z_5937923c
+1276,1,"Person B says it is private property, indicating they haven't been inside that building, which is a clear 'no'.",20260824T093740Z_5937923c
+2101,7,"Person B confirms they have to study (need to revise some topics), which is a clear 'yes'.",20260824T093740Z_5937923c
+2102,7,"Person B confirms something has come out in cinemas (interesting new movie), which is a clear 'yes'.",20260824T093740Z_5937923c
+2103,7,"Person B confirms it is cold (quite chilly), which is a clear 'yes'.",20260824T093740Z_5937923c
+2105,7,"Person B confirms they know something about the novel (heard good things), which is a clear 'yes'.",20260824T093740Z_5937923c
+2106,7,"Person B confirms they got injured (pulled a muscle), which is a clear 'yes'.",20260824T093740Z_5937923c
+2107,7,"Person B confirms they lost their phone (cannot find it), which is a clear 'yes'.",20260824T093740Z_5937923c
+2108,7,"Person B confirms it is cold outside (minus 20 degrees), which is a clear 'yes'.",20260824T093740Z_5937923c
+2109,7,"Person B confirms they are in a religious building (just entered a church), which is a clear 'yes'.",20260824T093740Z_5937923c
+2110,7,"Person B confirms workouts are usually difficult (training very hard), which is a clear 'yes'.",20260824T093740Z_5937923c
+2113,7,"Person B confirms they were working today (working on an exhausting task), which is a clear 'yes'.",20260824T093740Z_5937923c
+2114,1,"Person B says they didn't bring their bikini, indicating they don't have swimming gear, which is a clear 'no'.",20260824T093740Z_5937923c
+2115,1,"Person B says they don't have time, indicating they are not free, which is a clear 'no'.",20260824T093740Z_5937923c
+2116,1,"Person B says they watched it last month, indicating they didn't watch it yesterday, which is a clear 'no'.",20260824T093740Z_5937923c
+2117,1,"Person B says they are on a diet, indicating they are not eating more than usual, which is a clear 'no'.",20260824T093740Z_5937923c
+2118,1,"Person B says they are actually a Muslim, indicating they don't practise Hinduism, which is a clear 'no'.",20260824T093740Z_5937923c
+2119,1,"Person B says their head is spinning, indicating they are not feeling ok, which is a clear 'no'.",20260824T093740Z_5937923c
+2120,1,"Person B says they are very tired, indicating they are not feeling energetic, which is a clear 'no'.",20260824T093740Z_5937923c
+2121,1,"Person B says they are broke, indicating they don't have money saved up, which is a clear 'no'.",20260824T093740Z_5937923c
+2122,1,"Person B says they have used a chain saw before, indicating it is not their first experience, which is a clear 'no'.",20260824T093740Z_5937923c
+2123,1,"Person B says it is 11 p.m., indicating it is not morning in Los Angeles, which is a clear 'no'.",20260824T093740Z_5937923c
+2124,1,"Person B says they have a hangover, indicating they are not feeling good, which is a clear 'no'.",20260824T093740Z_5937923c
+2125,1,"Person B says they are actually diabetic, indicating they are not free of chronic disease, which is a clear 'no'.",20260824T093740Z_5937923c
+2127,1,"Person B says they usually get seasick, indicating they don't feel well on boats, which is a clear 'no'.",20260824T093740Z_5937923c
+2128,1,"Person B says their toothache is gone, indicating their teeth are not still hurting, which is a clear 'no'.",20260824T093740Z_5937923c
+2129,7,"Person B confirms there are many stations (several bus stops before destination), which is a clear 'yes'.",20260824T093740Z_5937923c
+2130,1,"Person B says they should not staple them, indicating they are not allowed to staple documents, which is a clear 'no'.",20260824T093740Z_5937923c
+2131,1,"Person B says the luggage is very light, indicating it doesn't weigh much, which is a clear 'no'.",20260824T093740Z_5937923c
+2132,7,"Person B confirms they need to wake up early (have to get up at 5 am), which is a clear 'yes'.",20260824T093740Z_5937923c
+2134,1,"Person B says French is their native language, indicating Spanish is not their mother tongue, which is a clear 'no'.",20260824T093740Z_5937923c
+2135,7,"Person B confirms the remote is still unusable (does not work), which is a clear 'yes'.",20260824T093740Z_5937923c
+2136,7,"Person B confirms there are wild animals (wolves are very common), which is a clear 'yes'.",20260824T093740Z_5937923c
+2137,1,"Person B says they only have cacti, indicating there are no trees in the garden, which is a clear 'no'.",20260824T093740Z_5937923c
+2138,7,"Person B confirms the passport is necessary (need it for travelling), which is a clear 'yes'.",20260824T093740Z_5937923c
+2139,1,"Person B says they have a sandwich, indicating they didn't bring pie for lunch, which is a clear 'no'.",20260824T093740Z_5937923c
+2140,7,"Person B confirms the kids are about to leave (have to go out soon), which is a clear 'yes'.",20260824T093740Z_5937923c
+2141,7,"Person B confirms they are already hungry (starving), which is a clear 'yes'.",20260824T093740Z_5937923c
+2144,7,"Person B confirms they often consume hot drinks (drink tea all the time), which is a clear 'yes'.",20260824T093740Z_5937923c
+2145,7,"Person B confirms the room is very bright (too much light), which is a clear 'yes'.",20260824T093740Z_5937923c
+2146,1,"Person B says they will be abroad then, indicating they won't stay in town till Friday, which is a clear 'no'.",20260824T093740Z_5937923c
+2147,7,"Person B confirms they are eating something (having a soup), which is a clear 'yes'.",20260824T093740Z_5937923c
+2148,7,"Person B confirms it is raining (just started pouring), which is a clear 'yes'.",20260824T093740Z_5937923c
+2149,1,"Person B says they don't drink, indicating they don't consume alcohol, which is a clear 'no'.",20260824T093740Z_5937923c
+2150,1,"Person B says there is a dish washer in the kitchen, indicating not everything was taken away, which is a clear 'no'.",20260824T093740Z_5937923c
+2151,1,"Person B says they gave away their racket ages ago, indicating they don't still have tennis equipment, which is a clear 'no'.",20260824T093740Z_5937923c
+2152,1,"Person B says they don't eat spicy dishes, indicating they don't consume all types of food, which is a clear 'no'.",20260824T093740Z_5937923c
+2153,7,"Person B confirms they are neighbours (live right next to you), which is a clear 'yes'.",20260824T093740Z_5937923c
+2155,1,"Person B says they understand everything now, indicating they are no longer confused, which is a clear 'no'.",20260824T093740Z_5937923c
+2156,7,"Person B confirms they feel pain in upper body (chest hurts a lot), which is a clear 'yes'.",20260824T093740Z_5937923c
+2157,1,"Person B says they are in the middle of summer, indicating it is not winter, which is a clear 'no'.",20260824T093740Z_5937923c
+2159,7,"Person B confirms they got hurt (cut finger while cooking), which is a clear 'yes'.",20260824T093740Z_5937923c
+2160,7,"Person B confirms the living room is dirty (dust all over the floor), which is a clear 'yes'.",20260824T093740Z_5937923c
+2161,1,"Person B says they have actually brought their toothpaste, indicating they didn't leave it at home, which is a clear 'no'.",20260824T093740Z_5937923c
+2162,7,"Person B confirms their lips got damaged (all chapped), which is a clear 'yes'.",20260824T093740Z_5937923c
+2163,1,"Person B says they are working early tomorrow morning, indicating they are not doing the afternoon shift, which is a clear 'no'.",20260824T093740Z_5937923c
+2164,1,"Person B says they plan to eat at a restaurant, indicating they are not having dinner at home, which is a clear 'no'.",20260824T093740Z_5937923c
+2165,7,"Person B confirms the hedges are taller (grown a lot recently), which is a clear 'yes'.",20260824T093740Z_5937923c
+2166,7,"Person B confirms they have finished cooking (lunch is now ready), which is a clear 'yes'.",20260824T093740Z_5937923c
+2167,7,"Person B confirms they have difficult homework (math exercise is very complicated), which is a clear 'yes'.",20260824T093740Z_5937923c
+2168,1,"Person B says they are not sure where to go yet, indicating they haven't decided on a destination, which is a clear 'no'.",20260824T093740Z_5937923c
+2169,1,"Person B says they smoke cigars only, indicating they don't smoke cigarettes, which is a clear 'no'.",20260824T093740Z_5937923c
+2170,1,"Person B says they usually type on their laptop, indicating they are not writing on paper, which is a clear 'no'.",20260824T093740Z_5937923c
+2171,7,"Person B confirms the kitchen is still incomplete (new stove was not delivered yet), which is a clear 'yes'.",20260824T093740Z_5937923c
+2172,7,"Person B confirms car theft occurs often (cars get stolen regularly), which is a clear 'yes'.",20260824T093740Z_5937923c
+2173,1,"Person B says their wardrobe is completely full, indicating they don't still have room, which is a clear 'no'.",20260824T093740Z_5937923c
+2174,7,"Person B confirms there is a lot of laundry (dirty laundry is piling up), which is a clear 'yes'.",20260824T093740Z_5937923c
+2175,7,"Person B confirms they are taking time for breakfast (can have a relaxed breakfast), which is a clear 'yes'.",20260824T093740Z_5937923c
+2201,7,"Person B confirms they should study together (need to revise some topics), which is a clear 'yes'.",20260824T093740Z_5937923c
+2202,7,"Person B confirms they should go to the cinema (interesting new movie), which is a clear 'yes'.",20260824T093740Z_5937923c
+2203,7,"Person B confirms they should close the window (quite chilly), which is a clear 'yes'.",20260824T093740Z_5937923c
+2205,7,"Person B confirms they would like to borrow the book (heard good things), which is a clear 'yes'.",20260824T093740Z_5937923c
+2206,7,"Person B confirms they should skip yoga class (pulled a muscle), which is a clear 'yes'.",20260824T093740Z_5937923c
+2207,7,"Person B confirms they want to use the phone (cannot find theirs), which is a clear 'yes'.",20260824T093740Z_5937923c
+2208,7,"Person B confirms they need a coat (minus 20 degrees), which is a clear 'yes'.",20260824T093740Z_5937923c
+2209,7,"Person B confirms they should turn off phones (just entered a church), which is a clear 'yes'.",20260824T093740Z_5937923c
+2210,7,"Person B confirms they would like a protein shake (training very hard), which is a clear 'yes'.",20260824T093740Z_5937923c
+2213,1,"Person B says they have been working on an exhausting task, indicating they should not take a break, which is a clear 'no'.",20260824T093740Z_5937923c
+2214,1,"Person B says they didn't bring their bikini, indicating they should not go to the lake, which is a clear 'no'.",20260824T093740Z_5937923c
+2215,1,"Person B says they don't have time, indicating they are not coming to the talk, which is a clear 'no'.",20260824T093740Z_5937923c
+2216,1,"Person B says they watched it last month, indicating they should not watch it tonight, which is a clear 'no'.",20260824T093740Z_5937923c
+2217,1,"Person B says they are on a diet, indicating they should not have dessert, which is a clear 'no'.",20260824T093740Z_5937923c
+2218,1,"Person B says they are actually a Muslim, indicating they don't want pork, which is a clear 'no'.",20260824T093740Z_5937923c
+2219,1,"Person B says their head is spinning, indicating they don't want another beer, which is a clear 'no'.",20260824T093740Z_5937923c
+2220,1,"Person B says they are very tired, indicating they should not go out, which is a clear 'no'.",20260824T093740Z_5937923c
+2221,1,"Person B says they are broke, indicating they should not go on a trip, which is a clear 'no'.",20260824T093740Z_5937923c
+2222,1,"Person B says they have used a chain saw before, indicating they don't need help, which is a clear 'no'.",20260824T093740Z_5937923c
+2223,1,"Person B says it is 11 p.m., indicating they should not go to the cinema, which is a clear 'no'.",20260824T093740Z_5937923c
+2224,1,"Person B says they have a hangover, indicating they should not have drinks, which is a clear 'no'.",20260824T093740Z_5937923c
+2225,1,"Person B says they are actually diabetic, indicating they don't want cake, which is a clear 'no'.",20260824T093740Z_5937923c
+2227,1,"Person B says they usually get seasick, indicating they are not joining for a sea cruise, which is a clear 'no'.",20260824T093740Z_5937923c
+2228,1,"Person B says their toothache is gone, indicating they don't want painkillers, which is a clear 'no'.",20260824T093740Z_5937923c
+2229,1,"Person B says they have several bus stops before destination, indicating they don't want the seat, which is a clear 'no'.",20260824T093740Z_5937923c
+2230,1,"Person B says they should not staple them, indicating they don't want the stapler, which is a clear 'no'.",20260824T093740Z_5937923c
+2231,1,"Person B says the luggage is very light, indicating they don't need help, which is a clear 'no'.",20260824T093740Z_5937923c
+2232,7,"Person B confirms they should set the alarm (have to get up at 5 am), which is a clear 'yes'.",20260824T093740Z_5937923c
+2234,1,"Person B says French is their native language, indicating they don't need spelling checked, which is a clear 'no'.",20260824T093740Z_5937923c
+2235,7,"Person B confirms they should change the batteries (remote does not work), which is a clear 'yes'.",20260824T093740Z_5937923c
+2236,7,"Person B confirms they should lock up the cattle (wolves are very common), which is a clear 'yes'.",20260824T093740Z_5937923c
+2237,1,"Person B says they only have cacti, indicating they don't need plants watered, which is a clear 'no'.",20260824T093740Z_5937923c
+2238,7,"Person B confirms they should pack the passport (need it for travelling), which is a clear 'yes'.",20260824T093740Z_5937923c
+2239,1,"Person B says they have a sandwich, indicating they don't want food, which is a clear 'no'.",20260824T093740Z_5937923c
+2240,7,"Person B confirms they should wake up the kids (have to go out soon), which is a clear 'yes'.",20260824T093740Z_5937923c
+2241,7,"Person B confirms they would like biscuits (starving), which is a clear 'yes'.",20260824T093740Z_5937923c
+2244,7,"Person B confirms they would like to use the kettle (drink tea all the time), which is a clear 'yes'.",20260824T093740Z_5937923c
+2245,7,"Person B confirms they should turn down the dimmer (too much light), which is a clear 'yes'.",20260824T093740Z_5937923c
+2246,1,"Person B says they will be abroad then, indicating they are not coming to the party, which is a clear 'no'.",20260824T093740Z_5937923c
+2247,7,"Person B confirms they want a spoon (having a soup), which is a clear 'yes'.",20260824T093740Z_5937923c
+2248,7,"Person B confirms they would like an umbrella (just started pouring), which is a clear 'yes'.",20260824T093740Z_5937923c
+2249,1,"Person B says they don't drink, indicating they don't want wine, which is a clear 'no'.",20260824T093740Z_5937923c
+2250,1,"Person B says there is a dish washer, indicating they don't need to do dishes, which is a clear 'no'.",20260824T093740Z_5937923c
+2251,1,"Person B says they gave away their racket, indicating they should not play tennis, which is a clear 'no'.",20260824T093740Z_5937923c
+2252,1,"Person B says they don't eat spicy dishes, indicating they should not get mexican food, which is a clear 'no'.",20260824T093740Z_5937923c
+2253,1,"Person B says they live right next to you, indicating they don't want a ride home, which is a clear 'no'.",20260824T093740Z_5937923c
+2255,1,"Person B says they understand everything now, indicating they don't need it explained again, which is a clear 'no'.",20260824T093740Z_5937923c
+2256,7,"Person B confirms they want the doctor called (chest hurts a lot), which is a clear 'yes'.",20260824T093740Z_5937923c
+2257,1,"Person B says they are in the middle of summer, indicating they don't want an extra blanket, which is a clear 'no'.",20260824T093740Z_5937923c
+2259,7,"Person B confirms they want a plaster (cut finger while cooking), which is a clear 'yes'.",20260824T093740Z_5937923c
+2260,7,"Person B confirms they should sweep the living room (dust all over the floor), which is a clear 'yes'.",20260824T093740Z_5937923c
+2261,1,"Person B says they have actually brought their toothpaste, indicating they don't want some, which is a clear 'no'.",20260824T093740Z_5937923c
+2262,7,"Person B confirms they want lip balm (lips are all chapped), which is a clear 'yes'.",20260824T093740Z_5937923c
+2263,1,"Person B says they are working early tomorrow morning, indicating they are not joining for drinks, which is a clear 'no'.",20260824T093740Z_5937923c
+2264,1,"Person B says they plan to eat at a restaurant, indicating they don't want to be cooked for, which is a clear 'no'.",20260824T093740Z_5937923c
+2265,7,"Person B confirms they should prune the hedges (grown a lot recently), which is a clear 'yes'.",20260824T093740Z_5937923c
+2266,1,"Person B says lunch is now ready, indicating they don't need to set the table, which is a clear 'no'.",20260824T093740Z_5937923c
+2267,7,"Person B confirms they would like a calculator (math exercise is very complicated), which is a clear 'yes'.",20260824T093740Z_5937923c
+2268,1,"Person B says they are not sure where to go yet, indicating they should not buy train tickets, which is a clear 'no'.",20260824T093740Z_5937923c
+2269,1,"Person B says they smoke cigars only, indicating they don't want a cigarette, which is a clear 'no'.",20260824T093740Z_5937923c
+2270,1,"Person B says they usually type on their laptop, indicating they don't want paper, which is a clear 'no'.",20260824T093740Z_5937923c
+2271,7,"Person B confirms they should get delivery food (new stove was not delivered yet), which is a clear 'yes'.",20260824T093740Z_5937923c
+2272,7,"Person B confirms they should lock the car (cars get stolen regularly), which is a clear 'yes'.",20260824T093740Z_5937923c
+2273,1,"Person B says their wardrobe is completely full, indicating they should not go shopping for clothes, which is a clear 'no'.",20260824T093740Z_5937923c
+2274,7,"Person B confirms they should do the laundry (dirty laundry is piling up), which is a clear 'yes'.",20260824T093740Z_5937923c
+2275,7,"Person B confirms they want pancakes (can have a relaxed breakfast), which is a clear 'yes'.",20260824T093740Z_5937923c

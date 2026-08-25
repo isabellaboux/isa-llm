@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,Not seeing Martin for ages strongly implies B has not met him lately.,20260824T093740Z_5937923c
+1102,7,Sending out an application is something B is doing right now.,20260824T093740Z_5937923c
+1103,6,"Training with Lukas at the gym strongly suggests exercising with him, though usually is not explicitly stated.",20260824T093740Z_5937923c
+1104,7,A grandfather passing away directly confirms a death in the family.,20260824T093740Z_5937923c
+1105,6,About 1000 km away strongly suggests Paris is far.,20260824T093740Z_5937923c
+1106,6,A six hour drive strongly suggests the trip takes long.,20260824T093740Z_5937923c
+1107,2,A train delay suggests the journey is not going as planned.,20260824T093740Z_5937923c
+1108,1,"If cereal is still left, they have not finished it.",20260824T093740Z_5937923c
+1109,1,Not due for three months rules out next week.,20260824T093740Z_5937923c
+1110,7,Streets always congested directly confirms a lot of traffic.,20260824T093740Z_5937923c
+1111,1,Being vegetarian implies Megan does not eat meat.,20260824T093740Z_5937923c
+1112,7,Having the flu directly confirms John is sick.,20260824T093740Z_5937923c
+1113,6,"Running every day strongly suggests daily training, though train could be narrower.",20260824T093740Z_5937923c
+1114,1,"If she just woke up, she is not still sleeping.",20260824T093740Z_5937923c
+1115,1,Coming out next week rules out release today.,20260824T093740Z_5937923c
+1116,7,Having used a drill before confirms working with one.,20260824T093740Z_5937923c
+1117,2,Celebrating tonight suggests the party is not tomorrow.,20260824T093740Z_5937923c
+1118,7,Moving out tomorrow confirms leaving the flat soon.,20260824T093740Z_5937923c
+1119,6,Always falling behind strongly suggests he is a slacker.,20260824T093740Z_5937923c
+1120,7,Being famous for surfing confirms the area is popular for something.,20260824T093740Z_5937923c
+1121,1,Quite rough directly contradicts calm.,20260824T093740Z_5937923c
+1122,1,Working at an NGO strongly contradicts working for a corporate company.,20260824T093740Z_5937923c
+1123,7,Authoring many books confirms he is a writer.,20260824T093740Z_5937923c
+1124,1,Still analyzing the data means not finished.,20260824T093740Z_5937923c
+1125,2,Being endangered strongly suggests there are not many pandas left.,20260824T093740Z_5937923c
+1126,7,Enrolling at the gym confirms joining a fitness studio.,20260824T093740Z_5937923c
+1127,1,The thesis not being complete means it is not finished.,20260824T093740Z_5937923c
+1128,7,Saying the hair was way too long confirms it used to be long.,20260824T093740Z_5937923c
+1129,1,A business trip contradicts going for vacation.,20260824T093740Z_5937923c
+1130,1,Needing a larger flat means one room is not enough.,20260824T093740Z_5937923c
+1131,7,A deadline tomorrow confirms she must hand in soon.,20260824T093740Z_5937923c
+1132,7,Sleeping only four hours confirms a short night.,20260824T093740Z_5937923c
+1133,1,An expired offer means the flight was not still discounted.,20260824T093740Z_5937923c
+1134,7,Getting wounded confirms the cat is hurt.,20260824T093740Z_5937923c
+1135,1,Mark missing means not everyone is here.,20260824T093740Z_5937923c
+1137,7,Being Chinese confirms coming from Asia.,20260824T093740Z_5937923c
+1138,3,The line going dead suggests a disconnect but does not clearly say whether B hung up.,20260824T093740Z_5937923c
+1139,6,Having domestics strongly suggests someone takes care of the house.,20260824T093740Z_5937923c
+1140,1,Just opening means the bar has not been there long.,20260824T093740Z_5937923c
+1141,7,A house full of books confirms owning many books.,20260824T093740Z_5937923c
+1143,6,Only a few guests over for dinner strongly suggests a small gathering.,20260824T093740Z_5937923c
+1144,1,Only one week off contradicts two weeks of holiday.,20260824T093740Z_5937923c
+1145,6,"Going to have a baby strongly suggests pregnancy, though not absolutely.",20260824T093740Z_5937923c
+1147,1,Still owing money means debts have not been fully paid back.,20260824T093740Z_5937923c
+1148,1,Only having water rules out drinking a cocktail.,20260824T093740Z_5937923c
+1149,3,"Owning an orchard suggests fruit rather than vegetables, but does not directly answer about a vegetable garden.",20260824T093740Z_5937923c
+1150,1,Being 25 rules out being underage.,20260824T093740Z_5937923c
+1151,1,Extremely expensive tuition contradicts affordability.,20260824T093740Z_5937923c
+1152,7,A bank transfer moments ago confirms payment.,20260824T093740Z_5937923c
+1153,1,Cannot swim yet means they are not good at swimming.,20260824T093740Z_5937923c
+1154,1,Being healthy again means the cold is gone.,20260824T093740Z_5937923c
+1155,7,People not allowed to get closer confirms approaching is forbidden.,20260824T093740Z_5937923c
+1156,7,Watering the plants regularly confirms someone took care of them.,20260824T093740Z_5937923c
+1157,1,Already dead by then rules out being alive in the 80s.,20260824T093740Z_5937923c
+1158,7,A thick ice layer confirms the lake is frozen.,20260824T093740Z_5937923c
+1159,1,Being in the advanced course contradicts attending the beginners class.,20260824T093740Z_5937923c
+1160,7,Seeing a doctor confirms seeking medical advice.,20260824T093740Z_5937923c
+1161,1,Going out with friends contradicts staying home.,20260824T093740Z_5937923c
+1162,6,"Voting yesterday strongly suggests an election, though the type of vote is not explicit.",20260824T093740Z_5937923c
+1163,7,Spotless confirms completely clean.,20260824T093740Z_5937923c
+1164,1,Submitting a blank sheet means they did not answer the questions.,20260824T093740Z_5937923c
+1165,2,Being in the changing room suggests she is not yet on the tennis field.,20260824T093740Z_5937923c
+1166,6,Being compensated strongly suggests he got money back.,20260824T093740Z_5937923c
+1167,1,No one responding means nobody answered the ad.,20260824T093740Z_5937923c
+1168,2,"Not playing any instrument strongly suggests he is not a musician, though vocalists are possible.",20260824T093740Z_5937923c
+1169,7,Being in Japan confirms travelling in Asia.,20260824T093740Z_5937923c
+1170,7,Aiming for the mountain top confirms the summit is the goal.,20260824T093740Z_5937923c
+1171,7,The customer receiving it confirms getting the package.,20260824T093740Z_5937923c
+1173,1,Skipping the last lessons means she did not attend the whole course.,20260824T093740Z_5937923c
+1174,7,Poor monitor resolution confirms a bad image.,20260824T093740Z_5937923c
+1175,7,Graduating from medical school confirms completing medical studies.,20260824T093740Z_5937923c
+1176,1,Private property contradicts a public building.,20260824T093740Z_5937923c
+1201,3,Not seeing him for ages weakens the claim of still being good friends but does not definitively rule it out.,20260824T093740Z_5937923c
+1202,6,Sending out an application strongly suggests looking for a job.,20260824T093740Z_5937923c
+1203,7,Training with Lukas strongly confirms knowing him.,20260824T093740Z_5937923c
+1204,4,A grandfather passing away does not establish whether the property is now his.,20260824T093740Z_5937923c
+1205,6,A distance of 1000 km strongly suggests a long drive.,20260824T093740Z_5937923c
+1206,6,A six hour drive strongly suggests Munich is far.,20260824T093740Z_5937923c
+1207,3,"A train delay makes being home by noon less likely, but the arrival time is not stated.",20260824T093740Z_5937923c
+1208,3,"Cereal being left suggests no purchase was needed, but it does not directly state whether B bought cereal.",20260824T093740Z_5937923c
+1209,3,"A distant deadline suggests B may not have started, but it does not directly say so.",20260824T093740Z_5937923c
+1210,6,Congested streets strongly suggests being late.,20260824T093740Z_5937923c
+1211,3,"Being vegetarian makes a steakhouse less likely, but she could still attend.",20260824T093740Z_5937923c
+1212,6,Having the flu strongly suggests staying home.,20260824T093740Z_5937923c
+1213,4,Running daily suggests training but does not confirm marathon registration.,20260824T093740Z_5937923c
+1214,2,Just waking up strongly suggests she has not had breakfast yet.,20260824T093740Z_5937923c
+1215,1,"If the movie comes out next week, B has not seen it.",20260824T093740Z_5937923c
+1216,6,Having used a drill before strongly suggests knowing how to use one.,20260824T093740Z_5937923c
+1217,2,Celebrating suggests success rather than failing the exam.,20260824T093740Z_5937923c
+1218,6,"Moving out strongly suggests a breakup, though not absolutely certain.",20260824T093740Z_5937923c
+1219,5,"Always falling behind suggests a reason for being fired, but the firing itself is not confirmed.",20260824T093740Z_5937923c
+1220,6,A region famous for surfing strongly suggests big waves.,20260824T093740Z_5937923c
+1221,2,A rough sea strongly suggests it is not safe to swim.,20260824T093740Z_5937923c
+1222,3,"Working at an NGO suggests lower pay, but does not definitively answer income.",20260824T093740Z_5937923c
+1223,6,Many successful books strongly suggests he is famous.,20260824T093740Z_5937923c
+1224,2,Still analyzing the data strongly suggests it was not presented.,20260824T093740Z_5937923c
+1225,2,Pandas being endangered strongly suggests hunting them is not legal.,20260824T093740Z_5937923c
+1226,4,Enrolling at the gym suggests trying to lose weight but does not confirm weight loss.,20260824T093740Z_5937923c
+1227,1,An incomplete thesis means B has not graduated.,20260824T093740Z_5937923c
+1228,5,"Saying the hair was too long suggests a haircut may have happened, but it is not explicit.",20260824T093740Z_5937923c
+1229,2,A business trip strongly suggests little or no time for sightseeing.,20260824T093740Z_5937923c
+1230,2,Needing a larger flat strongly suggests B did not buy that one room flat.,20260824T093740Z_5937923c
+1231,6,A deadline tomorrow strongly suggests stress.,20260824T093740Z_5937923c
+1232,6,Sleeping only four hours strongly suggests tiredness.,20260824T093740Z_5937923c
+1233,2,The offer expiring strongly suggests he did not book the flight.,20260824T093740Z_5937923c
+1234,5,"A wounded cat suggests a vet visit is likely, but B does not explicitly confirm it.",20260824T093740Z_5937923c
+1235,1,Mark still missing means they are not ready to go.,20260824T093740Z_5937923c
+1237,4,Being Chinese does not by itself confirm ability to cook Cantonese rice.,20260824T093740Z_5937923c
+1238,3,"The line going dead suggests the issue may not have been communicated, but it is not explicit.",20260824T093740Z_5937923c
+1239,6,Having domestics strongly suggests the house is kept tidy.,20260824T093740Z_5937923c
+1240,3,"The bar just opening suggests B may not have tried it yet, but this is not explicit.",20260824T093740Z_5937923c
+1241,6,A house full of history books strongly suggests a passion for history.,20260824T093740Z_5937923c
+1243,5,"Few guests suggests the saucepan may be big enough, but this is indirect.",20260824T093740Z_5937923c
+1244,1,Only one week off work rules out a two week trip.,20260824T093740Z_5937923c
+1245,6,Having a baby strongly suggests avoiding alcohol.,20260824T093740Z_5937923c
+1247,4,Still owing money does not clearly indicate whether B got a new loan.,20260824T093740Z_5937923c
+1248,1,Only having water rules out being drunk.,20260824T093740Z_5937923c
+1249,3,"Owning an orchard suggests B may not buy fruit, but it does not directly answer about supermarket purchases.",20260824T093740Z_5937923c
+1250,1,A 25 year old is not at elementary school.,20260824T093740Z_5937923c
+1251,2,Extremely expensive tuition strongly suggests Harvard is not an option.,20260824T093740Z_5937923c
+1252,6,Making a bank transfer strongly suggests accepting the deal.,20260824T093740Z_5937923c
+1253,3,"Not being able to swim suggests they may not have gone to the pool, but it is not definitive.",20260824T093740Z_5937923c
+1254,2,Being healthy again strongly suggests B stopped taking the pills.,20260824T093740Z_5937923c
+1255,6,People being barred from approaching strongly suggests contamination.,20260824T093740Z_5937923c
+1256,6,Regular watering strongly suggests the plants are still alive.,20260824T093740Z_5937923c
+1257,1,Being already dead rules out creating artwork in 1981.,20260824T093740Z_5937923c
+1258,6,A thick ice layer strongly suggests ice skating season.,20260824T093740Z_5937923c
+1259,1,Being in an advanced course contradicts being a beginner.,20260824T093740Z_5937923c
+1260,6,Seeing a doctor strongly suggests B has been sick.,20260824T093740Z_5937923c
+1261,2,Going out with friends strongly suggests not going to bed early.,20260824T093740Z_5937923c
+1262,6,Voting yesterday strongly suggests members can elect a representative.,20260824T093740Z_5937923c
+1263,6,Being spotless strongly suggests the car is back from the car wash.,20260824T093740Z_5937923c
+1264,1,A blank sheet means they did not write a good exam.,20260824T093740Z_5937923c
+1265,2,Entering the changing room suggests she is not yet dressed for the game.,20260824T093740Z_5937923c
+1266,6,Being compensated strongly suggests the lawsuit was settled.,20260824T093740Z_5937923c
+1267,1,No one responding means the house has not been sold.,20260824T093740Z_5937923c
+1268,2,Not playing an instrument strongly suggests he is not in a marching band.,20260824T093740Z_5937923c
+1269,6,Spending months in Japan strongly suggests trying sushi.,20260824T093740Z_5937923c
+1270,6,Aiming for the mountain top strongly suggests the way goes uphill.,20260824T093740Z_5937923c
+1271,7,The customer receiving it confirms the package was shipped.,20260824T093740Z_5937923c
+1273,1,Skipping lessons contradicts being very dedicated.,20260824T093740Z_5937923c
+1274,6,Poor monitor resolution strongly suggests eye strain.,20260824T093740Z_5937923c
+1275,6,Graduating from medical school strongly suggests she is a medical doctor.,20260824T093740Z_5937923c
+1276,3,"Private property suggests B may not have been inside, but it does not directly answer.",20260824T093740Z_5937923c
+2101,6,Needing to revise topics strongly suggests studying for the test.,20260824T093740Z_5937923c
+2102,7,An interesting new movie confirms something has come out recently.,20260824T093740Z_5937923c
+2103,6,Quite chilly strongly suggests it is cold.,20260824T093740Z_5937923c
+2105,6,Having heard good things suggests some knowledge about the novel.,20260824T093740Z_5937923c
+2106,6,Pulling a muscle last time strongly suggests an injury at yoga class.,20260824T093740Z_5937923c
+2107,6,Cannot find my phone strongly suggests it is lost.,20260824T093740Z_5937923c
+2108,7,Minus 20 degrees confirms it is cold outside.,20260824T093740Z_5937923c
+2109,7,Entering a church confirms being in a religious building.,20260824T093740Z_5937923c
+2110,6,Training very hard strongly suggests difficult workouts.,20260824T093740Z_5937923c
+2113,7,Working on an exhausting task confirms working today.,20260824T093740Z_5937923c
+2114,2,Not bringing a bikini strongly suggests B does not have swimming gear.,20260824T093740Z_5937923c
+2115,1,Not having time directly means B is not free.,20260824T093740Z_5937923c
+2116,1,Watching it last month rules out watching it yesterday.,20260824T093740Z_5937923c
+2117,2,Being on a diet strongly suggests not eating more than usual.,20260824T093740Z_5937923c
+2118,1,Being Muslim contradicts practising Hinduism.,20260824T093740Z_5937923c
+2119,1,Head spinning after beers means B is not feeling ok.,20260824T093740Z_5937923c
+2120,1,Being very tired contradicts feeling energetic.,20260824T093740Z_5937923c
+2121,1,Being broke means no money saved up.,20260824T093740Z_5937923c
+2122,1,Having used a chain saw before rules out a first experience.,20260824T093740Z_5937923c
+2123,1,11 p.m. rules out morning.,20260824T093740Z_5937923c
+2124,1,Having a hangover means B is not feeling good.,20260824T093740Z_5937923c
+2125,1,Being diabetic contradicts being free of chronic disease.,20260824T093740Z_5937923c
+2127,1,Usually getting seasick means B does not feel well on boats.,20260824T093740Z_5937923c
+2128,1,The toothache being gone means the teeth are not still hurting.,20260824T093740Z_5937923c
+2129,6,Several bus stops strongly suggests many stations.,20260824T093740Z_5937923c
+2130,2,Should not staple strongly suggests B is not allowed to staple them.,20260824T093740Z_5937923c
+2131,1,Very light luggage does not weigh much.,20260824T093740Z_5937923c
+2132,7,Getting up at 5 am confirms needing to wake up early.,20260824T093740Z_5937923c
+2134,1,French being the native language rules out Spanish as mother tongue.,20260824T093740Z_5937923c
+2135,7,Not working confirms the remote is unusable.,20260824T093740Z_5937923c
+2136,7,Common wolves confirm wild animals in the region.,20260824T093740Z_5937923c
+2137,1,Only cacti rules out trees.,20260824T093740Z_5937923c
+2138,6,Needing it for travelling strongly suggests the passport is necessary for the plane.,20260824T093740Z_5937923c
+2139,2,Having a sandwich strongly suggests B did not bring pie.,20260824T093740Z_5937923c
+2140,6,Having to go out soon strongly suggests the kids are about to leave.,20260824T093740Z_5937923c
+2141,7,Starving confirms being hungry.,20260824T093740Z_5937923c
+2144,6,Drinking tea all the time strongly suggests frequent hot drinks.,20260824T093740Z_5937923c
+2145,7,Too much light confirms the room is very bright.,20260824T093740Z_5937923c
+2146,1,Being abroad rules out staying in town till Friday.,20260824T093740Z_5937923c
+2147,7,Having soup confirms eating something.,20260824T093740Z_5937923c
+2148,7,Just started pouring confirms it is raining.,20260824T093740Z_5937923c
+2149,1,Not drinking confirms no alcohol consumption.,20260824T093740Z_5937923c
+2150,1,A dishwasher remaining means not everything was taken away.,20260824T093740Z_5937923c
+2151,2,Giving away the racket strongly suggests no tennis equipment remains.,20260824T093740Z_5937923c
+2152,1,Not eating spicy dishes rules out consuming all types of food.,20260824T093740Z_5937923c
+2153,7,Living right next door confirms being neighbours.,20260824T093740Z_5937923c
+2155,1,Understanding everything means no longer confused.,20260824T093740Z_5937923c
+2156,7,Chest pain confirms upper body pain.,20260824T093740Z_5937923c
+2157,1,Middle of summer rules out winter.,20260824T093740Z_5937923c
+2159,7,Cutting a finger confirms getting hurt.,20260824T093740Z_5937923c
+2160,7,Dust all over the floor confirms the living room is dirty.,20260824T093740Z_5937923c
+2161,1,Bringing toothpaste rules out leaving it at home.,20260824T093740Z_5937923c
+2162,6,Chapped lips strongly suggest wind damage.,20260824T093740Z_5937923c
+2163,1,Working early morning contradicts the afternoon shift.,20260824T093740Z_5937923c
+2164,1,Planning to eat at a restaurant rules out dinner at home.,20260824T093740Z_5937923c
+2165,7,Growing a lot confirms the hedges are taller.,20260824T093740Z_5937923c
+2166,7,Lunch being ready confirms cooking is finished.,20260824T093740Z_5937923c
+2167,6,A complicated math exercise strongly suggests difficult homework.,20260824T093740Z_5937923c
+2168,1,Not being sure where to go means no destination has been decided.,20260824T093740Z_5937923c
+2169,1,Smoking cigars only rules out cigarettes.,20260824T093740Z_5937923c
+2170,2,Usually typing on a laptop strongly suggests not writing on paper.,20260824T093740Z_5937923c
+2171,6,A missing stove strongly suggests the kitchen is incomplete.,20260824T093740Z_5937923c
+2172,7,Cars getting stolen regularly confirms frequent car theft.,20260824T093740Z_5937923c
+2173,1,A completely full wardrobe means no room left.,20260824T093740Z_5937923c
+2174,7,Dirty laundry piling up confirms a lot of laundry.,20260824T093740Z_5937923c
+2175,7,A relaxed breakfast confirms taking time for breakfast.,20260824T093740Z_5937923c
+2201,5,"Needing to revise suggests studying together would be useful, but B does not explicitly accept.",20260824T093740Z_5937923c
+2202,6,An interesting new movie strongly suggests going to the cinema.,20260824T093740Z_5937923c
+2203,6,It being chilly strongly suggests closing the window.,20260824T093740Z_5937923c
+2205,6,Having heard good things strongly suggests wanting to borrow the book.,20260824T093740Z_5937923c
+2206,6,A pulled muscle strongly suggests skipping yoga class.,20260824T093740Z_5937923c
+2207,6,Not finding their phone strongly suggests wanting to use A's phone.,20260824T093740Z_5937923c
+2208,6,Minus 20 degrees strongly suggests needing a coat.,20260824T093740Z_5937923c
+2209,6,Entering a church strongly suggests turning off phones.,20260824T093740Z_5937923c
+2210,6,Training very hard strongly suggests wanting a protein shake.,20260824T093740Z_5937923c
+2213,6,An exhausting task strongly suggests taking a break.,20260824T093740Z_5937923c
+2214,3,"Not bringing a bikini makes going to the lake less likely, but it is not definitive.",20260824T093740Z_5937923c
+2215,1,Not having time directly means B is not coming.,20260824T093740Z_5937923c
+2216,2,Having watched it recently strongly suggests not watching it again tonight.,20260824T093740Z_5937923c
+2217,2,Being on a diet strongly suggests refusing dessert.,20260824T093740Z_5937923c
+2218,1,Being Muslim strongly implies refusing pork.,20260824T093740Z_5937923c
+2219,2,Head spinning strongly suggests not wanting another beer.,20260824T093740Z_5937923c
+2220,2,Being very tired strongly suggests not going out.,20260824T093740Z_5937923c
+2221,2,Being broke strongly suggests not going on a trip.,20260824T093740Z_5937923c
+2222,2,Prior experience strongly suggests not needing help with the chain saw.,20260824T093740Z_5937923c
+2223,3,"It being 11 p.m. makes going to the cinema less likely, but not impossible.",20260824T093740Z_5937923c
+2224,2,Having a hangover strongly suggests not wanting drinks.,20260824T093740Z_5937923c
+2225,2,"Being diabetic strongly suggests refusing cake, though not absolutely.",20260824T093740Z_5937923c
+2227,2,Getting seasick strongly suggests not joining a sea cruise.,20260824T093740Z_5937923c
+2228,1,The toothache being gone rules out needing painkillers.,20260824T093740Z_5937923c
+2229,6,Having several stops strongly suggests accepting the seat.,20260824T093740Z_5937923c
+2230,1,Not being supposed to staple them rules out wanting the stapler.,20260824T093740Z_5937923c
+2231,1,Very light luggage rules out needing help.,20260824T093740Z_5937923c
+2232,6,Needing to get up at 5 am strongly suggests setting an alarm.,20260824T093740Z_5937923c
+2234,1,French being B's native language strongly rules out needing a spelling check.,20260824T093740Z_5937923c
+2235,6,A nonworking remote strongly suggests changing the batteries.,20260824T093740Z_5937923c
+2236,6,Common wolves strongly suggest locking up cattle.,20260824T093740Z_5937923c
+2237,3,"Having only cacti suggests less need for watering, but does not fully rule it out.",20260824T093740Z_5937923c
+2238,6,Needing the passport strongly suggests packing it.,20260824T093740Z_5937923c
+2239,1,Already having a sandwich rules out wanting food.,20260824T093740Z_5937923c
+2240,6,Kids needing to go out soon strongly suggests waking them.,20260824T093740Z_5937923c
+2241,6,Being starving strongly suggests accepting biscuits.,20260824T093740Z_5937923c
+2244,6,Drinking tea all the time strongly suggests using a kettle.,20260824T093740Z_5937923c
+2245,6,Too much light strongly suggests turning down the dimmer.,20260824T093740Z_5937923c
+2246,1,Being abroad rules out coming to the party.,20260824T093740Z_5937923c
+2247,6,Having soup strongly suggests wanting a spoon.,20260824T093740Z_5937923c
+2248,6,Pouring rain strongly suggests wanting an umbrella.,20260824T093740Z_5937923c
+2249,1,Not drinking rules out wanting wine.,20260824T093740Z_5937923c
+2250,3,"Mentioning a dishwasher suggests an alternative to hand washing, but does not clearly accept or refuse.",20260824T093740Z_5937923c
+2251,2,Giving away the racket strongly suggests not playing tennis.,20260824T093740Z_5937923c
+2252,2,Not eating spicy dishes strongly suggests avoiding Mexican food.,20260824T093740Z_5937923c
+2253,2,Living right next door strongly suggests not needing a ride.,20260824T093740Z_5937923c
+2255,1,Understanding everything rules out needing another explanation.,20260824T093740Z_5937923c
+2256,6,Severe chest pain strongly suggests calling a doctor.,20260824T093740Z_5937923c
+2257,2,Middle of summer strongly suggests not wanting an extra blanket.,20260824T093740Z_5937923c
+2259,6,A cut finger strongly suggests wanting a plaster.,20260824T093740Z_5937923c
+2260,6,Dust all over strongly suggests sweeping the room.,20260824T093740Z_5937923c
+2261,1,Bringing toothpaste rules out needing some.,20260824T093740Z_5937923c
+2262,6,Chapped lips strongly suggests wanting lip balm.,20260824T093740Z_5937923c
+2263,2,Working early tomorrow strongly suggests not joining drinks tonight.,20260824T093740Z_5937923c
+2264,1,Planning to eat at a restaurant rules out A cooking.,20260824T093740Z_5937923c
+2265,6,Hedges growing a lot strongly suggests pruning them.,20260824T093740Z_5937923c
+2266,6,Lunch being ready strongly suggests setting the table.,20260824T093740Z_5937923c
+2267,6,A complicated math exercise strongly suggests wanting a calculator.,20260824T093740Z_5937923c
+2268,1,Not knowing the destination rules out buying train tickets.,20260824T093740Z_5937923c
+2269,1,Smoking cigars only rules out wanting a cigarette.,20260824T093740Z_5937923c
+2270,2,Usually typing strongly suggests not wanting paper.,20260824T093740Z_5937923c
+2271,6,No stove strongly suggests getting delivery food.,20260824T093740Z_5937923c
+2272,6,Frequent car theft strongly suggests locking the car.,20260824T093740Z_5937923c
+2273,2,A full wardrobe strongly suggests not shopping for clothes.,20260824T093740Z_5937923c
+2274,6,Piling dirty laundry strongly suggests doing the laundry.,20260824T093740Z_5937923c
+2275,5,"A relaxed breakfast suggests pancakes are possible, but B does not explicitly accept.",20260824T093740Z_5937923c

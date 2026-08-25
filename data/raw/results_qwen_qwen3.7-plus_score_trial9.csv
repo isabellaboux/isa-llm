@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Person B says they have not seen Martin for ages, which directly answers 'no' to whether they have met him lately.",20260824T093740Z_5937923c
+1102,7,"Person B is currently sending out an application, which directly answers 'yes' to whether they are doing something right now.",20260824T093740Z_5937923c
+1103,7,"Person B says they train with Lukas at the gym, which strongly implies 'yes' to usually exercising with him.",20260824T093740Z_5937923c
+1104,7,"Person B says his grandfather passed away recently, which directly answers 'yes' to whether there was a death in his family.",20260824T093740Z_5937923c
+1105,5,"1000 km is a significant distance, suggesting 'yes' it is far, but 'very far' is somewhat subjective, so it's somewhat likely yes.",20260824T093740Z_5937923c
+1106,7,"A six-hour drive is a long time, directly answering 'yes' to whether it takes long to get to Munich.",20260824T093740Z_5937923c
+1107,2,"The train has a delay, which means the journey is not going as planned, answering 'no'.",20260824T093740Z_5937923c
+1108,2,"There is still some cereal left, meaning they have not finished it, answering 'no'.",20260824T093740Z_5937923c
+1109,1,"The essay is not due for three months, which is not next week, answering 'definitely no'.",20260824T093740Z_5937923c
+1110,7,"Streets are always congested with cars, directly answering 'yes' to whether there is usually a lot of traffic.",20260824T093740Z_5937923c
+1111,1,"Megan is vegetarian, so she does not eat meat, answering 'definitely no'.",20260824T093740Z_5937923c
+1112,7,"John has the flu, which means he is sick, answering 'definitely yes'.",20260824T093740Z_5937923c
+1113,7,"Sonya runs for hours every day, which directly answers 'yes' to whether she trains daily.",20260824T093740Z_5937923c
+1114,1,"Clara just woke up, so she is no longer sleeping, answering 'definitely no'.",20260824T093740Z_5937923c
+1115,1,"The movie comes out next week, not today, answering 'definitely no'.",20260824T093740Z_5937923c
+1116,7,"Person B has used a drill before, directly answering 'yes' to whether they have ever worked with one.",20260824T093740Z_5937923c
+1117,2,"The party is tonight, not tomorrow, answering 'no' to whether it takes place tomorrow.",20260824T093740Z_5937923c
+1118,7,"Person B is moving out tomorrow, which means they are leaving their flat soon, answering 'yes'.",20260824T093740Z_5937923c
+1119,7,"He was always falling behind, which strongly supports that he is a slacker, answering 'yes'.",20260824T093740Z_5937923c
+1120,7,"The region is famous for surfing, directly answering 'yes' to whether the area is popular for something.",20260824T093740Z_5937923c
+1121,1,"The sea is quite rough, meaning it is not calm, answering 'definitely no'.",20260824T093740Z_5937923c
+1122,1,"Person B works at an NGO, not a corporate company, answering 'definitely no'.",20260824T093740Z_5937923c
+1123,7,"He has authored many successful books, directly answering 'yes' to whether he is a writer.",20260824T093740Z_5937923c
+1124,2,"Person B is still analyzing the data, meaning they are not finished, answering 'no'.",20260824T093740Z_5937923c
+1125,2,"Pandas are an endangered species, meaning there are not many left, answering 'no' to whether there are many left.",20260824T093740Z_5937923c
+1126,7,"Person B has enrolled at the gym, which is a fitness studio, answering 'yes'.",20260824T093740Z_5937923c
+1127,2,"The thesis is not complete yet, meaning it is not finished, answering 'no'.",20260824T093740Z_5937923c
+1128,7,"Person B's hair was way too long, implying they used to have long hair, answering 'yes'.",20260824T093740Z_5937923c
+1129,1,"It was a business trip, not a vacation, answering 'definitely no'.",20260824T093740Z_5937923c
+1130,1,"Person B needs a larger flat, so a one-room flat is not enough, answering 'definitely no'.",20260824T093740Z_5937923c
+1131,7,"The deadline is tomorrow, which means she has to hand it in soon, answering 'yes'.",20260824T093740Z_5937923c
+1132,7,"Person B slept only four hours, which is a short night, answering 'yes'.",20260824T093740Z_5937923c
+1133,1,"The offer had already expired, so the flight was not still discounted, answering 'definitely no'.",20260824T093740Z_5937923c
+1134,7,"The cat got wounded, meaning it is hurt, answering 'yes'.",20260824T093740Z_5937923c
+1135,2,"Mark is still missing, so not everyone is here, answering 'no'.",20260824T093740Z_5937923c
+1137,7,"Person B is Chinese, and China is in Asia, answering 'yes' to whether they come from Asia.",20260824T093740Z_5937923c
+1138,5,"The line went dead, which could mean the call was dropped rather than Person B intentionally hanging up, so it's somewhat ambiguous.",20260824T093740Z_5937923c
+1139,7,"They have domestics, meaning someone is taking care of their house, answering 'yes'.",20260824T093740Z_5937923c
+1140,1,"They have just opened, so the bar has not been here for long, answering 'definitely no'.",20260824T093740Z_5937923c
+1141,7,"His house is full of history books, implying he owns many books, answering 'yes'.",20260824T093740Z_5937923c
+1143,7,"They have only a few guests, which is a small gathering, answering 'yes'.",20260824T093740Z_5937923c
+1144,1,"Person B only has one week off, not two, answering 'definitely no'.",20260824T093740Z_5937923c
+1145,7,"Person B is going to have a baby, which means they are pregnant, answering 'yes'.",20260824T093740Z_5937923c
+1147,2,"Person B still owes the bank money, so they have not paid back their debts, answering 'no'.",20260824T093740Z_5937923c
+1148,1,"He only had water, so he did not drink a cocktail, answering 'definitely no'.",20260824T093740Z_5937923c
+1149,2,"Person B owns an orchard, not a vegetable garden, answering 'no'.",20260824T093740Z_5937923c
+1150,1,"He is 25 years old, which is not underage, answering 'definitely no'.",20260824T093740Z_5937923c
+1151,1,"The tuition fee is extremely expensive, so Harvard is not affordable, answering 'definitely no'.",20260824T093740Z_5937923c
+1152,7,"She made a bank transfer a few moments ago, meaning she has paid, answering 'yes'.",20260824T093740Z_5937923c
+1153,1,"They cannot swim yet, so they are not good at swimming, answering 'definitely no'.",20260824T093740Z_5937923c
+1154,1,"Person B is healthy again, so they no longer have a cold, answering 'definitely no'.",20260824T093740Z_5937923c
+1155,7,"People are not allowed to get closer, meaning it is forbidden to approach, answering 'yes'.",20260824T093740Z_5937923c
+1156,7,"Person B has watered them regularly, meaning someone took care of the plants, answering 'yes'.",20260824T093740Z_5937923c
+1157,1,"He was already dead by then, so he was not alive in the 80s, answering 'definitely no'.",20260824T093740Z_5937923c
+1158,7,"The ice layer is quite thick, meaning the lake is frozen, answering 'yes'.",20260824T093740Z_5937923c
+1159,1,"Person B is in the advanced course, not the beginners' class, answering 'definitely no'.",20260824T093740Z_5937923c
+1160,7,"Person B has seen a doctor, meaning they sought medical advice, answering 'yes'.",20260824T093740Z_5937923c
+1161,1,"Person B went out with friends, so they did not stay home, answering 'definitely no'.",20260824T093740Z_5937923c
+1162,7,"They voted yesterday, meaning there was an election recently, answering 'yes'.",20260824T093740Z_5937923c
+1163,7,"The car is spotless, meaning it is completely clean, answering 'yes'.",20260824T093740Z_5937923c
+1164,1,"They submitted a blank sheet, so they did not answer all questions, answering 'definitely no'.",20260824T093740Z_5937923c
+1165,2,"She has just got into the changing room, so she is not out on the tennis field, answering 'no'.",20260824T093740Z_5937923c
+1166,7,"He was compensated, meaning he got the money back, answering 'yes'.",20260824T093740Z_5937923c
+1167,1,"No one has responded, so no one has answered the ad, answering 'definitely no'.",20260824T093740Z_5937923c
+1168,1,"He does not play any instrument, so he is not a musician, answering 'definitely no'.",20260824T093740Z_5937923c
+1169,7,"He has been in Japan for several months, meaning he has travelled in Asia, answering 'yes'.",20260824T093740Z_5937923c
+1170,7,"They are aiming for the mountain top, which is the summit, answering 'yes'.",20260824T093740Z_5937923c
+1171,7,"The customer received it, meaning they got their package, answering 'yes'.",20260824T093740Z_5937923c
+1173,2,"She skipped the last four lessons, so she did not attend the whole course, answering 'no'.",20260824T093740Z_5937923c
+1174,7,"The monitor's resolution is really poor, meaning the screen has a bad image, answering 'yes'.",20260824T093740Z_5937923c
+1175,7,"She graduated from medical school last year, meaning she has completed her medical studies, answering 'yes'.",20260824T093740Z_5937923c
+1176,1,"It is a private property, not a public building, answering 'definitely no'.",20260824T093740Z_5937923c
+1201,4,Not seeing someone for ages doesn't directly answer whether they are still good friends; it's ambiguous.,20260824T093740Z_5937923c
+1202,7,"Sending out an application implies looking for a job, answering 'yes'.",20260824T093740Z_5937923c
+1203,7,"Training with Lukas at the gym implies knowing him, answering 'yes'.",20260824T093740Z_5937923c
+1204,5,"His grandfather passed away recently, which might imply inheritance, but it's not certain, so somewhat likely yes.",20260824T093740Z_5937923c
+1205,5,"1000 km is a long distance, suggesting it takes long to drive, but it's somewhat subjective.",20260824T093740Z_5937923c
+1206,7,"A six-hour drive means Munich is far, answering 'yes'.",20260824T093740Z_5937923c
+1207,2,"The train has a delay, so it's unlikely they will be home by noon, answering 'no'.",20260824T093740Z_5937923c
+1208,2,"There is still some cereal left, so they haven't bought more, answering 'no'.",20260824T093740Z_5937923c
+1209,2,"The essay is not due for three months, so they likely haven't started yet, answering 'no'.",20260824T093740Z_5937923c
+1210,7,"Streets are always congested, so they will likely be late, answering 'yes'.",20260824T093740Z_5937923c
+1211,1,"Megan is vegetarian, so she is not coming to a steak house, answering 'definitely no'.",20260824T093740Z_5937923c
+1212,7,"John has the flu, so he is likely staying home, answering 'yes'.",20260824T093740Z_5937923c
+1213,5,"She runs for hours every day, which suggests she might have registered, but it's not certain.",20260824T093740Z_5937923c
+1214,1,"She just woke up, so she likely hasn't had breakfast yet, answering 'no'.",20260824T093740Z_5937923c
+1215,1,"The movie comes out next week, so they haven't seen it yet, answering 'definitely no'.",20260824T093740Z_5937923c
+1216,7,"Person B has used a drill before, so they know how to use one, answering 'yes'.",20260824T093740Z_5937923c
+1217,1,Celebrating tonight doesn't directly relate to failing an exam; it's ambiguous but likely not a 'yes' to failing.,20260824T093740Z_5937923c
+1218,5,"Moving out tomorrow could imply breaking up, but it's not certain, so somewhat likely yes.",20260824T093740Z_5937923c
+1219,5,"Always falling behind could imply he was fired, but it's not certain, so somewhat likely yes.",20260824T093740Z_5937923c
+1220,7,"The region is famous for surfing, which implies big waves, answering 'yes'.",20260824T093740Z_5937923c
+1221,2,"The sea is quite rough, so it's not safe to swim, answering 'no'.",20260824T093740Z_5937923c
+1222,2,"Working at an NGO typically doesn't pay a lot, so it's unlikely they make a lot of money, answering 'no'.",20260824T093740Z_5937923c
+1223,7,"He has authored many successful books, so he is famous, answering 'yes'.",20260824T093740Z_5937923c
+1224,1,"Still analyzing the data means it hasn't been presented yet, answering 'definitely no'.",20260824T093740Z_5937923c
+1225,1,"Pandas are endangered, so it's not legal to hunt them, answering 'definitely no'.",20260824T093740Z_5937923c
+1226,5,"Enrolling at the gym could imply weight loss, but it's not certain, so somewhat likely yes.",20260824T093740Z_5937923c
+1227,1,"The thesis is not complete yet, so they haven't graduated, answering 'definitely no'.",20260824T093740Z_5937923c
+1228,4,Saying the hair was way too long doesn't directly confirm a haircut; it's ambiguous.,20260824T093740Z_5937923c
+1229,1,"It was a business trip, so there likely wasn't time for sightseeing, answering 'no'.",20260824T093740Z_5937923c
+1230,1,"Person B needs a larger flat, so they didn't buy the one-room flat, answering 'definitely no'.",20260824T093740Z_5937923c
+1231,7,"The deadline is tomorrow, so she is likely stressed, answering 'yes'.",20260824T093740Z_5937923c
+1232,7,"Slept only four hours means Person B is tired, answering 'yes'.",20260824T093740Z_5937923c
+1233,2,"The offer had expired, so he likely didn't book the flight, answering 'no'.",20260824T093740Z_5937923c
+1234,7,"The cat got wounded, so Person B is likely bringing it to the vet, answering 'yes'.",20260824T093740Z_5937923c
+1235,2,"Mark is still missing, so they are not ready to go, answering 'no'.",20260824T093740Z_5937923c
+1237,5,"Being Chinese might imply knowing how to cook Cantonese rice, but it's not certain.",20260824T093740Z_5937923c
+1238,4,The line went dead doesn't directly answer whether Person B told him; it's ambiguous.,20260824T093740Z_5937923c
+1239,7,"They have domestics, so their house is likely always tidy, answering 'yes'.",20260824T093740Z_5937923c
+1240,2,"They have just opened, so Person B likely hasn't tried it yet, answering 'no'.",20260824T093740Z_5937923c
+1241,7,"His house is full of history books, implying he has a passion for history, answering 'yes'.",20260824T093740Z_5937923c
+1243,5,"Only a few guests might mean the saucepan is big enough, but it's not certain.",20260824T093740Z_5937923c
+1244,1,"Person B only has one week off, so they can't take a two-week trip, answering 'definitely no'.",20260824T093740Z_5937923c
+1245,7,"Going to have a baby implies avoiding alcohol, answering 'yes'.",20260824T093740Z_5937923c
+1247,4,Still owing money doesn't directly answer whether they got a new loan; it's ambiguous.,20260824T093740Z_5937923c
+1248,1,"He only had water, so he is not drunk, answering 'definitely no'.",20260824T093740Z_5937923c
+1249,2,"Owning an orchard might mean they don't buy fruit at the supermarket, answering 'no'.",20260824T093740Z_5937923c
+1250,1,"He is 25 years old, so he is not at elementary school, answering 'definitely no'.",20260824T093740Z_5937923c
+1251,2,"The tuition is extremely expensive, so it's unlikely to be an option, answering 'no'.",20260824T093740Z_5937923c
+1252,7,"She made a bank transfer, meaning she accepted the deal, answering 'yes'.",20260824T093740Z_5937923c
+1253,1,"They cannot swim yet, so they didn't go to the swimming pool, answering 'definitely no'.",20260824T093740Z_5937923c
+1254,1,"Person B is healthy again, so they are not taking the pills anymore, answering 'definitely no'.",20260824T093740Z_5937923c
+1255,5,"People are not allowed to get closer, which might imply contamination, but it's not certain.",20260824T093740Z_5937923c
+1256,7,"Watered regularly means the plants are still alive, answering 'yes'.",20260824T093740Z_5937923c
+1257,1,"He was already dead by then, so he didn't create the artwork in 1981, answering 'definitely no'.",20260824T093740Z_5937923c
+1258,7,"The ice layer is quite thick, so it is ice skating season, answering 'yes'.",20260824T093740Z_5937923c
+1259,1,"Person B is in the advanced course, so they are not a beginner, answering 'definitely no'.",20260824T093740Z_5937923c
+1260,5,"Seeing a doctor might imply being sick, but it's not certain, so somewhat likely yes.",20260824T093740Z_5937923c
+1261,1,"Went out with friends, so didn't go to bed early, answering 'definitely no'.",20260824T093740Z_5937923c
+1262,7,"They voted yesterday, so members can elect a representative, answering 'yes'.",20260824T093740Z_5937923c
+1263,7,"The car is spotless, so it is back from the car wash, answering 'yes'.",20260824T093740Z_5937923c
+1264,1,"Submitted a blank sheet, so they didn't write a good exam, answering 'definitely no'.",20260824T093740Z_5937923c
+1265,5,"Just got into the changing room might mean she is dressing for the game, but it's not certain.",20260824T093740Z_5937923c
+1266,7,"He was compensated, meaning he settled the lawsuit, answering 'yes'.",20260824T093740Z_5937923c
+1267,1,"No one has responded, so the house hasn't been sold, answering 'definitely no'.",20260824T093740Z_5937923c
+1268,1,"He does not play any instrument, so he is not part of the marching band, answering 'definitely no'.",20260824T093740Z_5937923c
+1269,7,"He has been in Japan for several months, so he has likely tried sushi, answering 'yes'.",20260824T093740Z_5937923c
+1270,5,"Aiming for the mountain top might mean the whole way is uphill, but it's not certain.",20260824T093740Z_5937923c
+1271,7,"The customer received it, so the package was shipped, answering 'yes'.",20260824T093740Z_5937923c
+1273,1,"She skipped the last four lessons, so she is not very dedicated, answering 'definitely no'.",20260824T093740Z_5937923c
+1274,7,"The monitor's resolution is really poor, so eyes get strained, answering 'yes'.",20260824T093740Z_5937923c
+1275,7,"She graduated from medical school, so she is a medical doctor, answering 'yes'.",20260824T093740Z_5937923c
+1276,2,"It is a private property, so Person B likely hasn't been inside, answering 'no'.",20260824T093740Z_5937923c
+2101,7,"Person B needs to revise some topics, so they have to study, answering 'yes'.",20260824T093740Z_5937923c
+2102,7,"There is an interesting new movie, so something has come out recently, answering 'yes'.",20260824T093740Z_5937923c
+2103,7,"It is quite chilly, so it is cold, answering 'yes'.",20260824T093740Z_5937923c
+2105,5,"Heard good things about the book implies knowing something about it, answering 'yes'.",20260824T093740Z_5937923c
+2106,7,"Pulled a muscle last time implies getting injured at yoga class, answering 'yes'.",20260824T093740Z_5937923c
+2107,7,"Cannot find the phone implies losing it, answering 'yes'.",20260824T093740Z_5937923c
+2108,7,"Minus 20 degrees is very cold, answering 'yes'.",20260824T093740Z_5937923c
+2109,7,"Just entered a church, which is a religious building, answering 'yes'.",20260824T093740Z_5937923c
+2110,7,"Training very hard implies workouts are difficult, answering 'yes'.",20260824T093740Z_5937923c
+2113,7,"Working on an exhausting task implies working today, answering 'yes'.",20260824T093740Z_5937923c
+2114,1,"Did not bring bikini means no swimming gear, answering 'definitely no'.",20260824T093740Z_5937923c
+2115,1,"Does not have time means not free, answering 'definitely no'.",20260824T093740Z_5937923c
+2116,1,"Watched it last month, not yesterday, answering 'definitely no'.",20260824T093740Z_5937923c
+2117,1,"On a diet means not eating more than usual, answering 'definitely no'.",20260824T093740Z_5937923c
+2118,1,"Actually a Muslim, not Hindu, answering 'definitely no'.",20260824T093740Z_5937923c
+2119,1,"Head is spinning after beers means not feeling ok, answering 'definitely no'.",20260824T093740Z_5937923c
+2120,1,"Very tired means not feeling energetic, answering 'definitely no'.",20260824T093740Z_5937923c
+2121,1,"Broke at the moment means no money saved up, answering 'definitely no'.",20260824T093740Z_5937923c
+2122,1,"Used one already in the past means it's not the first experience, answering 'definitely no'.",20260824T093740Z_5937923c
+2123,1,"11 p.m. is not morning, answering 'definitely no'.",20260824T093740Z_5937923c
+2124,1,"Have a hangover means not feeling good, answering 'definitely no'.",20260824T093740Z_5937923c
+2125,1,"Actually diabetic means not free of chronic disease, answering 'definitely no'.",20260824T093740Z_5937923c
+2127,1,"Usually gets seasick means not feeling well on boats, answering 'definitely no'.",20260824T093740Z_5937923c
+2128,1,"Toothache is gone means teeth are not hurting, answering 'definitely no'.",20260824T093740Z_5937923c
+2129,7,"Several bus stops before destination means there are many stations, answering 'yes'.",20260824T093740Z_5937923c
+2130,1,"Should not staple them means not allowed, answering 'definitely no'.",20260824T093740Z_5937923c
+2131,1,"Very light means luggage does not weigh much, answering 'definitely no'.",20260824T093740Z_5937923c
+2132,7,"Have to get up at 5 am means waking up early, answering 'yes'.",20260824T093740Z_5937923c
+2134,1,"French is native language, not Spanish, answering 'definitely no'.",20260824T093740Z_5937923c
+2135,7,"It does not work means the remote is still unusable, answering 'yes'.",20260824T093740Z_5937923c
+2136,7,"Wolves are very common here means there are wild animals, answering 'yes'.",20260824T093740Z_5937923c
+2137,1,"Only have cacti means no trees, answering 'definitely no'.",20260824T093740Z_5937923c
+2138,7,"Need it for travelling means passport is necessary, answering 'yes'.",20260824T093740Z_5937923c
+2139,1,"Got a sandwich, not pie, answering 'definitely no'.",20260824T093740Z_5937923c
+2140,7,"Have to go out soon means kids are about to leave, answering 'yes'.",20260824T093740Z_5937923c
+2141,7,"Starving means already hungry, answering 'yes'.",20260824T093740Z_5937923c
+2144,7,"Drink tea all the time means often consuming hot drinks, answering 'yes'.",20260824T093740Z_5937923c
+2145,7,"Too much light means the room is very bright, answering 'yes'.",20260824T093740Z_5937923c
+2146,1,"Will be abroad then means not staying in town till Friday, answering 'definitely no'.",20260824T093740Z_5937923c
+2147,7,"Having a soup means eating something, answering 'yes'.",20260824T093740Z_5937923c
+2148,7,"Just started pouring means it is raining, answering 'yes'.",20260824T093740Z_5937923c
+2149,1,"Do not drink means not consuming alcohol, answering 'definitely no'.",20260824T093740Z_5937923c
+2150,2,"Dish washer in the kitchen means not everything was taken away, answering 'no'.",20260824T093740Z_5937923c
+2151,1,"Gave away racket ages ago means no tennis equipment, answering 'definitely no'.",20260824T093740Z_5937923c
+2152,1,"Do not eat spicy dishes means not consuming all types of food, answering 'definitely no'.",20260824T093740Z_5937923c
+2153,7,"Live right next to you means they are neighbours, answering 'yes'.",20260824T093740Z_5937923c
+2155,1,"Understand everything now means not confused anymore, answering 'definitely no'.",20260824T093740Z_5937923c
+2156,7,"Chest hurts a lot means feeling pain in upper body, answering 'yes'.",20260824T093740Z_5937923c
+2157,1,"Middle of summer means not winter, answering 'definitely no'.",20260824T093740Z_5937923c
+2159,7,"Cut finger while cooking means got hurt, answering 'yes'.",20260824T093740Z_5937923c
+2160,7,"Dust all over the floor means living room is dirty, answering 'yes'.",20260824T093740Z_5937923c
+2161,1,"Brought mine means didn't leave toothpaste at home, answering 'definitely no'.",20260824T093740Z_5937923c
+2162,7,"Lips are all chapped means they got damaged, answering 'yes'.",20260824T093740Z_5937923c
+2163,1,"Working early tomorrow morning means not doing the afternoon shift, answering 'definitely no'.",20260824T093740Z_5937923c
+2164,1,"Plan to eat at a restaurant means not having dinner at home, answering 'definitely no'.",20260824T093740Z_5937923c
+2165,7,"Grown a lot recently means hedges are taller, answering 'yes'.",20260824T093740Z_5937923c
+2166,7,"Lunch is now ready means finished cooking, answering 'yes'.",20260824T093740Z_5937923c
+2167,7,"Math exercise is very complicated means difficult homework, answering 'yes'.",20260824T093740Z_5937923c
+2168,1,"Not sure where to go yet means haven't decided on a destination, answering 'definitely no'.",20260824T093740Z_5937923c
+2169,1,"Smoke cigars only means not smoking cigarettes, answering 'definitely no'.",20260824T093740Z_5937923c
+2170,1,"Type directly on laptop means not writing on paper, answering 'definitely no'.",20260824T093740Z_5937923c
+2171,7,"New stove not delivered yet means kitchen is still incomplete, answering 'yes'.",20260824T093740Z_5937923c
+2172,7,"Cars get stolen regularly here means car theft occurs often, answering 'yes'.",20260824T093740Z_5937923c
+2173,1,"Wardrobe is completely full means no room left, answering 'definitely no'.",20260824T093740Z_5937923c
+2174,7,"Dirty laundry is piling up means a lot of laundry to wash, answering 'yes'.",20260824T093740Z_5937923c
+2175,7,"Can have a relaxed breakfast means taking time for it, answering 'yes'.",20260824T093740Z_5937923c
+2201,7,"Need to revise topics implies agreement to study together, answering 'yes'.",20260824T093740Z_5937923c
+2202,7,"Interesting new movie implies agreement to go to the cinema, answering 'yes'.",20260824T093740Z_5937923c
+2203,7,"Quite chilly implies agreement to close the window, answering 'yes'.",20260824T093740Z_5937923c
+2205,7,"Heard good things about the book implies wanting to borrow it, answering 'yes'.",20260824T093740Z_5937923c
+2206,2,"Pulled a muscle implies not wanting to skip yoga, but rather needing rest, so somewhat likely no to skipping.",20260824T093740Z_5937923c
+2207,7,"Cannot find phone implies wanting to use someone else's, answering 'yes'.",20260824T093740Z_5937923c
+2208,7,"Minus 20 degrees implies needing a coat, answering 'yes'.",20260824T093740Z_5937923c
+2209,7,"Just entered a church implies agreement to turn off phones, answering 'yes'.",20260824T093740Z_5937923c
+2210,7,"Training very hard implies wanting a protein shake, answering 'yes'.",20260824T093740Z_5937923c
+2213,2,"Working on an exhausting task might mean not wanting a break, but it's ambiguous; somewhat likely no.",20260824T093740Z_5937923c
+2214,2,"Did not bring bikini implies not wanting to go to the lake, answering 'no'.",20260824T093740Z_5937923c
+2215,1,"Do not have time implies not coming to the talk, answering 'definitely no'.",20260824T093740Z_5937923c
+2216,1,"Watched it last month implies not wanting to watch it tonight, answering 'definitely no'.",20260824T093740Z_5937923c
+2217,1,"On a diet implies not wanting dessert, answering 'definitely no'.",20260824T093740Z_5937923c
+2218,1,"Actually a Muslim implies not wanting pork, answering 'definitely no'.",20260824T093740Z_5937923c
+2219,1,"Head is spinning implies not wanting another beer, answering 'definitely no'.",20260824T093740Z_5937923c
+2220,1,"Very tired implies not wanting to go out, answering 'definitely no'.",20260824T093740Z_5937923c
+2221,1,"Broke at the moment implies not wanting to go on a trip, answering 'definitely no'.",20260824T093740Z_5937923c
+2222,1,"Used one already in the past implies not needing help, answering 'definitely no'.",20260824T093740Z_5937923c
+2223,1,"11 p.m. implies not going to the cinema, answering 'definitely no'.",20260824T093740Z_5937923c
+2224,1,"Have a hangover implies not wanting drinks, answering 'definitely no'.",20260824T093740Z_5937923c
+2225,1,"Actually diabetic implies not wanting cake, answering 'definitely no'.",20260824T093740Z_5937923c
+2227,1,"Usually gets seasick implies not joining the cruise, answering 'definitely no'.",20260824T093740Z_5937923c
+2228,1,"Toothache is gone implies not wanting painkillers, answering 'definitely no'.",20260824T093740Z_5937923c
+2229,1,"Several bus stops before destination implies not wanting the seat, answering 'definitely no'.",20260824T093740Z_5937923c
+2230,1,"Should not staple them implies not wanting the stapler, answering 'definitely no'.",20260824T093740Z_5937923c
+2231,1,"Very light implies not needing help with luggage, answering 'definitely no'.",20260824T093740Z_5937923c
+2232,7,"Have to get up at 5 am implies setting the alarm, answering 'yes'.",20260824T093740Z_5937923c
+2234,1,"French is native language implies not needing spelling check, answering 'definitely no'.",20260824T093740Z_5937923c
+2235,7,"It does not work implies wanting batteries changed, answering 'yes'.",20260824T093740Z_5937923c
+2236,7,"Wolves are very common implies locking up cattle, answering 'yes'.",20260824T093740Z_5937923c
+2237,1,"Only have cacti implies not needing watering, answering 'definitely no'.",20260824T093740Z_5937923c
+2238,7,"Need it for travelling implies packing the passport, answering 'yes'.",20260824T093740Z_5937923c
+2239,1,"Got a sandwich implies not wanting more food, answering 'definitely no'.",20260824T093740Z_5937923c
+2240,7,"Have to go out soon implies waking up the kids, answering 'yes'.",20260824T093740Z_5937923c
+2241,7,"Starving implies wanting biscuits, answering 'yes'.",20260824T093740Z_5937923c
+2244,7,"Drink tea all the time implies wanting to use the kettle, answering 'yes'.",20260824T093740Z_5937923c
+2245,7,"Too much light implies turning down the dimmer, answering 'yes'.",20260824T093740Z_5937923c
+2246,1,"Will be abroad then implies not coming to the party, answering 'definitely no'.",20260824T093740Z_5937923c
+2247,7,"Having a soup implies wanting a spoon, answering 'yes'.",20260824T093740Z_5937923c
+2248,7,"Just started pouring implies wanting an umbrella, answering 'yes'.",20260824T093740Z_5937923c
+2249,1,"Do not drink implies not wanting wine, answering 'definitely no'.",20260824T093740Z_5937923c
+2250,1,"Dish washer in the kitchen implies not needing dishes done by hand, answering 'definitely no'.",20260824T093740Z_5937923c
+2251,1,"Gave away racket ages ago implies not playing tennis, answering 'definitely no'.",20260824T093740Z_5937923c
+2252,1,"Do not eat spicy dishes implies not wanting Mexican food, answering 'definitely no'.",20260824T093740Z_5937923c
+2253,1,"Live right next to you implies not needing a ride, answering 'definitely no'.",20260824T093740Z_5937923c
+2255,1,"Understand everything now implies not needing explanation, answering 'definitely no'.",20260824T093740Z_5937923c
+2256,7,"Chest hurts a lot implies wanting a doctor called, answering 'yes'.",20260824T093740Z_5937923c
+2257,1,"Middle of summer implies not wanting an extra blanket, answering 'definitely no'.",20260824T093740Z_5937923c
+2259,7,"Cut finger while cooking implies wanting a plaster, answering 'yes'.",20260824T093740Z_5937923c
+2260,7,"Dust all over the floor implies wanting the living room swept, answering 'yes'.",20260824T093740Z_5937923c
+2261,1,"Brought mine implies not wanting toothpaste, answering 'definitely no'.",20260824T093740Z_5937923c
+2262,7,"Lips are all chapped implies wanting lip balm, answering 'yes'.",20260824T093740Z_5937923c
+2263,1,"Working early tomorrow morning implies not joining for drinks, answering 'definitely no'.",20260824T093740Z_5937923c
+2264,1,"Plan to eat at a restaurant implies not wanting someone to cook, answering 'definitely no'.",20260824T093740Z_5937923c
+2265,7,"Grown a lot recently implies wanting hedges pruned, answering 'yes'.",20260824T093740Z_5937923c
+2266,7,"Lunch is now ready implies setting the table, answering 'yes'.",20260824T093740Z_5937923c
+2267,7,"Math exercise is very complicated implies wanting a calculator, answering 'yes'.",20260824T093740Z_5937923c
+2268,1,"Not sure where to go yet implies not buying train tickets, answering 'definitely no'.",20260824T093740Z_5937923c
+2269,1,"Smoke cigars only implies not wanting a cigarette, answering 'definitely no'.",20260824T093740Z_5937923c
+2270,1,"Type directly on laptop implies not wanting paper, answering 'definitely no'.",20260824T093740Z_5937923c
+2271,7,"New stove not delivered yet implies wanting delivery food, answering 'yes'.",20260824T093740Z_5937923c
+2272,7,"Cars get stolen regularly implies wanting the car locked, answering 'yes'.",20260824T093740Z_5937923c
+2273,1,"Wardrobe is completely full implies not shopping for clothes, answering 'definitely no'.",20260824T093740Z_5937923c
+2274,7,"Dirty laundry is piling up implies wanting laundry done, answering 'yes'.",20260824T093740Z_5937923c
+2275,7,"Can have a relaxed breakfast implies wanting pancakes, answering 'yes'.",20260824T093740Z_5937923c

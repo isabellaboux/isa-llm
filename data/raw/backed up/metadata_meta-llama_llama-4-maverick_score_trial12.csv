@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787585039-KzoZMpLUiyloupZEP879,meta-llama/llama-4-maverick,meta-llama/llama-4-maverick,Parasail,stop,9190,12617,0,21807,0.01435894,,chatcmpl-463087c1c931af67c7c7830cc8fcda3e-d5495146a7164011,stop,1145,200868,20260824T093740Z_5937923c

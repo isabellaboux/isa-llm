@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787589933-CCaTM0f2C2vZvOZnPX65,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,AkashML,stop,9207,11348,0,20555,0.00682236,,chatcmpl-830c087f343bc0c5,stop,920,238805,20260824T093740Z_5937923c

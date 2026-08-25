@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787324905-nedJGXT2JzCyzCVXgbGu,openai/gpt-5.6-terra,openai/gpt-5.6-terra,OpenAI,stop,9220,6559,97,15779,0.0805574,,resp_05ac2b9192abfbfe016a8869e941c887d1ae19785f45d2a4c8,completed,3222,58175,20260821T125948Z_8dbb5082

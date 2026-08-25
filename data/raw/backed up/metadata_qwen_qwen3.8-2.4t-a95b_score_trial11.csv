@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787609118-ZXFiVSy48TLuBfIHv3b4,qwen/qwen3.8-2.4t-a95b,qwen/qwen3.8-2.4t-a95b,Together,stop,9792,34638,20077,44430,0.2409675,,a305a86108c0359e-36afa496,stop,1451,120036,20260824T093740Z_5937923c

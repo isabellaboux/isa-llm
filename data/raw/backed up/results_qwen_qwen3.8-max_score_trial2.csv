@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,2,"The answer says B has not seen Martin for ages, which strongly implies B has not met him lately, though it does not explicitly rule out non-visual contact.",20260824T093740Z_5937923c
+1102,7,"Sending out an application is something B is doing right now, so this directly supports yes.",20260824T093740Z_5937923c
+1103,6,"Training with Lukas at the gym strongly suggests B usually exercises with him, though 'train' could be slightly narrower than 'exercise'.",20260824T093740Z_5937923c
+1104,7,"A grandfather passing away is a death in the family, so the answer clearly implies yes.",20260824T093740Z_5937923c
+1105,6,"About 1000 km away is generally far, so it strongly suggests yes, though 'very far' can be context-dependent.",20260824T093740Z_5937923c
+1106,7,A six hour drive clearly indicates that it takes a long time to get to Munich.,20260824T093740Z_5937923c
+1107,2,"A train delay suggests the journey is not going as planned, so this is very likely no.",20260824T093740Z_5937923c
+1108,1,"If there is still some cereal left, they have not finished it, so this is definitely no.",20260824T093740Z_5937923c
+1109,2,"If the essay is not due for three months, the deadline is not next week, making this very likely no.",20260824T093740Z_5937923c
+1110,7,Streets always congested with cars directly indicates there is usually a lot of traffic.,20260824T093740Z_5937923c
+1111,1,"Being vegetarian means Megan does not eat meat, so this is definitely no.",20260824T093740Z_5937923c
+1112,7,"Having the flu means John is sick, so this is definitely yes.",20260824T093740Z_5937923c
+1113,7,Running for hours every day directly supports that Sonya trains daily.,20260824T093740Z_5937923c
+1114,1,"If she just woke up, she is no longer sleeping, so this is definitely no.",20260824T093740Z_5937923c
+1115,1,"If it comes out next week, it is not being released today, so definitely no.",20260824T093740Z_5937923c
+1116,7,Having used a drill before directly answers yes to having worked with a drill.,20260824T093740Z_5937923c
+1117,2,"Celebrating tonight suggests the party is not tomorrow, so very likely no.",20260824T093740Z_5937923c
+1118,7,Moving out tomorrow directly means leaving the flat soon.,20260824T093740Z_5937923c
+1119,6,"Always falling behind strongly suggests he is a slacker, though it is somewhat inferential.",20260824T093740Z_5937923c
+1120,7,The region being famous for surfing directly says the area is popular for something.,20260824T093740Z_5937923c
+1121,2,"If the sea is quite rough, it is not calm, so very likely no.",20260824T093740Z_5937923c
+1122,2,"Working at an NGO suggests not working for a corporate company, though NGO could technically be organizational; likely no.",20260824T093740Z_5937923c
+1123,7,Authoring many successful books directly supports that he is a writer.,20260824T093740Z_5937923c
+1124,2,"Still analyzing the data implies not finished working on it, so very likely no.",20260824T093740Z_5937923c
+1125,3,"Being endangered suggests not many pandas are left, but the exact number is not stated; somewhat likely no.",20260824T093740Z_5937923c
+1126,7,Enrolling at the gym directly answers yes to joining a fitness studio.,20260824T093740Z_5937923c
+1127,1,"The thesis is explicitly not complete yet, so definitely no.",20260824T093740Z_5937923c
+1128,6,"Saying hair was way too long strongly implies B used to have long hair, though phrased indirectly.",20260824T093740Z_5937923c
+1129,2,"If it was a business trip, it was not a vacation, so very likely no.",20260824T093740Z_5937923c
+1130,2,"Needing a larger one implies a one room flat is not enough, so very likely no.",20260824T093740Z_5937923c
+1131,7,A deadline tomorrow strongly indicates she has to hand in soon.,20260824T093740Z_5937923c
+1132,7,Sleeping only four hours directly supports having had a short night.,20260824T093740Z_5937923c
+1133,2,"If the offer expired, the flight was likely no longer discounted, so very likely no.",20260824T093740Z_5937923c
+1134,7,Getting wounded directly means the cat is hurt.,20260824T093740Z_5937923c
+1135,2,"Mark is still missing, so not everyone is here; very likely no.",20260824T093740Z_5937923c
+1137,7,Being Chinese directly supports coming from Asia.,20260824T093740Z_5937923c
+1138,4,"The line going dead is ambiguous: it may imply the call ended, but not clearly whether B intentionally hung up.",20260824T093740Z_5937923c
+1139,7,Having domestics directly supports that someone is taking care of their house.,20260824T093740Z_5937923c
+1140,1,"If they have just opened, the bar has not been there long, so definitely no.",20260824T093740Z_5937923c
+1141,6,"A house full of history books strongly implies he owns many books, though it specifies only one type.",20260824T093740Z_5937923c
+1143,7,Only a few guests over for dinner directly supports a small gathering tonight.,20260824T093740Z_5937923c
+1144,2,"Having only one week off implies not two weeks of holiday, so very likely no.",20260824T093740Z_5937923c
+1145,7,Going to have a baby directly implies being pregnant.,20260824T093740Z_5937923c
+1147,2,"Still owing the bank money implies debts have not been fully paid back, so very likely no.",20260824T093740Z_5937923c
+1148,1,"If he only had water, he did not drink a cocktail, so definitely no.",20260824T093740Z_5937923c
+1149,4,Owning an orchard is related to growing fruit but does not clearly answer whether B has a vegetable garden; ambiguous.,20260824T093740Z_5937923c
+1150,1,"A 25-year-old son is not underage, so definitely no.",20260824T093740Z_5937923c
+1151,2,"Extremely expensive tuition strongly suggests Harvard is not affordable, so very likely no.",20260824T093740Z_5937923c
+1152,7,Making a bank transfer a few moments ago directly supports that she has paid.,20260824T093740Z_5937923c
+1153,1,"If they cannot swim yet, they are not good at swimming, so definitely no.",20260824T093740Z_5937923c
+1154,1,"Being healthy again means B no longer has a cold, so definitely no.",20260824T093740Z_5937923c
+1155,7,People not allowed to get closer directly supports that approaching the area is forbidden.,20260824T093740Z_5937923c
+1156,7,Watering the plants regularly directly supports that someone took care of them.,20260824T093740Z_5937923c
+1157,1,"If he was already dead by the 80s, he was not alive then, so definitely no.",20260824T093740Z_5937923c
+1158,7,A quite thick ice layer directly supports that the lake is frozen.,20260824T093740Z_5937923c
+1159,1,"Being in the advanced course means not attending the beginners' class, so definitely no.",20260824T093740Z_5937923c
+1160,7,Seeing a doctor directly supports having sought medical advice.,20260824T093740Z_5937923c
+1161,1,"Going out with friends means B did not stay home, so definitely no.",20260824T093740Z_5937923c
+1162,7,Voting yesterday directly supports that there was an election recently.,20260824T093740Z_5937923c
+1163,7,Spotless directly means completely clean.,20260824T093740Z_5937923c
+1164,1,"Submitting a blank sheet means they did not answer all questions, so definitely no.",20260824T093740Z_5937923c
+1165,2,"Just getting into the changing room suggests she is not out on the tennis field yet, so very likely no.",20260824T093740Z_5937923c
+1166,7,Being compensated directly supports getting the money back.,20260824T093740Z_5937923c
+1167,1,No one has responded directly means no one answered the ad.,20260824T093740Z_5937923c
+1168,2,"Not playing any instrument strongly suggests he is not a musician, though musicians can sing; very likely no.",20260824T093740Z_5937923c
+1169,7,Being in Japan for several months directly supports travelling in Asia.,20260824T093740Z_5937923c
+1170,7,Aiming for the mountain top directly supports that the goal is the summit.,20260824T093740Z_5937923c
+1171,7,The customer receiving the package directly answers yes.,20260824T093740Z_5937923c
+1173,1,"Skipping the last four lessons means she did not attend the whole course, so definitely no.",20260824T093740Z_5937923c
+1174,7,Poor monitor resolution directly supports the screen having a bad image.,20260824T093740Z_5937923c
+1175,7,Graduating from medical school directly supports completing medical studies.,20260824T093740Z_5937923c
+1176,1,"Private property means it is not a public building, so definitely no.",20260824T093740Z_5937923c
+1201,3,"Not seeing Martin for ages suggests distance, but it does not necessarily mean they are no longer good friends; somewhat likely no.",20260824T093740Z_5937923c
+1202,7,Sending out applications directly supports looking for a job.,20260824T093740Z_5937923c
+1203,7,Training with Lukas at the gym strongly implies B knows him.,20260824T093740Z_5937923c
+1204,4,"The grandfather's recent death may relate to inheritance, but it does not establish that the property is now his; ambiguous.",20260824T093740Z_5937923c
+1205,6,"1000 km away suggests a long drive, so very likely yes, though travel time depends on conditions.",20260824T093740Z_5937923c
+1206,7,A six hour drive directly supports Munich being far.,20260824T093740Z_5937923c
+1207,3,"A train delay makes being home by noon less likely, but it does not definitely rule it out; somewhat likely no.",20260824T093740Z_5937923c
+1208,4,There being cereal left does not clearly say whether B bought cereal; ambiguous.,20260824T093740Z_5937923c
+1209,4,The distant deadline does not indicate whether B has started writing; ambiguous.,20260824T093740Z_5937923c
+1210,5,"Congested streets suggest delay and possible lateness, but do not guarantee being late; somewhat likely yes.",20260824T093740Z_5937923c
+1211,3,"Being vegetarian makes a steak house less likely, but Megan could still come for non-meat options; somewhat likely no.",20260824T093740Z_5937923c
+1212,5,"Having the flu suggests staying home is likely, but not explicitly stated; somewhat likely yes.",20260824T093740Z_5937923c
+1213,4,"Running daily suggests fitness or training, but does not confirm marathon registration; ambiguous.",20260824T093740Z_5937923c
+1214,3,"Just waking up suggests she probably has not had breakfast yet, but it is not explicit; somewhat likely no.",20260824T093740Z_5937923c
+1215,2,"If the movie comes out next week, B likely has not seen it, but the answer does not explicitly say so; very likely no.",20260824T093740Z_5937923c
+1216,7,Having used a drill before directly supports knowing how to use one.,20260824T093740Z_5937923c
+1217,2,"Celebrating suggests not failing the exam, so very likely no.",20260824T093740Z_5937923c
+1218,5,"Moving out may suggest a breakup, but it does not explicitly confirm breaking up with him; somewhat likely yes.",20260824T093740Z_5937923c
+1219,4,"Falling behind may be a reason for firing, but it does not directly confirm he was fired; ambiguous.",20260824T093740Z_5937923c
+1220,5,"A surfing-famous region suggests waves, but does not explicitly say they are big; somewhat likely yes.",20260824T093740Z_5937923c
+1221,3,"A rough sea suggests it may not be safe to swim, but safety is not explicitly stated; somewhat likely no.",20260824T093740Z_5937923c
+1222,3,"Working at an NGO may imply lower pay, but does not directly answer whether B makes a lot of money; somewhat likely no.",20260824T093740Z_5937923c
+1223,6,"Authoring many successful books suggests fame, but success does not guarantee fame; very likely yes.",20260824T093740Z_5937923c
+1224,2,"Still analyzing data suggests B did not present it yet, so very likely no.",20260824T093740Z_5937923c
+1225,3,"Endangered species are often protected, but the answer does not explicitly address legality; somewhat likely no.",20260824T093740Z_5937923c
+1226,4,Enrolling at the gym may relate to weight loss but does not confirm having lost weight; ambiguous.,20260824T093740Z_5937923c
+1227,2,"An incomplete thesis strongly suggests B has not graduated, though graduation could occur later; very likely no.",20260824T093740Z_5937923c
+1228,4,Saying hair was too long does not clearly say whether B got a haircut; ambiguous.,20260824T093740Z_5937923c
+1229,3,"A business trip makes sightseeing less likely, but not impossible; somewhat likely no.",20260824T093740Z_5937923c
+1230,3,"Needing a larger flat suggests not buying that one-room flat, but it is not explicit; somewhat likely no.",20260824T093740Z_5937923c
+1231,5,"A deadline tomorrow suggests stress, but the answer does not explicitly say she is stressed; somewhat likely yes.",20260824T093740Z_5937923c
+1232,7,Sleeping only four hours directly supports being tired.,20260824T093740Z_5937923c
+1233,3,"The offer expiring suggests he may not have booked it, but it is not explicit; somewhat likely no.",20260824T093740Z_5937923c
+1234,5,"A wounded cat makes a vet visit likely, but the answer does not explicitly confirm bringing it; somewhat likely yes.",20260824T093740Z_5937923c
+1235,2,"Mark still missing means they are probably not ready to go, so very likely no.",20260824T093740Z_5937923c
+1237,4,Being Chinese does not necessarily mean B can cook Cantonese rice; ambiguous.,20260824T093740Z_5937923c
+1238,4,The line going dead does not clarify whether B told him before the call ended; ambiguous.,20260824T093740Z_5937923c
+1239,6,"Having domestics strongly suggests the house is kept tidy, though 'always' is not guaranteed; very likely yes.",20260824T093740Z_5937923c
+1240,4,The bar just opening does not say whether B has tried it; ambiguous.,20260824T093740Z_5937923c
+1241,7,A house full of history books directly supports a passion for history.,20260824T093740Z_5937923c
+1243,5,"Few guests suggests the saucepan may be big enough, but size is not directly addressed; somewhat likely yes.",20260824T093740Z_5937923c
+1244,2,"Only one week off work strongly suggests not taking a two-week trip, so very likely no.",20260824T093740Z_5937923c
+1245,5,"Pregnancy often motivates avoiding alcohol, but the answer does not explicitly say B is avoiding it; somewhat likely yes.",20260824T093740Z_5937923c
+1247,4,Still owing money does not clearly say whether B got a new loan; ambiguous.,20260824T093740Z_5937923c
+1248,1,"If he only had water, he is not drunk, so definitely no.",20260824T093740Z_5937923c
+1249,3,"Owning an orchard suggests B may not need supermarket fruit, but it does not explicitly answer the question; somewhat likely no.",20260824T093740Z_5937923c
+1250,1,"A 25-year-old is not at elementary school, so definitely no.",20260824T093740Z_5937923c
+1251,3,"Expensive tuition makes Harvard less likely as an option, but affordability could depend on aid; somewhat likely no.",20260824T093740Z_5937923c
+1252,5,"A bank transfer suggests acceptance or payment, but does not explicitly confirm the deal was accepted; somewhat likely yes.",20260824T093740Z_5937923c
+1253,4,Not being able to swim does not clearly say whether the kids went to the pool; ambiguous.,20260824T093740Z_5937923c
+1254,2,"Being healthy again suggests B is no longer taking the pills, so very likely no.",20260824T093740Z_5937923c
+1255,5,"People not allowed closer suggests danger or contamination, but contamination is not explicitly stated; somewhat likely yes.",20260824T093740Z_5937923c
+1256,6,"Regular watering strongly suggests the plants are still alive, though not guaranteed; very likely yes.",20260824T093740Z_5937923c
+1257,1,"If he was already dead by then, he could not have created the artwork in 1981, so definitely no.",20260824T093740Z_5937923c
+1258,6,"Thick ice strongly suggests ice skating season, though the season is not explicitly stated; very likely yes.",20260824T093740Z_5937923c
+1259,1,"Being in an advanced course means B is not a beginner, so definitely no.",20260824T093740Z_5937923c
+1260,6,"Seeing a doctor strongly suggests B has been sick, though it could also be preventive; very likely yes.",20260824T093740Z_5937923c
+1261,3,"Going out with friends suggests not going to bed early, but it is not explicit; somewhat likely no.",20260824T093740Z_5937923c
+1262,7,Voting yesterday directly supports that members can elect a representative.,20260824T093740Z_5937923c
+1263,6,"A spotless car strongly suggests it is back from the car wash, though not explicitly stated; very likely yes.",20260824T093740Z_5937923c
+1264,1,"Submitting a blank sheet means they did not write a good exam, so definitely no.",20260824T093740Z_5937923c
+1265,3,"Just entering the changing room suggests she is not yet dressed for the game, but it is not explicit; somewhat likely no.",20260824T093740Z_5937923c
+1266,7,Being compensated directly supports settling the lawsuit.,20260824T093740Z_5937923c
+1267,1,"No one responding means the house has not been sold, so definitely no.",20260824T093740Z_5937923c
+1268,3,"Not playing an instrument makes marching band unlikely, but some band roles may not require instruments; somewhat likely no.",20260824T093740Z_5937923c
+1269,6,"Spending months in Japan strongly suggests trying sushi, but it is not guaranteed; very likely yes.",20260824T093740Z_5937923c
+1270,5,"Aiming for the mountain top suggests uphill travel, but not necessarily the whole way; somewhat likely yes.",20260824T093740Z_5937923c
+1271,7,The customer receiving the package directly supports that it was shipped to them.,20260824T093740Z_5937923c
+1273,1,"Skipping the last four lessons directly suggests she is not very dedicated, so definitely no.",20260824T093740Z_5937923c
+1274,6,"Poor monitor resolution strongly suggests eye strain, though not explicitly stated; very likely yes.",20260824T093740Z_5937923c
+1275,7,Graduating from medical school directly supports being a medical doctor.,20260824T093740Z_5937923c
+1276,4,Being private property does not say whether B has ever been inside; ambiguous.,20260824T093740Z_5937923c
+2101,7,Needing to revise topics directly supports having to study for the test.,20260824T093740Z_5937923c
+2102,7,An interesting new movie directly supports that something has come out in cinemas recently.,20260824T093740Z_5937923c
+2103,7,Quite chilly directly supports that it is cold.,20260824T093740Z_5937923c
+2105,5,"Having heard good things suggests some knowledge of the novel, but not detailed knowledge; somewhat likely yes.",20260824T093740Z_5937923c
+2106,7,Pulling a muscle directly supports getting injured at yoga class.,20260824T093740Z_5937923c
+2107,6,"Cannot find my phone strongly suggests it is lost, though it may just be misplaced; very likely yes.",20260824T093740Z_5937923c
+2108,7,Minus 20 degrees directly supports that it is cold outside.,20260824T093740Z_5937923c
+2109,7,Entering a church directly supports being in a religious building.,20260824T093740Z_5937923c
+2110,7,Training very hard directly supports workouts being difficult.,20260824T093740Z_5937923c
+2113,7,Working on an exhausting task directly supports having worked today.,20260824T093740Z_5937923c
+2114,2,"Not bringing a bikini suggests no swimming gear, though other gear could exist; very likely no.",20260824T093740Z_5937923c
+2115,1,Not having time directly means not free at the moment.,20260824T093740Z_5937923c
+2116,2,"Watching it last month means not yesterday, so very likely no.",20260824T093740Z_5937923c
+2117,2,"Being on a diet suggests not eating more than usual, so very likely no.",20260824T093740Z_5937923c
+2118,1,Being Muslim rather than Hindu directly means no.,20260824T093740Z_5937923c
+2119,2,"Head spinning after beers suggests not feeling ok, so very likely no.",20260824T093740Z_5937923c
+2120,1,Being very tired directly contradicts feeling energetic.,20260824T093740Z_5937923c
+2121,2,"Being broke suggests no money saved up, though savings could exist separately; very likely no.",20260824T093740Z_5937923c
+2122,1,"Having used a chainsaw before means it is not the first experience, so definitely no.",20260824T093740Z_5937923c
+2123,1,"11 p.m. is not morning, so definitely no.",20260824T093740Z_5937923c
+2124,1,Having a hangover directly means not feeling good.,20260824T093740Z_5937923c
+2125,1,"Being diabetic means not free of chronic disease, so definitely no.",20260824T093740Z_5937923c
+2127,1,Usually getting seasick directly means not feeling well on boats.,20260824T093740Z_5937923c
+2128,1,"Toothache gone means teeth are no longer hurting, so definitely no.",20260824T093740Z_5937923c
+2129,7,Several bus stops before the destination directly supports many stations on the way.,20260824T093740Z_5937923c
+2130,1,Should not staple them directly means not allowed to staple documents.,20260824T093740Z_5937923c
+2131,1,"Very light luggage does not weigh much, so definitely no.",20260824T093740Z_5937923c
+2132,7,Getting up at 5 am directly supports needing to wake up early.,20260824T093740Z_5937923c
+2134,1,French as native language means Spanish is not the mother tongue.,20260824T093740Z_5937923c
+2135,7,The remote not working directly supports that it is still unusable.,20260824T093740Z_5937923c
+2136,7,Wolves being common directly supports wild animals in the region.,20260824T093740Z_5937923c
+2137,2,"Only cacti suggests no trees, though cacti are not technically trees in ordinary usage; very likely no.",20260824T093740Z_5937923c
+2138,7,Needing it for travelling directly supports the passport being necessary for the plane.,20260824T093740Z_5937923c
+2139,2,"Having a sandwich suggests not bringing pie, so very likely no.",20260824T093740Z_5937923c
+2140,7,Having to go out soon directly supports that the kids are about to leave.,20260824T093740Z_5937923c
+2141,7,Starving directly supports being hungry.,20260824T093740Z_5937923c
+2144,7,Drinking tea all the time directly supports often consuming hot drinks.,20260824T093740Z_5937923c
+2145,7,Too much light directly supports the room being very bright.,20260824T093740Z_5937923c
+2146,1,"Being abroad then means not staying in town till Friday, so definitely no.",20260824T093740Z_5937923c
+2147,7,Having soup directly supports eating something.,20260824T093740Z_5937923c
+2148,7,It just started pouring directly supports that it is raining already.,20260824T093740Z_5937923c
+2149,1,Not drinking directly means no alcohol consumption.,20260824T093740Z_5937923c
+2150,2,"A dishwasher remaining suggests not everything was taken away, so very likely no.",20260824T093740Z_5937923c
+2151,2,"Giving away the racket strongly suggests no tennis equipment, though other items could remain; very likely no.",20260824T093740Z_5937923c
+2152,2,"Not eating spicy dishes means not all types of food, so very likely no.",20260824T093740Z_5937923c
+2153,7,Living right next door directly supports being neighbours.,20260824T093740Z_5937923c
+2155,1,"Understanding everything now means no longer confused, so definitely no.",20260824T093740Z_5937923c
+2156,7,Chest hurting directly supports pain in the upper body.,20260824T093740Z_5937923c
+2157,1,Middle of summer directly means not winter.,20260824T093740Z_5937923c
+2159,7,Cutting a finger directly supports getting hurt.,20260824T093740Z_5937923c
+2160,7,Dust all over the floor directly supports the living room being dirty.,20260824T093740Z_5937923c
+2161,1,"Having brought toothpaste means it was not left at home, so definitely no.",20260824T093740Z_5937923c
+2162,7,Chapped lips directly supports lips being damaged by the wind.,20260824T093740Z_5937923c
+2163,2,"Working early morning suggests not the afternoon shift, so very likely no.",20260824T093740Z_5937923c
+2164,1,Planning to eat at a restaurant means not having dinner at home.,20260824T093740Z_5937923c
+2165,7,Hedges growing a lot directly supports them being taller than last time.,20260824T093740Z_5937923c
+2166,7,Lunch being ready directly supports having finished cooking.,20260824T093740Z_5937923c
+2167,7,A complicated math exercise directly supports difficult homework.,20260824T093740Z_5937923c
+2168,1,Not sure where to go means no destination has been decided.,20260824T093740Z_5937923c
+2169,2,"Smoking cigars only suggests not cigarettes, so very likely no.",20260824T093740Z_5937923c
+2170,2,"Usually typing on a laptop suggests not writing on paper, so very likely no.",20260824T093740Z_5937923c
+2171,7,The stove not delivered yet directly supports the kitchen being incomplete.,20260824T093740Z_5937923c
+2172,7,Cars getting stolen regularly directly supports frequent car theft.,20260824T093740Z_5937923c
+2173,1,"A completely full wardrobe means no room left, so definitely no.",20260824T093740Z_5937923c
+2174,7,Dirty laundry piling up directly supports a lot of laundry to wash.,20260824T093740Z_5937923c
+2175,7,Being able to have a relaxed breakfast directly supports taking time for breakfast.,20260824T093740Z_5937923c
+2201,5,"Needing to revise makes studying together plausible, but B does not explicitly accept; somewhat likely yes.",20260824T093740Z_5937923c
+2202,6,"Mentioning an interesting new movie strongly suggests willingness to go to the cinema, though not an explicit yes.",20260824T093740Z_5937923c
+2203,6,"It being chilly supports closing the window, but B does not explicitly agree; very likely yes.",20260824T093740Z_5937923c
+2205,5,"Having heard good things suggests interest in the book, but not an explicit acceptance to borrow it; somewhat likely yes.",20260824T093740Z_5937923c
+2206,3,"Pulling a muscle last time could motivate skipping yoga, but it could also motivate attending carefully; somewhat likely no.",20260824T093740Z_5937923c
+2207,5,"Cannot find my phone suggests B might need a phone, but does not explicitly accept the offer; somewhat likely yes.",20260824T093740Z_5937923c
+2208,7,Minus 20 degrees strongly supports needing a coat.,20260824T093740Z_5937923c
+2209,6,"Entering a church suggests phones should be off, but B does not explicitly agree; very likely yes.",20260824T093740Z_5937923c
+2210,5,"Training hard makes a protein shake plausible, but B does not explicitly accept; somewhat likely yes.",20260824T093740Z_5937923c
+2213,5,"An exhausting task makes a break plausible, but B does not explicitly agree; somewhat likely yes.",20260824T093740Z_5937923c
+2214,3,"Not bringing a bikini suggests not going to the lake, but B could still go without swimming; somewhat likely no.",20260824T093740Z_5937923c
+2215,1,Not having time directly means not coming to the talk.,20260824T093740Z_5937923c
+2216,3,"Having watched it last month makes watching tonight less likely, but not impossible; somewhat likely no.",20260824T093740Z_5937923c
+2217,2,"Being on a diet strongly suggests declining dessert, so very likely no.",20260824T093740Z_5937923c
+2218,2,"Being Muslim may imply avoiding pork, but not all Muslims avoid it; very likely no.",20260824T093740Z_5937923c
+2219,2,Head spinning after beers strongly suggests not wanting another beer.,20260824T093740Z_5937923c
+2220,2,"Being very tired strongly suggests not going out, so very likely no.",20260824T093740Z_5937923c
+2221,2,"Being broke strongly suggests not going on a trip, so very likely no.",20260824T093740Z_5937923c
+2222,2,"Having used a chainsaw before suggests help is not needed, so very likely no.",20260824T093740Z_5937923c
+2223,3,"11 p.m. makes cinema less likely, but some cinemas are open late; somewhat likely no.",20260824T093740Z_5937923c
+2224,2,"Having a hangover strongly suggests not wanting drinks, so very likely no.",20260824T093740Z_5937923c
+2225,3,"Being diabetic may make cake less desirable, but not necessarily; somewhat likely no.",20260824T093740Z_5937923c
+2227,2,"Getting seasick strongly suggests not joining a sea cruise, so very likely no.",20260824T093740Z_5937923c
+2228,1,"Toothache gone means painkillers are not needed, so definitely no.",20260824T093740Z_5937923c
+2229,3,"Having several bus stops left may suggest wanting to sit, but it does not directly answer; somewhat likely no.",20260824T093740Z_5937923c
+2230,1,Should not staple them directly means not wanting the stapler.,20260824T093740Z_5937923c
+2231,1,"Very light luggage means help is not needed, so definitely no.",20260824T093740Z_5937923c
+2232,7,Needing to get up at 5 am directly supports setting an alarm.,20260824T093740Z_5937923c
+2234,2,"French being native language suggests spelling help is unnecessary, so very likely no.",20260824T093740Z_5937923c
+2235,5,"The remote not working supports changing batteries, but B does not explicitly agree; somewhat likely yes.",20260824T093740Z_5937923c
+2236,7,Wolves being common directly supports locking up cattle.,20260824T093740Z_5937923c
+2237,3,"Having only cacti suggests less need for watering, but cacti still need some water; somewhat likely no.",20260824T093740Z_5937923c
+2238,7,Needing the passport for travelling directly supports packing it.,20260824T093740Z_5937923c
+2239,2,"Having a sandwich suggests not wanting food, so very likely no.",20260824T093740Z_5937923c
+2240,6,"Kids needing to go out soon supports waking them, but B does not explicitly agree; very likely yes.",20260824T093740Z_5937923c
+2241,7,Starving directly supports accepting biscuits.,20260824T093740Z_5937923c
+2244,6,"Drinking tea all the time suggests using a kettle is relevant, but B does not explicitly accept; very likely yes.",20260824T093740Z_5937923c
+2245,6,"Too much light supports turning down the dimmer, but B does not explicitly agree; very likely yes.",20260824T093740Z_5937923c
+2246,1,"Being abroad then means not coming to the party, so definitely no.",20260824T093740Z_5937923c
+2247,7,Having soup directly supports wanting a spoon.,20260824T093740Z_5937923c
+2248,7,It just started pouring directly supports wanting an umbrella.,20260824T093740Z_5937923c
+2249,1,Not drinking directly means no wine.,20260824T093740Z_5937923c
+2250,4,"A dishwasher suggests dishes can be washed, but it does not clearly accept or decline the offer; ambiguous.",20260824T093740Z_5937923c
+2251,2,"Giving away the racket strongly suggests not playing tennis, so very likely no.",20260824T093740Z_5937923c
+2252,2,"Not eating spicy dishes strongly suggests no Mexican food, so very likely no.",20260824T093740Z_5937923c
+2253,2,"Living right next door suggests no ride needed, so very likely no.",20260824T093740Z_5937923c
+2255,1,Understanding everything now means no need for another explanation.,20260824T093740Z_5937923c
+2256,6,"Chest pain strongly suggests calling a doctor, but B does not explicitly ask; very likely yes.",20260824T093740Z_5937923c
+2257,1,"Middle of summer suggests no extra blanket needed, so definitely no.",20260824T093740Z_5937923c
+2259,7,Cutting a finger directly supports wanting a plaster.,20260824T093740Z_5937923c
+2260,7,Dust all over the floor directly supports sweeping the living room.,20260824T093740Z_5937923c
+2261,1,"Having brought toothpaste means none is needed, so definitely no.",20260824T093740Z_5937923c
+2262,7,Chapped lips directly supports wanting lip balm.,20260824T093740Z_5937923c
+2263,3,"Working early tomorrow suggests not joining drinks, but it is not explicit; somewhat likely no.",20260824T093740Z_5937923c
+2264,1,Planning to eat at a restaurant means not wanting the other person to cook.,20260824T093740Z_5937923c
+2265,6,"Hedges growing a lot supports pruning, but B does not explicitly agree; very likely yes.",20260824T093740Z_5937923c
+2266,7,Lunch being ready directly supports setting the table.,20260824T093740Z_5937923c
+2267,6,"A complicated math exercise supports needing a calculator, but B does not explicitly accept; very likely yes.",20260824T093740Z_5937923c
+2268,2,"Not sure where to go suggests not buying tickets yet, so very likely no.",20260824T093740Z_5937923c
+2269,2,"Smoking cigars only suggests not wanting a cigarette, so very likely no.",20260824T093740Z_5937923c
+2270,2,"Usually typing on a laptop suggests not wanting paper, so very likely no.",20260824T093740Z_5937923c
+2271,4,"The stove not delivered may make delivery food relevant, but it does not explicitly answer; ambiguous.",20260824T093740Z_5937923c
+2272,7,Cars being stolen regularly directly supports locking the car.,20260824T093740Z_5937923c
+2273,1,"A full wardrobe means no need to shop for clothes, so definitely no.",20260824T093740Z_5937923c
+2274,7,Dirty laundry piling up directly supports doing laundry.,20260824T093740Z_5937923c
+2275,6,"A relaxed breakfast suggests pancakes are possible, but B does not explicitly accept; very likely yes.",20260824T093740Z_5937923c

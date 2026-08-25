@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Person B says they haven't seen Martin for ages, which clearly means they have not met him lately. This is a definite no.",20260824T093740Z_5937923c
+1102,7,"Person B says they are sending out an application, which confirms they are doing something right now. This is a definite yes.",20260824T093740Z_5937923c
+1103,7,"Person B says they train with Lukas at the gym, confirming they usually exercise together. This is a definite yes.",20260824T093740Z_5937923c
+1104,7,Person B confirms a death in the family by stating the grandfather passed away recently. This is a definite yes.,20260824T093740Z_5937923c
+1105,7,"Person B says Paris is about 1000 km away, which confirms it is very far. This is a definite yes.",20260824T093740Z_5937923c
+1106,7,"Person B says it is a six hour drive, confirming it takes long to get to Munich. This is a definite yes.",20260824T093740Z_5937923c
+1107,1,"Person B says the train has some delay, meaning the journey is not going as planned. This is a definite no.",20260824T093740Z_5937923c
+1108,1,"Person B says there is still some cereal left, meaning they have not finished it. This is a definite no.",20260824T093740Z_5937923c
+1109,1,"Person B says the essay is not due for three months, meaning the deadline is not next week. This is a definite no.",20260824T093740Z_5937923c
+1110,7,"Person B says the streets are always congested with cars, confirming there is usually a lot of traffic. This is a definite yes.",20260824T093740Z_5937923c
+1111,1,"Person B says Megan is vegetarian, meaning she does not eat meat. This is a definite no.",20260824T093740Z_5937923c
+1112,7,"Person B says John has the flu, confirming he is sick today. This is a definite yes.",20260824T093740Z_5937923c
+1113,7,"Person B says Sonya runs for hours every day, confirming she trains daily. This is a definite yes.",20260824T093740Z_5937923c
+1114,1,"Person B says Clara just woke up, meaning she is no longer sleeping. This is a definite no.",20260824T093740Z_5937923c
+1115,1,"Person B says the movie comes out next week, meaning it is not being released today. This is a definite no.",20260824T093740Z_5937923c
+1116,7,"Person B says they have used a drill before, confirming they have worked with one. This is a definite yes.",20260824T093740Z_5937923c
+1117,1,"Person B says they are celebrating tonight, meaning the party is not tomorrow. This is a definite no.",20260824T093740Z_5937923c
+1118,7,"Person B says they are moving out tomorrow, confirming they are leaving the flat soon. This is a definite yes.",20260824T093740Z_5937923c
+1119,7,"Person B says he was always falling behind, confirming he is a slacker. This is a definite yes.",20260824T093740Z_5937923c
+1120,7,"Person B says the region is famous for surfing, confirming the area is popular for something. This is a definite yes.",20260824T093740Z_5937923c
+1121,1,"Person B says the sea is quite rough, meaning it is not calm. This is a definite no.",20260824T093740Z_5937923c
+1122,1,"Person B says their job is at an NGO, not a corporate company. This is a definite no.",20260824T093740Z_5937923c
+1123,7,"Person B says he has authored many successful books, confirming he is a writer. This is a definite yes.",20260824T093740Z_5937923c
+1124,1,"Person B says they are still analyzing the data, meaning they are not finished. This is a definite no.",20260824T093740Z_5937923c
+1125,1,"Person B says pandas are an endangered species, meaning there are not many left. This is a definite no.",20260824T093740Z_5937923c
+1126,7,"Person B says they have enrolled at the gym, confirming they have joined a fitness studio. This is a definite yes.",20260824T093740Z_5937923c
+1127,1,"Person B says the thesis is not complete yet, meaning they have not finished writing it. This is a definite no.",20260824T093740Z_5937923c
+1128,7,"Person B says their hair was way too long, confirming they used to have long hair. This is a definite yes.",20260824T093740Z_5937923c
+1129,1,"Person B says it was a business trip, not a vacation. This is a definite no.",20260824T093740Z_5937923c
+1130,1,"Person B says they need a larger flat, meaning a one room flat is not enough. This is a definite no.",20260824T093740Z_5937923c
+1131,7,"Person B says the deadline is tomorrow, confirming she has to hand in soon. This is a definite yes.",20260824T093740Z_5937923c
+1132,7,"Person B says they slept only four hours, confirming they had a short night. This is a definite yes.",20260824T093740Z_5937923c
+1133,1,"Person B says the offer had already expired, meaning the flight was no longer discounted. This is a definite no.",20260824T093740Z_5937923c
+1134,7,"Person B says the cat got wounded, confirming it is hurt. This is a definite yes.",20260824T093740Z_5937923c
+1135,1,"Person B says Mark is still missing, meaning not everyone is here. This is a definite no.",20260824T093740Z_5937923c
+1137,7,"Person B says they are Chinese, confirming they come from Asia. This is a definite yes.",20260824T093740Z_5937923c
+1138,2,"Person B says the line went dead, which suggests the call was disconnected but doesn't clearly confirm whether Person B hung up intentionally. This is very likely no since the line going dead implies it wasn't a deliberate hang up.",20260824T093740Z_5937923c
+1139,7,"Person B says they have domestics, confirming someone is taking care of their house. This is a definite yes.",20260824T093740Z_5937923c
+1140,1,"Person B says the bar has just opened, meaning it has not been there for long. This is a definite no.",20260824T093740Z_5937923c
+1141,7,"Person B says his house is full of history books, confirming he owns many books. This is a definite yes.",20260824T093740Z_5937923c
+1143,7,"Person B says they have only a few guests over for dinner, confirming there is a small gathering tonight. This is a definite yes.",20260824T093740Z_5937923c
+1144,1,"Person B says they only have one week off work, meaning they do not have two weeks of holiday. This is a definite no.",20260824T093740Z_5937923c
+1145,7,"Person B says they are going to have a baby, confirming they are pregnant. This is a definite yes.",20260824T093740Z_5937923c
+1147,1,"Person B says they still owe the bank some money, meaning they have not paid back their debts. This is a definite no.",20260824T093740Z_5937923c
+1148,1,"Person B says he only had water, meaning he did not drink a cocktail. This is a definite no.",20260824T093740Z_5937923c
+1149,1,"Person B says they own an orchard, not a vegetable garden. An orchard is for fruit trees, not vegetables. This is a definite no.",20260824T093740Z_5937923c
+1150,1,"Person B says the son is 25 years old, meaning he is not underage. This is a definite no.",20260824T093740Z_5937923c
+1151,1,"Person B says the tuition fee is extremely expensive, meaning Harvard is not affordable. This is a definite no.",20260824T093740Z_5937923c
+1152,7,"Person B says she made a bank transfer a few moments ago, confirming she has paid. This is a definite yes.",20260824T093740Z_5937923c
+1153,1,"Person B says the kids cannot swim yet, meaning they are not good at swimming. This is a definite no.",20260824T093740Z_5937923c
+1154,1,"Person B says they are healthy again, meaning they no longer have a cold. This is a definite no.",20260824T093740Z_5937923c
+1155,7,"Person B says people are not allowed to get closer, confirming it is forbidden to approach the area. This is a definite yes.",20260824T093740Z_5937923c
+1156,7,"Person B says they have watered the plants regularly, confirming someone took care of them. This is a definite yes.",20260824T093740Z_5937923c
+1157,1,"Person B says the artist was already dead by the 80s, meaning he was not alive then. This is a definite no.",20260824T093740Z_5937923c
+1158,7,"Person B says the ice layer is quite thick, confirming the lake is frozen. This is a definite yes.",20260824T093740Z_5937923c
+1159,1,"Person B says they are in the advanced course, meaning they are not attending the beginners' class. This is a definite no.",20260824T093740Z_5937923c
+1160,7,"Person B says they have seen a doctor, confirming they have sought medical advice. This is a definite yes.",20260824T093740Z_5937923c
+1161,1,"Person B says they went out with friends, meaning they did not stay home. This is a definite no.",20260824T093740Z_5937923c
+1162,7,"Person B says they voted yesterday, confirming there was an election recently. This is a definite yes.",20260824T093740Z_5937923c
+1163,7,"Person B says the car is spotless, confirming it is completely clean. This is a definite yes.",20260824T093740Z_5937923c
+1164,1,"Person B says they submitted a blank sheet, meaning they have not answered any questions. This is a definite no.",20260824T093740Z_5937923c
+1165,1,"Person B says she has just got into the changing room, meaning she is not out on the tennis field. This is a definite no.",20260824T093740Z_5937923c
+1166,7,"Person B says he was compensated, confirming he got the money back. This is a definite yes.",20260824T093740Z_5937923c
+1167,1,"Person B says no one has responded, meaning no one has answered the ad. This is a definite no.",20260824T093740Z_5937923c
+1168,1,"Person B says he does not play any instrument, meaning he is not a musician. This is a definite no.",20260824T093740Z_5937923c
+1169,7,"Person B says he has been in Japan for several months, confirming he has travelled in Asia. This is a definite yes.",20260824T093740Z_5937923c
+1170,7,"Person B says they are aiming for the mountain top, confirming the summit is their goal. This is a definite yes.",20260824T093740Z_5937923c
+1171,7,"Person B says the customer received the package, confirming they got it. This is a definite yes.",20260824T093740Z_5937923c
+1173,1,"Person B says she skipped the last four lessons, meaning she did not attend the whole course. This is a definite no.",20260824T093740Z_5937923c
+1174,7,"Person B says the monitor's resolution is really poor, confirming the screen has a bad image. This is a definite yes.",20260824T093740Z_5937923c
+1175,7,"Person B says she graduated from medical school last year, confirming she has completed her medical studies. This is a definite yes.",20260824T093740Z_5937923c
+1176,1,"Person B says it is private property, meaning it is not a public building. This is a definite no.",20260824T093740Z_5937923c
+1201,1,"Person B says they haven't seen Martin for ages, implying they are no longer good friends or at least not in contact. This is a definite no.",20260824T093740Z_5937923c
+1202,7,"Person B says they are sending out an application, confirming they are looking for a job. This is a definite yes.",20260824T093740Z_5937923c
+1203,7,"Person B says they train with Lukas at the gym, confirming they know him. This is a definite yes.",20260824T093740Z_5937923c
+1204,5,"Person B says the grandfather passed away recently, which could imply inheritance of property, but it's not explicitly confirmed. This is somewhat likely yes as it suggests the property may have been passed on.",20260824T093740Z_5937923c
+1205,7,"Person B says it is about 1000 km away, confirming it takes long to drive to Paris. This is a definite yes.",20260824T093740Z_5937923c
+1206,7,"Person B says it is a six hour drive, confirming Munich is far from here. This is a definite yes.",20260824T093740Z_5937923c
+1207,1,"Person B says the train has some delay, meaning they will likely not be home by noon. This is a definite no.",20260824T093740Z_5937923c
+1208,1,"Person B says there is still some cereal left, implying they don't need to buy more, so they likely already have cereal. But the question asks if they bought cereal - the answer suggests they already had it, so this is somewhat ambiguous. However, having cereal left could mean they bought it previously. This is somewhat likely no as the response deflects the question.",20260824T093740Z_5937923c
+1209,1,"Person B says the essay is not due for three months, implying they haven't started writing it yet since there's plenty of time. This is a definite no.",20260824T093740Z_5937923c
+1210,7,"Person B says the streets are always congested with cars, confirming they will likely be late to the cinema. This is a definite yes.",20260824T093740Z_5937923c
+1211,1,"Person B says Megan is vegetarian, meaning she would not go to a steak house. This is a definite no.",20260824T093740Z_5937923c
+1212,7,"Person B says John has the flu, confirming he is staying home (sick people typically stay home). This is a definite yes.",20260824T093740Z_5937923c
+1213,5,"Person B says Sonya runs for hours every day, which suggests she is a serious runner and might have registered for a marathon, but it doesn't directly confirm registration. This is somewhat likely yes.",20260824T093740Z_5937923c
+1214,1,"Person B says Clara just woke up, meaning she likely hasn't had breakfast yet. This is a definite no.",20260824T093740Z_5937923c
+1215,1,"Person B says the movie comes out next week, meaning they couldn't have seen it yet. This is a definite no.",20260824T093740Z_5937923c
+1216,7,"Person B says they have used a drill before, confirming they know how to use one. This is a definite yes.",20260824T093740Z_5937923c
+1217,1,"Person B says they are celebrating tonight, implying they did not fail the exam. This is a definite no.",20260824T093740Z_5937923c
+1218,7,"Person B says they are moving out tomorrow, which strongly implies they are breaking up. This is a definite yes.",20260824T093740Z_5937923c
+1219,5,"Person B says he was always falling behind, which could be a reason for being fired but doesn't directly confirm it. This is somewhat likely yes.",20260824T093740Z_5937923c
+1220,7,"Person B says the region is famous for surfing, which implies there are big waves. This is a definite yes.",20260824T093740Z_5937923c
+1221,1,"Person B says the sea is quite rough, meaning it is not safe to swim. This is a definite no.",20260824T093740Z_5937923c
+1222,1,"Person B says their job is at an NGO, which typically doesn't pay as much as corporate jobs, implying they don't make a lot of money. This is a definite no.",20260824T093740Z_5937923c
+1223,7,"Person B says he has authored many successful books, confirming he is famous. This is a definite yes.",20260824T093740Z_5937923c
+1224,1,"Person B says they are still analyzing the data, meaning they haven't presented it yet. This is a definite no.",20260824T093740Z_5937923c
+1225,1,"Person B says pandas are an endangered species, meaning it is not legal to hunt them. This is a definite no.",20260824T093740Z_5937923c
+1226,5,"Person B says they have enrolled at the gym, which suggests they are trying to lose weight, but doesn't confirm they have actually lost weight. This is somewhat likely yes.",20260824T093740Z_5937923c
+1227,1,"Person B says the thesis is not complete yet, meaning they have not graduated. This is a definite no.",20260824T093740Z_5937923c
+1228,7,"Person B says their hair was way too long, implying they got it cut. This is a definite yes.",20260824T093740Z_5937923c
+1229,1,"Person B says it was a business trip, meaning they didn't have time for sightseeing. This is a definite no.",20260824T093740Z_5937923c
+1230,1,"Person B says they need a larger flat, meaning they did not buy the one room flat. This is a definite no.",20260824T093740Z_5937923c
+1231,7,"Person B says the deadline is tomorrow, confirming she is stressed about the project. This is a definite yes.",20260824T093740Z_5937923c
+1232,7,"Person B says they slept only four hours, confirming they are tired. This is a definite yes.",20260824T093740Z_5937923c
+1233,1,"Person B says the offer had already expired, meaning he could not have booked the flight at a discount. This is a definite no.",20260824T093740Z_5937923c
+1234,7,"Person B says the cat got wounded, confirming they are bringing it to the vet. This is a definite yes.",20260824T093740Z_5937923c
+1235,1,"Person B says Mark is still missing, meaning they are not ready to go. This is a definite no.",20260824T093740Z_5937923c
+1237,5,"Person B says they are Chinese, which suggests they might know how to cook Cantonese rice, but being Chinese doesn't automatically mean they can cook this specific dish. This is somewhat likely yes.",20260824T093740Z_5937923c
+1238,1,"Person B says the line went dead, meaning they were unable to tell him about the issue. This is a definite no.",20260824T093740Z_5937923c
+1239,7,"Person B says they have domestics, confirming their house is always tidy. This is a definite yes.",20260824T093740Z_5937923c
+1240,1,"Person B says the bar has just opened, implying they haven't tried it yet (it's too new). This is a definite no.",20260824T093740Z_5937923c
+1241,7,"Person B says his house is full of history books, confirming he has a passion for history. This is a definite yes.",20260824T093740Z_5937923c
+1243,1,"Person B says they have only a few guests over for dinner, implying the saucepan might be big enough, but the question asks if it's big enough and having few guests suggests a smaller saucepan would suffice. Actually, having few guests means a smaller saucepan is enough, so the current one might be too big or just right. This is somewhat ambiguous but likely no as the response suggests the saucepan might be bigger than needed.",20260824T093740Z_5937923c
+1244,1,"Person B says they only have one week off work, meaning they cannot take a two weeks trip. This is a definite no.",20260824T093740Z_5937923c
+1245,7,"Person B says they are going to have a baby, confirming they are avoiding alcohol. This is a definite yes.",20260824T093740Z_5937923c
+1247,1,"Person B says they still owe the bank money, implying they haven't paid off existing debts and likely didn't get a new loan. This is a definite no.",20260824T093740Z_5937923c
+1248,1,"Person B says he only had water, meaning he is not drunk. This is a definite no.",20260824T093740Z_5937923c
+1249,1,"Person B says they own an orchard, meaning they don't buy fruit in the supermarket. This is a definite no.",20260824T093740Z_5937923c
+1250,1,"Person B says the son is 25 years old, meaning he is not at elementary school. This is a definite no.",20260824T093740Z_5937923c
+1251,1,"Person B says the tuition fee is extremely expensive, meaning Harvard is not an option for them. This is a definite no.",20260824T093740Z_5937923c
+1252,7,"Person B says she made a bank transfer, confirming she accepted the deal. This is a definite yes.",20260824T093740Z_5937923c
+1253,1,"Person B says the kids cannot swim yet, meaning they would not go to the swimming pool. This is a definite no.",20260824T093740Z_5937923c
+1254,1,"Person B says they are healthy again, meaning they are no longer taking the pills. This is a definite no.",20260824T093740Z_5937923c
+1255,7,"Person B says people are not allowed to get closer, confirming the area is contaminated. This is a definite yes.",20260824T093740Z_5937923c
+1256,7,"Person B says they have watered the plants regularly, confirming the plants are still alive. This is a definite yes.",20260824T093740Z_5937923c
+1257,1,"Person B says the artist was already dead by then, meaning he could not have created the artwork in 1981. This is a definite no.",20260824T093740Z_5937923c
+1258,7,"Person B says the ice layer is quite thick, confirming it is ice skating season. This is a definite yes.",20260824T093740Z_5937923c
+1259,1,"Person B says they are in the advanced course, meaning they are not a beginner. This is a definite no.",20260824T093740Z_5937923c
+1260,7,"Person B says they have seen a doctor, confirming they have been sick. This is a definite yes.",20260824T093740Z_5937923c
+1261,1,"Person B says they went out with friends, meaning they did not go to bed early. This is a definite no.",20260824T093740Z_5937923c
+1262,7,"Person B says they voted yesterday, confirming the members can elect a representative. This is a definite yes.",20260824T093740Z_5937923c
+1263,7,"Person B says the car is spotless, confirming it is back from the car wash. This is a definite yes.",20260824T093740Z_5937923c
+1264,1,"Person B says they submitted a blank sheet, meaning they did not write a good exam. This is a definite no.",20260824T093740Z_5937923c
+1265,1,"Person B says she has just got into the changing room, meaning she is not yet dressed for the game. This is a definite no.",20260824T093740Z_5937923c
+1266,7,"Person B says he was compensated, confirming he settled the lawsuit. This is a definite yes.",20260824T093740Z_5937923c
+1267,1,"Person B says no one has responded, meaning the house has not been sold. This is a definite no.",20260824T093740Z_5937923c
+1268,1,"Person B says he does not play any instrument, meaning he is not part of the marching band. This is a definite no.",20260824T093740Z_5937923c
+1269,7,"Person B says he has been in Japan for several months, confirming he has likely tried sushi. This is a definite yes.",20260824T093740Z_5937923c
+1270,7,"Person B says they are aiming for the mountain top, confirming the whole way goes uphill. This is a definite yes.",20260824T093740Z_5937923c
+1271,7,"Person B says the customer received the package, confirming it was shipped. This is a definite yes.",20260824T093740Z_5937923c
+1273,1,"Person B says she skipped the last four lessons, meaning she is not very dedicated to the singing course. This is a definite no.",20260824T093740Z_5937923c
+1274,7,"Person B says the monitor's resolution is really poor, confirming their eyes get strained. This is a definite yes.",20260824T093740Z_5937923c
+1275,7,"Person B says she graduated from medical school last year, confirming she is a medical doctor. This is a definite yes.",20260824T093740Z_5937923c
+1276,1,"Person B says it is private property, implying they have not been inside (or at least suggesting restricted access). This is a definite no.",20260824T093740Z_5937923c
+2101,7,"Person B says they need to revise some topics, confirming they have to study for the test. This is a definite yes.",20260824T093740Z_5937923c
+2102,7,"Person B says there is an interesting new movie, confirming something has come out in cinemas recently. This is a definite yes.",20260824T093740Z_5937923c
+2103,7,"Person B says it is quite chilly, confirming it is cold in their village. This is a definite yes.",20260824T093740Z_5937923c
+2105,7,"Person B says they have heard good things about the book, confirming they know something about the novel. This is a definite yes.",20260824T093740Z_5937923c
+2106,7,"Person B says they pulled a muscle last time, confirming they got injured at yoga class. This is a definite yes.",20260824T093740Z_5937923c
+2107,7,"Person B says they cannot find their phone, confirming they have lost it. This is a definite yes.",20260824T093740Z_5937923c
+2108,7,"Person B says it is minus 20 degrees, confirming it is cold outside. This is a definite yes.",20260824T093740Z_5937923c
+2109,7,"Person B says they have just entered a church, confirming they are in a religious building. This is a definite yes.",20260824T093740Z_5937923c
+2110,7,"Person B says they are training very hard, confirming their workouts are usually difficult. This is a definite yes.",20260824T093740Z_5937923c
+2113,7,"Person B says they have been working on an exhausting task, confirming they were working today. This is a definite yes.",20260824T093740Z_5937923c
+2114,1,"Person B says they did not bring their bikini, meaning they don't have swimming gear. This is a definite no.",20260824T093740Z_5937923c
+2115,1,"Person B says they do not have time, meaning they are not free. This is a definite no.",20260824T093740Z_5937923c
+2116,1,"Person B says they watched it last month, meaning they did not watch it yesterday. This is a definite no.",20260824T093740Z_5937923c
+2117,1,"Person B says they are on a diet, meaning they are not eating more than usual. This is a definite no.",20260824T093740Z_5937923c
+2118,1,"Person B says they are actually a Muslim, meaning they do not practise Hinduism. This is a definite no.",20260824T093740Z_5937923c
+2119,1,"Person B says their head is spinning after beers, meaning they are not feeling ok. This is a definite no.",20260824T093740Z_5937923c
+2120,1,"Person B says they are very tired, meaning they are not feeling energetic. This is a definite no.",20260824T093740Z_5937923c
+2121,1,"Person B says they are broke, meaning they don't have money saved up. This is a definite no.",20260824T093740Z_5937923c
+2122,1,"Person B says they have used a chain saw before, meaning it is not their first experience. This is a definite no.",20260824T093740Z_5937923c
+2123,1,"Person B says it is 11 p.m., meaning it is not morning in Los Angeles. This is a definite no.",20260824T093740Z_5937923c
+2124,1,"Person B says they have a hangover, meaning they are not feeling good. This is a definite no.",20260824T093740Z_5937923c
+2125,1,"Person B says they are actually diabetic, meaning they are not free of chronic disease. This is a definite no.",20260824T093740Z_5937923c
+2127,1,"Person B says they usually get seasick, meaning they do not feel well on boats. This is a definite no.",20260824T093740Z_5937923c
+2128,1,"Person B says the toothache is gone, meaning their teeth are no longer hurting. This is a definite no.",20260824T093740Z_5937923c
+2129,7,"Person B says they have several bus stops before their destination, confirming there are many stations on the way. This is a definite yes.",20260824T093740Z_5937923c
+2130,1,"Person B says they should not staple the documents, meaning they are not allowed to. This is a definite no.",20260824T093740Z_5937923c
+2131,1,"Person B says the luggage is very light, meaning it does not weigh much. This is a definite no.",20260824T093740Z_5937923c
+2132,7,"Person B says they have to get up at 5 am, confirming they need to wake up early. This is a definite yes.",20260824T093740Z_5937923c
+2134,1,"Person B says French is their native language, meaning Spanish is not their mother tongue. This is a definite no.",20260824T093740Z_5937923c
+2135,7,"Person B says the remote does not work, confirming it is still unusable. This is a definite yes.",20260824T093740Z_5937923c
+2136,7,"Person B says wolves are very common here, confirming there are wild animals in the region. This is a definite yes.",20260824T093740Z_5937923c
+2137,1,"Person B says they only have cacti, meaning there are no trees in the garden. This is a definite no.",20260824T093740Z_5937923c
+2138,7,"Person B says they need the passport for travelling, confirming it is necessary for taking the plane. This is a definite yes.",20260824T093740Z_5937923c
+2139,1,"Person B says they have got a sandwich, meaning they did not bring pie. This is a definite no.",20260824T093740Z_5937923c
+2140,7,"Person B says the kids have to go out soon, confirming they are about to leave. This is a definite yes.",20260824T093740Z_5937923c
+2141,7,"Person B says they are starving right now, confirming they are already hungry. This is a definite yes.",20260824T093740Z_5937923c
+2144,7,"Person B says they drink tea all the time, confirming they often consume hot drinks. This is a definite yes.",20260824T093740Z_5937923c
+2145,7,"Person B says they have too much light in the room, confirming it is very bright. This is a definite yes.",20260824T093740Z_5937923c
+2146,1,"Person B says they will be abroad then, meaning they will not stay in town till Friday. This is a definite no.",20260824T093740Z_5937923c
+2147,7,"Person B says they are having a soup, confirming they are eating something. This is a definite yes.",20260824T093740Z_5937923c
+2148,7,"Person B says it just started pouring, confirming it is raining already. This is a definite yes.",20260824T093740Z_5937923c
+2149,1,"Person B says they do not drink, meaning they do not consume alcohol. This is a definite no.",20260824T093740Z_5937923c
+2150,1,"Person B says there is a dishwasher in the kitchen, meaning not everything was taken away. This is a definite no.",20260824T093740Z_5937923c
+2151,1,"Person B says they gave away their racket ages ago, meaning they no longer have tennis equipment. This is a definite no.",20260824T093740Z_5937923c
+2152,1,"Person B says they do not eat spicy dishes, meaning they do not consume all types of food. This is a definite no.",20260824T093740Z_5937923c
+2153,7,"Person B says they live right next to the person, confirming they are neighbours. This is a definite yes.",20260824T093740Z_5937923c
+2155,1,"Person B says they understand everything now, meaning they are no longer confused. This is a definite no.",20260824T093740Z_5937923c
+2156,7,"Person B says their chest hurts a lot, confirming they feel pain in their upper body. This is a definite yes.",20260824T093740Z_5937923c
+2157,1,"Person B says they are in the middle of summer, meaning it is not winter. This is a definite no.",20260824T093740Z_5937923c
+2159,7,"Person B says they cut their finger while cooking, confirming they got hurt. This is a definite yes.",20260824T093740Z_5937923c
+2160,7,"Person B says there is dust all over the floor, confirming the living room is dirty. This is a definite yes.",20260824T093740Z_5937923c
+2161,1,"Person B says they have actually brought their toothpaste, meaning they did not leave it at home. This is a definite no.",20260824T093740Z_5937923c
+2162,7,"Person B says their lips are all chapped, confirming their lips got damaged by the wind. This is a definite yes.",20260824T093740Z_5937923c
+2163,1,"Person B says they are working early tomorrow morning, meaning they are not doing the afternoon shift. This is a definite no.",20260824T093740Z_5937923c
+2164,1,"Person B says they plan to eat at a restaurant, meaning they are not having dinner at home. This is a definite no.",20260824T093740Z_5937923c
+2165,7,"Person B says the hedges have grown a lot recently, confirming they are taller than last time. This is a definite yes.",20260824T093740Z_5937923c
+2166,7,"Person B says lunch is now ready, confirming they have finished cooking. This is a definite yes.",20260824T093740Z_5937923c
+2167,7,"Person B says the math exercise is very complicated, confirming they have difficult homework. This is a definite yes.",20260824T093740Z_5937923c
+2168,1,"Person B says they are not sure where to go yet, meaning they have not decided on a destination. This is a definite no.",20260824T093740Z_5937923c
+2169,1,"Person B says they smoke cigars only, meaning they do not smoke cigarettes. This is a definite no.",20260824T093740Z_5937923c
+2170,1,"Person B says they usually type directly on their laptop, meaning they are not writing on paper. This is a definite no.",20260824T093740Z_5937923c
+2171,7,"Person B says the new stove was not delivered yet, confirming the kitchen is still incomplete. This is a definite yes.",20260824T093740Z_5937923c
+2172,7,"Person B says cars get stolen regularly here, confirming car theft occurs often. This is a definite yes.",20260824T093740Z_5937923c
+2173,1,"Person B says the wardrobe is completely full, meaning there is no more room. This is a definite no.",20260824T093740Z_5937923c
+2174,7,"Person B says the dirty laundry is piling up, confirming there is a lot of laundry to wash. This is a definite yes.",20260824T093740Z_5937923c
+2175,7,"Person B says they can have a relaxed breakfast, confirming they are taking time for breakfast. This is a definite yes.",20260824T093740Z_5937923c
+2201,7,"Person B says they need to revise some topics, which implies they want to study and would be open to studying together. This is a definite yes.",20260824T093740Z_5937923c
+2202,7,"Person B says there is an interesting new movie, implying they would like to go to the cinema. This is a definite yes.",20260824T093740Z_5937923c
+2203,7,"Person B says it is quite chilly, implying they want the window closed. This is a definite yes.",20260824T093740Z_5937923c
+2205,7,"Person B says they have heard good things about the book, implying they would like to borrow it. This is a definite yes.",20260824T093740Z_5937923c
+2206,7,"Person B says they pulled a muscle last time, implying they want to skip the yoga class. This is a definite yes.",20260824T093740Z_5937923c
+2207,7,"Person B says they cannot find their phone, implying they would like to use Person A's phone. This is a definite yes.",20260824T093740Z_5937923c
+2208,7,"Person B says it is minus 20 degrees, implying they need a coat. This is a definite yes.",20260824T093740Z_5937923c
+2209,7,"Person B says they have just entered a church, implying they should turn off their phones. This is a definite yes.",20260824T093740Z_5937923c
+2210,7,"Person B says they are training very hard, implying they would like a protein shake. This is a definite yes.",20260824T093740Z_5937923c
+2213,1,"Person B says they have been working on an exhausting task, which could mean they want a break, but it could also mean they are busy and can't take a break. Given the context of 'shall we take a break,' the exhausting task suggests they would welcome a break. Actually, this is likely yes. Let me reconsider - working on an exhausting task suggests they need a break. This is a definite yes.",20260824T093740Z_5937923c
+2214,1,"Person B says they did not bring their bikini, meaning they cannot go to the lake for swimming. This is a definite no.",20260824T093740Z_5937923c
+2215,1,"Person B says they do not have time, meaning they are not coming to the talk. This is a definite no.",20260824T093740Z_5937923c
+2216,1,"Person B says they watched it last month, implying they don't want to watch it again tonight. This is a definite no.",20260824T093740Z_5937923c
+2217,1,"Person B says they are on a diet, meaning they don't want dessert. This is a definite no.",20260824T093740Z_5937923c
+2218,1,"Person B says they are a Muslim, meaning they don't eat pork. This is a definite no.",20260824T093740Z_5937923c
+2219,1,"Person B says their head is spinning after beers, meaning they don't want another beer. This is a definite no.",20260824T093740Z_5937923c
+2220,1,"Person B says they are very tired, meaning they don't want to go out. This is a definite no.",20260824T093740Z_5937923c
+2221,1,"Person B says they are broke, meaning they cannot go on a trip. This is a definite no.",20260824T093740Z_5937923c
+2222,1,"Person B says they have used a chain saw before, meaning they don't need help. This is a definite no.",20260824T093740Z_5937923c
+2223,1,"Person B says it is 11 p.m., meaning the cinema is likely closed. This is a definite no.",20260824T093740Z_5937923c
+2224,1,"Person B says they have a hangover, meaning they don't want more drinks. This is a definite no.",20260824T093740Z_5937923c
+2225,1,"Person B says they are diabetic, meaning they should not have cake. This is a definite no.",20260824T093740Z_5937923c
+2227,1,"Person B says they usually get seasick, meaning they are not joining the sea cruise. This is a definite no.",20260824T093740Z_5937923c
+2228,1,"Person B says the toothache is gone, meaning they don't need painkillers. This is a definite no.",20260824T093740Z_5937923c
+2229,1,"Person B says they have several bus stops before their destination, meaning they don't need to give up their seat yet. This is a definite no.",20260824T093740Z_5937923c
+2230,1,"Person B says they should not staple the documents, meaning they don't want the stapler. This is a definite no.",20260824T093740Z_5937923c
+2231,1,"Person B says the luggage is very light, meaning they don't need help. This is a definite no.",20260824T093740Z_5937923c
+2232,7,"Person B says they have to get up at 5 am, confirming they should set the alarm clock. This is a definite yes.",20260824T093740Z_5937923c
+2234,1,"Person B says French is their native language, meaning they don't need help with French spelling. This is a definite no.",20260824T093740Z_5937923c
+2235,7,"Person B says the remote does not work, implying the batteries might need changing. This is a definite yes.",20260824T093740Z_5937923c
+2236,7,"Person B says wolves are very common here, confirming the cattle should be locked up. This is a definite yes.",20260824T093740Z_5937923c
+2237,1,"Person B says they only have cacti, which don't need regular watering. This is a definite no.",20260824T093740Z_5937923c
+2238,7,"Person B says they need the passport for travelling, confirming it should be packed. This is a definite yes.",20260824T093740Z_5937923c
+2239,1,"Person B says they have got a sandwich, meaning they don't need more food. This is a definite no.",20260824T093740Z_5937923c
+2240,7,"Person B says the kids have to go out soon, confirming they should be woken up. This is a definite yes.",20260824T093740Z_5937923c
+2241,7,"Person B says they are starving, confirming they would like some biscuits. This is a definite yes.",20260824T093740Z_5937923c
+2244,7,"Person B says they drink tea all the time, implying they would like to use the kettle. This is a definite yes.",20260824T093740Z_5937923c
+2245,7,"Person B says they have too much light, confirming the dimmer should be turned down. This is a definite yes.",20260824T093740Z_5937923c
+2246,1,"Person B says they will be abroad then, meaning they are not coming to the party. This is a definite no.",20260824T093740Z_5937923c
+2247,7,"Person B says they are having a soup, confirming they want a spoon. This is a definite yes.",20260824T093740Z_5937923c
+2248,7,"Person B says it just started pouring, confirming they would like an umbrella. This is a definite yes.",20260824T093740Z_5937923c
+2249,1,"Person B says they do not drink, meaning they don't want wine. This is a definite no.",20260824T093740Z_5937923c
+2250,1,"Person B says there is a dishwasher in the kitchen, meaning Person A doesn't need to do the dishes by hand. This is a definite no.",20260824T093740Z_5937923c
+2251,1,"Person B says they gave away their racket ages ago, meaning they cannot play tennis. This is a definite no.",20260824T093740Z_5937923c
+2252,1,"Person B says they do not eat spicy dishes, meaning they don't want Mexican food. This is a definite no.",20260824T093740Z_5937923c
+2253,1,"Person B says they live right next to Person A, meaning they don't need a ride home. This is a definite no.",20260824T093740Z_5937923c
+2255,1,"Person B says they understand everything now, meaning they don't need it explained again. This is a definite no.",20260824T093740Z_5937923c
+2256,7,"Person B says their chest hurts a lot, confirming they want the doctor called. This is a definite yes.",20260824T093740Z_5937923c
+2257,1,"Person B says they are in the middle of summer, meaning they don't need an extra blanket. This is a definite no.",20260824T093740Z_5937923c
+2259,7,"Person B says they cut their finger while cooking, confirming they want a plaster. This is a definite yes.",20260824T093740Z_5937923c
+2260,7,"Person B says there is dust all over the floor, confirming the living room needs sweeping. This is a definite yes.",20260824T093740Z_5937923c
+2261,1,"Person B says they have actually brought their toothpaste, meaning they don't need any. This is a definite no.",20260824T093740Z_5937923c
+2262,7,"Person B says their lips are all chapped, confirming they want some lip balm. This is a definite yes.",20260824T093740Z_5937923c
+2263,1,"Person B says they are working early tomorrow morning, meaning they are not joining for drinks tonight. This is a definite no.",20260824T093740Z_5937923c
+2264,1,"Person B says they plan to eat at a restaurant, meaning Person A doesn't need to cook. This is a definite no.",20260824T093740Z_5937923c
+2265,7,"Person B says the hedges have grown a lot recently, confirming they need pruning. This is a definite yes.",20260824T093740Z_5937923c
+2266,7,"Person B says lunch is now ready, confirming the table should be set. This is a definite yes.",20260824T093740Z_5937923c
+2267,7,"Person B says the math exercise is very complicated, confirming they would like a calculator. This is a definite yes.",20260824T093740Z_5937923c
+2268,1,"Person B says they are not sure where to go yet, meaning train tickets should not be bought yet. This is a definite no.",20260824T093740Z_5937923c
+2269,1,"Person B says they smoke cigars only, meaning they don't want a cigarette. This is a definite no.",20260824T093740Z_5937923c
+2270,1,"Person B says they usually type directly on their laptop, meaning they don't need paper. This is a definite no.",20260824T093740Z_5937923c
+2271,7,"Person B says the new stove was not delivered yet, meaning they need delivery food since they can't cook. This is a definite yes.",20260824T093740Z_5937923c
+2272,7,"Person B says cars get stolen regularly here, confirming the car should be locked. This is a definite yes.",20260824T093740Z_5937923c
+2273,1,"Person B says the wardrobe is completely full, meaning they don't need to go shopping for clothes. This is a definite no.",20260824T093740Z_5937923c
+2274,7,"Person B says the dirty laundry is piling up, confirming the laundry needs to be done. This is a definite yes.",20260824T093740Z_5937923c
+2275,7,"Person B says they can have a relaxed breakfast, confirming they want pancakes. This is a definite yes.",20260824T093740Z_5937923c

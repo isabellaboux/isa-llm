@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"B says they have not seen Martin for ages, which directly means they have not met him lately. This is a clear no.",20260821T125948Z_8dbb5082
+1102,7,"B says they are sending out an application right now, which directly answers that they are doing something at the moment. This is definitely yes.",20260821T125948Z_8dbb5082
+1103,6,"B says they train with Lukas at the gym, which strongly implies they usually exercise with him. It is not phrased with 'usually,' but the implication is strong.",20260821T125948Z_8dbb5082
+1104,7,"B states that his grandfather passed away recently, which clearly indicates there was a death in his family. This is definitely yes.",20260821T125948Z_8dbb5082
+1105,4,"B gives a distance of about 1000 km, but whether that counts as 'very far' depends on context. The answer is relevant but does not resolve the subjective term clearly.",20260821T125948Z_8dbb5082
+1106,6,"B says it is a six hour drive, which strongly suggests it takes a long time to get to Munich. This is very likely yes.",20260821T125948Z_8dbb5082
+1107,2,"B says the train has some delay, which suggests the journey is not going exactly as planned. It is not a total disaster, so not definitely no, but likely no.",20260821T125948Z_8dbb5082
+1108,1,"B says there is still some cereal left, so they have not finished it. This clearly means no.",20260821T125948Z_8dbb5082
+1109,1,"B says the essay is not due for three months, so the deadline is not next week. This is definitely no.",20260821T125948Z_8dbb5082
+1110,7,"B says the streets are always congested with cars, which directly supports that there is usually a lot of traffic. Definitely yes.",20260821T125948Z_8dbb5082
+1111,1,"B says Megan is vegetarian, which strongly indicates she does not eat meat. Definitely no.",20260821T125948Z_8dbb5082
+1112,7,"B says John has the flu, which clearly means he is sick today. Definitely yes.",20260821T125948Z_8dbb5082
+1113,7,"B says Sonya runs for hours every day, which directly indicates daily training. Definitely yes.",20260821T125948Z_8dbb5082
+1114,1,"B says Clara just woke up, so she is no longer still sleeping. Definitely no.",20260821T125948Z_8dbb5082
+1115,1,"B says the movie comes out next week, so it will not be released today. Definitely no.",20260821T125948Z_8dbb5082
+1116,7,"B says they have used a drill before, which directly means they have worked with one. Definitely yes.",20260821T125948Z_8dbb5082
+1117,1,"B says they are celebrating tonight, which means the party is not tomorrow. Definitely no.",20260821T125948Z_8dbb5082
+1118,6,"B says they are moving out tomorrow, which strongly implies they are leaving the flat soon. Very likely yes.",20260821T125948Z_8dbb5082
+1119,6,"B says he was always falling behind, which strongly suggests laziness or slacking. It is an inference, so very likely yes rather than definite.",20260821T125948Z_8dbb5082
+1120,7,"B says the region is famous for surfing, which directly answers that the area is popular for something. Definitely yes.",20260821T125948Z_8dbb5082
+1121,1,"B says the sea is quite rough, which is the opposite of calm. Definitely no.",20260821T125948Z_8dbb5082
+1122,1,"B says they work at an NGO, which is not a corporate company. Definitely no.",20260821T125948Z_8dbb5082
+1123,7,"B says he has authored many successful books, which clearly means he is a writer. Definitely yes.",20260821T125948Z_8dbb5082
+1124,1,"B says they are still analyzing the data, so they are not finished working on it. Definitely no.",20260821T125948Z_8dbb5082
+1125,6,"B says pandas are an endangered species, which strongly suggests there are not many left in the world. Very likely yes.",20260821T125948Z_8dbb5082
+1126,7,"B says they have enrolled at the gym, which directly means they joined a fitness studio. Definitely yes.",20260821T125948Z_8dbb5082
+1127,1,"B explicitly says the thesis is not complete yet, so they have not finished writing it. Definitely no.",20260821T125948Z_8dbb5082
+1128,7,"B says their hair was way too long, which clearly implies they used to have long hair. Definitely yes.",20260821T125948Z_8dbb5082
+1129,3,"B says it was a business trip, which does not directly deny going to Japan; it only denies that the purpose was vacation. So it is somewhat likely no.",20260821T125948Z_8dbb5082
+1130,1,"B says they need a larger flat, which means a one room flat is not enough. Definitely no.",20260821T125948Z_8dbb5082
+1131,6,"B says the deadline is tomorrow, which strongly implies she has to hand it in soon. Very likely yes.",20260821T125948Z_8dbb5082
+1132,7,"B says they slept only four hours, which clearly indicates a short night. Definitely yes.",20260821T125948Z_8dbb5082
+1133,1,"B says the offer had already expired, so the flight was no longer discounted. Definitely no.",20260821T125948Z_8dbb5082
+1134,7,"B says the cat got wounded, which means it is hurt. Definitely yes.",20260821T125948Z_8dbb5082
+1135,1,"B says Mark is still missing, so not everyone is here. Definitely no.",20260821T125948Z_8dbb5082
+1137,7,"B says they are Chinese, which means they come from Asia. Definitely yes.",20260821T125948Z_8dbb5082
+1138,4,"B says the line went dead, which explains the call ended but does not clearly say who hung up. It is ambiguous.",20260821T125948Z_8dbb5082
+1139,6,"B says they have domestics, which strongly implies someone is taking care of their house. Very likely yes.",20260821T125948Z_8dbb5082
+1140,1,"B says they have just opened, so the bar has not been there for long. Definitely no.",20260821T125948Z_8dbb5082
+1141,7,"B says his house is full of history books, which clearly means he owns many books. Definitely yes.",20260821T125948Z_8dbb5082
+1143,6,"B says only a few guests are coming for dinner, which strongly suggests a small gathering. Very likely yes.",20260821T125948Z_8dbb5082
+1144,1,"B says they only have one week off work, not two weeks. Definitely no.",20260821T125948Z_8dbb5082
+1145,7,"B says they are going to have a baby, which directly implies pregnancy. Definitely yes.",20260821T125948Z_8dbb5082
+1147,1,"B says they still owe the bank money, so they have not paid back all debts. Definitely no.",20260821T125948Z_8dbb5082
+1148,1,"B says he only had water, so he did not drink a cocktail tonight. Definitely no.",20260821T125948Z_8dbb5082
+1149,3,"B says they own an orchard, which means they have fruit trees, not necessarily a vegetable garden. So the answer leans no.",20260821T125948Z_8dbb5082
+1150,1,"B says his son is 25 years old, so he is not underage. Definitely no.",20260821T125948Z_8dbb5082
+1151,1,"B says the tuition fee is extremely expensive, which strongly implies Harvard is not affordable. Definitely no.",20260821T125948Z_8dbb5082
+1152,7,"B says she made a bank transfer a few moments ago, which directly means she has paid. Definitely yes.",20260821T125948Z_8dbb5082
+1153,1,"B says the kids cannot swim yet, so they are not good at swimming. Definitely no.",20260821T125948Z_8dbb5082
+1154,1,"B says they are healthy again, so they do not still have a cold. Definitely no.",20260821T125948Z_8dbb5082
+1155,7,"B says people are not allowed to get closer, which directly means it is forbidden to approach the area. Definitely yes.",20260821T125948Z_8dbb5082
+1156,7,"B says they have watered the plants regularly, which clearly means someone took care of them. Definitely yes.",20260821T125948Z_8dbb5082
+1157,1,"B says he was already dead by then, so he was not still alive in the 80s. Definitely no.",20260821T125948Z_8dbb5082
+1158,7,"B says the ice layer is quite thick, which clearly indicates the lake is frozen. Definitely yes.",20260821T125948Z_8dbb5082
+1159,1,"B says they are in the advanced course, not the beginners' class. Definitely no.",20260821T125948Z_8dbb5082
+1160,7,"B says they have seen a doctor, which directly means they sought medical advice. Definitely yes.",20260821T125948Z_8dbb5082
+1161,1,"B says they went out with friends, so they did not stay home last night. Definitely no.",20260821T125948Z_8dbb5082
+1162,7,"B says they voted yesterday, which means there was an election recently. Definitely yes.",20260821T125948Z_8dbb5082
+1163,7,"B says the car is spotless, which directly supports that it is completely clean. Definitely yes.",20260821T125948Z_8dbb5082
+1164,1,"B says they submitted a blank sheet, so they did not answer all questions. Definitely no.",20260821T125948Z_8dbb5082
+1165,1,"B says she has just got into the changing room, so she is not out on the tennis field. Definitely no.",20260821T125948Z_8dbb5082
+1166,7,"B says he was compensated, which means he got the money back in some form. Definitely yes.",20260821T125948Z_8dbb5082
+1167,1,"B explicitly says no one has responded, so nobody answered the house sale ad. Definitely no.",20260821T125948Z_8dbb5082
+1168,1,"B says he does not play any instrument, which strongly indicates he is not a musician. Definitely no.",20260821T125948Z_8dbb5082
+1169,7,"B says he has been in Japan for several months, which clearly means he has traveled in Asia. Definitely yes.",20260821T125948Z_8dbb5082
+1170,7,"B says they are aiming for the mountain top, which directly means the summit is the goal. Definitely yes.",20260821T125948Z_8dbb5082
+1171,7,"B says the customer received the package, which directly means he got it. Definitely yes.",20260821T125948Z_8dbb5082
+1173,2,"B says she skipped the last four lessons, which means she did not attend the whole course. Very likely no.",20260821T125948Z_8dbb5082
+1174,7,"B says the monitor's resolution is really poor, which directly implies the screen has a bad image. Definitely yes.",20260821T125948Z_8dbb5082
+1175,7,"B says she graduated from medical school last year, which clearly means she completed her medical studies. Definitely yes.",20260821T125948Z_8dbb5082
+1176,1,"B says it is private property, so it is not a public building. Definitely no.",20260821T125948Z_8dbb5082
+1201,3,"B says they have not seen Martin for ages, which suggests they may not still be good friends, but it does not directly address the friendship itself. So it leans no, but only somewhat.",20260821T125948Z_8dbb5082
+1202,6,"B says they are sending out an application, which strongly implies they are looking for a job. Very likely yes.",20260821T125948Z_8dbb5082
+1203,7,"B says they train with Lukas at the gym, which clearly means they know him. Definitely yes.",20260821T125948Z_8dbb5082
+1204,4,"B mentions that his grandfather passed away recently, but that alone does not determine whether the property is his now. The answer is relevant background but ambiguous.",20260821T125948Z_8dbb5082
+1205,6,"B says Paris is about 1000 km away, which strongly suggests it takes long to drive there. Very likely yes.",20260821T125948Z_8dbb5082
+1206,6,"B says Munich is a six hour drive away, which strongly indicates it is far from here. Very likely yes.",20260821T125948Z_8dbb5082
+1207,3,"B says the train has some delay, which suggests they may not be home by noon, but it is not certain. So somewhat likely no.",20260821T125948Z_8dbb5082
+1208,3,"B says there is still some cereal left, which suggests they may not need to buy more, but it does not directly answer whether they already bought cereal. Slight lean no.",20260821T125948Z_8dbb5082
+1209,4,"B says the essay is not due for three months, which does not tell us whether they have started writing it. The answer is relevant but does not resolve the question.",20260821T125948Z_8dbb5082
+1210,6,"B says the streets are always congested with cars, which strongly suggests they may be late to the cinema. Very likely yes.",20260821T125948Z_8dbb5082
+1211,4,"B says Megan is vegetarian, which may affect whether she is coming to a steak house, but vegetarians can still go. The answer is suggestive but ambiguous.",20260821T125948Z_8dbb5082
+1212,5,"B says John has the flu, which somewhat suggests he is staying home, though it is not explicitly stated. So somewhat likely yes.",20260821T125948Z_8dbb5082
+1213,5,"B says Sonya runs for hours every day, which suggests she may have registered for the marathon, but it does not directly say so. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1214,1,"B says Clara just woke up, so she almost certainly has not had breakfast already. Definitely no.",20260821T125948Z_8dbb5082
+1215,1,"B says the movie comes out next week, so they could not have seen it yet. Definitely no.",20260821T125948Z_8dbb5082
+1216,7,"B says they have used a drill before, which clearly means they know how to use one. Definitely yes.",20260821T125948Z_8dbb5082
+1217,3,"B says they are celebrating tonight, which suggests they probably did not fail the exam, but it is indirect. Somewhat likely no.",20260821T125948Z_8dbb5082
+1218,5,"B says they are moving out tomorrow, which suggests a breakup is possible, but moving out does not necessarily mean breaking up. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1219,5,"B says he was always falling behind, which suggests poor performance and makes being fired plausible, but it is not explicit. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1220,6,"B says the region is famous for surfing, which strongly implies there are big waves there. Very likely yes.",20260821T125948Z_8dbb5082
+1221,2,"B says the sea is quite rough, which suggests it is probably not safe to swim. Very likely no.",20260821T125948Z_8dbb5082
+1222,3,"B says they work at an NGO, which may suggest they do not make a lot of money, but income is not directly stated. Somewhat likely no.",20260821T125948Z_8dbb5082
+1223,6,"B says he has authored many successful books, which strongly suggests he is famous. Very likely yes.",20260821T125948Z_8dbb5082
+1224,1,"B says they are still analyzing the data, so they have not presented it at the meeting yet. Definitely no.",20260821T125948Z_8dbb5082
+1225,6,"B says pandas are an endangered species, which strongly implies hunting them is not legal. Very likely yes.",20260821T125948Z_8dbb5082
+1226,4,"B says they have enrolled at the gym, which may be a response to wanting to lose weight, but it does not indicate whether they already have. Ambiguous.",20260821T125948Z_8dbb5082
+1227,1,"B says the thesis is not complete yet, so they have not graduated. Definitely no.",20260821T125948Z_8dbb5082
+1228,4,"B says their hair was way too long, which suggests a haircut may have been needed, but it does not say they got one. Ambiguous.",20260821T125948Z_8dbb5082
+1229,3,"B says it was a business trip, which suggests there may not have been time for sightseeing, but it is not impossible. Somewhat likely no.",20260821T125948Z_8dbb5082
+1230,1,"B says they need a larger one, which implies they did not buy that one-room flat. Definitely no.",20260821T125948Z_8dbb5082
+1231,6,"B says the deadline is tomorrow, which strongly implies she is stressed about the project. Very likely yes.",20260821T125948Z_8dbb5082
+1232,6,"B says they slept only four hours, which strongly suggests they are tired. Very likely yes.",20260821T125948Z_8dbb5082
+1233,3,"B says the offer had already expired, which suggests he may not have booked the flight, but it is not explicit. Somewhat likely no.",20260821T125948Z_8dbb5082
+1234,5,"B says the cat got wounded, which makes bringing it to the vet likely, though not certain. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1235,1,"B says Mark is still missing, so they are not ready to go. Definitely no.",20260821T125948Z_8dbb5082
+1237,4,Being Chinese does not necessarily mean B can cook Cantonese rice. The answer is loosely related but does not answer the ability question clearly.,20260821T125948Z_8dbb5082
+1238,3,"B says the line went dead, which suggests they may not have been able to tell him about the issue. It leans no, but not certainly.",20260821T125948Z_8dbb5082
+1239,6,"B says they have domestics, which strongly suggests that is why the house is always tidy. Very likely yes.",20260821T125948Z_8dbb5082
+1240,1,"B says the bar has just opened, so they likely have not tried it yet. Definitely no.",20260821T125948Z_8dbb5082
+1241,7,"B says his house is full of history books, which clearly indicates a passion for history. Definitely yes.",20260821T125948Z_8dbb5082
+1243,5,"B says there are only a few guests for dinner, which suggests the saucepan is probably big enough. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1244,1,"B says they only have one week off work, so they will not take a two-week trip. Definitely no.",20260821T125948Z_8dbb5082
+1245,6,"B says they are going to have a baby, which strongly implies they are pregnant and thus likely avoiding alcohol. Very likely yes.",20260821T125948Z_8dbb5082
+1247,4,"B says they still owe the bank money, which does not clearly say whether they got a new loan or still owe an old one. Ambiguous.",20260821T125948Z_8dbb5082
+1248,7,"B says he only had water, which clearly indicates he is not drunk from alcohol. Definitely yes.",20260821T125948Z_8dbb5082
+1249,1,"B says they own an orchard, which implies they get fruit from there rather than buying it at the supermarket. Definitely no.",20260821T125948Z_8dbb5082
+1250,1,"B says the son is 25 years old, so he is not at elementary school. Definitely no.",20260821T125948Z_8dbb5082
+1251,3,"B says Harvard's tuition is extremely expensive, which suggests it may not be an option, but it is not absolutely impossible. Somewhat likely no.",20260821T125948Z_8dbb5082
+1252,6,"B says she made a bank transfer a few moments ago, which strongly suggests she accepted the deal. Very likely yes.",20260821T125948Z_8dbb5082
+1253,2,"B says the kids cannot swim yet, which makes going to the swimming pool unlikely. Very likely no.",20260821T125948Z_8dbb5082
+1254,6,"B says they are healthy again, which strongly suggests they are no longer taking those pills. Very likely no.",20260821T125948Z_8dbb5082
+1255,5,"B says people are not allowed to get closer, which suggests the area may be contaminated, but other reasons are possible. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1256,6,"B says they have watered the plants regularly, which strongly suggests the plants are still alive. Very likely yes.",20260821T125948Z_8dbb5082
+1257,1,"B says he was already dead by 1981, so he could not have created the artwork then. Definitely no.",20260821T125948Z_8dbb5082
+1258,7,"B says the ice layer is quite thick, which clearly indicates it is ice skating season. Definitely yes.",20260821T125948Z_8dbb5082
+1259,1,"B says they are in the advanced course, so they are not a beginner. Definitely no.",20260821T125948Z_8dbb5082
+1260,5,"B says they have seen a doctor, which suggests they may have been sick, though one can see a doctor for other reasons too. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1261,1,"B says they went out with friends, so they did not go to bed early last night. Definitely no.",20260821T125948Z_8dbb5082
+1262,6,"B says they voted yesterday, which strongly implies members can elect a representative. Very likely yes.",20260821T125948Z_8dbb5082
+1263,7,"B says the car is spotless, which strongly indicates it is back from the car wash. Definitely yes.",20260821T125948Z_8dbb5082
+1264,1,"B says they submitted a blank sheet, so they definitely did not write a good exam. Definitely no.",20260821T125948Z_8dbb5082
+1265,5,"B says she just got into the changing room, which suggests she is getting dressed for the tennis game, though it is not explicit. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1266,6,"B says he was compensated, which strongly suggests the lawsuit was settled. Very likely yes.",20260821T125948Z_8dbb5082
+1267,1,"B says no one has responded, so the house has not been sold. Definitely no.",20260821T125948Z_8dbb5082
+1268,1,"B says he does not play any instrument, so he is not part of a marching band. Definitely no.",20260821T125948Z_8dbb5082
+1269,6,"B says he spent several months in Japan, which strongly suggests he has tried sushi. Very likely yes.",20260821T125948Z_8dbb5082
+1270,5,"B says they are aiming for the mountain top, which suggests the route involves going uphill, though not necessarily the whole way. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1271,7,"B says the customer received the package, which means it must have been shipped to the customer. Definitely yes.",20260821T125948Z_8dbb5082
+1273,2,"B says she skipped the last four lessons, which suggests she is not very dedicated to the course. Very likely no.",20260821T125948Z_8dbb5082
+1274,5,"B says the monitor's resolution is really poor, which suggests eye strain can happen, though it is not directly stated. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1275,6,"B says she graduated from medical school last year, which strongly suggests she is a medical doctor, though licensing nuance prevents absolute certainty. Very likely yes.",20260821T125948Z_8dbb5082
+1276,3,"B says it is private property, which suggests you may not have been inside, but it does not directly answer whether you ever entered it. Somewhat likely no.",20260821T125948Z_8dbb5082
+2101,6,"B says they need to revise some topics, which strongly indicates they do have to study for the test. Very likely yes.",20260821T125948Z_8dbb5082
+2102,7,"B says there is an interesting new movie, which directly indicates something has recently come out in cinemas. Definitely yes.",20260821T125948Z_8dbb5082
+2103,6,"B says it is quite chilly, which strongly suggests it is cold in the village. Very likely yes.",20260821T125948Z_8dbb5082
+2105,6,"B says they have heard good things about the book, which means they do know something about the novel. Very likely yes.",20260821T125948Z_8dbb5082
+2106,7,"B says they pulled a muscle last time, which directly means they got injured at yoga class. Definitely yes.",20260821T125948Z_8dbb5082
+2107,6,"B says they cannot find their phone, which strongly suggests it is lost. Very likely yes.",20260821T125948Z_8dbb5082
+2108,7,"B says it is minus 20 degrees, which clearly means it is cold outside. Definitely yes.",20260821T125948Z_8dbb5082
+2109,7,"B says they have entered a church, which is a religious building. Definitely yes.",20260821T125948Z_8dbb5082
+2110,6,"B says they are training very hard, which strongly suggests their workouts are usually difficult. Very likely yes.",20260821T125948Z_8dbb5082
+2113,7,"B says they have been working on an exhausting task, which directly means they were working today. Definitely yes.",20260821T125948Z_8dbb5082
+2114,1,"B says they did not bring their bikini, so they do not have swimming gear with them. Definitely no.",20260821T125948Z_8dbb5082
+2115,1,"B says they do not have time, which directly means they are not free at the moment. Definitely no.",20260821T125948Z_8dbb5082
+2116,1,"B says they watched Titanic last month, not yesterday. Definitely no.",20260821T125948Z_8dbb5082
+2117,1,"B says they are on a diet, which suggests they are not eating more than usual. Definitely no.",20260821T125948Z_8dbb5082
+2118,1,"B says they are Muslim, which directly denies practising Hinduism. Definitely no.",20260821T125948Z_8dbb5082
+2119,3,"B says their head is spinning after beers, which suggests they are not feeling okay. Somewhat likely no rather than definite because 'okay' is broad.",20260821T125948Z_8dbb5082
+2120,1,"B says they are very tired, which is the opposite of feeling energetic. Definitely no.",20260821T125948Z_8dbb5082
+2121,1,"B says they are broke, which means they do not have money saved up. Definitely no.",20260821T125948Z_8dbb5082
+2122,1,"B says they have used a chain saw in the past, so this is not their first experience. Definitely no.",20260821T125948Z_8dbb5082
+2123,1,"B says it is 11 p.m., so it is not morning in Los Angeles. Definitely no.",20260821T125948Z_8dbb5082
+2124,1,"B says they have a hangover, which means they are not feeling good. Definitely no.",20260821T125948Z_8dbb5082
+2125,1,"B says they are diabetic, so they are not free of chronic disease. Definitely no.",20260821T125948Z_8dbb5082
+2127,1,"B says they usually get seasick, which means they do not feel well on boats. Definitely no.",20260821T125948Z_8dbb5082
+2128,1,"B says the toothache is gone, so their teeth are not still hurting. Definitely no.",20260821T125948Z_8dbb5082
+2129,7,"B says there are several bus stops before the destination, which clearly means there are many stations on the way. Definitely yes.",20260821T125948Z_8dbb5082
+2130,1,"B says they should not staple the documents, so they are not allowed to. Definitely no.",20260821T125948Z_8dbb5082
+2131,1,"B says the luggage is very light, so it does not weigh much. Definitely no.",20260821T125948Z_8dbb5082
+2132,7,"B says they have to get up at 5 a.m., which directly means they need to wake up early tomorrow. Definitely yes.",20260821T125948Z_8dbb5082
+2134,1,"B says French is their native language, so Spanish is not their mother tongue. Definitely no.",20260821T125948Z_8dbb5082
+2135,7,"B says the remote does not work, which directly means it is still unusable. Definitely yes.",20260821T125948Z_8dbb5082
+2136,7,"B says wolves are very common there, which clearly means there are wild animals in the region. Definitely yes.",20260821T125948Z_8dbb5082
+2137,1,"B says they only have cacti, so there are no trees in the garden. Definitely no.",20260821T125948Z_8dbb5082
+2138,7,"B says the passport is needed for travelling, which directly supports that it is necessary for taking the plane. Definitely yes.",20260821T125948Z_8dbb5082
+2139,1,"B says they have a sandwich, not pie. Definitely no.",20260821T125948Z_8dbb5082
+2140,6,"B says the kids have to go out soon, which strongly suggests they are about to leave. Very likely yes.",20260821T125948Z_8dbb5082
+2141,7,"B says they are starving right now, which clearly means they are already hungry. Definitely yes.",20260821T125948Z_8dbb5082
+2144,7,"B says they drink tea all the time, which clearly means they often consume hot drinks. Definitely yes.",20260821T125948Z_8dbb5082
+2145,7,"B says there is too much light in the room, which directly means it is very bright. Definitely yes.",20260821T125948Z_8dbb5082
+2146,1,"B says they will be abroad on Friday, so they will not stay in town till then. Definitely no.",20260821T125948Z_8dbb5082
+2147,7,"B says they are having soup, which directly means they are eating something. Definitely yes.",20260821T125948Z_8dbb5082
+2148,7,"B says it just started pouring, which directly means it is raining already. Definitely yes.",20260821T125948Z_8dbb5082
+2149,1,"B explicitly says they do not drink, so they do not consume alcohol. Definitely no.",20260821T125948Z_8dbb5082
+2150,1,"B says there is a dishwasher in the kitchen, meaning not everything was taken away from the flat. Definitely no.",20260821T125948Z_8dbb5082
+2151,1,"B says they gave away their racket ages ago, so they do not still have tennis equipment. Definitely no.",20260821T125948Z_8dbb5082
+2152,1,"B says they do not eat spicy dishes, so they do not consume all types of food. Definitely no.",20260821T125948Z_8dbb5082
+2153,7,"B says they live right next to A, which directly means they are neighbours. Definitely yes.",20260821T125948Z_8dbb5082
+2155,1,"B says they understand everything now, so they are not still confused. Definitely no.",20260821T125948Z_8dbb5082
+2156,7,"B says their chest hurts a lot, which clearly means they feel pain in the upper body. Definitely yes.",20260821T125948Z_8dbb5082
+2157,1,"B says it is the middle of summer, so it is not winter there. Definitely no.",20260821T125948Z_8dbb5082
+2159,7,"B says they cut their finger while cooking, which directly means they got hurt. Definitely yes.",20260821T125948Z_8dbb5082
+2160,7,"B says there is dust all over the floor, which clearly means the living room is dirty. Definitely yes.",20260821T125948Z_8dbb5082
+2161,1,"B says they actually brought their toothpaste, so they did not leave it at home. Definitely no.",20260821T125948Z_8dbb5082
+2162,7,"B says their lips are all chapped, which directly means the wind damaged them. Definitely yes.",20260821T125948Z_8dbb5082
+2163,1,"B says they are working early tomorrow morning, not the afternoon shift. Definitely no.",20260821T125948Z_8dbb5082
+2164,1,"B says they plan to eat at a restaurant, so they are not going to have dinner at home. Definitely no.",20260821T125948Z_8dbb5082
+2165,7,"B says the hedges have grown a lot recently, which directly means they are taller than last time. Definitely yes.",20260821T125948Z_8dbb5082
+2166,7,"B says lunch is now ready, which directly means cooking is finished. Definitely yes.",20260821T125948Z_8dbb5082
+2167,7,"B says the math exercise is very complicated, which clearly indicates difficult homework. Definitely yes.",20260821T125948Z_8dbb5082
+2168,1,"B says they are not sure where to go yet, so they have not decided on a destination. Definitely no.",20260821T125948Z_8dbb5082
+2169,3,"B says they smoke cigars only, which suggests they do not smoke cigarettes specifically. Somewhat likely no.",20260821T125948Z_8dbb5082
+2170,1,"B says they usually type directly on a laptop, so they are not writing on paper. Definitely no.",20260821T125948Z_8dbb5082
+2171,7,"B says the new stove was not delivered yet, which means the kitchen is still incomplete. Definitely yes.",20260821T125948Z_8dbb5082
+2172,7,"B says cars get stolen regularly there, which directly means car theft occurs often. Definitely yes.",20260821T125948Z_8dbb5082
+2173,1,"B says the wardrobe is completely full, so they do not still have room in it. Definitely no.",20260821T125948Z_8dbb5082
+2174,7,"B says the dirty laundry is piling up, which clearly means there is a lot to wash. Definitely yes.",20260821T125948Z_8dbb5082
+2175,6,"B says they can have a relaxed breakfast, which strongly suggests they are taking some time for breakfast today. Very likely yes.",20260821T125948Z_8dbb5082
+2201,6,"B says they need to revise some topics, which supports the suggestion to study together. Very likely yes.",20260821T125948Z_8dbb5082
+2202,6,"B points out there is an interesting new movie, which strongly suggests willingness to go to the cinema. Very likely yes.",20260821T125948Z_8dbb5082
+2203,6,"B says it is quite chilly, which strongly supports closing the window. Very likely yes.",20260821T125948Z_8dbb5082
+2205,6,"B says they have heard good things about the book, which suggests they would like to borrow it. Very likely yes.",20260821T125948Z_8dbb5082
+2206,6,"B says they pulled a muscle last time, which strongly supports skipping yoga class. Very likely yes.",20260821T125948Z_8dbb5082
+2207,7,"B says they cannot find their phone, which directly implies they do want to use A's phone. Definitely yes.",20260821T125948Z_8dbb5082
+2208,7,"B says it is minus 20 degrees, which clearly means they need a coat. Definitely yes.",20260821T125948Z_8dbb5082
+2209,6,"B says they have just entered a church, which strongly suggests they should turn off their phones. Very likely yes.",20260821T125948Z_8dbb5082
+2210,5,"B says they are training very hard, which suggests a protein shake would be welcome, though it is not explicit. Somewhat likely yes.",20260821T125948Z_8dbb5082
+2213,6,"B says they have been working on an exhausting task, which strongly suggests taking a break. Very likely yes.",20260821T125948Z_8dbb5082
+2214,3,"B says they did not bring a bikini, which suggests reluctance to go to the lake, though one could still go without swimming. Somewhat likely no.",20260821T125948Z_8dbb5082
+2215,1,"B says they do not have time, so they are not coming to the talk. Definitely no.",20260821T125948Z_8dbb5082
+2216,3,"B says they watched Titanic last month, which may reduce interest in watching it tonight, but does not directly refuse. Somewhat likely no.",20260821T125948Z_8dbb5082
+2217,2,"B says they are on a diet, which strongly suggests they do not want dessert. Very likely no.",20260821T125948Z_8dbb5082
+2218,2,"B says they are Muslim, which strongly suggests they do not want pork. Very likely no.",20260821T125948Z_8dbb5082
+2219,1,"B says their head is spinning after all these beers, so they clearly do not want another one. Definitely no.",20260821T125948Z_8dbb5082
+2220,2,"B says they are very tired, which strongly suggests they do not want to go out. Very likely no.",20260821T125948Z_8dbb5082
+2221,2,"B says they are broke, which strongly suggests they do not want or cannot afford a trip. Very likely no.",20260821T125948Z_8dbb5082
+2222,2,"B says they have used a chain saw before, which suggests they do not need help. Very likely no.",20260821T125948Z_8dbb5082
+2223,1,"B says it is 11 p.m., which strongly indicates they do not want to go to the cinema now. Definitely no.",20260821T125948Z_8dbb5082
+2224,2,"B says they have a hangover, which strongly suggests they do not want drinks. Very likely no.",20260821T125948Z_8dbb5082
+2225,2,"B says they are diabetic, which strongly suggests they do not want cake. Very likely no.",20260821T125948Z_8dbb5082
+2227,2,"B says they usually get seasick, which strongly suggests they do not want to join the sea cruise. Very likely no.",20260821T125948Z_8dbb5082
+2228,1,"B says the toothache is gone, so they do not want painkillers. Definitely no.",20260821T125948Z_8dbb5082
+2229,2,"B says they still have several stops before their destination, which suggests they may prefer to keep the seat. Very likely yes to taking it, but indirect.",20260821T125948Z_8dbb5082
+2230,1,"B says they should not staple the documents, so they do not want the stapler. Definitely no.",20260821T125948Z_8dbb5082
+2231,1,"B says the luggage is very light, which means they do not need help with it. Definitely no.",20260821T125948Z_8dbb5082
+2232,7,"B says they have to get up at 5 a.m., which directly supports setting the alarm. Definitely yes.",20260821T125948Z_8dbb5082
+2234,1,"B says French is their native language, so they likely do not need help checking French spelling. Definitely no.",20260821T125948Z_8dbb5082
+2235,6,"B says the remote does not work, which strongly suggests changing the batteries is wanted. Very likely yes.",20260821T125948Z_8dbb5082
+2236,7,"B says wolves are very common here, which directly supports locking up the cattle. Definitely yes.",20260821T125948Z_8dbb5082
+2237,3,"B says they only have cacti, which suggests watering may not be necessary, but cacti still sometimes need water. Somewhat likely no.",20260821T125948Z_8dbb5082
+2238,7,"B says the passport is needed for travelling, so they do want it packed. Definitely yes.",20260821T125948Z_8dbb5082
+2239,3,"B says they have a sandwich already, which suggests they may not want more food, but not definitively. Somewhat likely no.",20260821T125948Z_8dbb5082
+2240,6,"B says the kids have to go out soon, which strongly suggests waking them is appropriate. Very likely yes.",20260821T125948Z_8dbb5082
+2241,7,"B says they are starving, which directly implies they would like some biscuits. Definitely yes.",20260821T125948Z_8dbb5082
+2244,6,"B says they drink tea all the time, which strongly suggests they would like to use the kettle. Very likely yes.",20260821T125948Z_8dbb5082
+2245,7,"B says there is too much light in the room, which directly supports turning down the dimmer. Definitely yes.",20260821T125948Z_8dbb5082
+2246,1,"B says they will be abroad then, so they are not coming to the party Friday. Definitely no.",20260821T125948Z_8dbb5082
+2247,7,"B says they are having soup, which directly implies they want a spoon. Definitely yes.",20260821T125948Z_8dbb5082
+2248,7,"B says it just started pouring, which clearly means they would like an umbrella. Definitely yes.",20260821T125948Z_8dbb5082
+2249,1,"B explicitly says they do not drink, so they do not want wine. Definitely no.",20260821T125948Z_8dbb5082
+2250,3,"B points out there is a dishwasher, which suggests hand-washing dishes may not be needed. It leans no, but is indirect.",20260821T125948Z_8dbb5082
+2251,1,"B says they gave away their racket ages ago, so they likely cannot or do not want to play tennis. Definitely no.",20260821T125948Z_8dbb5082
+2252,2,"B says they do not eat spicy dishes, which strongly suggests they do not want Mexican food. Very likely no.",20260821T125948Z_8dbb5082
+2253,1,"B says they live right next to A, so they do not need a ride home. Definitely no.",20260821T125948Z_8dbb5082
+2255,1,"B says they understand everything now, so they do not need another explanation. Definitely no.",20260821T125948Z_8dbb5082
+2256,7,"B says their chest hurts a lot, which strongly indicates they want medical help. Definitely yes.",20260821T125948Z_8dbb5082
+2257,1,"B says it is the middle of summer, so they do not want an extra blanket. Definitely no.",20260821T125948Z_8dbb5082
+2259,7,"B says they cut their finger while cooking, which clearly implies they want a plaster. Definitely yes.",20260821T125948Z_8dbb5082
+2260,7,"B says there is dust all over the floor, which directly supports sweeping the living room. Definitely yes.",20260821T125948Z_8dbb5082
+2261,1,"B says they brought their own toothpaste, so they do not need any. Definitely no.",20260821T125948Z_8dbb5082
+2262,7,"B says their lips are all chapped, which clearly means lip balm would be wanted. Definitely yes.",20260821T125948Z_8dbb5082
+2263,2,"B says they are working early tomorrow morning, which strongly suggests they will not join for drinks tonight. Very likely no.",20260821T125948Z_8dbb5082
+2264,1,"B says they plan to eat at a restaurant, so they do not want A to cook for both. Definitely no.",20260821T125948Z_8dbb5082
+2265,7,"B says the hedges have grown a lot recently, which directly supports pruning them. Definitely yes.",20260821T125948Z_8dbb5082
+2266,7,"B says lunch is now ready, which directly supports setting the table. Definitely yes.",20260821T125948Z_8dbb5082
+2267,6,"B says the math exercise is very complicated, which strongly suggests a calculator would be helpful. Very likely yes.",20260821T125948Z_8dbb5082
+2268,1,"B says they are not sure where to go yet, so they are not ready for buying train tickets. Definitely no.",20260821T125948Z_8dbb5082
+2269,2,"B says they smoke cigars only, which strongly suggests they do not want a cigarette. Very likely no.",20260821T125948Z_8dbb5082
+2270,1,"B says they usually type directly on a laptop, so they do not want paper. Definitely no.",20260821T125948Z_8dbb5082
+2271,6,"B says the new stove was not delivered yet, which strongly suggests getting delivery food is a good idea. Very likely yes.",20260821T125948Z_8dbb5082
+2272,6,"B says cars get stolen regularly there, which strongly suggests they would like help locking the car. Very likely yes.",20260821T125948Z_8dbb5082
+2273,1,"B says the wardrobe is completely full, which means they likely do not want to shop for more clothes. Definitely no.",20260821T125948Z_8dbb5082
+2274,7,"B says the dirty laundry is piling up, which directly supports doing the laundry. Definitely yes.",20260821T125948Z_8dbb5082
+2275,5,"B says they can have a relaxed breakfast, which suggests pancakes would fit well, but it does not explicitly say they want them. Somewhat likely yes.",20260821T125948Z_8dbb5082

@@ -1,0 +1,139 @@
+id,score,rationale,run_id
+1101,1,The phrase 'I have not seen him for ages' is a clear negative response to the question of whether they've met Martin lately.,20260824T093740Z_5937923c
+1102,2,"The response describes an action (sending an application) that doesn't directly answer whether they are currently doing something else. It implies they are busy, but doesn't confirm or deny doing something *right now*.",20260824T093740Z_5937923c
+1103,7,Saying 'I train with him at the gym' is a direct confirmation that they usually exercise with Lukas.,20260824T093740Z_5937923c
+1104,7,The response 'His grandfather passed away recently' directly confirms that there was a death in his family.,20260824T093740Z_5937923c
+1105,3,"Providing a distance (1000 Km) doesn't answer whether Paris is *very far*. It's informative, but not a direct 'yes' or 'no'.",20260824T093740Z_5937923c
+1106,3,"Stating a drive time (six hours) doesn't directly answer if it takes *long* to get to Munich. It provides information about duration, but not a subjective assessment of 'long'. ",20260824T093740Z_5937923c
+1107,3,"A train delay doesn't answer whether the journey is going as planned. It indicates a problem, but doesn't negate the entire plan.",20260824T093740Z_5937923c
+1108,2,"Saying 'There is still some left' implies they haven't finished their cereal, so the answer is likely 'no', but it's not a direct confirmation.",20260824T093740Z_5937923c
+1109,1,The response 'It is not due for three months' is a clear negative answer to the question about the deadline being next week.,20260824T093740Z_5937923c
+1110,6,Saying 'The streets are always congested with cars' strongly implies that there *is* usually a lot of traffic.,20260824T093740Z_5937923c
+1111,1,Stating 'She is vegetarian' is a clear negative response to the question of whether Megan eats meat.,20260824T093740Z_5937923c
+1112,7,Saying 'He has the flu' directly confirms that John is sick.,20260824T093740Z_5937923c
+1113,7,The response 'She runs for hours every day' strongly confirms that Sonya trains daily.,20260824T093740Z_5937923c
+1114,1,Saying 'She just woke up' implies Clara was *not* still sleeping.,20260824T093740Z_5937923c
+1115,1,Saying 'It comes out next week' is a clear negative response to the question of whether the movie is being released today.,20260824T093740Z_5937923c
+1116,6,Saying 'I have used one before' strongly implies they *have* worked with a drill.,20260824T093740Z_5937923c
+1117,1,"Saying 'I am celebrating tonight' implies the party is not tomorrow, so the answer is 'no'",20260824T093740Z_5937923c
+1118,5,"Saying 'I am moving out tomorrow' implies they are leaving their flat soon, but it's not a direct confirmation.",20260824T093740Z_5937923c
+1119,6,Saying 'He was always falling behind' strongly suggests he *is* a slacker.,20260824T093740Z_5937923c
+1120,7,Saying 'The region is famous for surfing' directly confirms that the area is popular for something.,20260824T093740Z_5937923c
+1121,2,"Saying 'It is quite rough' implies the sea is *not* calm, but it's not a direct 'no' answer.",20260824T093740Z_5937923c
+1122,1,Saying 'My job is at an NGO' is a clear negative response to the question of whether they work for a corporate company.,20260824T093740Z_5937923c
+1123,7,Saying 'He has authored many successful books' directly confirms that he is a writer.,20260824T093740Z_5937923c
+1124,3,"Saying 'I am still analyzing it' implies they haven't finished, but doesn't directly answer the question.",20260824T093740Z_5937923c
+1125,5,"Saying 'They are an endangered species' implies there aren't many pandas left, but it's not a direct 'yes' answer.",20260824T093740Z_5937923c
+1126,6,Saying 'I have enrolled at the gym' strongly implies they *have* joined a fitness studio.,20260824T093740Z_5937923c
+1127,1,Saying 'My thesis is not complete yet' is a clear negative response to the question of whether they've finished writing their thesis.,20260824T093740Z_5937923c
+1128,6,Saying 'My hair was way too long' strongly implies they *did* used to have long hair.,20260824T093740Z_5937923c
+1129,1,Saying 'It was a business trip' implies they did *not* go to Japan for vacation.,20260824T093740Z_5937923c
+1130,1,Saying 'I need a larger one' implies a one-room flat is *not* enough.,20260824T093740Z_5937923c
+1131,7,Saying 'The deadline is tomorrow' directly confirms that the deadline is next week.,20260824T093740Z_5937923c
+1132,2,"Saying 'I slept only four hours' implies they *did* have a short night, but it's not a direct confirmation.",20260824T093740Z_5937923c
+1133,1,Saying 'The offer had already expired' is a clear negative response to the question of whether the flight was still discounted.,20260824T093740Z_5937923c
+1134,7,Saying 'It got wounded' directly confirms that the cat is hurt.,20260824T093740Z_5937923c
+1135,1,Saying 'Mark is still missing' implies that *not* everyone is here.,20260824T093740Z_5937923c
+1137,6,Saying 'I am Chinese' strongly implies they come from Asia.,20260824T093740Z_5937923c
+1138,1,Saying 'The line went dead' implies they did *not* hang up.,20260824T093740Z_5937923c
+1139,6,Saying 'They have domestics' strongly implies someone *is* taking care of their house.,20260824T093740Z_5937923c
+1140,1,Saying 'They have just opened' implies the bar has *not* been there for long.,20260824T093740Z_5937923c
+1141,7,Saying 'His house is full of history books' directly confirms that he owns many books.,20260824T093740Z_5937923c
+1143,5,"Saying 'We have only few guests over for dinner' implies there *is* a small gathering, but it's not a direct confirmation.",20260824T093740Z_5937923c
+1144,1,Saying 'I only have one week off work' is a clear negative response to the question of whether they have two weeks of holiday.,20260824T093740Z_5937923c
+1145,7,Saying 'I am going to have a baby' directly confirms that they are pregnant.,20260824T093740Z_5937923c
+1147,1,Saying 'I still owe the bank some money' is a clear negative response to the question of whether they've paid back their debts.,20260824T093740Z_5937923c
+1148,1,Saying 'He only had water' is a clear negative response to the question of whether he drank a cocktail.,20260824T093740Z_5937923c
+1149,1,Saying 'I own an orchard' implies they do *not* have a vegetable garden.,20260824T093740Z_5937923c
+1150,1,Saying 'He is 25 years old' is a clear negative response to the question of whether their son is underage.,20260824T093740Z_5937923c
+1151,2,"Saying 'Their tuition fee is extremely expensive' implies Harvard is *not* affordable, but it's not a direct 'no' answer.",20260824T093740Z_5937923c
+1152,7,Saying 'She made a bank transfer few moments ago' directly confirms that she has paid them.,20260824T093740Z_5937923c
+1153,1,Saying 'They cannot swim yet' is a clear negative response to the question of whether the kids are good at swimming.,20260824T093740Z_5937923c
+1154,7,Saying 'I am healthy again' directly confirms that they are no longer sick.,20260824T093740Z_5937923c
+1155,7,Saying 'People are not allowed to get closer' directly confirms that it is forbidden to approach the area.,20260824T093740Z_5937923c
+1156,7,Saying 'I have watered them regularly' directly confirms that someone took care of the plants.,20260824T093740Z_5937923c
+1157,1,Saying 'He was already dead by then' is a clear negative response to the question of whether the artist was still alive in the 80s.,20260824T093740Z_5937923c
+1158,7,Saying 'The ice layer is quite thick' directly confirms that the lake is frozen.,20260824T093740Z_5937923c
+1159,1,Saying 'I am in the advanced course' implies they are *not* in the beginners' class.,20260824T093740Z_5937923c
+1160,7,Saying 'I have seen a doctor' directly confirms that they have sought medical advice.,20260824T093740Z_5937923c
+1161,1,Saying 'I went out with some friends' is a clear negative response to the question of whether they stayed home.,20260824T093740Z_5937923c
+1162,7,Saying 'They voted yesterday' directly confirms that there was an election recently.,20260824T093740Z_5937923c
+1163,7,Saying 'It is spotless' directly confirms that the car is completely clean.,20260824T093740Z_5937923c
+1164,1,Saying 'They have submitted a blank sheet' implies they did *not* answer all the questions.,20260824T093740Z_5937923c
+1165,1,Saying 'She has just got into the changing room' implies she is *not* on the tennis field.,20260824T093740Z_5937923c
+1166,7,Saying 'He was compensated' directly confirms that he got the money back.,20260824T093740Z_5937923c
+1167,1,Saying 'No one has responded' is a clear negative response to the question of whether anyone answered their house sale ad.,20260824T093740Z_5937923c
+1168,1,Saying 'He does not play any instrument' is a clear negative response to the question of whether he is a musician.,20260824T093740Z_5937923c
+1169,7,Saying 'He has been in Japan for several months' directly confirms that he has travelled in Asia.,20260824T093740Z_5937923c
+1170,7,Saying 'We are aiming for the mountain top' directly confirms that their goal is the summit.,20260824T093740Z_5937923c
+1171,7,Saying 'The customer received it' directly confirms that the package was delivered to the customer.,20260824T093740Z_5937923c
+1173,1,Saying 'She skipped the last four lessons' implies she did *not* attend the whole singing course.,20260824T093740Z_5937923c
+1174,2,"Saying 'My monitor's resolution is really poor' implies the screen image is bad, but it's not a direct 'yes' answer.",20260824T093740Z_5937923c
+1175,7,Saying 'She graduated from medical school last year' directly confirms that she completed her medical studies.,20260824T093740Z_5937923c
+1176,1,Saying 'It is a private property' is a clear negative response to the question of whether it is a public building.,20260824T093740Z_5937923c
+2101,5,"Saying 'I need to revise some of the topics' implies they do need to study, but it's not a direct confirmation.",20260824T093740Z_5937923c
+2102,6,Saying 'There is an interesting new movie' strongly implies that something has come out in the cinemas recently.,20260824T093740Z_5937923c
+2103,5,"Saying 'It is quite chilly' implies it is cold, but it's not a direct confirmation.",20260824T093740Z_5937923c
+2105,6,Saying 'I have heard good things about that book' strongly implies they know something about the novel.,20260824T093740Z_5937923c
+2106,1,Saying 'I pulled a muscle last time' implies they should *not* skip their yoga class.,20260824T093740Z_5937923c
+2107,7,Saying 'I cannot find my phone' directly confirms that they have lost their phone.,20260824T093740Z_5937923c
+2108,7,Saying 'It is minus 20 degrees' directly confirms that it is cold outside.,20260824T093740Z_5937923c
+2109,7,Saying 'We have just entered a church' directly confirms that they are in a religious building.,20260824T093740Z_5937923c
+2110,7,Saying 'I am training very hard' directly confirms that their workouts are usually difficult.,20260824T093740Z_5937923c
+2113,7,Saying 'I have been working on an exhausting task' directly confirms that they were working today.,20260824T093740Z_5937923c
+2114,1,Saying 'I did not bring my bikini' implies they do *not* have swimming gear with them.,20260824T093740Z_5937923c
+2115,1,Saying 'I do not have time' is a clear negative response to the question of whether they are free at the moment.,20260824T093740Z_5937923c
+2116,1,Saying 'I watched it last month' implies they did *not* watch 'Titanic' yesterday.,20260824T093740Z_5937923c
+2117,1,Saying 'I am on a diet' implies they are *not* eating more than usual.,20260824T093740Z_5937923c
+2118,1,Saying 'I am actually a Muslim' is a clear negative response to the question of whether they practise Hinduism.,20260824T093740Z_5937923c
+2119,2,"Saying 'My head is spinning after all these beers' implies they are *not* feeling ok, but it's not a direct 'no' answer.",20260824T093740Z_5937923c
+2120,1,Saying 'I am very tired' implies they are *not* feeling energetic today.,20260824T093740Z_5937923c
+2121,1,Saying 'We are broke at the moment' is a clear negative response to the question of whether they have any money saved up.,20260824T093740Z_5937923c
+2122,6,Saying 'I have used one already in the past' strongly implies they have some experience with a chain saw.,20260824T093740Z_5937923c
+2123,1,Saying 'It is 11 p.m.' implies it is *not* morning in Los Angeles.,20260824T093740Z_5937923c
+2124,2,"Saying 'I have a hangover' implies they are *not* feeling good, but it's not a direct 'no' answer.",20260824T093740Z_5937923c
+2125,1,Saying 'I am actually diabetic' is a clear negative response to the question of whether they are free of any chronic disease.,20260824T093740Z_5937923c
+2127,1,Saying 'I usually get seasick' implies they do *not* feel well on boats.,20260824T093740Z_5937923c
+2128,7,Saying 'My toothache is gone' directly confirms that their teeth are no longer hurting.,20260824T093740Z_5937923c
+2129,5,"Saying 'I have several bus stops before my destination' implies there are many stations on their way, but it's not a direct confirmation.",20260824T093740Z_5937923c
+2130,1,Saying 'I should not staple them' is a clear negative response to the question of whether they are allowed to staple their documents.,20260824T093740Z_5937923c
+2131,2,"Saying 'It is very light' implies their luggage does *not* weigh much, but it's not a direct 'no' answer.",20260824T093740Z_5937923c
+2132,7,Saying 'We have to get up at 5 am' directly confirms that they need to wake up early tomorrow.,20260824T093740Z_5937923c
+2134,7,Saying 'French is my native language' directly confirms that Spanish is not their mother tongue.,20260824T093740Z_5937923c
+2135,1,Saying 'It does not work' is a clear negative response to the question of whether the remote is still usable.,20260824T093740Z_5937923c
+2136,7,Saying 'Wolves are very common here' directly confirms that there are wild animals in this region.,20260824T093740Z_5937923c
+2137,1,Saying 'We only have cacti' implies they do *not* have trees in their garden.,20260824T093740Z_5937923c
+2138,7,Saying 'We need it for travelling' directly confirms that the passport is necessary for taking the plane.,20260824T093740Z_5937923c
+2139,1,Saying 'I have got a sandwich' implies they did *not* bring pie for lunch.,20260824T093740Z_5937923c
+2140,5,"Saying 'They have to go out soon' implies the kids are about to leave, but it's not a direct confirmation.",20260824T093740Z_5937923c
+2141,7,Saying 'Right now I am starving' directly confirms that they are already hungry.,20260824T093740Z_5937923c
+2144,7,Saying 'I drink tea all the time' directly confirms that they often consume hot drinks.,20260824T093740Z_5937923c
+2145,2,"Saying 'We have too much light in here' implies the room is *not* dark, but it's not a direct 'no' answer.",20260824T093740Z_5937923c
+2146,1,Saying 'I will be abroad then' implies they will *not* stay in town till Friday.,20260824T093740Z_5937923c
+2147,7,Saying 'I am having a soup' directly confirms that they are eating something.,20260824T093740Z_5937923c
+2148,7,Saying 'It just started pouring' directly confirms that it is raining already.,20260824T093740Z_5937923c
+2149,1,Saying 'I do not drink' is a clear negative response to the question of whether they consume alcohol.,20260824T093740Z_5937923c
+2150,1,Saying 'There is a dish washer in the kitchen' implies everything was *not* taken away from the flat.,20260824T093740Z_5937923c
+2151,1,Saying 'I gave away my racket ages ago' implies they do *not* still have tennis equipment.,20260824T093740Z_5937923c
+2152,1,Saying 'I do not eat spicy dishes' implies they do *not* consume all types of food.,20260824T093740Z_5937923c
+2153,7,Saying 'I live right next to you' directly confirms that they are neighbours.,20260824T093740Z_5937923c
+2155,7,Saying 'I understand everything now' directly confirms that they are no longer confused.,20260824T093740Z_5937923c
+2156,2,"Saying 'My chest hurts a lot' implies they are *not* feeling well, but it's not a direct 'no' answer.",20260824T093740Z_5937923c
+2157,1,Saying 'We are in the middle of the summer' implies it is *not* winter there.,20260824T093740Z_5937923c
+2159,7,Saying 'I cut my finger while cooking' directly confirms that they got hurt.,20260824T093740Z_5937923c
+2160,2,"Saying 'There is dust all over the floor' implies the living room is *not* clean, but it's not a direct 'no' answer.",20260824T093740Z_5937923c
+2161,1,Saying 'I have actually brought mine' implies they did *not* leave their toothpaste at home.,20260824T093740Z_5937923c
+2162,2,"Saying 'My lips are all chapped' implies their lips *did* get damaged with the wind, but it's not a direct confirmation.",20260824T093740Z_5937923c
+2163,1,Saying 'I am working early tomorrow morning' implies they are *not* doing the afternoon shift tomorrow.,20260824T093740Z_5937923c
+2164,1,Saying 'I plan to eat at a restaurant' implies they are *not* going to have dinner at home.,20260824T093740Z_5937923c
+2165,7,Saying 'They have grown a lot recently' directly confirms that the hedges are taller than last time.,20260824T093740Z_5937923c
+2166,7,Saying 'Lunch is now ready' directly confirms that they have finished cooking.,20260824T093740Z_5937923c
+2167,7,Saying 'My math exercise is very complicated' directly confirms that they have difficult homework.,20260824T093740Z_5937923c
+2168,3,"Saying 'We are not sure where to go yet' implies they haven't decided on a destination, but it's not a direct 'no' answer.",20260824T093740Z_5937923c
+2169,1,Saying 'I smoke cigars only' implies they do *not* smoke cigarettes.,20260824T093740Z_5937923c
+2170,1,Saying 'I usually type directly on my laptop' implies they are *not* writing on paper.,20260824T093740Z_5937923c
+2171,1,Saying 'Our new stove was not delivered yet' implies the kitchen is still incomplete.,20260824T093740Z_5937923c
+2172,7,Saying 'Cars get stolen regularly here' directly confirms that car theft occurs often.,20260824T093740Z_5937923c
+2173,1,Saying 'My wardrobe is completely full of clothes' implies they do *not* have room in their wardrobe.,20260824T093740Z_5937923c
+2174,2,"Saying 'The dirty laundry is piling up' implies there is a lot of laundry to wash, but it's not a direct 'yes' answer.",20260824T093740Z_5937923c
+2175,7,Saying 'I can have a relaxed breakfast' directly confirms that they are taking some time for breakfast today.,20260824T093740Z_5937923c

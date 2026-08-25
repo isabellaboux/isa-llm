@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787606175-J2pKvdKyg5xVPISvUzkC,qwen/qwen3.8-2.4t-a95b,qwen/qwen3.8-2.4t-a95b,DeepInfra,stop,9792,28971,14307,38763,0.19341,,chatcmpl-R7pnaDXJWH0eumQClsOFuzFs,stop,1269,234730,20260824T093740Z_5937923c

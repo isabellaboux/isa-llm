@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787564557-zvWIBfjTJxutytTbuMWF,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,Amazon Bedrock,stop,9630,10738,0,20368,0.06332,,1e4e6e4a-5a01-43e8-8fcb-aca997c83d5d,end_turn,1010,70944,20260824T093740Z_5937923c

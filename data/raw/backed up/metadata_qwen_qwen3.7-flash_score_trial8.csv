@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787598305-0bQTuQz55d7B5dTYZFPw,qwen/qwen3.7-flash,qwen/qwen3.7-flash,Alibaba,stop,9756,16168,2554,25924,0.00239452,,chatcmpl-fd13cc8f-3b83-9b0f-bf83-ecbd306fac5d,stop,988,77998,20260824T093740Z_5937923c

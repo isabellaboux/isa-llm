@@ -1,0 +1,211 @@
+id,score,rationale,run_id
+1101,1,"Person B's answer 'I have not seen him for ages' directly implies that they have not met Martin lately, which is a clear 'no' to Person A's question.",20260824T093740Z_5937923c
+1102,7,"Person B's answer 'I am sending out an application' strongly implies they are actively looking for a job, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1103,7,"Person B's answer 'I train with him at the gym' directly confirms that they exercise with Lukas, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1104,7,"Person B's answer 'His grandfather passed away recently' directly confirms a death in his family, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1105,4,"Person B's answer provides a distance but does not directly answer whether Paris is 'very far' from here, making it ambiguous.",20260824T093740Z_5937923c
+1106,4,"Person B's answer provides a duration but does not directly answer whether it takes 'long' to get to Munich, making it ambiguous.",20260824T093740Z_5937923c
+1107,1,"Person B's answer 'My train has some delay' implies they will not be home by noon, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1108,1,"Person B's answer 'There is still some left' implies they have not finished the cereal, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1109,1,"Person B's answer 'It is not due for three months' implies the deadline is not next week, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1110,7,"Person B's answer 'The streets are always congested with cars' directly confirms there is usually a lot of traffic, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1111,1,"Person B's answer 'She is vegetarian' directly implies Megan does not eat meat, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1112,1,"Person B's answer 'He has the flu' directly implies John is sick, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1113,7,"Person B's answer 'She runs for hours every day' directly implies Sonya trains daily, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1114,1,"Person B's answer 'She just woke up' implies Clara is not still sleeping, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1115,1,"Person B's answer 'It comes out next week' implies the movie is not released today, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1116,7,"Person B's answer 'I have used one before' directly confirms they have worked with a drill, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1117,1,"Person B's answer 'I am celebrating tonight' implies the birthday party is not tomorrow, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1118,7,"Person B's answer 'I am moving out tomorrow' directly confirms they are leaving soon, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1119,6,"Person B's answer 'He was always falling behind' strongly implies he is a slacker, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1120,7,"Person B's answer 'The region is famous for surfing' directly implies the area is popular for something, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1121,1,"Person B's answer 'It is quite rough' implies the sea is not calm, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1122,1,"Person B's answer 'My job is at an NGO' implies they do not work for a corporate company, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1123,7,"Person B's answer 'He has authored many successful books' directly implies he is a writer, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1124,1,"Person B's answer 'I am still analyzing it' implies they have not finished working on their data, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1125,7,"Person B's answer 'They are an endangered species' directly implies there are not many pandas left, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1126,7,"Person B's answer 'I have enrolled at the gym' directly implies they have joined a fitness studio, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1127,1,"Person B's answer 'My thesis is not complete yet' implies they have not finished writing their thesis, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1128,7,"Person B's answer 'My hair was way too long' directly implies they used to have long hair, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1129,1,"Person B's answer 'It was a business trip' implies they did not go to Japan for vacation, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1130,1,"Person B's answer 'I need a larger one' implies a one room flat is not enough for them, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1131,7,"Person B's answer 'The deadline is tomorrow' directly implies she has to hand in soon, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1132,7,"Person B's answer 'I slept only four hours' directly implies they had a short night, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1133,1,"Person B's answer 'The offer had already expired' implies the flight is not discounted, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1134,7,"Person B's answer 'It got wounded' directly implies the cat is hurt, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1135,1,"Person B's answer 'Mark is still missing' implies not everyone is here, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1137,7,"Person B's answer 'I am Chinese' directly implies they come from Asia, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1138,4,Person B's answer 'The line went dead' is ambiguous as it does not directly answer whether someone hung up.,20260824T093740Z_5937923c
+1139,7,"Person B's answer 'They have domestics' directly implies someone is taking care of their house, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1140,1,"Person B's answer 'They have just opened' implies the bar has not been here for long, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1141,7,"Person B's answer 'His house is full of history books' directly implies he owns many books, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1143,1,"Person B's answer 'We have only few guests over for dinner' implies it is not a small gathering, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1144,1,"Person B's answer 'I only have one week off work' implies they do not have two weeks of holiday, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1145,7,"Person B's answer 'I am going to have a baby' directly implies they are pregnant, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1147,1,"Person B's answer 'I still owe the bank some money' implies they have not paid back their debts, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1148,1,"Person B's answer 'He only had water' implies he did not drink a cocktail, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1149,1,"Person B's answer 'I own an orchard' implies they do not have a vegetable garden, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1150,1,"Person B's answer 'He is 25 years old' implies their son is not underage, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1151,1,"Person B's answer 'Their tuition fee is extremely expensive' implies Harvard University is not affordable, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1152,7,"Person B's answer 'She made a bank transfer few moments ago' directly implies she has paid them, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1153,1,"Person B's answer 'They cannot swim yet' implies the kids are not good at swimming, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1154,1,"Person B's answer 'I am healthy again' implies they no longer have a cold, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1155,7,"Person B's answer 'People are not allowed to get closer' directly implies it is forbidden to approach this area, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1156,7,"Person B's answer 'I have watered them regularly' directly implies someone is taking care of the plants, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1157,1,"Person B's answer 'He was already dead by then' implies the artist was not alive in the 80s, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1158,7,"Person B's answer 'The ice layer is quite thick' directly implies the lake is frozen, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1159,1,"Person B's answer 'I am in the advanced course' implies they are not attending the beginners' class, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1160,7,"Person B's answer 'I have seen a doctor' directly implies they have sought medical advice, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1161,1,"Person B's answer 'I went out with some friends' implies they did not stay home last night, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1162,7,"Person B's answer 'They voted yesterday' directly implies there was an election recently, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1163,7,"Person B's answer 'It is spotless' directly implies the car is completely clean, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1164,1,"Person B's answer 'They have submitted a blank sheet' implies they have not answered all questions, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1165,1,"Person B's answer 'She has just got into the changing room' implies she is not out on the tennis field, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1166,7,"Person B's answer 'He was compensated' directly implies he got the money back, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1167,1,"Person B's answer 'No one has responded' implies no one has answered their house sale ad, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1168,1,"Person B's answer 'He does not play any instrument' directly implies he is not a musician, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1169,7,"Person B's answer 'He has been in Japan for several months' directly implies he has travelled in Asia, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1170,7,"Person B's answer 'We are aiming for the mountain top' directly implies their goal is the summit, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1171,7,"Person B's answer 'The customer received it' directly implies the customer got his package, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1173,1,"Person B's answer 'She skipped the last four lessons' implies she did not attend the whole singing course, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1174,1,"Person B's answer 'My monitor's resolution is really poor' implies their screen does not have a bad image, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1175,7,"Person B's answer 'She graduated from medical school last year' directly implies she has completed her medical studies, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1176,1,"Person B's answer 'It is a private property' directly implies it is not a public building, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1201,1,"Person B's answer 'I have not seen him for ages' directly implies they are not still good friends with Martin, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1202,7,"Person B's answer 'I am sending out an application' strongly implies they are looking for a job, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1203,7,"Person B's answer 'I train with him at the gym' directly confirms they know Lukas, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1204,4,Person B's answer 'His grandfather passed away recently' is ambiguous as it does not directly answer whether this is his property now.,20260824T093740Z_5937923c
+1205,4,"Person B's answer provides a distance but does not directly answer whether it takes long to drive to Paris, making it ambiguous.",20260824T093740Z_5937923c
+1206,4,"Person B's answer provides a duration but does not directly answer whether Munich is far from here, making it ambiguous.",20260824T093740Z_5937923c
+1207,1,"Person B's answer 'My train has some delay' implies they will not be home by noon, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1208,1,"Person B's answer 'There is still some left' implies they have not bought cereal, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1209,1,"Person B's answer 'It is not due for three months' implies the essay deadline is not next week, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1210,7,"Person B's answer 'The streets are always congested with cars' directly implies there is usually a lot of traffic, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1211,1,"Person B's answer 'She is vegetarian' directly implies Megan is not coming to the steak house, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1212,1,"Person B's answer 'He has the flu' directly implies John is not staying home, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1213,4,Person B's answer 'She runs for hours every day' is ambiguous as it does not directly answer whether Sonya has registered for the marathon.,20260824T093740Z_5937923c
+1214,1,"Person B's answer 'She just woke up' implies Clara did not have breakfast already, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1215,1,"Person B's answer 'It comes out next week' implies they have not seen the movie, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1216,7,"Person B's answer 'I have used one before' directly confirms they know how to use a drill, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1217,4,Person B's answer 'I am celebrating tonight' is ambiguous as it does not directly answer whether they failed the exam.,20260824T093740Z_5937923c
+1218,7,"Person B's answer 'I am moving out tomorrow' directly implies they are breaking up with him, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1219,6,"Person B's answer 'He was always falling behind' strongly implies he was fired, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1220,7,"Person B's answer 'The region is famous for surfing' directly implies there are big waves there, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1221,1,"Person B's answer 'It is quite rough' implies the sea is not safe to swim there, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1222,1,"Person B's answer 'My job is at an NGO' implies they do not make a lot of money, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1223,7,"Person B's answer 'He has authored many successful books' directly implies he is famous, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1224,1,"Person B's answer 'I am still analyzing it' implies they have not presented their data at the meeting, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1225,1,"Person B's answer 'They are an endangered species' directly implies it is not legal to hunt pandas, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1226,4,Person B's answer 'I have enrolled at the gym' is ambiguous as it does not directly answer whether they have lost some weight.,20260824T093740Z_5937923c
+1227,1,"Person B's answer 'My thesis is not complete yet' implies they have not graduated, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1228,7,"Person B's answer 'My hair was way too long' directly implies they got their hair cut, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1229,1,"Person B's answer 'It was a business trip' implies they did not have time for sightseeing, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1230,1,"Person B's answer 'I need a larger one' implies they did not buy that one room flat, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1231,7,"Person B's answer 'The deadline is tomorrow' directly implies she is stressed about the project, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1232,7,"Person B's answer 'I slept only four hours' directly implies they are tired, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1233,1,"Person B's answer 'The offer had already expired' implies he did not book the flight, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1234,7,"Person B's answer 'It got wounded' directly implies they are bringing their cat to the vet, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1235,1,"Person B's answer 'Mark is still missing' implies not everyone is ready to go, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1237,7,"Person B's answer 'I am Chinese' directly implies they can cook Cantonese rice, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1238,4,Person B's answer 'The line went dead' is ambiguous as it does not directly answer whether they told him about that issue.,20260824T093740Z_5937923c
+1239,7,"Person B's answer 'They have domestics' directly implies someone is taking care of their house, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1240,1,"Person B's answer 'They have just opened' implies they have not tried that bar yet, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1241,7,"Person B's answer 'His house is full of history books' directly implies he has a passion for history, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1243,1,"Person B's answer 'We have only few guests over for dinner' implies the saucepan is big enough, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1244,1,"Person B's answer 'I only have one week off work' implies they will not take a two weeks trip, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1245,4,Person B's answer 'I am going to have a baby' is ambiguous as it does not directly answer whether they are avoiding drinking alcohol.,20260824T093740Z_5937923c
+1247,1,"Person B's answer 'I still owe the bank some money' implies they did not get a new loan, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1248,1,"Person B's answer 'He only had water' implies he is not drunk, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1249,1,"Person B's answer 'I own an orchard' implies they do not buy fruit in the supermarket, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1250,1,"Person B's answer 'He is 25 years old' implies their son is not at elementary school, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1251,1,"Person B's answer 'Their tuition fee is extremely expensive' implies Harvard University is not an option for them, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1252,7,"Person B's answer 'She made a bank transfer few moments ago' directly implies she accepted their deal, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1253,1,"Person B's answer 'They cannot swim yet' implies the kids did not go to the swimming pool, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1254,1,"Person B's answer 'I am healthy again' implies they are no longer taking those pills, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1255,7,"Person B's answer 'People are not allowed to get closer' directly implies this area is contaminated, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1256,7,"Person B's answer 'I have watered them regularly' directly implies the plants are still alive, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1257,1,"Person B's answer 'He was already dead by then' implies the artwork was not created by him in 1981, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1258,7,"Person B's answer 'The ice layer is quite thick' directly implies it is ice skating season, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1259,1,"Person B's answer 'I am in the advanced course' implies they are not a beginner, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1260,7,"Person B's answer 'I have seen a doctor' directly implies they have been sick, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1261,1,"Person B's answer 'I went out with some friends' implies they did not go to bed early last night, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1262,7,"Person B's answer 'They voted yesterday' directly implies the members can elect a representative, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1263,7,"Person B's answer 'It is spotless' directly implies the car is back from the car wash, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1264,1,"Person B's answer 'They have submitted a blank sheet' implies they have not written a good exam, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1265,1,"Person B's answer 'She has just got into the changing room' implies she is not dressed for the tennis game, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1266,7,"Person B's answer 'He was compensated' directly implies he settled the lawsuit, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1267,1,"Person B's answer 'No one has responded' implies they have not sold that house, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1268,1,"Person B's answer 'He does not play any instrument' directly implies he is not part of the marching band, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1269,7,"Person B's answer 'He has been in Japan for several months' directly implies he has tried sushi, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1270,7,"Person B's answer 'We are aiming for the mountain top' directly implies their whole way is going uphill, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1271,7,"Person B's answer 'The customer received it' directly implies the package was shipped to the customer, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1273,1,"Person B's answer 'She skipped the last four lessons' implies she is not very dedicated to the singing course, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1274,1,"Person B's answer 'My monitor's resolution is really poor' implies their eyes do not get strained sometimes, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+1275,7,"Person B's answer 'She graduated from medical school last year' directly implies she is a medical doctor, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+1276,1,"Person B's answer 'It is a private property' implies they have never been inside that building, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2101,7,"Person B's answer 'I need to revise some of the topics' directly implies they have to study for the test, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2102,7,"Person B's answer 'There is an interesting new movie' directly implies something has come out in the cinemas recently, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2103,7,"Person B's answer 'It is quite chilly' directly implies it is cold in their village, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2105,7,"Person B's answer 'I have heard good things about that book' directly implies they know something about the novel, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2106,7,"Person B's answer 'I pulled a muscle last time' directly implies they got injured at yoga class, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2107,7,"Person B's answer 'I cannot find my phone' directly implies they have lost their phone, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2108,7,"Person B's answer 'It is minus 20 degrees' directly implies it is cold outside, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2109,7,"Person B's answer 'We have just entered a church' directly implies they are in a religious building, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2110,7,"Person B's answer 'I am training very hard' directly implies their workouts are usually difficult, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2113,7,"Person B's answer 'I have been working on an exhausting task' directly implies they were working today, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2114,1,"Person B's answer 'I did not bring my bikini' implies they have not got swimming gear with them, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2115,1,"Person B's answer 'I do not have time' directly implies they are not free at the moment, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2116,7,"Person B's answer 'I watched it last month' directly implies they watched 'Titanic' yesterday, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2117,1,"Person B's answer 'I am on a diet' implies they are not eating more than usual, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2118,1,"Person B's answer 'I am actually a Muslim' directly implies they do not practise Hinduism, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2119,1,"Person B's answer 'My head is spinning after all these beers' implies they are not feeling ok, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2120,1,"Person B's answer 'I am very tired' implies they are not feeling energetic, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2121,1,"Person B's answer 'We are broke at the moment' directly implies they do not have any money saved up, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2122,7,"Person B's answer 'I have used one already in the past' directly implies it is not their first experience with a chain saw, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2123,1,"Person B's answer 'It is 11 p.m.' directly implies it is not morning in Los Angeles, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2124,1,"Person B's answer 'I have a hangover' implies they are not feeling good, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2125,1,"Person B's answer 'I am actually diabetic' implies they are not free of any chronic disease, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2127,1,"Person B's answer 'I usually get seasick' directly implies they do not feel well on boats, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2128,1,"Person B's answer 'My toothache is gone' directly implies their teeth are not still hurting, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2129,7,"Person B's answer 'I have several bus stops before my destination' directly implies there are many stations on their way, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2130,1,"Person B's answer 'I should not staple them' directly implies they are not allowed to staple their documents, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2131,1,"Person B's answer 'It is very light' directly implies their luggage does not weigh much, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2132,7,"Person B's answer 'We have to get up at 5 am' directly implies they need to wake up early tomorrow, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2134,1,"Person B's answer 'French is my native language' directly implies Spanish is not their mother tongue, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2135,1,"Person B's answer 'It does not work' directly implies the remote is still unusable, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2136,7,"Person B's answer 'Wolves are very common here' directly implies there are wild animals in this region, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2137,1,"Person B's answer 'We only have cacti' directly implies there are no trees in their garden, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2138,7,"Person B's answer 'We need it for travelling' directly implies the passport is necessary for taking the plane, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2139,1,"Person B's answer 'I have got a sandwich' directly implies they have not brought some pie for lunch, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2140,7,"Person B's answer 'They have to go out soon' directly implies the kids are about to leave, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2141,7,"Person B's answer 'Right now I am starving' directly implies they are already hungry, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2144,7,"Person B's answer 'I drink tea all the time' directly implies they often consume hot drinks, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2145,7,"Person B's answer 'We have too much light in here' directly implies the room is very bright, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2146,1,"Person B's answer 'I will be abroad then' directly implies they will not stay in town till Friday, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2147,7,"Person B's answer 'I am having a soup' directly implies they are eating something, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2148,7,"Person B's answer 'It just started pouring' directly implies it is raining already, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2149,1,"Person B's answer 'I do not drink' directly implies they do not consume alcohol, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2150,1,"Person B's answer 'There is a dish washer in the kitchen' directly implies everything was not taken away from the flat, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2151,1,"Person B's answer 'I gave away my racket ages ago' directly implies they do not still have tennis equipment, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2152,1,"Person B's answer 'I do not eat spicy dishes' directly implies they do not consume all types of food, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2153,7,"Person B's answer 'I live right next to you' directly implies they are actually neighbours, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2155,1,"Person B's answer 'I understand everything now' directly implies they are no longer confused about it, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2156,1,"Person B's answer 'My chest hurts a lot' directly implies they do not feel pain in their upper body, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2157,1,"Person B's answer 'We are in the middle of the summer' directly implies it is not winter there, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2159,1,"Person B's answer 'I cut my finger while cooking' directly implies they did not get hurt, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2160,1,"Person B's answer 'There is dust all over the floor' directly implies the living room is dirty, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2161,7,"Person B's answer 'I have actually brought mine' directly implies they have not left their toothpaste at home, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2162,7,"Person B's answer 'My lips are all chapped' directly implies their lips got damaged with this wind, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2163,1,"Person B's answer 'I am working early tomorrow morning' directly implies they are not joining for drinks tonight, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2164,1,"Person B's answer 'I plan to eat at a restaurant' directly implies they are not going to have dinner at home, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2165,7,"Person B's answer 'They have grown a lot recently' directly implies the hedges are taller than last time, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2166,7,"Person B's answer 'Lunch is now ready' directly implies they have finished cooking, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2167,7,"Person B's answer 'My math exercise is very complicated' directly implies they have difficult homework, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2168,1,"Person B's answer 'We are not sure where to go yet' directly implies they have not decided on a destination, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2169,4,Person B's answer 'I smoke cigars only' is ambiguous as it does not directly answer whether they consume cigarettes.,20260824T093740Z_5937923c
+2170,1,"Person B's answer 'I usually type directly on my laptop' directly implies they are not writing on paper, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2171,1,"Person B's answer 'Our new stove was not delivered yet' directly implies the kitchen is still incomplete, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2172,7,"Person B's answer 'Cars get stolen regularly here' directly implies car theft occurs often, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2173,1,"Person B's answer 'My wardrobe is completely full of clothes' directly implies they do not still have room in their wardrobe, answering 'no' to Person A's question.",20260824T093740Z_5937923c
+2174,7,"Person B's answer 'The dirty laundry is piling up' directly implies there is a lot of laundry to wash, answering 'yes' to Person A's question.",20260824T093740Z_5937923c
+2175,7,"Person B's answer 'I can have a relaxed breakfast' directly implies they are taking some time for breakfast today, answering 'yes' to Person A's question.",20260824T093740Z_5937923c

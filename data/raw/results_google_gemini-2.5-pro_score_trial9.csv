@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Person B explicitly states they have not seen Martin for a long time, which directly answers the question with a ""no"".",20260824T093740Z_5937923c
+1102,7,"Person B states a specific activity they are currently engaged in, which directly confirms that they are ""doing something right now"".",20260824T093740Z_5937923c
+1103,7,"""Training with him at the gym"" is a specific way of saying ""exercising with him,"" so this is a definite ""yes.""",20260824T093740Z_5937923c
+1104,7,"Person B confirms a death in the family by stating that a specific family member, the grandfather, has passed away.",20260824T093740Z_5937923c
+1105,7,"A distance of 1000 Km is objectively very far, so Person B's statement confirms that Paris is indeed very far.",20260824T093740Z_5937923c
+1106,7,"A six-hour drive is a significant amount of time for a journey, which strongly implies that it does take a long time to get to Munich.",20260824T093740Z_5937923c
+1107,1,"A train delay is a deviation from the original plan, so the journey is definitively not going as planned.",20260824T093740Z_5937923c
+1108,1,"The statement ""There is still some left"" directly contradicts the idea that they have finished their cereal.",20260824T093740Z_5937923c
+1109,1,"Person B explicitly states the deadline is three months away, which directly negates the suggestion that it is next week.",20260824T093740Z_5937923c
+1110,7,"""The streets are always congested with cars"" is a direct and strong confirmation that there is usually a lot of traffic.",20260824T093740Z_5937923c
+1111,1,"By definition, a vegetarian does not eat meat, so Person B's answer is a definitive ""no"".",20260824T093740Z_5937923c
+1112,7,"Having the flu is a specific way of being sick, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1113,7,"Person B states that Sonya ""runs for hours every day,"" which is a specific form of daily training, confirming the question with a ""yes.""",20260824T093740Z_5937923c
+1114,1,"The statement ""She just woke up"" explicitly means she is no longer sleeping, providing a definitive ""no"" to the question.",20260824T093740Z_5937923c
+1115,1,"Person B provides a different release date (""next week""), which directly contradicts the idea of it being released ""today"".",20260824T093740Z_5937923c
+1116,7,"""I have used one before"" is a direct confirmation of having worked with a drill.",20260824T093740Z_5937923c
+1117,1,"Person B states the party is ""tonight,"" which directly contradicts the question about it being ""tomorrow.""",20260824T093740Z_5937923c
+1118,7,"""Moving out tomorrow"" is a specific and imminent action that confirms the person is leaving their flat soon.",20260824T093740Z_5937923c
+1119,6,"""Always falling behind"" is a strong indicator of being a slacker, making the answer a very likely ""yes.""",20260824T093740Z_5937923c
+1120,7,"Being ""famous for surfing"" directly answers that the area is popular for something.",20260824T093740Z_5937923c
+1121,1,"""Rough"" is the direct opposite of ""calm,"" so the answer is a definitive ""no.""",20260824T093740Z_5937923c
+1122,1,"An NGO (Non-Governmental Organization) is by definition not a for-profit corporate company, so this is a definitive ""no.""",20260824T093740Z_5937923c
+1123,7,"Authoring many successful books is the definition of being a writer, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1124,1,"The phrase ""still analyzing it"" explicitly states that the work is ongoing and therefore not finished.",20260824T093740Z_5937923c
+1125,1,"An ""endangered species"" is by definition a species with a low population, so there are not many left. This is a definitive ""no.""",20260824T093740Z_5937923c
+1126,7,"""Enrolling at the gym"" is synonymous with ""joining a fitness studio,"" making this a definite ""yes.""",20260824T093740Z_5937923c
+1127,1,"Person B explicitly states their thesis is ""not complete,"" which is a direct and definitive ""no.""",20260824T093740Z_5937923c
+1128,7,"The statement ""My hair was way too long"" directly confirms that the person used to have long hair.",20260824T093740Z_5937923c
+1129,1,"Person B specifies the purpose of the trip was ""business,"" which is different from a ""vacation,"" making the answer a definitive ""no.""",20260824T093740Z_5937923c
+1130,1,"Stating the need for a ""larger one"" directly implies that a one-room flat is not enough.",20260824T093740Z_5937923c
+1131,7,"A deadline of ""tomorrow"" is very soon, so the answer is a definite ""yes.""",20260824T093740Z_5937923c
+1132,7,"Sleeping only four hours is universally considered a short night, making this a definite ""yes.""",20260824T093740Z_5937923c
+1133,1,"An expired offer means the discount was no longer available, so the answer is a definitive ""no.""",20260824T093740Z_5937923c
+1134,7,"""Wounded"" is a synonym for ""hurt,"" so this is a direct and definite ""yes.""",20260824T093740Z_5937923c
+1135,1,"The statement that ""Mark is still missing"" directly means that not everyone is present.",20260824T093740Z_5937923c
+1137,7,"China is a country in Asia, so stating ""I am Chinese"" confirms that the person comes from Asia.",20260824T093740Z_5937923c
+1138,4,"""The line went dead"" describes the result but not the cause. It's unclear if Person B hung up or if there was a technical issue, making the answer ambiguous.",20260824T093740Z_5937923c
+1139,7,"""Domestics"" are household staff whose job is to take care of the house, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1140,1,"""Just opened"" is the opposite of having been there for a long time, making the answer a definitive ""no.""",20260824T093740Z_5937923c
+1141,7,"A house being ""full of"" books is a strong statement indicating ownership of many books.",20260824T093740Z_5937923c
+1143,7,"Having only a ""few guests"" is the definition of a small gathering, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1144,1,"Person B explicitly states they have ""one week off,"" which directly contradicts the ""two weeks"" in the question.",20260824T093740Z_5937923c
+1145,7,"""Going to have a baby"" is a direct confirmation of being pregnant.",20260824T093740Z_5937923c
+1147,1,"Stating that money is ""still owed"" directly means the debts have not been fully paid back.",20260824T093740Z_5937923c
+1148,1,"Person B states that the person in question only drank water, which excludes having had a cocktail.",20260824T093740Z_5937923c
+1149,1,"An orchard is a place where fruit trees are grown, which is distinct from a vegetable garden. Therefore, the answer is ""no.""",20260824T093740Z_5937923c
+1150,1,"A 25-year-old is legally an adult and not underage, making this a definitive ""no.""",20260824T093740Z_5937923c
+1151,1,"""Extremely expensive"" is the direct opposite of ""affordable,"" so the answer is a definitive ""no.""",20260824T093740Z_5937923c
+1152,7,"Making a bank transfer is the action of paying, so this confirms that she has paid.",20260824T093740Z_5937923c
+1153,1,"The statement ""They cannot swim yet"" directly means they are not good at swimming.",20260824T093740Z_5937923c
+1154,1,"Being ""healthy again"" implies the previous illness, the cold, is gone. This is a definitive ""no.""",20260824T093740Z_5937923c
+1155,7,"""People are not allowed to get closer"" is a direct paraphrase of ""it is forbidden to approach,"" making this a definite ""yes.""",20260824T093740Z_5937923c
+1156,7,"Watering plants is a primary way of taking care of them, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1157,1,"The statement ""He was already dead by then"" directly contradicts the idea of him being alive in the 80s.",20260824T093740Z_5937923c
+1158,7,The presence of a thick ice layer is direct evidence that the lake is frozen.,20260824T093740Z_5937923c
+1159,1,"Being in the ""advanced course"" explicitly means not being in the ""beginners' class.""",20260824T093740Z_5937923c
+1160,7,"Seeing a doctor is the primary way to seek medical advice, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1161,1,"""Going out with friends"" is the direct opposite of staying home, making this a definitive ""no.""",20260824T093740Z_5937923c
+1162,7,"Voting is the central act of an election, and ""yesterday"" is recent, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1163,7,"""Spotless"" is a synonym for ""completely clean,"" making this a definite ""yes.""",20260824T093740Z_5937923c
+1164,1,"Submitting a ""blank sheet"" means no questions were answered, so this is a definitive ""no.""",20260824T093740Z_5937923c
+1165,1,"The changing room is not the tennis field, so at the moment of speaking, she is not on the field.",20260824T093740Z_5937923c
+1166,7,"Being ""compensated"" in this context means he received money to make up for a loss, which is equivalent to getting the money back.",20260824T093740Z_5937923c
+1167,1,"""No one has responded"" is a direct and explicit ""no"" to the question.",20260824T093740Z_5937923c
+1168,2,"While one could be a musician without playing an instrument (e.g., a singer), in common parlance, not playing any instrument makes it very likely the answer is ""no.""",20260824T093740Z_5937923c
+1169,7,"Japan is a country in Asia, so having been there for several months confirms he has travelled in Asia.",20260824T093740Z_5937923c
+1170,7,"""Mountain top"" is a synonym for ""summit,"" so this is a definite ""yes.""",20260824T093740Z_5937923c
+1171,7,"""Received it"" is a direct confirmation that the customer got the package.",20260824T093740Z_5937923c
+1173,1,"Skipping lessons means she did not attend the ""whole"" course, making this a definitive ""no.""",20260824T093740Z_5937923c
+1174,7,"A ""really poor"" resolution directly causes a bad image, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1175,7,Graduating from medical school is the definition of completing medical studies.,20260824T093740Z_5937923c
+1176,1,"""Private property"" is the direct opposite of a ""public building,"" so the answer is a definitive ""no.""",20260824T093740Z_5937923c
+1201,2,"Not having seen a friend ""for ages"" strongly implies that they are not ""still good friends,"" even if it doesn't completely rule it out.",20260824T093740Z_5937923c
+1202,7,"Sending out an application is a primary activity when looking for a job, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1203,7,"Training with someone implies knowing them, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1204,4,"While the grandfather's death might imply an inheritance, the answer doesn't explicitly link the death to the ownership of the specific property in question.",20260824T093740Z_5937923c
+1205,7,"A distance of 1000 km would take a very long time to drive, making this a definite ""yes.""",20260824T093740Z_5937923c
+1206,7,"A six-hour drive is a significant distance, which means Munich is far.",20260824T093740Z_5937923c
+1207,2,"A train delay makes arriving by a specific time like noon very unlikely, though not strictly impossible depending on the original schedule and length of delay.",20260824T093740Z_5937923c
+1208,4,"The answer states there is cereal, but it doesn't address whether Person B was the one who bought it. The answer is irrelevant to the question asked.",20260824T093740Z_5937923c
+1209,2,"Stating that the deadline is far in the future is a common justification for not having started a task yet, making ""no"" a very likely answer.",20260824T093740Z_5937923c
+1210,6,"The fact that streets are ""always congested"" strongly suggests they will be delayed and therefore likely be late.",20260824T093740Z_5937923c
+1211,1,"A vegetarian would not choose to go to a steak house, making this a definitive ""no.""",20260824T093740Z_5937923c
+1212,6,Having the flu makes it very likely that John is staying home to rest and avoid spreading the illness.,20260824T093740Z_5937923c
+1213,5,"Her intensive training suggests she might have registered for the marathon, but it's not direct proof. It makes the answer somewhat likely to be ""yes.""",20260824T093740Z_5937923c
+1214,1,"A person who ""just woke up"" would not have had time to have breakfast yet, making the answer a definitive ""no.""",20260824T093740Z_5937923c
+1215,1,"It is impossible to have seen a movie that has not been released yet, so the answer is a definitive ""no.""",20260824T093740Z_5937923c
+1216,7,"Previous use of a tool implies knowledge of how to use it, making this a definite ""yes.""",20260824T093740Z_5937923c
+1217,1,"People celebrate success, not failure. Celebrating implies passing the exam, so the answer to ""have you failed"" is a definitive ""no.""",20260824T093740Z_5937923c
+1218,6,Moving out of a shared living space is a very strong sign that a couple is breaking up.,20260824T093740Z_5937923c
+1219,5,"Consistently poor performance like ""always falling behind"" is a common reason for being fired, making it somewhat likely, but it's not a confirmation.",20260824T093740Z_5937923c
+1220,7,"A region cannot be famous for surfing without having suitable waves, which are typically big. This is a definite ""yes.""",20260824T093740Z_5937923c
+1221,1,"A ""rough"" sea is by definition unsafe for swimming, making this a definitive ""no.""",20260824T093740Z_5937923c
+1222,2,"Jobs at NGOs are generally known for not paying high salaries, so it is very likely the person does not make a lot of money.",20260824T093740Z_5937923c
+1223,7,"An author of ""many successful books"" is by definition a famous person.",20260824T093740Z_5937923c
+1224,1,"One cannot present data that is still under analysis, so the answer is a definitive ""no.""",20260824T093740Z_5937923c
+1225,1,"Hunting endangered species is illegal worldwide, so the answer is a definitive ""no.""",20260824T093740Z_5937923c
+1226,4,"Enrolling at a gym is a step towards losing weight, but it does not confirm that any weight has actually been lost yet. The answer is ambiguous.",20260824T093740Z_5937923c
+1227,1,"Completing a thesis is a prerequisite for graduation, so an incomplete thesis means the person has not graduated.",20260824T093740Z_5937923c
+1228,4,The answer explains why a haircut might have been needed but does not confirm that one actually occurred. The answer is ambiguous.,20260824T093740Z_5937923c
+1229,2,"A ""business trip"" implies a schedule focused on work, making it very unlikely that there was time for sightseeing.",20260824T093740Z_5937923c
+1230,1,Expressing the need for a larger flat is a clear reason for not buying the one-room flat in question.,20260824T093740Z_5937923c
+1231,6,"An imminent deadline is a very common and potent source of stress, making it very likely the answer is ""yes.""",20260824T093740Z_5937923c
+1232,7,"Lack of sleep (only four hours) is a direct cause of tiredness, making this a definite ""yes.""",20260824T093740Z_5937923c
+1233,2,"The expiration of a special offer is a strong reason not to have completed the purchase, making ""no"" a very likely answer.",20260824T093740Z_5937923c
+1234,6,"A wounded animal is a clear reason to take it to the vet, making it very likely that this is what the person is doing or about to do.",20260824T093740Z_5937923c
+1235,1,"The group cannot be ""ready to go"" if a member of the group is missing.",20260824T093740Z_5937923c
+1237,4,"While Person B's heritage is related to the question, being Chinese does not guarantee the ability to cook a specific dish. The answer is based on a stereotype and is ambiguous.",20260824T093740Z_5937923c
+1238,2,"A phone line going dead means the conversation was interrupted, making it very unlikely that the person had the chance to convey the information.",20260824T093740Z_5937923c
+1239,7,"The presence of domestic staff explains why the house is always tidy, thus confirming the observation in the question.",20260824T093740Z_5937923c
+1240,3,"A bar having ""just opened"" implies there has been little time to visit it, making it somewhat likely the answer is ""no.""",20260824T093740Z_5937923c
+1241,7,Owning a house full of history books is a clear and strong indicator of a passion for history.,20260824T093740Z_5937923c
+1243,6,"By indicating the small number of guests, Person B implies that the cooking requirements are small, and therefore the saucepan is very likely big enough.",20260824T093740Z_5937923c
+1244,1,It is impossible to take a two-week trip if one only has one week off from work.,20260824T093740Z_5937923c
+1245,7,"Pregnancy is a primary reason for avoiding alcohol, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1247,4,Having an existing debt does not preclude taking on a new one. The answer is not responsive to the question.,20260824T093740Z_5937923c
+1248,1,"It is impossible to become drunk by drinking only water, so this is a definitive ""no.""",20260824T093740Z_5937923c
+1249,2,"A person who owns an orchard has their own supply of fruit, making it very unlikely they would need to buy it from a supermarket.",20260824T093740Z_5937923c
+1250,1,"A 25-year-old person is far too old to be in elementary school, making this a definitive ""no.""",20260824T093740Z_5937923c
+1251,1,The extreme expense of the tuition implies it is unaffordable and therefore not a realistic option.,20260824T093740Z_5937923c
+1252,7,"Making a bank transfer is a clear action of fulfilling one's side of a deal, which confirms the deal was accepted.",20260824T093740Z_5937923c
+1253,3,"Not knowing how to swim makes a trip to the swimming pool less likely or for a different purpose, but it doesn't rule it out. The answer is a somewhat likely ""no.""",20260824T093740Z_5937923c
+1254,1,"Being ""healthy again"" removes the reason for taking medication, so the answer is a definitive ""no.""",20260824T093740Z_5937923c
+1255,6,"Forbidding people from approaching an area is a strong indication that there is a danger, such as contamination.",20260824T093740Z_5937923c
+1256,6,"Stating that the plants have been watered regularly implies that the necessary care was taken to keep them alive, making it very likely they are.",20260824T093740Z_5937923c
+1257,1,"It is impossible for someone to create artwork after they have died, so this is a definitive ""no.""",20260824T093740Z_5937923c
+1258,7,"A thick ice layer is the necessary condition for ice skating, so this confirms it is ice skating season.",20260824T093740Z_5937923c
+1259,1,"Being in an ""advanced course"" is the opposite of being a ""beginner.""",20260824T093740Z_5937923c
+1260,6,Seeing a doctor is a very strong indication that a person has been sick.,20260824T093740Z_5937923c
+1261,1,"""Going out with some friends"" is an activity that implies a late night, the opposite of going to bed early.",20260824T093740Z_5937923c
+1262,7,"The act of voting confirms the ability to elect someone, so the answer is a definite ""yes.""",20260824T093740Z_5937923c
+1263,6,"A ""spotless"" car is the expected result of a car wash, making it very likely that it is back from one.",20260824T093740Z_5937923c
+1264,1,"Submitting a blank sheet is a complete failure, the opposite of writing a good exam.",20260824T093740Z_5937923c
+1265,2,"A person in a changing room is in the process of changing, meaning they are very likely not yet dressed for the game.",20260824T093740Z_5937923c
+1266,7,"Receiving compensation is the result of a successful lawsuit settlement, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1267,1,A house cannot be sold if there are no responses to the sale advertisement.,20260824T093740Z_5937923c
+1268,1,"Membership in a marching band almost universally requires playing an instrument. Therefore, not playing one means he is not a member.",20260824T093740Z_5937923c
+1269,6,"It is extremely likely that someone who spent several months in Japan would have tried sushi, its most famous dish.",20260824T093740Z_5937923c
+1270,7,"The only way to reach a mountain top is by going uphill, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1271,7,A customer receiving a package presupposes that the package was shipped to them.,20260824T093740Z_5937923c
+1273,1,"Skipping multiple lessons is a clear sign of a lack of dedication, making this a definitive ""no.""",20260824T093740Z_5937923c
+1274,6,"Poor monitor resolution is a common cause of eye strain, making it very likely that the person experiences it.",20260824T093740Z_5937923c
+1275,7,"Graduating from medical school is how one becomes a medical doctor, so this is a definite ""yes.""",20260824T093740Z_5937923c
+1276,3,"Private property implies restricted access, making it somewhat unlikely that an average person has been inside, but it's not a definitive ""no.""",20260824T093740Z_5937923c
+2101,7,"""Revising topics"" is a specific form of studying, so this is a definite ""yes.""",20260824T093740Z_5937923c
+2102,7,"The existence of a ""new movie"" directly answers the question with a ""yes.""",20260824T093740Z_5937923c
+2103,7,"""Chilly"" is a synonym for ""cold,"" so this is a definite ""yes.""",20260824T093740Z_5937923c
+2105,7,"Having ""heard good things"" means the person knows something about the book, even if it's secondhand information.",20260824T093740Z_5937923c
+2106,7,"A ""pulled muscle"" is a type of injury, so this is a definite ""yes.""",20260824T093740Z_5937923c
+2107,7,Being unable to find one's phone is the situation described as having lost it.,20260824T093740Z_5937923c
+2108,7,A temperature of minus 20 degrees is objectively and extremely cold.,20260824T093740Z_5937923c
+2109,7,"A church is a type of religious building, so this is a definite ""yes.""",20260824T093740Z_5937923c
+2110,7,"""Training very hard"" is synonymous with having difficult workouts.",20260824T093740Z_5937923c
+2113,7,"Person B states they have been engaged in a work task, which directly confirms they were working.",20260824T093740Z_5937923c
+2114,1,"A bikini is a type of swimming gear. Not bringing one means the answer is ""no.""",20260824T093740Z_5937923c
+2115,1,"""I do not have time"" is a direct contradiction to being ""free at the moment.""",20260824T093740Z_5937923c
+2116,1,"Watching the movie last month is not watching it yesterday, so the answer is ""no.""",20260824T093740Z_5937923c
+2117,1,"Being ""on a diet"" typically means eating less than usual, not more.",20260824T093740Z_5937923c
+2118,1,"Being a Muslim means one does not practice Hinduism, as they are different religions.",20260824T093740Z_5937923c
+2119,1,A spinning head is a clear sign of not feeling okay.,20260824T093740Z_5937923c
+2120,1,"Being ""very tired"" is the opposite of feeling energetic.",20260824T093740Z_5937923c
+2121,1,"Being ""broke"" means having no money, which directly answers the question with a ""no.""",20260824T093740Z_5937923c
+2122,1,Having used one in the past means this is not the first experience.,20260824T093740Z_5937923c
+2123,1,"11 p.m. is night, not morning.",20260824T093740Z_5937923c
+2124,1,"Having a hangover is a state of feeling unwell, not good.",20260824T093740Z_5937923c
+2125,1,"Being diabetic means having a chronic disease, so the person is not free of them.",20260824T093740Z_5937923c
+2127,1,Getting seasick means one does not feel well on boats.,20260824T093740Z_5937923c
+2128,1,"If the toothache is gone, the teeth are not still hurting.",20260824T093740Z_5937923c
+2129,7,"Having ""several bus stops"" before the destination confirms that there are many stations on the way.",20260824T093740Z_5937923c
+2130,1,"""I should not staple them"" is a direct answer of ""no"" to being allowed to staple them.",20260824T093740Z_5937923c
+2131,1,"If the luggage is ""very light,"" it does not weigh much.",20260824T093740Z_5937923c
+2132,7,Having to get up at 5 am is the definition of waking up early.,20260824T093740Z_5937923c
+2134,1,Stating that French is the native language means that Spanish is not.,20260824T093740Z_5937923c
+2135,7,"If the remote ""does not work,"" it is still unusable.",20260824T093740Z_5937923c
+2136,7,"Wolves are wild animals, so their common presence confirms there are wild animals in the region.",20260824T093740Z_5937923c
+2137,5,"Cacti are not typically considered trees, but they are plants. This is a somewhat likely 'yes' in a very broad sense of 'tree-like plant' but a 'no' in the strict botanical sense.",20260824T093740Z_5937923c
+2138,7,Stating that the passport is needed for travelling confirms that it is necessary.,20260824T093740Z_5937923c
+2139,1,Having a sandwich means the person did not bring a pie.,20260824T093740Z_5937923c
+2140,7,"If they ""have to go out soon,"" they are about to leave.",20260824T093740Z_5937923c
+2141,7,"Being ""starving"" is an intensified way of saying one is already hungry.",20260824T093740Z_5937923c
+2144,7,"Drinking tea ""all the time"" confirms that the person often consumes hot drinks.",20260824T093740Z_5937923c
+2145,7,"Having ""too much light"" confirms that the room is very bright.",20260824T093740Z_5937923c
+2146,1,"Being ""abroad then"" means the person will not be in town until Friday.",20260824T093740Z_5937923c
+2147,7,Having a soup is a form of eating something.,20260824T093740Z_5937923c
+2148,7,"If it ""just started pouring,"" then it is raining already.",20260824T093740Z_5937923c
+2149,1,"""I do not drink"" is a direct ""no"" to consuming alcohol.",20260824T093740Z_5937923c
+2150,1,"If there is still a dishwasher in the kitchen, not everything was taken away.",20260824T093740Z_5937923c
+2151,1,Having given away the racket means the person no longer has tennis equipment.,20260824T093740Z_5937923c
+2152,1,Not eating spicy dishes means the person does not consume all types of food.,20260824T093740Z_5937923c
+2153,7,"Living ""right next to you"" is the definition of being neighbours.",20260824T093740Z_5937923c
+2155,1,Understanding everything now means the person is no longer confused.,20260824T093740Z_5937923c
+2156,7,"The chest is part of the upper body, so chest pain confirms pain in the upper body.",20260824T093740Z_5937923c
+2157,1,Being in the middle of summer is the opposite of it being winter.,20260824T093740Z_5937923c
+2159,7,Cutting one's finger is a way of getting hurt.,20260824T093740Z_5937923c
+2160,7,Dust all over the floor means the living room is dirty.,20260824T093740Z_5937923c
+2161,1,Having brought the toothpaste means it was not left at home.,20260824T093740Z_5937923c
+2162,7,"Chapped lips are a form of damage, so the answer is ""yes.""",20260824T093740Z_5937923c
+2163,1,Working early in the morning is not doing the afternoon shift.,20260824T093740Z_5937923c
+2164,1,Planning to eat at a restaurant means not having dinner at home.,20260824T093740Z_5937923c
+2165,7,"If they have ""grown a lot,"" they are taller than last time.",20260824T093740Z_5937923c
+2166,7,"If lunch is ready, the cooking is finished.",20260824T093740Z_5937923c
+2167,7,"A ""very complicated"" math exercise is a difficult homework.",20260824T093740Z_5937923c
+2168,1,"Being ""not sure where to go yet"" means a destination has not been decided on.",20260824T093740Z_5937923c
+2169,1,Smoking cigars only means the person does not smoke cigarettes.,20260824T093740Z_5937923c
+2170,1,Typing on a laptop is not writing on paper.,20260824T093740Z_5937923c
+2171,7,"If the stove was not delivered, the kitchen is still incomplete.",20260824T093740Z_5937923c
+2172,7,"If cars get stolen ""regularly,"" then car theft occurs often.",20260824T093740Z_5937923c
+2173,1,"A wardrobe that is ""completely full"" means there is no room left.",20260824T093740Z_5937923c
+2174,7,"If the dirty laundry is ""piling up,"" there is a lot of it to wash.",20260824T093740Z_5937923c
+2175,7,"Being able to have a ""relaxed breakfast"" means the person is taking time for it.",20260824T093740Z_5937923c
+2201,6,"Person B states a need that aligns with Person A's suggestion, making it very likely they are agreeing to the proposal.",20260824T093740Z_5937923c
+2202,7,"By pointing out a good reason to go to the cinema (an interesting movie), Person B is clearly agreeing with the suggestion.",20260824T093740Z_5937923c
+2203,7,"Stating ""it is quite chilly"" provides a reason for closing the window, thereby affirming Person A's suggestion.",20260824T093740Z_5937923c
+2205,6,"Hearing good things about a book is a strong indicator of interest, making it very likely Person B is saying 'yes' to borrowing it.",20260824T093740Z_5937923c
+2206,6,"Having pulled a muscle is a strong reason to skip yoga class, implying a 'yes' to the suggestion.",20260824T093740Z_5937923c
+2207,1,"Person B's statement explains why they can't use their own phone, but it doesn't answer whether they want to use Person A's. The answer is irrelevant to the proposal.",20260824T093740Z_5937923c
+2208,7,"Stating the temperature is minus 20 degrees is a clear reason why a coat is needed, implying a definite 'yes'.",20260824T093740Z_5937923c
+2209,6,"Pointing out that they are in a church, where silence is expected, is a strong agreement with the suggestion to turn off phones.",20260824T093740Z_5937923c
+2210,5,"Training hard is a reason one might want a protein shake, but it's not a direct agreement. It's a somewhat likely 'yes'.",20260824T093740Z_5937923c
+2213,6,"Stating that one has been working on an exhausting task is a strong reason to take a break, implying a very likely 'yes'.",20260824T093740Z_5937923c
+2214,1,"By stating they don't have the necessary swimwear, Person B is giving a clear reason why they cannot go to the lake, effectively saying ""no.""",20260824T093740Z_5937923c
+2215,1,"Stating ""I do not have time"" is a direct refusal of the invitation.",20260824T093740Z_5937923c
+2216,2,"Having recently seen the movie makes it very unlikely Person B wants to watch it again, implying a ""no"" to the suggestion.",20260824T093740Z_5937923c
+2217,1,"Being on a diet is a clear reason to refuse dessert, implying a definite 'no'.",20260824T093740Z_5937923c
+2218,1,"Being a Muslim means Person B does not eat pork for religious reasons, which is a definitive 'no'.",20260824T093740Z_5937923c
+2219,1,"A spinning head is a clear reason to stop drinking, implying a definite 'no' to another beer.",20260824T093740Z_5937923c
+2220,1,Being very tired is a direct reason to decline a suggestion to go out.,20260824T093740Z_5937923c
+2221,1,Being broke is a definitive reason for not being able to go on a trip.,20260824T093740Z_5937923c
+2222,2,"Stating they have used one before implies they don't need help, making the answer a very likely 'no'.",20260824T093740Z_5937923c
+2223,1,"Stating that it is 11 p.m. implies it is too late to go to the cinema, which is a clear 'no'.",20260824T093740Z_5937923c
+2224,1,Having a hangover is a strong reason to refuse having more drinks.,20260824T093740Z_5937923c
+2225,1,"Being diabetic is a medical reason to refuse cake, making this a definitive 'no'.",20260824T093740Z_5937923c
+2227,1,Getting seasick is a definitive reason to decline joining a sea cruise.,20260824T093740Z_5937923c
+2228,1,"If the toothache is gone, there is no need for painkillers, so the offer is being declined.",20260824T093740Z_5937923c
+2229,1,"By stating they have several stops to go, Person B is implying they are fine standing and declining the offer of a seat.",20260824T093740Z_5937923c
+2230,1,"If the documents should not be stapled, then the person does not want the stapler. This is a clear 'no'.",20260824T093740Z_5937923c
+2231,1,"If the luggage is very light, help is not needed, so the offer is being declined.",20260824T093740Z_5937923c
+2232,7,"Stating they have to get up at 5 am confirms the need to set an alarm clock, implying a definite 'yes'.",20260824T093740Z_5937923c
+2234,2,"Stating that French is their native language implies they are confident in their spelling and do not need help, making the answer a very likely 'no'.",20260824T093740Z_5937923c
+2235,7,Stating that the remote doesn't work is a strong agreement with the suggestion to change the batteries.,20260824T093740Z_5937923c
+2236,7,"The presence of wolves is a definitive reason to lock up the cattle, strongly affirming the suggestion.",20260824T093740Z_5937923c
+2237,4,"The answer states the type of plants, but it's ambiguous whether they need watering or not. Cacti need infrequent watering, so the suggestion might be accepted or rejected.",20260824T093740Z_5937923c
+2238,7,"Stating that the passport is needed for travelling confirms that it should be packed, implying a definite 'yes'.",20260824T093740Z_5937923c
+2239,1,"By stating they already have a sandwich, Person B is declining the offer of food.",20260824T093740Z_5937923c
+2240,7,Stating that the kids have to go out soon is a clear agreement with the suggestion to wake them up.,20260824T093740Z_5937923c
+2241,7,"Being 'starving' is a strong reason to accept an offer of food, making this a definite 'yes'.",20260824T093740Z_5937923c
+2244,7,"Drinking tea all the time means a kettle would be very useful, so this is a definite 'yes' to the offer.",20260824T093740Z_5937923c
+2245,7,Stating there is too much light is a direct agreement with the suggestion to turn down the dimmer.,20260824T093740Z_5937923c
+2246,1,Stating they will be abroad is a definitive reason for not being able to come to the party.,20260824T093740Z_5937923c
+2247,7,"A spoon is the required utensil for eating soup, so the offer is being accepted.",20260824T093740Z_5937923c
+2248,7,"Pouring rain is a definitive reason to want an umbrella, so this is a clear 'yes'.",20260824T093740Z_5937923c
+2249,1,Stating 'I do not drink' is a clear refusal of the offer of wine.,20260824T093740Z_5937923c
+2250,1,"The presence of a dishwasher makes manual dishwashing unnecessary, so the offer is being declined.",20260824T093740Z_5937923c
+2251,1,"Having given away the racket means the person cannot play tennis, so the suggestion is rejected.",20260824T093740Z_5937923c
+2252,1,"Not eating spicy food is a reason to reject the suggestion of getting Mexican food, which is often spicy.",20260824T093740Z_5937923c
+2253,1,"Living right next door means a ride home is unnecessary, so the offer is being declined.",20260824T093740Z_5937923c
+2255,1,"Understanding everything means there is no need for another explanation, so the offer is declined.",20260824T093740Z_5937923c
+2256,7,"Chest pain is a serious symptom that warrants calling a doctor, so this is a definite 'yes' to the suggestion.",20260824T093740Z_5937923c
+2257,1,"Being in the middle of summer means it's hot, so an extra blanket is not needed. The offer is declined.",20260824T093740Z_5937923c
+2259,7,"A cut finger is a reason to want a plaster, so the offer is being accepted.",20260824T093740Z_5937923c
+2260,7,"Dust on the floor is a reason to sweep, so this is a clear agreement with the suggestion.",20260824T093740Z_5937923c
+2261,1,"Having brought their own toothpaste means they don't need any, so the offer is declined.",20260824T093740Z_5937923c
+2262,7,"Chapped lips are the condition that lip balm is used for, so the offer is being accepted.",20260824T093740Z_5937923c
+2263,1,"Working early the next morning is a common reason to decline an invitation for drinks, implying a 'no'.",20260824T093740Z_5937923c
+2264,1,"Planning to eat at a restaurant means the person does not need Person A to cook for them, so the offer is declined.",20260824T093740Z_5937923c
+2265,7,"The fact that the hedges have grown a lot is a reason to prune them, so this is a clear agreement with the suggestion.",20260824T093740Z_5937923c
+2266,7,"Lunch being ready is a direct cue to set the table, so this is a definite 'yes'.",20260824T093740Z_5937923c
+2267,7,"A complicated math exercise is a situation where a calculator would be helpful, so the offer is being accepted.",20260824T093740Z_5937923c
+2268,1,"Not being sure where to go means it's too early to buy tickets, so the suggestion is declined for now.",20260824T093740Z_5937923c
+2269,1,Stating a preference for cigars is a way of declining the offer of a cigarette.,20260824T093740Z_5937923c
+2270,1,"Typing directly on a laptop means the person does not need paper, so the offer is declined.",20260824T093740Z_5937923c
+2271,6,"The fact that the stove hasn't been delivered means they can't cook, which is a very strong reason to get delivery food. This is a very likely 'yes'.",20260824T093740Z_5937923c
+2272,7,"The high risk of car theft is a definitive reason to want the car locked, so this is a clear 'yes'.",20260824T093740Z_5937923c
+2273,1,"A full wardrobe means there is no need to go shopping for more clothes, so the suggestion is declined.",20260824T093740Z_5937923c
+2274,7,"Laundry piling up is a clear reason to do it, so this is a definite 'yes' to the suggestion.",20260824T093740Z_5937923c
+2275,6,Having time for a relaxed breakfast makes it very likely the person will accept the offer of pancakes.,20260824T093740Z_5937923c
