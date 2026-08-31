@@ -114,14 +114,17 @@ Python:
 
 TO DO in `collect_data.ipynb`:
 - [x] change API so that it is compatible with all models of interest (incl. large open models ideally)
-- [ ] further refactor
-- [ ] Add api keys to OpenRouter (see last log for models that need it)
+- [ ] further refactor (put functions in a separae file)?
 - [ ] consider randomizing stimulus presentation
 
 TO DO in `analyse.ipynb`:
-- [ ] FOOD FOR THOUGHT: if any inferential statistics are conducted, it could be more appropriate to conduct them by subject (or run) rather than by item to maximize comparability to human data. This however would require using individual human subject data, which participants did not consent to share. Not possible unless those data are not synced to git.
-- [ ] Change visualization with barplots
+- [ ] Add a data validation. Check that every code is present and that no code is absent.
+- [ ] Change visualization of accuracy from pointplots to condiitonal petal plots (in separate panels for each provider, odered by putative model complexity with line separating open and closed models
+- [ ] Confusion matrix should have the same color limits acoross all models
+- [] ROC curve also by provider (possibly with color difference between open and closed models)
+- [ ] CER analysis also with petal plots, similar to accuracy.
 - [ ] Consider adding metadata about the models to enrich the analysis (e.g. number of parameters)
+- [ ] FOOD FOR THOUGHT: if any inferential statistics are conducted, it could be more appropriate to conduct them by subject (or run) rather than by item to maximize comparability to human data. This however would require using individual human subject data, which participants did not consent to share. Not possible unless those data are not synced to git.
 
 
 ### References
