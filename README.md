@@ -27,7 +27,45 @@ The human data is also taken from Boux et al. (2023), from the corresponding OSF
 
 ### LLM data
 
-A set of frontier LLMs is selected for this experiment (currently `gpt-5.4-nano`, `gpt-5.4-mini`, and `gpt-5.4`; inclusion of further open and proprietary models is planned).
+A set of frontier LLMs is selected for this experiment.
+
+| Provider | Model name | Model type | Comment |
+|---|---|---|---|
+| OpenAI | `gpt-5.4-nano` | Closed weight | — |
+|  | `gpt-5.4-mini` | Closed weight | — |
+|  | `gpt-5.4` | Closed weight | — |
+|  | `gpt-5.5` | Closed weight | — |
+|  | `gpt-5.6-luna` | Closed weight | — |
+|  | `gpt-5.6-terra` | Closed weight | — |
+|  | `gpt-5.6-sol` | Closed weight | — |
+| Anthropic | `claude-opus-5` | Closed weight | — |
+|  | `claude-opus-4.8` | Closed weight | — |
+|  | `claude-sonnet-5` | Closed weight | — |
+|  | `claude-sonnet-4.6` | Closed weight | — |
+|  | `claude-haiku-4.5` | Closed weight | — |
+| Google | `gemini-3.1-pro-preview` | Closed weight | — |
+|  | `gemini-2.5-pro` | Closed weight | — |
+|  | `gemini-3.7-flash` | Closed weight | — |
+|  | `gemini-3.6-flash` | Closed weight | — |
+|  | `gemini-3.5-flash-lite` | Closed weight | — |
+|  | `gemini-3.1-flash-lite` | Closed weight | — |
+|  | `gemma-4-26b-a4b-it` | Open weight | — |
+|  | `gemma-4-31b-it` | Open weight | Does not support JSON output |
+|  | `gemma-3-27b-it` | Open weight | — |
+|  | `gemma-3-12b-it` | Open weight | Data was collected only for direct responses, for unknown reasons |
+|  | `gemma-3-4b-it` | Open weight | Data was not collected for unknown reasons |
+| Meta | `llama-4-maverick` | Open weight | — |
+|  | `llama-4-scout` | Open weight | — |
+|  | `llama-3.3-70b-instruct` | Open weight | — |
+| Qwen | `qwen3.7-max` | Closed weight | — |
+|  | `qwen3.7-plus` | Closed weight | — |
+|  | `qwen3.7-flash` | Closed weight | — |
+|  | `qwen3.8-max` | Closed weight | — |
+|  | `qwen3.8-2.4t-a95b` | Open weight | — |
+|  | `qwen3.8-27b` | Open weight | — |
+| Mistral AI | `mistral-large-2512` | Open weight | — |
+|  | `mistral-small-2603` | Open weight | — |
+|  | `ministral-14b-2512` | Open weight | — |
 
 All models are queried with exactly the same parameters, currently via the **OpenAI API**, and are instructed to provide a structured JSON output:
 * identical system prompt
@@ -43,20 +81,34 @@ The entire question/reply set is presented to each model 28 times, reflecting th
 
 ## Results
 
-### Classification (accuracy, confusion matrix, ROC curve)
+### Classification (accuracy, ROC curve)
 
 The score (1-7) for humans and models was converted to a binary value:
 * when `score <= 4` then `evaluation = 'no'`
 * when `score > 4` then `evaluation = 'yes'` 
 
-Using the human evaluation as ground truth, I calculated accuracy for each model. As visible in Figure 1, all models underperformed relative to humans overall, regardless of (in)directness. However, all models did worse at matching human performance for indirect than for direct question/reply pairs. Overall, the models ranked as follows in their general performance: `gpt-5.4-nano` < `gpt-5.4-mini` < `gpt-5.4`.
+Using the human evaluation as ground truth, I calculated accuracy for each model. As visible in Figure 1, all models slightly underperformed relative to humans. However, all models did worse at matching human performance for indirect than for direct question/reply pairs. When considering accuracy for both direct and indirect replies, the best performing models were:
+
+| Rank | Provider | Model | Direct | Indirect | Direct + Indirect |
+|---|---|---|---|---|---|
+| 1 | google | gemini-3.7-flash |1.000 | 0.993 | 0.996
+| 2 | google | gemini-3.1-pro-preview |1.000 | 0.993 |0.996
+| 3 | google | gemini-3.6-flash | 1.000 | 0.986 |0.993
+
+The best models among closed ones were.
+
+| Rank | Provider | Model | Direct | Indirect | Direct + Indirect |
+|---|---|---|---|---|---|
+| 1 | qwen | qwen3.8-2.4t-a95b | 1.000 | 0.986 | 0.993
+| 2 | qwen | qwen3.8-27b | 0.993 |0.964 | 0.978
+| 3 | mistralai | mistral-large-2512 | 0.978 | 0.949 | 0.964
 
 <div align="center">
-    <img src="reports/figures/accuracy_summarized_evaluator_X_CONDITION.png" alt="confusion matrix" width="60%">
-    <p><em>[Figure 1]: Accuracy of each model as a function of (in)directness. Human performance is considered ground truth (and therefore is equal to 1). Error bars show the standard error of the mean (SE).</em></p>
+    <img src="reports/figures/ACC_lollipop_plot.png" alt="confusion matrix" width="60%">
+    <p><em>[Figure 1]: Accuracy of each model for direct (blue) and indirect (orange) replies, separated by model provider. Human performance is taken as ground truth (and therefore is equal to 1).</em></p>
 </div>
 
-A closer look at the **confusion matrix** confirms this insight. In addition, it shows that the smaller `gpt-5.4-nano` and `gpt-5.4-mini` models tend to misclassify "yes" as "no" and vice versa, as evidenced by the comparable sizes of false positives and false negatives. "Unsure" model responses are very rare after averaging across 28 runs and are overall negligible.
+<!-- A closer look at the **confusion matrix** confirms this insight. In addition, it shows that the smaller `gpt-5.4-nano` and `gpt-5.4-mini` models tend to misclassify "yes" as "no" and vice versa, as evidenced by the comparable sizes of false positives and false negatives. "Unsure" model responses are very rare after averaging across 28 runs and are overall negligible.
 
 <p align="center">
     <img src="reports/figures/confusion_matrix_figure_gpt-5.4-nano-2026-03-17_direct.png" alt="confusion matrix" width="30%">
@@ -68,15 +120,15 @@ A closer look at the **confusion matrix** confirms this insight. In addition, it
     <img src="reports/figures/confusion_matrix_figure_gpt-5.4_indirect.png" alt="confusion matrix" width="30%">
     <br>
     <em>[Figure 2]: Normalized confusion matrix for each model, separately for direct (upper row) and indirect replies (bottom row), in a binary classification using human responses as ground truth.</em>
-</p>
+</p> -->
 
 
-The previous accuracy analysis is based on the fact that, as specified in the system prompt, the models use the score value 4 as the decision threshold. But what if the models still capture the no/yes inference continuum, and the threshold of 4 is simply not the right one? The **ROC curve** and the **ROC-AUC** value show that all models seem to capture the yes/no continuum in a way that is reasonably close to human processing. Once again, `gpt-5.4` scores best, with an AUC of 0.99.
+The previous accuracy analysis is based on the fact that, as specified in the system prompt, the models use the score value 4 as the decision threshold. But what if the models still capture the no/yes inference continuum, and the threshold of 4 is simply not the right one? The **ROC curve** and the **ROC-AUC** show that all models seem to capture the yes/no continuum in a way that is reasonably close to human processing. [PLACEHOLDER: best AUC, overall, among closed weights and open weights]
 
 
 <div align="center">
-    <img src="reports/figures/roc_curve.png" alt="confusion matrix" width="80%">
-    <p><em>[Figure 3]: ROC curve for all models, evaluated simultaneously on direct and indirect replies.</em></p>
+    <img src="reports/figures/roc_curve_by_group.png" alt="confusion matrix" width="80%">
+    <p><em>[Figure 3]: ROC curve for all models, evaluated simultaneously on direct and indirect replie, separated by provider.</em></p>
 </div>
 
 ### Certainty
@@ -85,18 +137,24 @@ So far, we have looked at categorical responses (NO/YES) derived from a continuo
 
 A certainty score is obtained by transforming the original score (1-7) provided by the LLMs such that more extreme values (1 and 7) indicate higher certainty toward either NO or YES, while intermediate values (2, 3, 5, 6) indicate less certainty and 4 indicates full uncertainty. The certainty score ranges from 1 to 4.
 
-Humans tend to be less certain of their interpretations when they process indirect replies compared to direct replies. Interestingly, the smaller models `gpt-5.4-nano` and `gpt-5.4-mini` do not replicate this pattern and achieve comparable certainty for both reply types. This is not the case for `gpt-5.4`, which achieves certainty comparable to humans, including the direct/indirect dissociation.
+Compared to humans, most LLMs were overall more confident interpreting replies regardless of in/directnes. However, similar to humans, most LLMs had a tendency to be less confident interpreting indirect as opposed to direct replies.
 
 <div align="center">
-    <img src="reports/figures/CER_mean_summarized_evaluator_X_CONDITION.png" alt="confusion matrix" width="80%">
-    <p><em>[Figure 4]: Certainty scores obtained for direct and indirect replies for both human and LLM evaluators. Error bars indicate standard error of the mean (sem).</em></p>
+    <img src="reports/figures/CER_lollipop_plot.png" alt="certainty lollipop" width="80%">
+    <p><em>[Figure 4]: Certainty scores obtained for direct and indirect replies for both human and LLM evaluators, reported separately for each provider (sem).</em></p>
 </div>
 
 ## Conclusion
 
-> Different models (`gpt-5.4-nano`, `gpt-5.4-mini`, `gpt-5.4`) performed differently when compared to human performance in understanding direct and indirect speech acts.
-Overall, a gradient could be observed such that the largest model, `gpt-5.4`, was the best overall at matching human performance. Specifically, it achieved the highest accuracy and did not show a preference for mistaking "yes" for "no." In addition, similar to humans, this model was less certain in response to indirect than to direct answers.
-While `gpt-5.4` clearly performed closest to humans among the three evaluated models, other open or proprietary models from other providers should be evaluated to provide a more complete understanding of LLM performance on indirect speech.
+> Different models performed differently when compared to human performance in understanding direct and indirect speech acts. [DETAILS]
+
+## Limitations
+
+In general, it is difficutlt to define what it beans to be good at understanding indirect cpeech acts and what ground truth is. If aat all,  ground truth might be the intention of the person who produced the indirect reply. In this present work, LLm performance was compared to human performance and therefore merely answer the questions of which LLms tend to meahve most similarly to humans.
+
+Simmilar to the human study (boux et al., 2023) the LLm was asked to rate whethe ra reply could be understood as "yes" or "no" in a 7 point likert scale, where teh middle value indicated uncertainty or ambiguity. Thismethod of assessment has its limitations, in partiicular does not correspond to how people and LLms process speech nder natural circumstances, where a rating is typicalyl not needed, but just an appropriate response. A way to address this issue would be to send agents based onto different LLMs indirect requests and assess the likelihood that the relevant tool is called by the LLM.
+
+Fianally, another interesting qustion to ask is what logics to LLMs use to understand indirect speech acts. In linguistic literaturre (Grice, 19xx; Searle, 19xx) certain euristics have been described. As the present raw data incldudes also a rationale why the LLMs understood teh replies in a certain way, it would be interesting to see if they use heuristics similar to what has been qualitatively described in humans. However, as far as I can tell, __quantitative__ data from huiman does not exist, so a direct comparison is not possible. 
 
 ## Tech stack
 
