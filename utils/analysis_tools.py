@@ -8,7 +8,7 @@ import seaborn as sns
 import pingouin as pg
 import math
 
-from config import MODELS
+from config_collection import MODELS
 
 def read_scores_from_model(model):
 
@@ -470,10 +470,11 @@ def run_anova(df_long: pd.DataFrame, dv: str, models: list[str]):
 
     for model in models:
 
+        print(f"Running mixed anova for model {model} and dv {dv}.")
         # select data for the model of interest and for the human evaluator
         temp_var = df_long[
-            (df_long["evaluator"] == "human") | (df_long["evaluator"] == model)
-        ]
+            (df_long["evaluator"] == "human/human") | (df_long["evaluator"] == model)
+        ]        
 
         # run the mixed anova
         aov = pg.mixed_anova(dv=dv,
@@ -483,7 +484,8 @@ def run_anova(df_long: pd.DataFrame, dv: str, models: list[str]):
                                 effsize='ng2',
                                 correction='auto',
                                 data=temp_var)
-        
+
+
         # save to csv
         aov.to_csv(
             f"reports/tables/{dv}_anova_{model.replace("/", "_")}.csv",
