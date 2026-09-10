@@ -170,23 +170,36 @@ Compared with humans, most LLMs were generally more confident when interpreting 
 
 <div align="center">
     <img src="reports/figures/CER_lollipop_plot.png" alt="certainty lollipop" width="80%">
-    <p><em>[Figure 4]: Certainty scores for direct and indirect replies from both human and LLM evaluators, reported separately for each provider (SEM).</em></p>
+    <p><em>[Figure 3]: Certainty scores for direct and indirect replies from both human and LLM evaluators, reported separately for each provider (SEM).</em></p>
 </div>
 
-Future analyses will assess which models are most similar to humans in terms of confidence.
+Overall, based on visual inspection, one model, `qwen_qwen3.7-flash`, seems to mimic human certainty most closely. One *preliminary* approach to identifying models that differ (or do not differ) from human behavior is to use inferential statistics. The responses of each model were compared individually with the human data using a mixed ANOVA with the following factors:
 
+- Between-subjects factor: condition (direct/indirect)
+- Within-subjects factor: evaluator (human/model)
+
+Certainty ratings are expected to vary across conditions (a main effect of *condition*). However, if a model behaves similarly to humans, neither the main effect of *evaluator* nor the interaction between *evaluator* and *condition* should be significant.
+
+The model `qwen_qwen3.7-flash` was the only one to exhibit this pattern of significance and non-significance.
+
+| Factor                      | SS     | DF1 | DF2 | MS     | F      | p      |
+|-----------------------------|--------|-----|-----|--------|--------|--------|
+| Condition (direct/indirect) | 35.674 | 1   | 274 | 35.674 | 87.917 | < .001 |
+| Evaluator (human/model)     | 0.644  | 1   | 274 | 0.644  | 2.760  | .098   |
+| Condition × evaluator       | 0.713  | 1   | 274 | 0.713  | 3.054  | .082   |
 
 ## Conclusion
 
-> Models varied in how closely their understanding of direct and indirect speech acts matched human performance. [DETAILS]
+> Current LLMs interpret indirect speech acts with high accuracy, although they perform slightly worse on indirect than on direct replies and are generally more confident than humans. For the most human-like **overall performance**, choose the closed-weight `gemini-3.7-flash`. For an open-weight alternative, choose `qwen3.8-2.4t-a95b`; however, the smaller `qwen3.8-27b` also performs well and may be more practical to deploy. If matching human **certainty** is the main priority, `qwen3.7-flash` appears to be the closest fit.
 
 ## Limitations
 
-In general, it is difficult to define what it means to be good at understanding indirect speech acts and what constitutes ground truth. If ground truth exists at all, it might be the intention of the person who produced the indirect reply. In the present work, LLM performance was compared with human performance; therefore, the study merely addresses the question of which LLMs tend to behave most similarly to humans.
+**Differences in certainty**. The inferential analysis compared each model individually with human certainty ratings using a separate mixed ANOVA. Because no correction for multiple comparisons was applied, the probability of false-positive findings increases across the large number of models tested. Furthermore, nonsignificant effects of evaluator or its interaction with condition cannot be interpreted as evidence that model and human behavior are equivalent; therefore, the apparent similarity of `qwen3.7-flash` to humans should be considered exploratory.
 
-As in the human study (Boux et al., 2023), the LLMs were asked to rate on a 7-point Likert scale whether a reply could be understood as "YES" or "NO," with the middle value indicating uncertainty or ambiguity. This assessment method has limitations. In particular, it does not correspond to how people and LLMs process speech under natural circumstances, in which a rating is typically unnecessary and only an appropriate response is required. One way to address this issue would be to send indirect requests to agents based on different LLMs and assess the likelihood that each LLM calls the relevant tool.
+**Human performace as ground truth**. In general, it is difficult to define what it means to be good at understanding indirect speech acts and what constitutes ground truth. If ground truth exists at all, it might be the intention of the person who produced the indirect reply. In the present work, LLM performance was compared with human performance; therefore, the study merely addresses the question of which LLMs tend to behave most similarly to humans, regardless of any imperfections in human performance.
 
-Finally, another interesting question is what logic LLMs use to understand indirect speech acts. Certain heuristics have been described in the linguistic literature (Grice, 1975; Searle, 1979). Because the present raw data also include a rationale explaining why the LLMs interpreted the replies in a particular way, it would be interesting to determine whether they use heuristics similar to those qualitatively described in humans. However, as far as I can tell, __quantitative__ human data do not exist, so a direct comparison is not possible.
+**Meta-linguistc judgements**. As in the human study (Boux et al., 2023), the LLMs were asked to rate on a 7-point Likert scale whether a reply could be understood as "YES" or "NO," with the middle value indicating uncertainty or ambiguity. This assessment method has limitations. In particular, it does not correspond to how people and LLMs process speech under natural circumstances, in which a rating is typically unnecessary and only an appropriate response is required. One way to address this issue would be to send indirect requests to agents based on different LLMs and assess the likelihood that each LLM calls the relevant tool.
+
 
 ## Tech stack
 
@@ -194,31 +207,16 @@ Python:
 
 * `numpy` and `pandas` for data manipulation
 * `OpenRouter` for gathering the data from LLMs
-* `seaborn` and `matplotlib`
+* `openai` as API client to access OpenRouter
+* `requests` for metadata API requests
+* `seaborn` and `matplotlib` for data visualization
 * `pydantic` for enforcing a JSON schema for LLM output
 * `scikit-learn` for classification metrics
 * `pingouin` for inferential statistics
 * `logging` for runtime event logging
 
 
-## Future work
-
-TO DO in `collect_data.ipynb`:
-- [x] Change the API so that it is compatible with all models of interest (ideally including large open models)
-- [ ] Further refactor (put functions in a separate file)?
-- [ ] Consider randomizing stimulus presentation
-
-TO DO in `analyse.ipynb`:
-- [ ] Add data validation. Check that every code is present and that no unexpected code is included.
-- [ ] Change the accuracy visualization from point plots to conditional petal plots (in separate panels for each provider, ordered by putative model complexity, with a line separating open- and closed-weight models)
-- [ ] Use the same color limits for confusion matrices across all models
-- [ ] Plot ROC curves by provider (possibly using different colors for open- and closed-weight models)
-- [ ] Present the CER analysis with petal plots similar to those used for accuracy
-- [ ] Consider adding metadata about the models to enrich the analysis (e.g. number of parameters)
-- [ ] FOOD FOR THOUGHT: If any inferential statistics are conducted, it might be more appropriate to conduct them by subject (or run) rather than by item to maximize comparability with the human data. However, this would require individual-level human data, which participants did not consent to share. This analysis is therefore not possible unless those data are excluded from Git synchronization.
-
-
-### References
+## References
 
 * Boux, I., Margiotoudi, K., Dreyer, F., Tomasello, R., & Pulvermüller, F. (2023a). Cognitive Features of Indirect Speech Acts. Language, Cognition and Neuroscience, 38(1), 40–64. https://doi.org/10.1080/23273798.2022.2077396
 
@@ -237,3 +235,16 @@ TO DO in `analyse.ipynb`:
 * Searle, J. (1979). Expression and Meaning: Studies in the Theories of Speech Acts. Cambridge University Press.
 
 * Solidjonov, D. (2026). Pragmatic competence without embodiment? Evaluating LLM performance on implicature, presupposition, and speech acts. Journal of Cultural Cognitive Science. https://doi.org/10.1007/s41809-026-00200-5
+
+
+## TO DO
+
+In `collect_data.py`:
+- [ ] Further refactor (put functions in a separate file)?
+- [ ] Consider randomizing stimulus presentation
+
+TO DO in `analyse.ipynb`:
+- [ ] Refactor into .py
+- [ ] Add data validation. Check that every code is present and that no unexpected code is included.
+- [ ] Rework comparison of human and LLM analysis
+
