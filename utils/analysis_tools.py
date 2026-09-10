@@ -230,7 +230,7 @@ def conf_matrix(df_long: pd.DataFrame, MODELS: list):
             # log
             print(f"Generated, plotted and saved confusion matrix for model {model} and condition {c}.")
 
-def roc(df_long: pd.DataFrame, MODELS: list):
+def roc(df_long: pd.DataFrame, MODELS: list, filename_figure: str):
     """Generate one ROC subplot per model provider and save AUC values."""
 
     group_prefixes = {
@@ -241,6 +241,54 @@ def roc(df_long: pd.DataFrame, MODELS: list):
         "Qwen": "qwen/",
         "Mistral": "mistralai/",
     }
+
+
+    df_evaluators = pd.DataFrame(
+        [
+            ("human/human", "none"),
+            ("openai/gpt-5.4-nano", "closed"),
+            ("openai/gpt-5.4-mini", "closed"),
+            ("openai/gpt-5.4", "closed"),
+            ("openai/gpt-5.5", "closed"),
+            ("openai/gpt-5.6-luna", "closed"),
+            ("openai/gpt-5.6-terra", "closed"),
+            ("openai/gpt-5.6-sol", "closed"),
+
+            ("anthropic/claude-opus-5", "closed"),
+            ("anthropic/claude-opus-4.8", "closed"),
+            ("anthropic/claude-sonnet-5", "closed"),
+            ("anthropic/claude-sonnet-4.6", "closed"),
+            ("anthropic/claude-haiku-4.5", "closed"),
+
+            ("google/gemini-3.1-pro-preview", "closed"),
+            ("google/gemini-2.5-pro", "closed"),
+            ("google/gemini-3.7-flash", "closed"),
+            ("google/gemini-3.6-flash", "closed"),
+            ("google/gemini-3.5-flash-lite", "closed"),
+            ("google/gemini-3.1-flash-lite", "closed"),
+
+            ("google/gemma-4-26b-a4b-it", "open"),
+            ("google/gemma-3-27b-it", "open"),
+
+            ("meta-llama/llama-4-maverick", "open"),
+            ("meta-llama/llama-4-scout", "open"),
+            ("meta-llama/llama-3.3-70b-instruct", "open"),
+
+            ("qwen/qwen3.7-max", "closed"),
+            ("qwen/qwen3.7-plus", "closed"),
+            ("qwen/qwen3.7-flash", "closed"),
+            ("qwen/qwen3.8-max", "closed"),
+            ("qwen/qwen3.8-2.4t-a95b", "open"),
+            ("qwen/qwen3.8-27b", "open"),
+
+            ("mistralai/mistral-large-2512", "open"),
+            ("mistralai/mistral-small-2603", "open"),
+            ("mistralai/ministral-14b-2512", "open"),
+        ],
+        columns=["evaluator", "evaluator_type"],
+    )
+
+    rows = []
 
     # Assign models to provider groups, excluding human
     grouped_models = {
@@ -309,19 +357,18 @@ def roc(df_long: pd.DataFrame, MODELS: list):
 
             roc_auc = auc(fpr, tpr)
 
-            safe_model_name = model.replace("/", "_")
-
-            with open(
-                table_path / f"roc_auc_{safe_model_name}.txt",
-                "w",
-            ) as file:
-                file.write(f"{roc_auc:.2f}")
-
             ax.plot(
                 fpr,
                 tpr,
                 label=f"{model} (AUC = {roc_auc:.2f})",
             )
+
+            # save
+            rows.append({
+            "evaluator_group": group,
+            "evaluator": model,
+            "auc": roc_auc,
+            })
 
         # Random-classifier reference line
         ax.plot(
@@ -346,7 +393,7 @@ def roc(df_long: pd.DataFrame, MODELS: list):
     fig.supylabel("True Positive Rate (Recall)")
 
     fig.savefig(
-        figure_path / "roc_curve_by_group.png",
+        figure_path / f"{filename_figure}.png",
         dpi=300,
         bbox_inches="tight",
         facecolor="white",
@@ -354,7 +401,9 @@ def roc(df_long: pd.DataFrame, MODELS: list):
 
     plt.show()
 
-    return fig, axes[:len(grouped_models)]
+    result = pd.DataFrame(rows).merge(df_evaluators, on="evaluator", how="left")
+
+    return fig, axes[:len(grouped_models)], result
 
 
 def descriptive_values(df_long: pd.DataFrame, dv: str, ivs: list):
