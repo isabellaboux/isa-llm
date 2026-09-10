@@ -9,7 +9,7 @@ import requests
 import logging
 from datetime import datetime, timezone
 from uuid import uuid4
-import config
+import config_collection
 
 
 # ================================      Environment
@@ -66,11 +66,11 @@ def score_qas(model: str, qas: list) -> dict:
 
     response = client.chat.completions.create(
         model=model,
-        temperature=config.TEMPERATURE,
+        temperature=config_collection.TEMPERATURE,
         messages=[
             {
                 "role": "system",
-                "content": config.SYSTEM_PROMPT,
+                "content": config_collection.SYSTEM_PROMPT,
             },
             {
                 "role": "user",
@@ -82,7 +82,7 @@ def score_qas(model: str, qas: list) -> dict:
             "json_schema": {
                 "name": "batch_classification_scores",
                 "strict": True,
-                "schema": config.SCORE_SCHEMA,
+                "schema": config_collection.SCORE_SCHEMA,
             },
         },
         extra_body={
@@ -131,7 +131,7 @@ def fetch_metadata(response: str) -> dict:
     }
 
     try:
-        stats = get_openrouter_generation_stats(response.id, config.METADATA_MAX_RETRIES)
+        stats = get_openrouter_generation_stats(response.id, config_collection.METADATA_MAX_RETRIES)
         metadata.update({
             "router": stats.get("router"),
             "upstream_id": stats.get("upstream_id"),
@@ -214,13 +214,13 @@ def save_config_to_json():
     run_configuration = {
         "run_id": run_id,
         "started_at": datetime.now().astimezone().isoformat(timespec="seconds"),
-        "models": config.MODELS,
-        "trials": config.TRIALS,
-        "temperature": config.TEMPERATURE,
-        "retain": config.RETAIN,
-        "system_prompt": config.SYSTEM_PROMPT,
-        "score_schema": config.SCORE_SCHEMA,
-        "metadata_max_retries": config.METADATA_MAX_RETRIES,
+        "models": config_collection.MODELS,
+        "trials": config_collection.TRIALS,
+        "temperature": config_collection.TEMPERATURE,
+        "retain": config_collection.RETAIN,
+        "system_prompt": config_collection.SYSTEM_PROMPT,
+        "score_schema": config_collection.SCORE_SCHEMA,
+        "metadata_max_retries": config_collection.METADATA_MAX_RETRIES,
     }
 
     with open(f"data/log/config_{run_id}.json", "w", encoding="utf-8") as file:
@@ -253,7 +253,7 @@ logger.info(f"Script started with run ID: {run_id}")
 start = time.time()
 save_config_to_json()
 logger.info(f"Saved configuration to .json file in data/log/config_{run_id}.json")
-qas = read_qas("data/external/iCO-Eval2_summarizedRatings.csv", retain=config.RETAIN)
+qas = read_qas("data/external/iCO-Eval2_summarizedRatings.csv", retain=config_collection.RETAIN)
 logger.info(f"Number of QAs: {len(qas)}")
 
 
@@ -261,45 +261,45 @@ logger.info(f"Number of QAs: {len(qas)}")
 # ================================       Data collection
 total_cost = 0
 
-for model in config.MODELS:
+for model in config_collection.MODELS:
     
-    for trial in tqdm(range(config.TRIALS), desc=f"Currently collecting data from {model}\n"):
+    for trial in tqdm(range(config_collection.TRIALS), desc=f"Currently collecting data from {model}\n"):
 
-        logger.info(f"Model {model}, Trial {trial+1}/{config.TRIALS}")
+        logger.info(f"Model {model}, Trial {trial+1}/{config_collection.TRIALS}")
 
         # collect LLM responses
         try:
             result, response = score_qas(model, qas)
-            logger.info(f"Model {model}, Trial {trial+1}/{config.TRIALS}: scoring completed")
+            logger.info(f"Model {model}, Trial {trial+1}/{config_collection.TRIALS}: scoring completed")
         except Exception as e:
-            logger.error(f"Model {model}, Trial {trial+1}/{config.TRIALS}: scoring failed: {e}")
+            logger.error(f"Model {model}, Trial {trial+1}/{config_collection.TRIALS}: scoring failed: {e}")
             continue
 
         # save LLM responses
         try:
             save_result(model, trial, result)
-            logger.info(f"Model {model}, Trial {trial+1}/{config.TRIALS}: scoring saved")
+            logger.info(f"Model {model}, Trial {trial+1}/{config_collection.TRIALS}: scoring saved")
         except Exception as e:
-            logger.error(f"Model {model}, Trial {trial+1}/{config.TRIALS}: saving scoring failed: {e}")
+            logger.error(f"Model {model}, Trial {trial+1}/{config_collection.TRIALS}: saving scoring failed: {e}")
             continue
 
         # extract metadata from OpenRouter
         try:
             metadata = fetch_metadata(response)
-            logger.info(f"Model {model}, Trial {trial+1}/{config.TRIALS}: metadata fetched")
+            logger.info(f"Model {model}, Trial {trial+1}/{config_collection.TRIALS}: metadata fetched")
         except Exception as e:
-            logger.error(f"Model {model}, Trial {trial+1}/{config.TRIALS}: fetching metadata failed: {e}")
+            logger.error(f"Model {model}, Trial {trial+1}/{config_collection.TRIALS}: fetching metadata failed: {e}")
             continue
 
         # save metadata to CSV
         try:
             save_metadata(model, trial, metadata)
-            logger.info(f"Model {model}, Trial {trial+1}/{config.TRIALS}: metadata saved")
+            logger.info(f"Model {model}, Trial {trial+1}/{config_collection.TRIALS}: metadata saved")
             # calculate total costs so far based on available metadata.
             total_cost += get_metadata_parameter(metadata, "total_cost")
 
         except Exception as e:
-            logger.error(f"Model {model}, Trial {trial+1}/{config.TRIALS}: saving metadata failed: {e}")
+            logger.error(f"Model {model}, Trial {trial+1}/{config_collection.TRIALS}: saving metadata failed: {e}")
             continue
 
 
