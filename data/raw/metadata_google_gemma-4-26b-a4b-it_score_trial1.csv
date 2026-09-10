@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787574226-pJ6HbGZMWKHGYDItXxdF,google/gemma-4-26b-a4b-it,google/gemma-4-26b-a4b-it,SiliconFlow,stop,9181,11151,0,20332,0.00556212,,chatcmpl-ab329bb246298690,stop,2355,89763,20260824T093740Z_5937923c

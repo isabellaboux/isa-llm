@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
+gen-1787335511-OGknftbRK5rUaRRY2jFF,google/gemma-4-26b-a4b-it,google/gemma-4-26b-a4b-it,DeepInfra,stop,9181,8296,0,17477,0.00346331,20260821T125948Z_8dbb5082

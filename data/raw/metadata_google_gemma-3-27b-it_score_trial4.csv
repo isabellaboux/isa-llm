@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787579019-00S3ACol8hKngSnL2dFJ,google/gemma-3-27b-it,google/gemma-3-27b-it,Nebius,stop,9172,7062,0,16234,0.0030358,,chatcmpl-914d1112-4909-437d-b42e-78f455108e4c,stop,10465,718220,20260824T093740Z_5937923c

@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787613931-PdC4dGpi3Oens3TUKJV2,qwen/qwen3.8-27b,qwen/qwen3.8-27b,Chutes,stop,9792,31249,0,41041,0.08936195,,chatcmpl-b725be9a71ca9ac1,stop,2474,638121,20260824T093740Z_5937923c

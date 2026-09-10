@@ -1,0 +1,157 @@
+id,score,rationale,run_id
+1101,5,"Person A asks whether Martin has been met lately / if they still know him well. Person B responds: ""I have not seen him for ages,"" which directly indicates they have not met him recently. That is a clear “no” to having met him lately, so the answer should be interpreted as no.",20260821T125948Z_8dbb5082
+1102,6,"Person A asks if Person B is doing something right now. Person B answers: ""I am sending out an application,"" which explicitly states current activity. This is a clear “yes”.",20260821T125948Z_8dbb5082
+1103,6,"Person A asks whether Person B usually exercises with Lukas. Person B replies: ""I train with him at the gym,"" indicating regular exercise together. This strongly supports “yes”.",20260821T125948Z_8dbb5082
+1104,6,"Person A asks whether there was a death in his family. Person B says: ""His grandfather passed away recently,"" which confirms there was a death. This is a clear “yes”.",20260821T125948Z_8dbb5082
+1105,6,"Person A asks if Paris is very far from here. Person B answers with a distance: ""about 1000 Km away,"" indicating it is indeed far. This strongly supports “yes”.",20260821T125948Z_8dbb5082
+1106,5,"Person A asks if it takes long to get to Munich. Person B says it is a ""six hour drive,"" which implies it takes a long time. That is somewhat-to-very likely “yes.”",20260821T125948Z_8dbb5082
+1107,6,"Person A asks if the journey is going as planned. Person B says: ""My train has some delay,"" meaning it is not going fully as planned. That is a clear “no” to it going as planned.",20260821T125948Z_8dbb5082
+1108,2,"Person A asks if they have finished their cereal. Person B responds: ""There is still some left,"" which means they have not finished. So it should be interpreted as “no.”",20260821T125948Z_8dbb5082
+1109,2,"Person A asks if the essay deadline is next week. Person B says it is ""not due for three months,"" directly contradicting next week. This is a clear “no.”",20260821T125948Z_8dbb5082
+1110,6,"Person A asks if there is usually a lot of traffic. Person B says: ""The streets are always congested with cars,"" which confirms heavy traffic. Strong “yes.”",20260821T125948Z_8dbb5082
+1111,2,"Person A asks whether Megan eats meat. Person B answers: ""She is vegetarian,"" which implies she does not eat meat. Thus it is “no.”",20260821T125948Z_8dbb5082
+1112,6,"Person A asks if John is sick today. Person B replies: ""He has the flu."" That directly confirms sickness. Clear “yes.”",20260821T125948Z_8dbb5082
+1113,6,"Person A asks whether Sonya trains daily. Person B says: ""She runs for hours every day,"" which confirms daily training. Clear “yes.”",20260821T125948Z_8dbb5082
+1114,5,"Person A asks if Clara is still sleeping. Person B says: ""She just woke up,"" indicating she is not still sleeping. That is likely “no.”",20260821T125948Z_8dbb5082
+1115,2,"Person A asks if the movie will be released today. Person B says it comes out next week, which contradicts today. So it is “no.”",20260821T125948Z_8dbb5082
+1116,5,"Person A asks if Person B has ever worked with a drill. Person B: ""I have used one before,"" confirms prior experience. So interpret as “yes.”",20260821T125948Z_8dbb5082
+1117,2,"Person A asks if the birthday party takes place tomorrow. Person B says: ""I am celebrating tonight,"" indicating not tomorrow. This is “no.”",20260821T125948Z_8dbb5082
+1118,5,"Person A asks if Person B is leaving their flat soon. Person B: ""I am moving out tomorrow"" indicates leaving soon (within a day). Likely “yes.”",20260821T125948Z_8dbb5082
+1119,2,"Person A asks if he is a slacker. Person B says: ""He was always falling behind,"" which indicates lack of effort. That supports slacker, so interpret as “yes,” but the wording is past-focused; still it is more likely yes. Score 5 reflects somewhat-likely yes.",20260821T125948Z_8dbb5082
+1120,5,"Person A asks if this area is popular for something. Person B: ""The region is famous for surfing,"" which answers that it is popular for surfing. Likely “yes.”",20260821T125948Z_8dbb5082
+1121,2,"Person A asks if the sea is calm. Person B replies: ""It is quite rough,"" indicating not calm. So “no.”",20260821T125948Z_8dbb5082
+1122,2,"Person A asks if Person B works for a corporate company. Person B says job is at an NGO, not corporate. That is a clear “no.”",20260821T125948Z_8dbb5082
+1123,6,"Person A asks if he is a writer. Person B: ""He has authored many successful books"" directly indicates he is a writer. Clear “yes.”",20260821T125948Z_8dbb5082
+1124,2,"Person A asks if Person B is finished working on data. Person B: ""I am still analyzing it,"" so not finished. That is “no.”",20260821T125948Z_8dbb5082
+1125,6,"Person A asks if there are many pandas left. Person B says they are an endangered species, implying they are not many. This is likely “no” to many; however the prompt asks yes/no to the question as asked (“many pandas left”). Answer indicates few, so interpret as “no” (score low).",20260821T125948Z_8dbb5082
+1125,2,"Person A asks if there are many pandas left. Person B says pandas are an endangered species, implying low numbers rather than many. Therefore the answer is strongly “no.”",20260821T125948Z_8dbb5082
+1126,6,"Person A asks if Person B has joined a fitness studio. Person B: ""I have enrolled at the gym,"" confirms joining. Clear “yes.”",20260821T125948Z_8dbb5082
+1127,2,"Person A asks if Person B has finished writing their thesis. Person B says: ""My thesis is not complete yet,"" so not finished. “No.”",20260821T125948Z_8dbb5082
+1128,5,"Person A asks if Person B used to have long hair. Person B says: ""My hair was way too long,"" which confirms they did. Likely “yes.”",20260821T125948Z_8dbb5082
+1129,2,"Person A asks if Person B went to Japan for vacation. Person B says: ""It was a business trip,"" not vacation. So “no.”",20260821T125948Z_8dbb5082
+1130,2,"Person A asks if a one-room flat is enough. Person B says: ""I need a larger one,"" indicating it is not enough. “No.”",20260821T125948Z_8dbb5082
+1131,6,"Person A asks if she has to hand in soon. Person B: ""The deadline is tomorrow,"" which is soon. Clear “yes.”",20260821T125948Z_8dbb5082
+1132,5,"Person A asks if Person B had a short night. Person B: ""I slept only four hours,"" which indicates a short night. Likely “yes.”",20260821T125948Z_8dbb5082
+1133,2,"Person A asks if the flight was still discounted. Person B: ""The offer had already expired,"" meaning no longer discounted. “No.”",20260821T125948Z_8dbb5082
+1134,6,"Person A asks if Person B’s cat is hurt. Person B says: ""It got wounded,"" confirming injury. Clear “yes.”",20260821T125948Z_8dbb5082
+1135,2,"Person A asks if they are all here. Person B: ""Mark is still missing,"" so not all present. “No.”",20260821T125948Z_8dbb5082
+1137,6,"Person A asks if Person B comes from Asia. Person B says: ""I am Chinese,"" which strongly implies Asia. Clear “yes.”",20260821T125948Z_8dbb5082
+1138,6,"Person A asks if Person B hung up. Person B: ""The line went dead,"" meaning the call dropped, effectively indicating hang-up/connection loss. Interpretable as “yes” to the situation of hanging up.",20260821T125948Z_8dbb5082
+1139,5,"Person A asks if someone is taking care of their house. Person B: ""They have domestics"" which indicates household help. Likely “yes.”",20260821T125948Z_8dbb5082
+1140,2,"Person A asks if the bar has been here for long. Person B: ""They have just opened,"" meaning not long. So “no.”",20260821T125948Z_8dbb5082
+1141,6,"Person A asks if he owns many books. Person B says: ""His house is full of history books,"" indicating many. Clear “yes.”",20260821T125948Z_8dbb5082
+1143,5,"Person A asks if there is a small gathering tonight. Person B: ""We have only few guests over for dinner,"" supporting a small gathering. Likely “yes.”",20260821T125948Z_8dbb5082
+1144,2,"Person A asks if Person B has two weeks of holiday. Person B: ""I only have one week off work,"" not two. “No.”",20260821T125948Z_8dbb5082
+1145,6,"Person A asks if Person B is pregnant. Person B: ""I am going to have a baby,"" confirming pregnancy. Clear “yes.”",20260821T125948Z_8dbb5082
+1147,2,"Person A asks if Person B has paid back their debts. Person B says: ""I still owe the bank some money,"" so not paid back. “No.”",20260821T125948Z_8dbb5082
+1148,2,"Person A asks if he drank a cocktail tonight. Person B: ""He only had water,"" so no cocktail. “No.”",20260821T125948Z_8dbb5082
+1149,2,"Person A asks if Person B has a vegetable garden. Person B says: ""I own an orchard,"" which is not specifically a vegetable garden. Likely “no.”",20260821T125948Z_8dbb5082
+1150,2,"Person A asks if the son is underage. Person B: ""He is 25 years old,"" which is not underage. “No.”",20260821T125948Z_8dbb5082
+1151,2,"Person A asks if Harvard is affordable. Person B: ""tuition fee is extremely expensive,"" indicating not affordable. “No.”",20260821T125948Z_8dbb5082
+1152,6,"Person A asks if she has paid us yet. Person B: ""She made a bank transfer few moments ago,"" confirming payment. Clear “yes.”",20260821T125948Z_8dbb5082
+1153,2,"Person A asks if the kids are good at swimming. Person B: ""They cannot swim yet,"" so not good. “No.”",20260821T125948Z_8dbb5082
+1154,2,"Person A asks if Person B still has a cold. Person B: ""I am healthy again,"" meaning no cold now. “No.”",20260821T125948Z_8dbb5082
+1155,6,"Person A asks if it is forbidden to approach the area. Person B: ""People are not allowed to get closer,"" confirming prohibition. Clear “yes.”",20260821T125948Z_8dbb5082
+1156,6,"Person A asks if someone took care of the plants. Person B: ""I have watered them regularly,"" which is taking care. Clear “yes.”",20260821T125948Z_8dbb5082
+1157,2,"Person A asks if the artist was still alive in the 80s. Person B: ""He was already dead by then,"" meaning not alive. “No.”",20260821T125948Z_8dbb5082
+1158,5,"Person A asks if the lake is frozen. Person B: ""The ice layer is quite thick,"" implying frozen/ice-covered. Likely “yes.”",20260821T125948Z_8dbb5082
+1159,2,"Person A asks if Person B is attending the beginners' class. Person B says: ""I am in the advanced course,"" so not beginners. “No.”",20260821T125948Z_8dbb5082
+1160,6,"Person A asks if Person B has sought medical advice. Person B: ""I have seen a doctor,"" confirming medical advice. “Yes.”",20260821T125948Z_8dbb5082
+1161,2,"Person A asks if Person B stayed home last night. Person B: ""I went out with some friends,"" so did not stay home. “No.”",20260821T125948Z_8dbb5082
+1162,6,"Person A asks if there was an election recently. Person B: ""They voted yesterday,"" implying there was an election. Likely “yes.”",20260821T125948Z_8dbb5082
+1163,6,"Person A asks if the car is completely clean. Person B: ""It is spotless,"" confirming completely clean. “Yes.”",20260821T125948Z_8dbb5082
+1164,2,"Person A asks if they answered all questions. Person B: ""They have submitted a blank sheet,"" meaning they answered none. “No.”",20260821T125948Z_8dbb5082
+1165,2,"Person A asks if she is out on the tennis field. Person B: ""She has just got into the changing room,"" meaning not on the field. “No.”",20260821T125948Z_8dbb5082
+1166,6,"Person A asks if he got the money back. Person B: ""He was compensated,"" indicating receiving money back/compensation. Likely “yes.”",20260821T125948Z_8dbb5082
+1167,2,"Person A asks if anyone answered the house sale ad. Person B: ""No one has responded,"" indicating no replies. “No.”",20260821T125948Z_8dbb5082
+1168,2,"Person A asks if he is a musician. Person B: ""He does not play any instrument,"" suggesting not. “No.”",20260821T125948Z_8dbb5082
+1169,6,"Person A asks if he has travelled in Asia. Person B: ""He has been in Japan for several months,"" which is in Asia. Clear “yes.”",20260821T125948Z_8dbb5082
+1170,5,"Person A asks if the goal is the summit. Person B says: ""We are aiming for the mountain top,"" which matches summit. Likely “yes.”",20260821T125948Z_8dbb5082
+1171,6,"Person A asks if the customer got his package. Person B: ""The customer received it,"" confirming delivery. “Yes.”",20260821T125948Z_8dbb5082
+1173,2,"Person A asks if she attended the whole singing course. Person B: ""She skipped the last four lessons,"" so not whole course. “No.”",20260821T125948Z_8dbb5082
+1174,5,"Person A asks if the screen has a bad image. Person B: ""My monitor's resolution is really poor,"" which indicates bad image quality. Likely “yes.”",20260821T125948Z_8dbb5082
+1175,6,"Person A asks if she has completed her medical studies. Person B: ""She graduated from medical school last year,"" confirming completion. “Yes.”",20260821T125948Z_8dbb5082
+1176,2,"Person A asks if that is a public building. Person B: ""It is a private property,"" so not public. “No.”",20260821T125948Z_8dbb5082
+1201,2,"Person A asks if they are still good friends. Person B: ""I have not seen him for ages,"" which suggests they have not kept up. That implies not still close—interpreted as “no.”",20260821T125948Z_8dbb5082
+1202,6,"Person A asks if Person B is looking for a job. Person B: ""I am sending out an application"" directly indicates job seeking. “Yes.”",20260821T125948Z_8dbb5082
+1203,5,"Person A asks if Person B knows Lukas. Person B: ""I train with him at the gym"" implies they know him. Likely “yes.”",20260821T125948Z_8dbb5082
+1204,2,"Person A asks if this is his property now. Person B talks about his grandfather passing away, which is unrelated to property. Ambiguous/irrelevant; better interpreted as no.",20260821T125948Z_8dbb5082
+1205,5,"Person A asks if it takes long to drive to Paris. Person B says Paris is about 1000 Km away, implying far/long drive. Likely “yes.”",20260821T125948Z_8dbb5082
+1206,5,"Person A asks if Munich is far from here. Person B: ""six hour drive"" indicates it is far. Likely “yes.”",20260821T125948Z_8dbb5082
+1207,2,"Person A asks if Person B will be home by noon. Person B says: ""My train has some delay,"" which suggests not necessarily on time, likely not by noon. Interpreted as “no.”",20260821T125948Z_8dbb5082
+1208,2,"Person A asks if Person B has bought cereal. Person B: ""There is still some left,"" indicating they may not have bought any recently. More likely “no.”",20260821T125948Z_8dbb5082
+1209,2,"Person A asks if they started writing their essay. Person B: ""It is not due for three months,"" which does not answer whether writing started. This is ambiguous/irrelevant, but more consistent with “no” to starting.",20260821T125948Z_8dbb5082
+1210,6,"Person A asks if we will be late to the cinema. Person B says streets are always congested, suggesting traffic could cause lateness. Likely “yes.”",20260821T125948Z_8dbb5082
+1211,2,"Person A asks if Megan is coming to the steak house. Person B says she is vegetarian, implying she likely won’t go for steak. Interpreted as “no.”",20260821T125948Z_8dbb5082
+1212,6,"Person A asks if John is staying home. Person B: ""He has the flu"" implies he likely stays home due to illness. Likely “yes.”",20260821T125948Z_8dbb5082
+1213,6,"Person A asks if Sonya registered for the marathon. Person B: ""She runs for hours every day"" indicates training; while not explicit registration, it supports the marathon context. More likely “yes.”",20260821T125948Z_8dbb5082
+1214,2,"Person A asks if Clara had breakfast already. Person B: ""She just woke up,"" implying she likely has not had breakfast yet. “No.”",20260821T125948Z_8dbb5082
+1215,2,"Person A asks if they have seen that movie. Person B: ""It comes out next week,"" meaning they have not seen it yet (it’s not released yet). “No.”",20260821T125948Z_8dbb5082
+1216,5,"Person A asks if Person B knows how to use a drill. Person B says: ""I have used one before,"" which implies familiarity. Likely “yes.”",20260821T125948Z_8dbb5082
+1217,2,"Person A asks if Person B has failed the exam. Person B says: ""I am celebrating tonight,"" which does not match failure; more consistent with passing. Interpreted as “no.”",20260821T125948Z_8dbb5082
+1218,2,"Person A asks if Person B is breaking up with him. Person B says: ""I am moving out tomorrow,"" which is related to leaving but not explicitly a breakup. Still, it doesn’t confirm breaking up; ambiguous but closer to “no.”",20260821T125948Z_8dbb5082
+1219,5,"Person A asks if he was fired. Person B: ""He was always falling behind"" indicates poor performance but not specifically fired. So “no,” but somewhat uncertain; score leans no.",20260821T125948Z_8dbb5082
+1220,5,"Person A asks if there are big waves here. Person B: ""famous for surfing"" suggests wave conditions are suitable, likely big waves. Likely “yes.”",20260821T125948Z_8dbb5082
+1221,2,"Person A asks if the sea is safe to swim. Person B: ""It is quite rough"" indicates not safe. “No.”",20260821T125948Z_8dbb5082
+1222,2,"Person A asks if Person B makes a lot of money. Person B says job is at an NGO, which suggests not high income. Interpreted as “no.”",20260821T125948Z_8dbb5082
+1223,6,"Person A asks if he is famous. Person B says he authored successful books, which implies fame. Likely “yes.”",20260821T125948Z_8dbb5082
+1224,2,"Person A asks if they presented data at the meeting. Person B says still analyzing it, so not presented yet. “No.”",20260821T125948Z_8dbb5082
+1225,2,"Person A asks if it is legal to hunt pandas. Person B says pandas are endangered species, implying hunting is illegal. “No.”",20260821T125948Z_8dbb5082
+1226,2,"Person A asks if Person B has lost some weight. Person B says: ""I have enrolled at the gym"" (in progress). That does not confirm weight loss yet. More likely “no.”",20260821T125948Z_8dbb5082
+1227,2,"Person A asks if Person B has graduated. Person B says thesis is not complete yet, implying not graduated. “No.”",20260821T125948Z_8dbb5082
+1228,6,"Person A asks if Person B got hair cut. Person B: ""My hair was way too long,"" which indicates long hair, not a cut. However the question is whether they got it cut; answer doesn’t confirm, so “no.”",20260821T125948Z_8dbb5082
+1228,2,"The question is whether Person B got a haircut. The response says their hair was very long, which doesn't indicate a haircut happened. So it should be interpreted as “no.”",20260821T125948Z_8dbb5082
+1229,2,"Person A asks if Person B had time for sightseeing. Person B says it was a business trip, which implies limited time for sightseeing. Likely “no.”",20260821T125948Z_8dbb5082
+1230,2,"Person A asks if the one-room flat is bought. Person B: ""I need a larger one"" indicates they do not have/need that flat. “No.”",20260821T125948Z_8dbb5082
+1231,6,"Person A asks if she is stressed about the project. Person B: ""The deadline is tomorrow,"" which explains stress. “Yes.”",20260821T125948Z_8dbb5082
+1232,6,"Person A asks if Person B is tired. Person B: ""I slept only four hours,"" which implies tiredness. “Yes.”",20260821T125948Z_8dbb5082
+1233,2,"Person A asks if he booked the flight. Person B says the offer expired, which is unrelated to booking. Best interpreted as “no.”",20260821T125948Z_8dbb5082
+1234,6,"Person A asks if Person B is bringing their cat to the vet. Person B says the cat got wounded, which strongly implies vet visit. Likely “yes.”",20260821T125948Z_8dbb5082
+1235,2,"Person A asks if we are ready to go. Person B says Mark is still missing, implying not ready. “No.”",20260821T125948Z_8dbb5082
+1237,6,"Person A asks if Person B can cook Cantonese rice. Person B responds: ""I am Chinese,"" which suggests cultural background but not actual cooking ability. Still, it leans slightly to “yes,” but moderately.",20260821T125948Z_8dbb5082
+1238,6,"Person A asks if Person B has told him about that issue. Person B says: ""The line went dead,"" which answers nothing about telling. This is irrelevant/ambiguous; interpret as no.",20260821T125948Z_8dbb5082
+1238,2,"Person A asks about telling someone. Person B responds about a phone line going dead, which does not confirm that the issue was communicated. Therefore it’s ambiguous but does not support a “yes,” so “no.”",20260821T125948Z_8dbb5082
+1239,5,"Person A asks if their house is always tidy. Person B: ""They have domestics,"" indicating cleaners/help but not directly that it is tidy. Somewhat ambiguous; slight lean toward “yes” (tidy due to help) but not certain.",20260821T125948Z_8dbb5082
+1240,6,"Person A asks if Person B has tried that bar yet. Person B: ""They have just opened,"" implying it hasn’t been long and likely not tried yet. That suggests “no.”",20260821T125948Z_8dbb5082
+1240,2,"Person A asks if they have tried the bar. Person B says the bar just opened, which does not confirm they tried it and makes “not yet” likely. So interpret as “no.”",20260821T125948Z_8dbb5082
+1241,6,"Person A asks if he has a passion for history. Person B says his house is full of history books, supporting passion. “Yes.”",20260821T125948Z_8dbb5082
+1243,2,"Person A asks if the saucepan is big enough. Person B answers about having only a few guests for dinner, which is unrelated to saucepan size. So ambiguous/irrelevant; interpret as “no.”",20260821T125948Z_8dbb5082
+1244,2,"Person A asks if Person B will take a two-week trip. Person B: ""I only have one week off work,"" so cannot do two weeks. “No.”",20260821T125948Z_8dbb5082
+1245,2,"Person A asks if Person B is avoiding drinking alcohol. Person B says: ""I am going to have a baby,"" which is unrelated to alcohol avoidance. Ambiguous; cannot confirm avoidance, so likely “no.”",20260821T125948Z_8dbb5082
+1247,2,"Person A asks if Person B got a new loan. Person B says: ""I still owe the bank some money,"" implying outstanding debt but not a new loan. More likely “no.”",20260821T125948Z_8dbb5082
+1248,2,"Person A asks if he is drunk. Person B: ""He only had water"" indicates he is not drunk. Clear “no.”",20260821T125948Z_8dbb5082
+1249,5,"Person A asks if Person B buys fruit in the supermarket. Person B says: ""I own an orchard,"" which suggests getting fruit from their own orchard, not necessarily buying in supermarket. Likely “no.”",20260821T125948Z_8dbb5082
+1249,2,"The response indicates the person owns an orchard, which makes buying fruit from a supermarket less likely. Since it doesn’t say they buy fruit there, interpret as “no.”",20260821T125948Z_8dbb5082
+1250,2,"Person A asks if the son is at elementary school (implying child). Person B says he is 25 years old, so clearly not elementary. “No.”",20260821T125948Z_8dbb5082
+1251,2,"Person A asks if Harvard University is an option/affordable. Person B: tuition is extremely expensive, so not affordable. “No.”",20260821T125948Z_8dbb5082
+1252,6,"Person A asks if she paid us yet / accepted deal. Person B: ""She made a bank transfer few moments ago,"" confirming payment. “Yes.”",20260821T125948Z_8dbb5082
+1253,2,"Person A asks if the kids went to the swimming pool. Person B: ""They cannot swim yet,"" which does not confirm going; suggests they may not go. Interpreted as “no.”",20260821T125948Z_8dbb5082
+1254,2,"Person A asks if Person B is still taking these pills. Person B: ""I am healthy again,"" suggesting no longer taking pills. “No.”",20260821T125948Z_8dbb5082
+1255,6,"Person A asks if the area is contaminated. Person B says people are not allowed to get closer, which implies contamination/safety risk. Interpreted as “yes.”",20260821T125948Z_8dbb5082
+1256,2,"Person A asks if the plants are still alive. Person B says: ""I have watered them regularly,"" which could help but does not confirm they are alive. Ambiguous; slightly favor uncertainty, but not a clear yes. Score leans “uncertain/no.”",20260821T125948Z_8dbb5082
+1256,4,"The question is whether the plants are still alive. The response only states that watering has been regular, which does not directly confirm survival. It’s ambiguous, so interpret as completely uncertain/ambiguous rather than a clear yes or no.",20260821T125948Z_8dbb5082
+1257,2,"Person A asks if artwork was created in 1981 by him. Person B: ""He was already dead by then"" indicates he could not create it in 1981. “No.”",20260821T125948Z_8dbb5082
+1258,6,"Person A asks if it is ice skating season. Person B: ""The ice layer is quite thick,"" which suggests conditions are good for ice skating. Likely “yes.”",20260821T125948Z_8dbb5082
+1259,2,"Person A asks if Person B is a beginner. Person B: ""I am in the advanced course,"" so not a beginner. “No.”",20260821T125948Z_8dbb5082
+1260,6,"Person A asks if Person B has been sick. Person B says: ""I have seen a doctor,"" which implies sickness/medical issue. Likely “yes.”",20260821T125948Z_8dbb5082
+1261,2,"Person A asks if Person B went to bed early. Person B: ""I went out with some friends,"" not about bedtime. Ambiguous; interpret as “no.”",20260821T125948Z_8dbb5082
+1261,2,"The question is whether they went to bed early. The response only says they went out with friends, which does not indicate early bedtime. So it does not support “yes,” hence “no.”",20260821T125948Z_8dbb5082
+1262,6,"Person A asks if members can elect a representative. Person B says ""They voted yesterday,"" which indicates an election/selection occurred. Likely “yes.”",20260821T125948Z_8dbb5082
+1263,6,"Person A asks if the car is back from car wash. Person B: ""It is spotless,"" which strongly suggests it has been washed. Likely “yes.”",20260821T125948Z_8dbb5082
+1264,2,"Person A asks if they wrote a good exam. Person B: ""They have submitted a blank sheet,"" which implies very poor performance. “No.”",20260821T125948Z_8dbb5082
+1265,2,"Person A asks if she is dressed for the tennis game / on the field. Person B: ""She has just got into the changing room,"" so not dressed/ready yet. “No.”",20260821T125948Z_8dbb5082
+1266,6,"Person A asks if he settled the lawsuit. Person B: ""He was compensated,"" which often follows settlement. Likely “yes.”",20260821T125948Z_8dbb5082
+1267,2,"Person A asks if Person B has sold that house. Person B: ""No one has responded,"" implying it is not sold yet. “No.”",20260821T125948Z_8dbb5082
+1268,2,"Person A asks if he is part of a marching band. Person B: ""He does not play any instrument,"" meaning not. “No.”",20260821T125948Z_8dbb5082
+1269,6,"Person A asks if he has ever tried sushi. Person B says he has been in Japan for several months, which makes trying sushi plausible but not guaranteed. More likely “yes,” but not certain.",20260821T125948Z_8dbb5082
+1269,5,"The response does not directly say he tried sushi, only that he lived/travelled in Japan. Since sushi is common in Japan, it suggests likely exposure, but it’s not explicit. So it’s somewhat likely yes.",20260821T125948Z_8dbb5082
+1270,5,"Person A asks if the whole way is going uphill. Person B: ""We are aiming for the mountain top,"" which suggests uphill goal but not that the entire way is uphill. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1270,4,"The question is about the route being uphill. The answer only states the goal is the mountain top, which implies uphill in general but does not confirm the entire way is uphill. This is ambiguous, so score as uncertain.",20260821T125948Z_8dbb5082
+1271,6,"Person A asks if the package was shipped to the customer. Person B: ""The customer received it,"" which implies shipping and delivery. Likely “yes.”",20260821T125948Z_8dbb5082
+1273,2,"Person A asks if she is very dedicated to that singing course. Person B says she skipped the last four lessons, which contradicts dedication. “No.”",20260821T125948Z_8dbb5082
+1273,2,"Skipping the last four lessons suggests she is not very dedicated. The response directly undermines the idea of full dedication, so interpret as “no.”",20260821T125948Z_8dbb5082
+1274,6,"Person A asks if eyes get strained sometimes. Person B: monitor resolution is really poor, which can strain eyes, implying strain. Likely “yes.”",20260821T125948Z_8dbb5082
+1274,5,"Poor monitor resolution can cause eye strain, and the question asks whether eyes get strained sometimes. The answer gives a reason that fits. It’s not perfectly explicit about strain, but it implies it, so somewhat likely yes.",20260821T125948Z_8dbb5082
+1275,6,"Person A asks if she is a medical doctor. Person B says she graduated from medical school last year, which supports being a doctor (or at least medical professional). Likely “yes.”",20260821T125948Z_8dbb5082
+1276,2,"Person A asks if Person B has ever been inside that building. Person B: ""It is a private property,"" which does not answer personal entry. Ambiguous/irrelevant; interpret as no.",20260821T125948Z_8dbb5082
+1276,2,"The response states the building is private but does not say whether Person B has been inside. That does not confirm entry, so the safest interpretation is “no” (or at least not confirmed).",20260821T125948Z_8dbb5082

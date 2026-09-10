@@ -1,0 +1,11 @@
+id,score,rationale,run_id
+1101,2,"B says they have not seen Martin for ages, which strongly suggests they have not met Martin lately. It is not an absolute denial, but it clearly points to no.",20260821T125948Z_8dbb5082
+1102,6,"Sending out an application is an activity happening right now, so it answers yes to doing something right now. The connection is very direct.",20260821T125948Z_8dbb5082
+1103,6,"Training with him at the gym implies regularly exercising with Lukas. This is a strong yes, though not explicitly saying 'usually'.",20260821T125948Z_8dbb5082
+1104,7,Saying his grandfather passed away recently directly confirms a death in the family. This is a definite yes.,20260821T125948Z_8dbb5082
+1105,6,Saying Paris is about 1000 km away clearly indicates it is very far from here. That strongly supports yes.,20260821T125948Z_8dbb5082
+1106,6,A six hour drive implies it takes a long time to get to Munich. This is a strong yes.,20260821T125948Z_8dbb5082
+1107,2,"A train delay suggests the journey is not going as planned. It points to no, though it is not a full explicit denial.",20260821T125948Z_8dbb5082
+1108,2,"If there is still some cereal left, they have not finished their cereal. That is a clear no.",20260821T125948Z_8dbb5082
+1109,1,"If it is not due for three months, the deadline is not next week. This is a definite no.",20260821T125948Z_8dbb5082
+1110,7,Saying the streets are always congested with cars directly confirms there is usually a lot of traffic. This is a definite yes.,20260821T125948Z_8dbb5082

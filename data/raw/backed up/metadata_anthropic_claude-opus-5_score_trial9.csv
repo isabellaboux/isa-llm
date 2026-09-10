@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787557985-m9ltrZSOfRXpyrWufinf,anthropic/claude-opus-5,anthropic/claude-opus-5,Claude Platform on AWS,stop,12316,9827,0,22143,0.307255,,msg_011CeMDDnJziDDmzMUJ1jpLX,end_turn,2925,91530,20260824T093740Z_5937923c

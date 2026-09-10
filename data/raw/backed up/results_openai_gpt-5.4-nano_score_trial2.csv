@@ -1,0 +1,145 @@
+id,score,rationale,run_id
+1101,6,"Person A asks whether Person B has met Martin lately. Person B replies they have not seen him for ages, which clearly indicates they have not met him recently. That is a strong contradiction of “met lately,” so it should be interpreted as a likely yes to “no meeting lately” (i.e., answer is no).",20260821T125948Z_8dbb5082
+1102,6,"Person A asks if Person B is doing something right now. Person B says they are sending out an application, which directly answers that they are currently doing something. This is a clear yes.",20260821T125948Z_8dbb5082
+1103,6,"Person A asks if Person B usually exercises with Lukas. Person B says they train with him at the gym, indicating regular exercise with Lukas. That strongly supports a yes.",20260821T125948Z_8dbb5082
+1104,6,"Person A asks if there was a death in his family. Person B answers that his grandfather passed away recently. That directly confirms the premise, so it is a strong yes.",20260821T125948Z_8dbb5082
+1105,6,"Person A asks whether Paris is very far from here. Person B provides a distance of about 1000 km away, which supports that it is indeed very far. This is a clear yes.",20260821T125948Z_8dbb5082
+1106,6,"Person A asks if it takes long to get to Munich. Person B says it is a six hour drive, which indicates it takes a long time. Strong yes.",20260821T125948Z_8dbb5082
+1107,6,"Person A asks if the journey is going as planned. Person B says the train has some delay, meaning it is not going exactly as planned. That supports “no” to the planned part; strong interpretation of no.",20260821T125948Z_8dbb5082
+1108,6,"Person A asks if they have finished their cereal. Person B replies there is still some left, meaning it is not finished. This is a strong no.",20260821T125948Z_8dbb5082
+1109,6,"Person A asks if the essay deadline is next week. Person B says it is not due for three months, contradicting next week. Strong no.",20260821T125948Z_8dbb5082
+1110,6,Person A asks if there is usually a lot of traffic. Person B says the streets are always congested with cars. That clearly indicates yes to heavy traffic.,20260821T125948Z_8dbb5082
+1111,6,"Person A asks if Megan eats meat. Person B says she is vegetarian, implying she does not eat meat. Strong no.",20260821T125948Z_8dbb5082
+1112,6,"Person A asks if John is sick today. Person B says he has the flu. That is a direct confirmation, strong yes.",20260821T125948Z_8dbb5082
+1113,6,Person A asks if Sonya trains daily. Person B says she runs for hours every day. Strong yes.,20260821T125948Z_8dbb5082
+1114,6,"Person A asks if Clara is still sleeping. Person B says she just woke up, so she is not still sleeping. Strong no.",20260821T125948Z_8dbb5082
+1115,6,"Person A asks if the movie is going to be released today. Person B says it comes out next week. That contradicts today, strong no.",20260821T125948Z_8dbb5082
+1116,6,Person A asks if Person B has ever worked with a drill. Person B says they have used one before. Strong yes.,20260821T125948Z_8dbb5082
+1117,6,"Person A asks if the birthday party takes place tomorrow. Person B says they are celebrating tonight. That contradicts tomorrow, so strong no.",20260821T125948Z_8dbb5082
+1118,6,"Person A asks if Person B is leaving the flat soon. Person B says they are moving out tomorrow, which is soon. Strong yes.",20260821T125948Z_8dbb5082
+1119,6,"Person A asks if he is a slacker. Person B says he was always falling behind, which suggests laziness/poor performance. Interpreting as yes to “slacker.” Strong yes.",20260821T125948Z_8dbb5082
+1120,6,"Person A asks if the area is popular for something. Person B says the region is famous for surfing. That indicates popularity for surfing, strong yes.",20260821T125948Z_8dbb5082
+1121,6,"Person A asks if the sea is calm. Person B says it is quite rough, meaning it is not calm. Strong no.",20260821T125948Z_8dbb5082
+1122,6,"Person A asks if Person B works for a corporate company. Person B says their job is at an NGO, not corporate. Strong no.",20260821T125948Z_8dbb5082
+1123,6,"Person A asks if he is a writer. Person B says he has authored many successful books, directly confirming. Strong yes.",20260821T125948Z_8dbb5082
+1124,6,"Person A asks if Person B is finished working on their data. Person B says they are still analyzing it. That means not finished, strong no.",20260821T125948Z_8dbb5082
+1125,6,"Person A asks if there are many pandas left. Person B says they are an endangered species, implying very few remain. Strong no to “many,” so interpret as no.",20260821T125948Z_8dbb5082
+1126,6,Person A asks if Person B has joined a fitness studio. Person B says they have enrolled at the gym. Strong yes.,20260821T125948Z_8dbb5082
+1127,6,Person A asks if Person B has finished writing their thesis. Person B says the thesis is not complete yet. Strong no.,20260821T125948Z_8dbb5082
+1128,6,Person A asks if Person B used to have long hair. Person B says their hair was way too long. Strong yes.,20260821T125948Z_8dbb5082
+1129,6,Person A asks if Person B went to Japan for vacation. Person B says it was a business trip. Strong no.,20260821T125948Z_8dbb5082
+1130,6,"Person A asks if a one-room flat is enough. Person B says they need a larger one, so one-room is not enough. Strong no.",20260821T125948Z_8dbb5082
+1131,6,"Person A asks if she has to hand in soon. Person B says the deadline is tomorrow, which is soon. Strong yes.",20260821T125948Z_8dbb5082
+1132,6,Person A asks if Person B had a short night. Person B says they slept only four hours. Strong yes.,20260821T125948Z_8dbb5082
+1133,6,"Person A asks if the flight was still discounted. Person B says the offer had already expired, so not discounted now. Strong no.",20260821T125948Z_8dbb5082
+1134,6,Person A asks if the cat is hurt. Person B says it got wounded. Strong yes.,20260821T125948Z_8dbb5082
+1135,6,"Person A asks if we are all here. Person B says Mark is still missing, meaning not all are present. Strong no.",20260821T125948Z_8dbb5082
+1137,6,"Person A asks if Person B comes from Asia. Person B says they are Chinese, which implies Asia. Strong yes.",20260821T125948Z_8dbb5082
+1138,6,"Person A asks if you hung up. Person B says the line went dead, which indicates the connection dropped, effectively answering the call ended. Strong yes that the line is down/hung up.",20260821T125948Z_8dbb5082
+1139,6,"Person A asks if someone is taking care of their house. Person B says they have domestics, meaning staff help. Strong yes.",20260821T125948Z_8dbb5082
+1140,6,"Person A asks if that bar has been here for long. Person B says they have just opened, so it has not been long. Strong no.",20260821T125948Z_8dbb5082
+1141,6,Person A asks if he owns many books. Person B says his house is full of history books. Strong yes.,20260821T125948Z_8dbb5082
+1143,6,"Person A asks if there is a small gathering tonight. Person B says only few guests over for dinner, which indicates a small gathering. Strong yes.",20260821T125948Z_8dbb5082
+1144,6,Person A asks if Person B has two weeks of holiday. Person B says only one week off work. Strong no.,20260821T125948Z_8dbb5082
+1145,6,"Person A asks if Person B is pregnant. Person B says they are going to have a baby, which confirms pregnancy. Strong yes.",20260821T125948Z_8dbb5082
+1147,6,Person A asks if Person B has paid back their debts. Person B says they still owe the bank money. Strong no.,20260821T125948Z_8dbb5082
+1148,6,Person A asks if he drank a cocktail tonight. Person B says he only had water. Strong no.,20260821T125948Z_8dbb5082
+1149,6,"Person A asks if Person B has a vegetable garden. Person B says they own an orchard, not a vegetable garden. This does not confirm a vegetable garden; likely no.",20260821T125948Z_8dbb5082
+1150,6,Person A asks if their son is underage. Person B says he is 25 years old. Strong no.,20260821T125948Z_8dbb5082
+1151,6,Person A asks if Harvard is affordable. Person B says their tuition fee is extremely expensive. Strong no.,20260821T125948Z_8dbb5082
+1152,6,Person A asks if she has paid us yet. Person B says she made a bank transfer moments ago. Strong yes.,20260821T125948Z_8dbb5082
+1153,6,Person A asks if the kids are good at swimming. Person B says they cannot swim yet. Strong no.,20260821T125948Z_8dbb5082
+1154,6,Person A asks if Person B still has a cold. Person B says they are healthy again. Strong no.,20260821T125948Z_8dbb5082
+1155,6,Person A asks if it is forbidden to approach the area. Person B says people are not allowed to get closer. Strong yes.,20260821T125948Z_8dbb5082
+1156,6,Person A asks if someone took care of the plants. Person B says they watered them regularly. That indicates yes. Strong yes.,20260821T125948Z_8dbb5082
+1157,6,Person A asks if the artist was still alive in the 80s. Person B says he was already dead by then. Strong no.,20260821T125948Z_8dbb5082
+1158,6,"Person A asks if the lake is frozen. Person B says the ice layer is quite thick, indicating it is frozen. Strong yes.",20260821T125948Z_8dbb5082
+1159,6,Person A asks if Person B is attending the beginners' class. Person B says they are in the advanced course. Strong no.,20260821T125948Z_8dbb5082
+1160,6,Person A asks if Person B has sought medical advice. Person B says they have seen a doctor. Strong yes.,20260821T125948Z_8dbb5082
+1161,6,Person A asks if Person B stayed home last night. Person B says they went out with friends. Strong no.,20260821T125948Z_8dbb5082
+1162,6,Person A asks if there was an election recently. Person B says they voted yesterday. That strongly implies an election happened recently. Strong yes.,20260821T125948Z_8dbb5082
+1163,6,Person A asks if the car is completely clean. Person B says it is spotless. Strong yes.,20260821T125948Z_8dbb5082
+1164,6,Person A asks if they have answered all questions. Person B says they submitted a blank sheet. That implies they did not answer all questions. Strong no.,20260821T125948Z_8dbb5082
+1165,6,Person A asks if she is out on the tennis field. Person B says she just got into the changing room. So she is not out on the field. Strong no.,20260821T125948Z_8dbb5082
+1166,6,"Person A asks if he got the money back. Person B says he was compensated. That suggests he received money as compensation, strong yes.",20260821T125948Z_8dbb5082
+1167,6,Person A asks if anyone answered the house sale ad. Person B says no one has responded. Strong no.,20260821T125948Z_8dbb5082
+1168,6,Person A asks if he is a musician. Person B says he does not play any instrument. Strong no.,20260821T125948Z_8dbb5082
+1169,6,Person A asks if he has travelled in Asia. Person B says he has been in Japan for several months. That indicates Asia travel. Strong yes.,20260821T125948Z_8dbb5082
+1170,6,Person A asks if their goal is the summit. Person B says they are aiming for the mountain top. That corresponds to summit. Strong yes.,20260821T125948Z_8dbb5082
+1171,6,Person A asks if the customer got his package. Person B says the customer received it. Strong yes.,20260821T125948Z_8dbb5082
+1173,6,Person A asks if she attended the whole singing course. Person B says she skipped the last four lessons. Strong no.,20260821T125948Z_8dbb5082
+1174,6,"Person A asks if the screen has a bad image. Person B says the monitor’s resolution is really poor, indicating bad image quality. Strong yes.",20260821T125948Z_8dbb5082
+1175,6,Person A asks if she completed her medical studies. Person B says she graduated last year. Strong yes.,20260821T125948Z_8dbb5082
+1176,6,Person A asks if it is a public building. Person B says it is a private property. Strong no.,20260821T125948Z_8dbb5082
+1201,6,"Person A asks if Person A and Martin are still good friends. Person B says they have not seen him for ages, which implies reduced closeness. Likely no.",20260821T125948Z_8dbb5082
+1202,6,Person A asks if they are looking for a job. Person B says they are sending out an application. Strong yes.,20260821T125948Z_8dbb5082
+1203,6,"Person A asks if Person B knows Lukas. Person B says they train with him at the gym, implying they know him. Strong yes.",20260821T125948Z_8dbb5082
+1204,6,"Person A asks if this is his property now. Person B talks about his grandfather passing away recently, which does not directly address property transfer. This is somewhat uncertain; likely no.",20260821T125948Z_8dbb5082
+1205,6,"Person A asks if it takes long to drive to Paris. Person B says it is about 1000 km away, which indicates it’s far/long. Strong yes.",20260821T125948Z_8dbb5082
+1206,6,"Person A asks if Munich is far from here. Person B says it is a six hour drive, indicating it is far. Strong yes.",20260821T125948Z_8dbb5082
+1207,6,"Person A asks if Person B will be home by noon. Person B says the train has some delay, suggesting they won’t reliably be home by noon. Interpreted as no.",20260821T125948Z_8dbb5082
+1208,6,"Person A asks if they have bought cereal. Person B says there is still some left, which implies cereal exists already; not clear they bought it but implies they have some. Slightly ambiguous; likely yes but not certain.",20260821T125948Z_8dbb5082
+1209,6,Person A asks if started writing essay. Person B says it is not due for three months. That doesn’t answer whether it has started; it’s about deadline. Ambiguous/irrelevant.,20260821T125948Z_8dbb5082
+1210,6,Person A asks if they will be late to the cinema. Person B says streets are always congested. That suggests likely delay/late. Strong yes.,20260821T125948Z_8dbb5082
+1211,6,"Person A asks if Megan is coming to the steak house. Person B says she is vegetarian, implying she likely won’t go to a steak house. Strong no.",20260821T125948Z_8dbb5082
+1212,6,"Person A asks if John is staying home. Person B says he has the flu, which implies he will stay home. Strong yes.",20260821T125948Z_8dbb5082
+1213,6,"Person A asks if Sonya has registered for the marathon. Person B says she runs for hours every day, which suggests she is runner but does not confirm registration. Ambiguous; likely no.",20260821T125948Z_8dbb5082
+1214,6,"Person A asks if Clara had breakfast already. Person B says she just woke up, which suggests she likely hasn’t had breakfast yet. Strong no.",20260821T125948Z_8dbb5082
+1215,6,"Person A asks if they have seen that movie. Person B says it comes out next week, meaning they have not seen it yet. Strong no.",20260821T125948Z_8dbb5082
+1216,6,Person A asks if Person B knows how to use a drill. Person B says they have used one before. Strong yes.,20260821T125948Z_8dbb5082
+1217,6,"Person A asks if Person B has failed the exam. Person B says they are celebrating tonight, implying they did not fail. Strong no.",20260821T125948Z_8dbb5082
+1218,6,Person A asks if Person B is breaking up with him. Person B says they are moving out tomorrow. That indicates relationship change; likely yes to breaking up. Strong yes.,20260821T125948Z_8dbb5082
+1219,6,"Person A asks if he was fired. Person B says he was always falling behind, which could be performance leading to dismissal but does not explicitly say fired. Ambiguous; somewhat likely no.",20260821T125948Z_8dbb5082
+1220,6,Person A asks if there are big waves here. Person B says the region is famous for surfing. That relates to waves/surf but not necessarily big waves. Slightly ambiguous; likely no.,20260821T125948Z_8dbb5082
+1221,6,"Person A asks if the sea is safe to swim here. Person B says it is quite rough, implying it is not safe. Strong no.",20260821T125948Z_8dbb5082
+1222,6,"Person A asks if Person B makes a lot of money. Person B says their job is at an NGO. That doesn’t directly indicate income; but NGO jobs are often lower-paid. Still, not explicit; ambiguous/uncertain. Likely no to “make a lot.”",20260821T125948Z_8dbb5082
+1223,6,"Person A asks if he is famous. Person B says he has authored many successful books, which implies fame. Strong yes.",20260821T125948Z_8dbb5082
+1224,6,"Person A asks if Person B presented data at the meeting. Person B says they are still analyzing it, indicating they have not presented yet. Strong no.",20260821T125948Z_8dbb5082
+1225,6,"Person A asks if it is legal to hunt pandas. Person B says they are an endangered species, implying it is not legal. Strong no.",20260821T125948Z_8dbb5082
+1226,6,"Person A asks if Person B has lost some weight. Person B says they have enrolled at the gym, which could lead to weight loss but is not confirmation. Ambiguous; likely no.",20260821T125948Z_8dbb5082
+1227,6,"Person A asks if Person B has graduated. Person B says their thesis is not complete yet, so not graduated. Strong no.",20260821T125948Z_8dbb5082
+1228,6,"Person A asks if Person B got their hair cut. Person B says their hair was way too long, which is not about getting it cut. Irrelevant/unclear; ambiguous.",20260821T125948Z_8dbb5082
+1229,6,"Person A asks if Person B had time for sightseeing. Person B says it was a business trip, which often leaves little sightseeing time but not explicit. Somewhat ambiguous; likely no.",20260821T125948Z_8dbb5082
+1230,6,"Person A asks if Person B bought a one-room flat. Person B says they need a larger one, implying they did not buy such a small flat (or it’s insufficient). Strong no.",20260821T125948Z_8dbb5082
+1231,6,"Person A asks if she is stressed about the project. Person B says the deadline is tomorrow, which typically causes stress. Strong yes.",20260821T125948Z_8dbb5082
+1232,6,Person A asks if Person B is tired. Person B says they slept only four hours. Strong yes.,20260821T125948Z_8dbb5082
+1233,6,"Person A asks if he booked the flight. Person B says the offer had already expired, which is unrelated. Ambiguous/irrelevant; likely no.",20260821T125948Z_8dbb5082
+1234,6,"Person A asks if Person B is bringing their cat to the vet. Person B says it got wounded, which strongly implies it needs the vet. Strong yes.",20260821T125948Z_8dbb5082
+1235,6,"Person A asks if we are ready to go. Person B says Mark is still missing, meaning not ready. Strong no.",20260821T125948Z_8dbb5082
+1237,6,Person A asks if you can cook cantonese rice. Person B says they are Chinese. That does not directly answer cooking ability. Ambiguous; likely uncertain/no.,20260821T125948Z_8dbb5082
+1238,6,Person A asks if you told him about that issue. Person B says the line went dead. That doesn’t address whether you told him. Irrelevant/ambiguous; likely no.,20260821T125948Z_8dbb5082
+1239,6,"Person A asks if their house is always so tidy. Person B says they have domestics, implying someone cleans regularly. Strong yes.",20260821T125948Z_8dbb5082
+1240,6,"Person A asks if you have tried that bar yet. Person B says they have just opened, implying you likely haven’t tried it yet. Strong no.",20260821T125948Z_8dbb5082
+1241,6,"Person A asks if he has a passion for history. Person B says his house is full of history books, indicating strong interest. Strong yes.",20260821T125948Z_8dbb5082
+1243,6,"Person A asks if that saucepan is big enough. Person B says there are only few guests over for dinner, which doesn’t answer saucepan size. Ambiguous/irrelevant; uncertain.",20260821T125948Z_8dbb5082
+1244,6,Person A asks if Person B will take a two weeks trip. Person B says they only have one week off work. Strong no.,20260821T125948Z_8dbb5082
+1245,6,"Person A asks if Person B is avoiding drinking alcohol. Person B says they are going to have a baby, which doesn’t explicitly address alcohol avoidance. Ambiguous; likely no.",20260821T125948Z_8dbb5082
+1247,6,Person A asks if Person B did you get a new loan. Person B says they still owe the bank some money. That indicates they have debt but doesn’t confirm a new loan. Ambiguous/uncertain; likely no.,20260821T125948Z_8dbb5082
+1248,6,Person A asks if he is drunk. Person B says he only had water. That implies not drunk. Strong no.,20260821T125948Z_8dbb5082
+1249,6,"Person A asks if you buy fruit in the supermarket. Person B says they own an orchard, implying they get fruit themselves rather than supermarket. Strong no.",20260821T125948Z_8dbb5082
+1250,6,Person A asks if your son is at elementary school. Person B says he is 25 years old. Strong no.,20260821T125948Z_8dbb5082
+1251,6,Person A asks if Harvard University is affordable. Person B says tuition is extremely expensive. Strong no.,20260821T125948Z_8dbb5082
+1252,6,Person A asks if she paid us yet. Person B says she made a bank transfer moments ago. Strong yes.,20260821T125948Z_8dbb5082
+1253,6,"Person A asks if the kids went to the swimming pool. Person B says they cannot swim yet, which suggests they may not have gone. Strong no.",20260821T125948Z_8dbb5082
+1254,6,"Person A asks if Person B is still taking these pills. Person B says they are healthy again, suggesting they are no longer taking them. Strong no.",20260821T125948Z_8dbb5082
+1255,6,"Person A asks if the area is contaminated. Person B says people are not allowed to get closer, which implies danger/contamination. Strong yes.",20260821T125948Z_8dbb5082
+1256,6,"Person A asks if the plants are still alive. Person B says they have watered them regularly, which indicates they are likely still alive but not explicitly confirmed. Somewhat uncertain; likely yes.",20260821T125948Z_8dbb5082
+1257,6,"Person A asks if this artwork was created by him in 1981. Person B says he was already dead by then, so he couldn’t create it then. Strong no.",20260821T125948Z_8dbb5082
+1258,6,"Person A asks if it is ice skating season. Person B says the ice layer is quite thick, which implies conditions for skating now. Strong yes.",20260821T125948Z_8dbb5082
+1259,6,Person A asks if you are a beginner. Person B says they are in the advanced course. Strong no.,20260821T125948Z_8dbb5082
+1260,6,"Person A asks if you have been sick. Person B says they have seen a doctor, which implies sickness. Strong yes.",20260821T125948Z_8dbb5082
+1261,6,Person A asks if you went to bed early last night. Person B says they went out with friends. No direct statement about bedtime; ambiguous/irrelevant. Likely no.,20260821T125948Z_8dbb5082
+1262,6,"Person A asks if members can elect a representative. Person B says they voted yesterday, which indicates election occurred/was possible. Strong yes.",20260821T125948Z_8dbb5082
+1263,6,"Person A asks if the car is back from the car wash. Person B says it is spotless, which suggests it has been washed and is clean now. Strong yes.",20260821T125948Z_8dbb5082
+1264,6,"Person A asks if they wrote a good exam. Person B says they submitted a blank sheet, implying a bad exam. Strong no.",20260821T125948Z_8dbb5082
+1265,6,"Person A asks if she is dressed for the tennis game. Person B says she just got into the changing room, so not yet dressed/ready. Strong no.",20260821T125948Z_8dbb5082
+1266,6,"Person A asks if he settled the lawsuit. Person B says he was compensated, which suggests settlement/resolution. Strong yes.",20260821T125948Z_8dbb5082
+1267,6,"Person A asks if you have sold that house. Person B says no one has responded, implying it is not sold yet. Strong no.",20260821T125948Z_8dbb5082
+1268,6,Person A asks if he is part of the marching band. Person B says he does not play any instrument. Strong no.,20260821T125948Z_8dbb5082
+1269,6,Person A asks if he has ever tried sushi. Person B says he has been in Japan for months. That doesn’t confirm trying sushi. Ambiguous; likely no.,20260821T125948Z_8dbb5082
+1270,6,Person A asks if their whole way is going uphill. Person B says they are aiming for the mountain top. Doesn’t address whether the whole way is uphill. Ambiguous/irrelevant; uncertain/no.,20260821T125948Z_8dbb5082
+1271,6,"Person A asks if the package was shipped to the customer. Person B says the customer received it, implying shipping occurred. Strong yes.",20260821T125948Z_8dbb5082
+1273,6,"Person A asks if she is very dedicated to that singing course. Person B says she skipped the last four lessons, indicating not very dedicated. Strong no.",20260821T125948Z_8dbb5082
+1274,6,"Person A asks if the eyes get strained sometimes. Person B says monitor resolution is poor, which could strain eyes, but not directly stating strain. Somewhat ambiguous; likely yes.",20260821T125948Z_8dbb5082
+1275,6,Person A asks if she is a medical doctor. Person B says she graduated from medical school last year. That strongly suggests she is a medical doctor (at least trained). Strong yes.,20260821T125948Z_8dbb5082
+1276,6,"Person A asks if they have ever been inside that building. Person B says it is private property, which does not answer whether they have been inside. Ambiguous/irrelevant; likely no.",20260821T125948Z_8dbb5082

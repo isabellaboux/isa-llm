@@ -1,0 +1,12 @@
+id,score,rationale,run_id
+1101,1,"Person B states they have not seen Martin for ages, which answers 'no' to whether they have met him lately.",20260824T093740Z_5937923c
+1102,7,"Person B says they are sending out an application, which means they are indeed doing something right now.",20260824T093740Z_5937923c
+1103,7,"Person B confirms they train with Lukas at the gym, directly answering 'yes' to exercising with him.",20260824T093740Z_5937923c
+1104,7,Person B confirms a family death by stating his grandfather passed away.,20260824T093740Z_5937923c
+1105,6,"Person B states Paris is about 1000 km away, which strongly implies 'yes' to it being very far.",20260824T093740Z_5937923c
+1106,6,"Person B says it is a six-hour drive, which strongly indicates 'yes' to taking a long time.",20260824T093740Z_5937923c
+1107,2,"Person B reports a train delay, which strongly implies 'no' to the journey going as planned.",20260824T093740Z_5937923c
+1108,2,"Person B says there is still some cereal left, implying 'no' they have not finished it.",20260824T093740Z_5937923c
+1109,1,"Person B says it is not due for three months, answering 'no' to it being next week.",20260824T093740Z_5937923c
+1110,7,"Person B states streets are always congested, confirming 'yes' to usually having a lot of traffic.",20260824T093740Z_5937923c
+1111,7,"Person B states Megan is a vegetarian, which means 'yes' she does not eat meat (wait, vegetarian means no meat, but the question is does she eat meat? Actually, vegetarian answers 'no' to eating meat. Let's score it 1).",20260824T093740Z_5937923c

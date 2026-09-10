@@ -1,0 +1,11 @@
+evaluator_group,evaluator,all,evaluator_type,direct,indirect
+Qwen,qwen/qwen3.8-2.4t-a95b,0.997,open,1.000,0.991
+Qwen,qwen/qwen3.8-27b,0.996,open,1.000,0.986
+Google,google/gemma-4-26b-a4b-it,0.995,open,0.997,0.991
+Meta,meta-llama/llama-4-maverick,0.985,open,0.993,0.979
+Mistral,mistralai/mistral-large-2512,0.976,open,0.992,0.960
+Mistral,mistralai/ministral-14b-2512,0.967,open,0.976,0.958
+Meta,meta-llama/llama-3.3-70b-instruct,0.962,open,0.968,0.957
+Mistral,mistralai/mistral-small-2603,0.958,open,0.963,0.950
+Meta,meta-llama/llama-4-scout,0.913,open,0.916,0.910
+Google,google/gemma-3-27b-it,0.889,open,0.907,0.849

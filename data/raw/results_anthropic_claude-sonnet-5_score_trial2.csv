@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Not seeing someone for ages implies they have not met recently, a clear no.",20260824T093740Z_5937923c
+1102,7,"Sending out an application confirms doing something right now, a clear yes.",20260824T093740Z_5937923c
+1103,6,Training with Lukas at the gym confirms exercising with him regularly.,20260824T093740Z_5937923c
+1104,7,Grandfather passing away confirms there was a death in the family.,20260824T093740Z_5937923c
+1105,6,"1000 km is indeed far, confirming yes.",20260824T093740Z_5937923c
+1106,6,A six hour drive confirms it takes a long time.,20260824T093740Z_5937923c
+1107,2,A delay means the journey is not going as planned.,20260824T093740Z_5937923c
+1108,2,Some cereal left means they haven't finished it.,20260824T093740Z_5937923c
+1109,1,Due in three months contradicts a next week deadline.,20260824T093740Z_5937923c
+1110,7,Always congested confirms heavy traffic.,20260824T093740Z_5937923c
+1111,1,Vegetarian means she does not eat meat.,20260824T093740Z_5937923c
+1112,7,Having the flu confirms sickness.,20260824T093740Z_5937923c
+1113,7,Running for hours daily confirms daily training.,20260824T093740Z_5937923c
+1114,2,Just woke up means she is not still sleeping.,20260824T093740Z_5937923c
+1115,1,Coming out next week means it's not released today.,20260824T093740Z_5937923c
+1116,7,Having used one before confirms experience with a drill.,20260824T093740Z_5937923c
+1117,2,Celebrating tonight contradicts a party tomorrow.,20260824T093740Z_5937923c
+1118,6,Moving out tomorrow confirms leaving soon.,20260824T093740Z_5937923c
+1119,6,Always falling behind supports being a slacker.,20260824T093740Z_5937923c
+1120,7,Famous for surfing confirms area's popularity.,20260824T093740Z_5937923c
+1121,1,Rough sea contradicts calmness.,20260824T093740Z_5937923c
+1122,1,NGO job contradicts working for a corporate company.,20260824T093740Z_5937923c
+1123,7,Authoring successful books confirms being a writer.,20260824T093740Z_5937923c
+1124,1,Still analyzing means not finished.,20260824T093740Z_5937923c
+1125,2,Endangered species implies few pandas left.,20260824T093740Z_5937923c
+1126,7,Enrolling at the gym confirms joining a fitness studio.,20260824T093740Z_5937923c
+1127,1,Thesis not complete means not finished.,20260824T093740Z_5937923c
+1128,7,Confirms hair was long.,20260824T093740Z_5937923c
+1129,1,Business trip contradicts vacation.,20260824T093740Z_5937923c
+1130,1,Needing a larger flat contradicts sufficiency of one room.,20260824T093740Z_5937923c
+1131,7,Deadline tomorrow confirms urgency to hand in soon.,20260824T093740Z_5937923c
+1132,6,Only four hours of sleep confirms a short night.,20260824T093740Z_5937923c
+1133,1,Expired offer means it wasn't still discounted.,20260824T093740Z_5937923c
+1134,7,Wounded confirms the cat is hurt.,20260824T093740Z_5937923c
+1135,1,Mark missing means not everyone is present.,20260824T093740Z_5937923c
+1137,6,Being Chinese supports coming from Asia.,20260824T093740Z_5937923c
+1138,5,"Line going dead suggests a disconnection, consistent with hanging up.",20260824T093740Z_5937923c
+1139,6,Having domestics implies someone cares for the house.,20260824T093740Z_5937923c
+1140,1,Just opened contradicts being there long.,20260824T093740Z_5937923c
+1141,6,A house full of history books implies owning many books.,20260824T093740Z_5937923c
+1143,6,Few guests supports a small gathering.,20260824T093740Z_5937923c
+1144,1,Only one week off contradicts two weeks holiday.,20260824T093740Z_5937923c
+1145,7,Having a baby confirms pregnancy.,20260824T093740Z_5937923c
+1147,1,Still owing money means debts not paid.,20260824T093740Z_5937923c
+1148,1,Only water contradicts having a cocktail.,20260824T093740Z_5937923c
+1149,2,"Owning an orchard is different from a vegetable garden, leaning no.",20260824T093740Z_5937923c
+1150,1,25 years old contradicts being underage.,20260824T093740Z_5937923c
+1151,1,Extremely expensive tuition contradicts affordability.,20260824T093740Z_5937923c
+1152,7,Bank transfer confirms payment was made.,20260824T093740Z_5937923c
+1153,1,Cannot swim contradicts being good at swimming.,20260824T093740Z_5937923c
+1154,1,Healthy again contradicts still having a cold.,20260824T093740Z_5937923c
+1155,7,Not allowed closer confirms restriction.,20260824T093740Z_5937923c
+1156,7,Regular watering confirms plant care.,20260824T093740Z_5937923c
+1157,1,Already dead contradicts being alive in the 80s.,20260824T093740Z_5937923c
+1158,7,Thick ice confirms the lake is frozen.,20260824T093740Z_5937923c
+1159,1,Advanced course contradicts beginners' class.,20260824T093740Z_5937923c
+1160,7,Seeing a doctor confirms seeking medical advice.,20260824T093740Z_5937923c
+1161,1,Going out contradicts staying home.,20260824T093740Z_5937923c
+1162,7,Voting yesterday confirms a recent election.,20260824T093740Z_5937923c
+1163,7,Spotless confirms complete cleanliness.,20260824T093740Z_5937923c
+1164,1,Blank sheet means questions not answered.,20260824T093740Z_5937923c
+1165,2,Being in changing room contradicts being out on the field.,20260824T093740Z_5937923c
+1166,6,Compensation implies getting money back.,20260824T093740Z_5937923c
+1167,1,No response means no one answered.,20260824T093740Z_5937923c
+1168,1,Not playing an instrument contradicts being a musician.,20260824T093740Z_5937923c
+1169,7,Being in Japan confirms travel in Asia.,20260824T093740Z_5937923c
+1170,7,Aiming for mountain top confirms summit goal.,20260824T093740Z_5937923c
+1171,7,Receiving the package confirms delivery.,20260824T093740Z_5937923c
+1173,1,Skipping lessons contradicts full attendance.,20260824T093740Z_5937923c
+1174,7,Poor resolution confirms bad image quality.,20260824T093740Z_5937923c
+1175,7,Graduating confirms completion of studies.,20260824T093740Z_5937923c
+1176,1,Private property contradicts being public.,20260824T093740Z_5937923c
+1201,3,"Not seeing him for ages suggests distancing, leaning no on being close friends, but not explicit.",20260824T093740Z_5937923c
+1202,7,Sending an application confirms job searching.,20260824T093740Z_5937923c
+1203,6,Training together implies knowing Lukas well.,20260824T093740Z_5937923c
+1204,5,"Grandfather's death could imply inheritance, leaning yes but uncertain.",20260824T093740Z_5937923c
+1205,6,1000 km supports a long drive.,20260824T093740Z_5937923c
+1206,6,Six hour drive confirms distance.,20260824T093740Z_5937923c
+1207,2,Train delay suggests not arriving by noon.,20260824T093740Z_5937923c
+1208,2,"Cereal left suggests no need to buy more, leaning no.",20260824T093740Z_5937923c
+1209,3,"Long deadline suggests essay likely not started yet, leaning no.",20260824T093740Z_5937923c
+1210,6,Constant traffic suggests likely lateness.,20260824T093740Z_5937923c
+1211,2,Vegetarian implies unlikely to join steak house.,20260824T093740Z_5937923c
+1212,6,Having flu supports staying home.,20260824T093740Z_5937923c
+1213,4,Daily running doesn't directly confirm marathon registration; ambiguous.,20260824T093740Z_5937923c
+1214,2,Just woke up implies breakfast not yet eaten.,20260824T093740Z_5937923c
+1215,1,Not yet released means movie not seen.,20260824T093740Z_5937923c
+1216,7,Experience with drill confirms knowledge of use.,20260824T093740Z_5937923c
+1217,2,"Celebrating suggests success, contradicting failure.",20260824T093740Z_5937923c
+1218,5,"Moving out could indicate breakup, leaning yes but uncertain.",20260824T093740Z_5937923c
+1219,5,"Falling behind suggests possible firing, leaning yes.",20260824T093740Z_5937923c
+1220,6,Famous for surfing implies big waves.,20260824T093740Z_5937923c
+1221,2,Rough sea suggests unsafe swimming.,20260824T093740Z_5937923c
+1222,2,"NGO jobs typically pay less, suggesting no.",20260824T093740Z_5937923c
+1223,6,Successful books suggest fame.,20260824T093740Z_5937923c
+1224,1,Still analyzing data means not yet presented.,20260824T093740Z_5937923c
+1225,1,Endangered species implies hunting illegal.,20260824T093740Z_5937923c
+1226,4,Gym enrollment doesn't confirm weight loss; ambiguous.,20260824T093740Z_5937923c
+1227,1,Incomplete thesis means not graduated.,20260824T093740Z_5937923c
+1228,5,"Implies hair was cut due to being too long, leaning yes.",20260824T093740Z_5937923c
+1229,2,Business trip implies limited leisure time.,20260824T093740Z_5937923c
+1230,1,Needing larger flat contradicts buying a one-room flat.,20260824T093740Z_5937923c
+1231,6,Imminent deadline likely causes stress.,20260824T093740Z_5937923c
+1232,6,Four hours sleep likely causes tiredness.,20260824T093740Z_5937923c
+1233,2,Expired offer suggests booking unlikely.,20260824T093740Z_5937923c
+1234,5,"Injury likely prompts vet visit, leaning yes.",20260824T093740Z_5937923c
+1235,1,Missing person means not all ready.,20260824T093740Z_5937923c
+1237,5,"Being Chinese suggests likely knowledge of cooking Cantonese rice, leaning yes.",20260824T093740Z_5937923c
+1238,2,Line going dead suggests conversation cut off before telling him.,20260824T093740Z_5937923c
+1239,6,Domestic help implies consistent tidiness.,20260824T093740Z_5937923c
+1240,2,Recently opened suggests not yet tried.,20260824T093740Z_5937923c
+1241,6,Full of history books implies passion for history.,20260824T093740Z_5937923c
+1243,5,"Few guests might still need a decent-sized saucepan, leaning yes but uncertain.",20260824T093740Z_5937923c
+1244,1,Only one week off contradicts two-week trip.,20260824T093740Z_5937923c
+1245,6,Pregnancy typically leads to avoiding alcohol.,20260824T093740Z_5937923c
+1247,4,Owing money doesn't necessarily confirm a new loan; ambiguous.,20260824T093740Z_5937923c
+1248,1,Only water contradicts being drunk.,20260824T093740Z_5937923c
+1249,2,Owning an orchard suggests less need to buy fruit.,20260824T093740Z_5937923c
+1250,1,25 years old contradicts elementary school age.,20260824T093740Z_5937923c
+1251,2,Expensive tuition makes it less likely an option.,20260824T093740Z_5937923c
+1252,6,Bank transfer suggests acceptance of deal.,20260824T093740Z_5937923c
+1253,2,Cannot swim suggests unlikely to go to pool.,20260824T093740Z_5937923c
+1254,1,Healthy again implies no longer needing pills.,20260824T093740Z_5937923c
+1255,5,"Restricted access suggests possible contamination, leaning yes.",20260824T093740Z_5937923c
+1256,6,Regular watering suggests plants are alive.,20260824T093740Z_5937923c
+1257,1,Already dead in 1981 contradicts creating artwork then.,20260824T093740Z_5937923c
+1258,6,Thick ice suggests suitable skating conditions.,20260824T093740Z_5937923c
+1259,1,Advanced course contradicts being a beginner.,20260824T093740Z_5937923c
+1260,6,Seeing a doctor suggests recent illness.,20260824T093740Z_5937923c
+1261,1,Going out contradicts early bedtime.,20260824T093740Z_5937923c
+1262,6,Voting yesterday confirms election occurred.,20260824T093740Z_5937923c
+1263,5,"Spotless suggests recent cleaning, likely from a wash.",20260824T093740Z_5937923c
+1264,1,Blank sheet means no good exam performance.,20260824T093740Z_5937923c
+1265,2,Changing room implies not yet dressed for game.,20260824T093740Z_5937923c
+1266,6,Compensation suggests lawsuit settlement.,20260824T093740Z_5937923c
+1267,1,No response means house not sold.,20260824T093740Z_5937923c
+1268,1,Not playing an instrument contradicts marching band membership.,20260824T093740Z_5937923c
+1269,5,"Extended stay in Japan makes trying sushi likely, leaning yes.",20260824T093740Z_5937923c
+1270,6,Aiming for mountain top suggests uphill journey.,20260824T093740Z_5937923c
+1271,7,Receiving package confirms shipment.,20260824T093740Z_5937923c
+1273,1,Skipping lessons contradicts dedication.,20260824T093740Z_5937923c
+1274,6,Poor monitor resolution likely causes eye strain.,20260824T093740Z_5937923c
+1275,6,Graduating from medical school confirms becoming a doctor.,20260824T093740Z_5937923c
+1276,2,"Private property suggests limited access, leaning no.",20260824T093740Z_5937923c
+2101,7,Needing to revise confirms studying is required.,20260824T093740Z_5937923c
+2102,7,An interesting new movie confirms recent releases.,20260824T093740Z_5937923c
+2103,6,Chilly weather confirms coldness.,20260824T093740Z_5937923c
+2105,6,Hearing good things implies familiarity with the novel.,20260824T093740Z_5937923c
+2106,3,Pulled muscle last time doesn't confirm injury this time; ambiguous.,20260824T093740Z_5937923c
+2107,7,Cannot find phone confirms loss.,20260824T093740Z_5937923c
+2108,7,Minus 20 degrees confirms extreme cold.,20260824T093740Z_5937923c
+2109,7,Entering a church confirms being in a religious building.,20260824T093740Z_5937923c
+2110,6,Training hard confirms difficulty.,20260824T093740Z_5937923c
+2113,6,Exhausting task confirms working today.,20260824T093740Z_5937923c
+2114,1,Not bringing bikini contradicts having swimming gear.,20260824T093740Z_5937923c
+2115,1,No time contradicts being free.,20260824T093740Z_5937923c
+2116,1,Watched last month contradicts watching yesterday.,20260824T093740Z_5937923c
+2117,2,Being on a diet contradicts eating more.,20260824T093740Z_5937923c
+2118,1,Being Muslim contradicts practicing Hinduism.,20260824T093740Z_5937923c
+2119,1,Spinning head after beers contradicts feeling okay.,20260824T093740Z_5937923c
+2120,1,Very tired contradicts feeling energetic.,20260824T093740Z_5937923c
+2121,1,Being broke contradicts having savings.,20260824T093740Z_5937923c
+2122,1,Already used before contradicts first-time experience.,20260824T093740Z_5937923c
+2123,1,11 p.m. contradicts morning.,20260824T093740Z_5937923c
+2124,1,Hangover contradicts feeling good.,20260824T093740Z_5937923c
+2125,1,Diabetic contradicts being free of chronic disease.,20260824T093740Z_5937923c
+2127,1,Getting seasick contradicts feeling well on boats.,20260824T093740Z_5937923c
+2128,1,Toothache gone contradicts continued pain.,20260824T093740Z_5937923c
+2129,6,Several bus stops confirm multiple stations.,20260824T093740Z_5937923c
+2130,1,Should not staple contradicts being allowed.,20260824T093740Z_5937923c
+2131,1,Very light contradicts heavy luggage.,20260824T093740Z_5937923c
+2132,7,Getting up at 5am confirms early wake-up need.,20260824T093740Z_5937923c
+2134,1,French being native contradicts Spanish mother tongue.,20260824T093740Z_5937923c
+2135,7,Not working confirms remote is still unusable.,20260824T093740Z_5937923c
+2136,7,Wolves being common confirms presence of wild animals.,20260824T093740Z_5937923c
+2137,1,Only cacti contradicts having trees.,20260824T093740Z_5937923c
+2138,7,Needing passport confirms necessity for travel.,20260824T093740Z_5937923c
+2139,1,Sandwich contradicts pie.,20260824T093740Z_5937923c
+2140,7,Having to leave soon confirms departure.,20260824T093740Z_5937923c
+2141,7,Starving confirms hunger.,20260824T093740Z_5937923c
+2144,7,Drinking tea often confirms frequent hot drink consumption.,20260824T093740Z_5937923c
+2145,7,Too much light confirms brightness.,20260824T093740Z_5937923c
+2146,1,Being abroad contradicts staying in town.,20260824T093740Z_5937923c
+2147,7,Having soup confirms eating.,20260824T093740Z_5937923c
+2148,7,Pouring rain confirms it's already raining.,20260824T093740Z_5937923c
+2149,1,Not drinking contradicts alcohol consumption.,20260824T093740Z_5937923c
+2150,1,Dishwasher present contradicts everything taken away.,20260824T093740Z_5937923c
+2151,1,Giving away racket contradicts still having tennis equipment.,20260824T093740Z_5937923c
+2152,1,Avoiding spicy food contradicts eating all types.,20260824T093740Z_5937923c
+2153,7,Living next door confirms being neighbours.,20260824T093740Z_5937923c
+2155,1,Understanding everything contradicts confusion.,20260824T093740Z_5937923c
+2156,7,Chest pain confirms discomfort in upper body.,20260824T093740Z_5937923c
+2157,1,Summer contradicts winter.,20260824T093740Z_5937923c
+2159,7,Cutting finger confirms injury.,20260824T093740Z_5937923c
+2160,7,Dust everywhere confirms dirtiness.,20260824T093740Z_5937923c
+2161,1,Bringing own toothpaste contradicts leaving it home.,20260824T093740Z_5937923c
+2162,7,Chapped lips confirm wind damage.,20260824T093740Z_5937923c
+2163,1,Working early morning contradicts afternoon shift.,20260824T093740Z_5937923c
+2164,1,Eating at restaurant contradicts dinner at home.,20260824T093740Z_5937923c
+2165,7,Recent growth confirms hedges are taller.,20260824T093740Z_5937923c
+2166,7,Lunch ready confirms cooking completion.,20260824T093740Z_5937923c
+2167,7,Complicated exercise confirms difficulty.,20260824T093740Z_5937923c
+2168,1,Not sure where to go contradicts having decided.,20260824T093740Z_5937923c
+2169,1,Smoking cigars only contradicts cigarette smoking.,20260824T093740Z_5937923c
+2170,1,Typing on laptop contradicts writing on paper.,20260824T093740Z_5937923c
+2171,7,Stove not delivered confirms incomplete kitchen.,20260824T093740Z_5937923c
+2172,7,Frequent theft confirms common occurrence.,20260824T093740Z_5937923c
+2173,1,Full wardrobe contradicts having room.,20260824T093740Z_5937923c
+2174,7,Piling laundry confirms a lot to wash.,20260824T093740Z_5937923c
+2175,7,Relaxed breakfast confirms having time for it.,20260824T093740Z_5937923c
+2201,6,Needing to revise implies agreement to study together.,20260824T093740Z_5937923c
+2202,6,Interesting movie implies willingness to go.,20260824T093740Z_5937923c
+2203,6,Feeling chilly implies agreement to close window.,20260824T093740Z_5937923c
+2205,6,Positive impression suggests interest in borrowing book.,20260824T093740Z_5937923c
+2206,6,Previous injury suggests agreement to skip class.,20260824T093740Z_5937923c
+2207,6,Missing phone implies willingness to use another's.,20260824T093740Z_5937923c
+2208,7,Extreme cold confirms need for a coat.,20260824T093740Z_5937923c
+2209,6,Being in church implies agreement to silence phones.,20260824T093740Z_5937923c
+2210,6,Hard training suggests desire for a protein shake.,20260824T093740Z_5937923c
+2213,6,Exhausting work suggests agreement to take a break.,20260824T093740Z_5937923c
+2214,2,Not bringing bikini suggests reluctance to go to the lake.,20260824T093740Z_5937923c
+2215,1,No time implies not attending.,20260824T093740Z_5937923c
+2216,2,Already watched recently suggests disinterest in rewatching.,20260824T093740Z_5937923c
+2217,2,Being on a diet suggests declining dessert.,20260824T093740Z_5937923c
+2218,1,Being Muslim implies declining pork.,20260824T093740Z_5937923c
+2219,2,Already feeling dizzy suggests declining another beer.,20260824T093740Z_5937923c
+2220,2,Feeling tired suggests declining to go out.,20260824T093740Z_5937923c
+2221,2,Being broke suggests declining a trip.,20260824T093740Z_5937923c
+2222,2,Already experienced suggests no need for help.,20260824T093740Z_5937923c
+2223,2,Late hour suggests reluctance to go to cinema.,20260824T093740Z_5937923c
+2224,2,Hangover suggests declining more drinks.,20260824T093740Z_5937923c
+2225,2,Diabetes suggests declining cake.,20260824T093740Z_5937923c
+2227,2,Seasickness suggests reluctance to join cruise.,20260824T093740Z_5937923c
+2228,1,Toothache gone suggests no need for painkillers.,20260824T093740Z_5937923c
+2229,6,Multiple stops left suggest willingness to take the seat.,20260824T093740Z_5937923c
+2230,1,Should not staple implies declining stapler use.,20260824T093740Z_5937923c
+2231,2,Light luggage suggests no need for help.,20260824T093740Z_5937923c
+2232,7,Needing to wake early confirms setting an alarm.,20260824T093740Z_5937923c
+2234,2,Being native speaker suggests no need for spelling check.,20260824T093740Z_5937923c
+2235,5,"Remote not working could imply needing new batteries, leaning yes.",20260824T093740Z_5937923c
+2236,6,Common wolves justify locking cattle for safety.,20260824T093740Z_5937923c
+2237,2,Only cacti implies no need for regular watering.,20260824T093740Z_5937923c
+2238,6,Needing passport confirms it should be packed.,20260824T093740Z_5937923c
+2239,2,Having a sandwich suggests no need for more food.,20260824T093740Z_5937923c
+2240,6,Needing to leave soon confirms waking kids is needed.,20260824T093740Z_5937923c
+2241,6,Starvation suggests willingness to accept biscuits.,20260824T093740Z_5937923c
+2244,6,Frequent tea drinking suggests willingness to use kettle.,20260824T093740Z_5937923c
+2245,6,Too much light suggests agreement to dim it.,20260824T093740Z_5937923c
+2246,1,Being abroad means unable to attend the party.,20260824T093740Z_5937923c
+2247,6,Having soup suggests need for a spoon.,20260824T093740Z_5937923c
+2248,7,Pouring rain confirms need for umbrella.,20260824T093740Z_5937923c
+2249,1,Not drinking implies declining wine.,20260824T093740Z_5937923c
+2250,2,Having a dishwasher suggests no need to do dishes manually.,20260824T093740Z_5937923c
+2251,1,No racket implies inability to play tennis.,20260824T093740Z_5937923c
+2252,2,Avoiding spicy food suggests declining Mexican food.,20260824T093740Z_5937923c
+2253,2,Living close by suggests no need for a ride.,20260824T093740Z_5937923c
+2255,1,Understanding fully implies no need for further explanation.,20260824T093740Z_5937923c
+2256,6,Severe chest pain suggests need to call doctor.,20260824T093740Z_5937923c
+2257,1,Summer heat implies no need for extra blanket.,20260824T093740Z_5937923c
+2259,6,Cut finger suggests need for a plaster.,20260824T093740Z_5937923c
+2260,6,Dusty floor suggests need for sweeping.,20260824T093740Z_5937923c
+2261,1,Already having toothpaste implies no need for more.,20260824T093740Z_5937923c
+2262,6,Chapped lips suggest need for lip balm.,20260824T093740Z_5937923c
+2263,2,Early work tomorrow suggests declining drinks tonight.,20260824T093740Z_5937923c
+2264,1,Planning to eat out implies declining home-cooked meal.,20260824T093740Z_5937923c
+2265,6,Recent growth suggests need for pruning.,20260824T093740Z_5937923c
+2266,6,Lunch being ready suggests table should be set.,20260824T093740Z_5937923c
+2267,6,Complicated math suggests need for a calculator.,20260824T093740Z_5937923c
+2268,1,Uncertain destination implies premature to buy tickets.,20260824T093740Z_5937923c
+2269,2,Preferring cigars implies declining cigarette offer.,20260824T093740Z_5937923c
+2270,1,Typing on laptop implies no need for paper.,20260824T093740Z_5937923c
+2271,5,"Stove not delivered could justify ordering delivery food, leaning yes.",20260824T093740Z_5937923c
+2272,6,Frequent car theft justifies locking the car.,20260824T093740Z_5937923c
+2273,1,Full wardrobe implies no need for more clothes shopping.,20260824T093740Z_5937923c
+2274,6,Piling laundry justifies doing laundry.,20260824T093740Z_5937923c
+2275,5,"Having a relaxed breakfast could include pancakes, leaning yes but uncertain.",20260824T093740Z_5937923c

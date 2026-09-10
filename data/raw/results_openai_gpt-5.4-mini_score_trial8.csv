@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,2,"Person B says he has not seen Martin for ages, which strongly suggests the answer to whether he met Martin lately is no.",20260821T125948Z_8dbb5082
+1102,5,"Sending out an application is something one might be doing right now, so this is a likely yes, though not perfectly explicit.",20260821T125948Z_8dbb5082
+1103,6,Training with Lukas at the gym directly supports that they usually exercise together.,20260821T125948Z_8dbb5082
+1104,7,Saying his grandfather passed away recently clearly confirms a death in the family.,20260821T125948Z_8dbb5082
+1105,6,Saying Paris is about 1000 km away directly indicates it is very far.,20260821T125948Z_8dbb5082
+1106,6,A six hour drive implies that getting to Munich takes a long time.,20260821T125948Z_8dbb5082
+1107,3,"Having a delay suggests the journey is not going as planned, but the answer does not directly address the question and could be interpreted in different ways.",20260821T125948Z_8dbb5082
+1108,2,"If there is still some cereal left, then they have not finished it, so the answer is likely no.",20260821T125948Z_8dbb5082
+1109,7,Saying it is not due for three months directly contradicts a deadline next week.,20260821T125948Z_8dbb5082
+1110,7,Always congested with cars clearly means there is usually a lot of traffic.,20260821T125948Z_8dbb5082
+1111,7,Being vegetarian strongly implies she does not eat meat.,20260821T125948Z_8dbb5082
+1112,7,Having the flu is a clear sign that John is sick.,20260821T125948Z_8dbb5082
+1113,7,Running for hours every day strongly confirms that she trains daily.,20260821T125948Z_8dbb5082
+1114,6,"If she just woke up, she is no longer still sleeping.",20260821T125948Z_8dbb5082
+1115,7,"If it comes out next week, then it is not being released today.",20260821T125948Z_8dbb5082
+1116,5,"Using a drill before indicates experience with a drill, though it does not explicitly say the person has ever used one in the exact sense asked.",20260821T125948Z_8dbb5082
+1117,3,"Celebrating tonight suggests the party is not tomorrow, but the answer does not directly say when the birthday party is.",20260821T125948Z_8dbb5082
+1118,7,Moving out tomorrow clearly means leaving the flat soon.,20260821T125948Z_8dbb5082
+1119,6,"Always falling behind strongly suggests he is a slacker, though it is still an inference.",20260821T125948Z_8dbb5082
+1120,7,Being famous for surfing clearly means the area is popular for something.,20260821T125948Z_8dbb5082
+1121,7,"Quite rough is the opposite of calm, so this is a clear no.",20260821T125948Z_8dbb5082
+1122,7,Working at an NGO directly indicates the person does not work for a corporate company.,20260821T125948Z_8dbb5082
+1123,7,Authoring many successful books strongly confirms he is a writer.,20260821T125948Z_8dbb5082
+1124,6,"Still analyzing it means the data work is not finished, so the answer is likely no.",20260821T125948Z_8dbb5082
+1125,7,Calling pandas an endangered species directly implies there are not many left.,20260821T125948Z_8dbb5082
+1126,6,"Enrolled at the gym means they joined a fitness studio, so this is a likely yes.",20260821T125948Z_8dbb5082
+1127,7,"If the thesis is not complete yet, it is not finished.",20260821T125948Z_8dbb5082
+1128,5,"Saying the hair was way too long suggests it used to be long, but it is phrased indirectly and not fully explicit.",20260821T125948Z_8dbb5082
+1129,1,"A business trip contradicts going to Japan for vacation, so the answer is definitely no.",20260821T125948Z_8dbb5082
+1130,7,Needing a larger one clearly means a one-room flat is not enough.,20260821T125948Z_8dbb5082
+1131,6,"A deadline tomorrow means there is something to hand in soon, so likely yes.",20260821T125948Z_8dbb5082
+1132,7,Sleeping only four hours clearly means it was a short night.,20260821T125948Z_8dbb5082
+1133,7,"If the offer had already expired, the flight was not still discounted.",20260821T125948Z_8dbb5082
+1134,6,Got wounded clearly suggests the cat is hurt.,20260821T125948Z_8dbb5082
+1135,1,"If Mark is still missing, then not all are here, so the answer is no.",20260821T125948Z_8dbb5082
+1137,5,"Being Chinese means the person comes from Asia, but the answer is indirect because nationality is not identical to continent of origin.",20260821T125948Z_8dbb5082
+1138,6,"The line went dead implies the call ended, so likely yes.",20260821T125948Z_8dbb5082
+1139,4,"Having domestics suggests someone takes care of the house, but it is somewhat indirect and the term is a bit unusual.",20260821T125948Z_8dbb5082
+1140,6,Just opened clearly means the bar has not been there for long.,20260821T125948Z_8dbb5082
+1141,7,Being full of history books strongly indicates he has many books.,20260821T125948Z_8dbb5082
+1143,6,Only a few guests over for dinner implies a small gathering.,20260821T125948Z_8dbb5082
+1144,7,Only one week off work directly means not two weeks of holiday.,20260821T125948Z_8dbb5082
+1145,6,"Going to have a baby is a clear indication of pregnancy, though it is phrased a bit less directly.",20260821T125948Z_8dbb5082
+1147,7,Still owing the bank money clearly means the debts have not been paid back.,20260821T125948Z_8dbb5082
+1148,7,Only had water means he did not drink a cocktail.,20260821T125948Z_8dbb5082
+1149,2,"Owning an orchard suggests fruit trees, not a vegetable garden, so this is likely no.",20260821T125948Z_8dbb5082
+1150,7,Being 25 years old clearly means he is not underage.,20260821T125948Z_8dbb5082
+1151,7,Extremely expensive tuition means it is not affordable.,20260821T125948Z_8dbb5082
+1152,6,A bank transfer a few moments ago strongly suggests she has paid already.,20260821T125948Z_8dbb5082
+1153,1,"If they cannot swim yet, they are not good at swimming.",20260821T125948Z_8dbb5082
+1154,7,Healthy again means the cold is gone.,20260821T125948Z_8dbb5082
+1155,7,Not allowed to get closer directly means it is forbidden to approach.,20260821T125948Z_8dbb5082
+1156,6,"Watering them regularly suggests the plants have been taken care of, though it is not explicit about someone else doing it.",20260821T125948Z_8dbb5082
+1157,7,"If he was already dead by then, he was not alive in the 80s.",20260821T125948Z_8dbb5082
+1158,6,A quite thick ice layer strongly suggests the lake is frozen.,20260821T125948Z_8dbb5082
+1159,7,Being in the advanced course means she is not a beginner.,20260821T125948Z_8dbb5082
+1160,6,"Seeing a doctor suggests seeking medical advice, though it is slightly indirect.",20260821T125948Z_8dbb5082
+1161,7,Going out with friends clearly means he did not stay home.,20260821T125948Z_8dbb5082
+1162,6,"Voting yesterday implies there was an election recently, though it is not fully explicit.",20260821T125948Z_8dbb5082
+1163,7,Spotless means completely clean.,20260821T125948Z_8dbb5082
+1164,7,Submitting a blank sheet clearly means they did not answer the questions.,20260821T125948Z_8dbb5082
+1165,6,Getting into the changing room means she is not yet out on the tennis field.,20260821T125948Z_8dbb5082
+1166,6,"Being compensated means he got money back or was made financially whole, so likely yes.",20260821T125948Z_8dbb5082
+1167,7,No one has responded directly answers no to whether anyone answered the ad.,20260821T125948Z_8dbb5082
+1168,7,Not playing any instrument means he is not a musician in the usual sense.,20260821T125948Z_8dbb5082
+1169,5,"Being in Japan for several months indicates travel in Asia, but it is slightly indirect because it does not explicitly say he traveled elsewhere in Asia.",20260821T125948Z_8dbb5082
+1170,7,Aiming for the mountain top directly means the goal is the summit.,20260821T125948Z_8dbb5082
+1171,6,The customer received it directly indicates the package was delivered.,20260821T125948Z_8dbb5082
+1173,7,Skipping the last four lessons clearly means she did not attend the whole course.,20260821T125948Z_8dbb5082
+1174,6,A really poor resolution strongly suggests a bad image on the screen.,20260821T125948Z_8dbb5082
+1175,7,Graduated from medical school last year clearly means she completed her medical studies.,20260821T125948Z_8dbb5082
+1176,7,Private property is not a public building.,20260821T125948Z_8dbb5082
+1201,2,"Not seeing him for ages suggests they are not still good friends, or at least strongly points away from that.",20260821T125948Z_8dbb5082
+1202,5,"Sending out an application suggests looking for a job, but it is not fully explicit.",20260821T125948Z_8dbb5082
+1203,6,Training with Lukas at the gym implies he knows Lukas.,20260821T125948Z_8dbb5082
+1204,2,"His grandfather passing away recently suggests inheritance/property issues but does not answer the ownership question directly; as written, it is not enough to confirm yes.",20260821T125948Z_8dbb5082
+1205,6,Saying it is about 1000 km away clearly means it takes a long time to drive.,20260821T125948Z_8dbb5082
+1206,6,A six hour drive directly implies Munich is far from here.,20260821T125948Z_8dbb5082
+1207,6,"A train delay suggests you will not be home by noon, so likely no.",20260821T125948Z_8dbb5082
+1208,2,"If there is still some cereal left, you probably have not bought cereal, so the answer is likely no.",20260821T125948Z_8dbb5082
+1209,3,"If it is not due for three months, that does not directly answer whether writing has started, so it is somewhat unrelated and ambiguous.",20260821T125948Z_8dbb5082
+1210,5,"Always congested with cars suggests you may be late, but it is an indirect inference rather than a direct answer.",20260821T125948Z_8dbb5082
+1211,7,"Being vegetarian strongly indicates she is not coming to a steak house to eat steak, so likely no.",20260821T125948Z_8dbb5082
+1212,7,Having the flu clearly means John is staying home.,20260821T125948Z_8dbb5082
+1213,6,"Running for hours every day strongly suggests registration for a marathon or similar training, though it is not explicit.",20260821T125948Z_8dbb5082
+1214,1,"If she just woke up, she already had not had breakfast yet, so the answer is no.",20260821T125948Z_8dbb5082
+1215,1,"If the movie comes out next week, then the person has not seen it yet, so definitely no.",20260821T125948Z_8dbb5082
+1216,6,Having used one before means the person knows how to use a drill.,20260821T125948Z_8dbb5082
+1217,1,"Celebrating tonight is incompatible with having failed the exam, so definitely no.",20260821T125948Z_8dbb5082
+1218,5,"Moving out tomorrow strongly suggests a breakup or separation, but it is not explicit enough to be certain.",20260821T125948Z_8dbb5082
+1219,6,"Always falling behind is strong evidence that he was fired, though it is still an inference.",20260821T125948Z_8dbb5082
+1220,6,"Being famous for surfing suggests big waves, since surfing areas typically have them.",20260821T125948Z_8dbb5082
+1221,7,Quite rough clearly means the sea is not safe to swim in.,20260821T125948Z_8dbb5082
+1222,1,"Working at an NGO usually does not mean making a lot of money, so this is likely no.",20260821T125948Z_8dbb5082
+1223,6,Having authored many successful books strongly suggests he is famous.,20260821T125948Z_8dbb5082
+1224,1,"Still analyzing the data means it was not presented at the meeting, so definitely no.",20260821T125948Z_8dbb5082
+1225,7,Endangered species means it is not legal to hunt them.,20260821T125948Z_8dbb5082
+1226,6,"Enrolling at the gym suggests lost weight is likely not the relevant state and more likely a fitness effort, but this is only indirect.",20260821T125948Z_8dbb5082
+1227,7,"If the thesis is not complete yet, she has not graduated.",20260821T125948Z_8dbb5082
+1228,2,"Saying the hair was way too long suggests it was long, but not necessarily that it was cut, so likely no.",20260821T125948Z_8dbb5082
+1229,1,"A business trip means it was not a sightseeing vacation, so definitely no.",20260821T125948Z_8dbb5082
+1230,7,Needing a larger one clearly means he did not buy the one-room flat.,20260821T125948Z_8dbb5082
+1231,6,A deadline tomorrow strongly suggests she is stressed about the project.,20260821T125948Z_8dbb5082
+1232,7,Sleeping only four hours directly means being tired.,20260821T125948Z_8dbb5082
+1233,1,"If the offer had already expired, he did not book the flight under that deal, so no.",20260821T125948Z_8dbb5082
+1234,6,"Getting wounded means the cat should be brought to the vet, so likely yes.",20260821T125948Z_8dbb5082
+1235,1,"If Mark is still missing, we are not ready to go, so definitely no.",20260821T125948Z_8dbb5082
+1237,5,"Being Chinese could imply ability to cook Cantonese rice, but that is a broad nationality-based inference and not a direct answer.",20260821T125948Z_8dbb5082
+1238,1,"The line went dead means the conversation ended, so he did not tell him about the issue.",20260821T125948Z_8dbb5082
+1239,6,Having domestics strongly suggests the house is tidy.,20260821T125948Z_8dbb5082
+1240,6,Just opened means you have not tried the bar yet.,20260821T125948Z_8dbb5082
+1241,6,A house full of history books suggests he has a passion for history.,20260821T125948Z_8dbb5082
+1243,1,"Only a few guests over for dinner means the saucepan is not likely to be judged by size? This response is unrelated to saucepan size, so it does not answer the question.",20260821T125948Z_8dbb5082
+1244,1,"Only one week off work means it will not be a two-week trip, so definitely no.",20260821T125948Z_8dbb5082
+1245,7,Going to have a baby is a clear indication of pregnancy.,20260821T125948Z_8dbb5082
+1247,2,"Still owing the bank money suggests debt remains, so not repaid.",20260821T125948Z_8dbb5082
+1248,1,Only had water means he was not drunk.,20260821T125948Z_8dbb5082
+1249,2,"Owning an orchard is not the same as buying fruit in the supermarket, so likely no.",20260821T125948Z_8dbb5082
+1250,1,Being 25 years old clearly means the son is not at elementary school age.,20260821T125948Z_8dbb5082
+1251,2,Extremely expensive tuition suggests Harvard is not affordable as an option.,20260821T125948Z_8dbb5082
+1252,6,A bank transfer a few moments ago strongly suggests she accepted or paid the deal.,20260821T125948Z_8dbb5082
+1253,1,"If they cannot swim yet, they did not go to the swimming pool for swimming, so no.",20260821T125948Z_8dbb5082
+1254,7,Being healthy again means she is no longer taking pills for the cold.,20260821T125948Z_8dbb5082
+1255,7,Not allowed to get closer directly means the area is restricted/contaminated.,20260821T125948Z_8dbb5082
+1256,6,Watering them regularly strongly suggests the plants are still alive.,20260821T125948Z_8dbb5082
+1257,7,"If he was already dead by then, he did not create the artwork in 1981.",20260821T125948Z_8dbb5082
+1258,6,A thick ice layer strongly suggests it is ice skating season.,20260821T125948Z_8dbb5082
+1259,7,Being in the advanced course means the person is not a beginner.,20260821T125948Z_8dbb5082
+1260,5,"Seeing a doctor suggests the person may have been sick, but it is not explicit.",20260821T125948Z_8dbb5082
+1261,1,Going out with friends means he did not go to bed early.,20260821T125948Z_8dbb5082
+1262,6,"Voting yesterday implies the members could elect a representative, though the answer is indirect.",20260821T125948Z_8dbb5082
+1263,6,Spotless means the car is completely clean.,20260821T125948Z_8dbb5082
+1264,7,Submitting a blank sheet clearly means they did not write a good exam.,20260821T125948Z_8dbb5082
+1265,1,"If she has just got into the changing room, she is not yet dressed for the tennis game.",20260821T125948Z_8dbb5082
+1266,6,Being compensated means he got the money back or was otherwise made whole.,20260821T125948Z_8dbb5082
+1267,1,"No one has responded means the house has not been sold, so no.",20260821T125948Z_8dbb5082
+1268,1,Not playing any instrument means he is not part of a marching band as a musician.,20260821T125948Z_8dbb5082
+1269,5,"Being in Japan for several months suggests he has experienced Asia, and likely tried sushi, but it is indirect.",20260821T125948Z_8dbb5082
+1270,7,Aiming for the mountain top clearly means the route goes uphill.,20260821T125948Z_8dbb5082
+1271,6,The customer received it means the package was shipped and arrived.,20260821T125948Z_8dbb5082
+1273,1,"Skipping the last four lessons means she is not very dedicated to the course, so no.",20260821T125948Z_8dbb5082
+1274,5,"A poor monitor resolution can cause eye strain, but this is an indirect implication rather than a direct answer.",20260821T125948Z_8dbb5082
+1275,6,Graduating from medical school strongly suggests she is a medical doctor.,20260821T125948Z_8dbb5082
+1276,1,"If it is private property, you would not have been inside it freely, so no.",20260821T125948Z_8dbb5082
+2101,6,"Needing to revise topics clearly means yes, the person has to study for the test.",20260821T125948Z_8dbb5082
+2102,6,An interesting new movie means something has come out recently in cinemas.,20260821T125948Z_8dbb5082
+2103,7,Quite chilly directly answers yes to it being cold.,20260821T125948Z_8dbb5082
+2105,5,"Having heard good things about the book suggests knowledge about the novel, but it is somewhat indirect.",20260821T125948Z_8dbb5082
+2106,6,"Pulling a muscle last time indicates injury at yoga class, though phrased as past experience.",20260821T125948Z_8dbb5082
+2107,6,Cannot find my phone strongly suggests the phone is lost.,20260821T125948Z_8dbb5082
+2108,7,Minus 20 degrees clearly means it is cold outside.,20260821T125948Z_8dbb5082
+2109,6,Having just entered a church means they are in a religious building.,20260821T125948Z_8dbb5082
+2110,6,Training very hard implies workouts are usually difficult.,20260821T125948Z_8dbb5082
+2113,5,"Working on an exhausting task suggests he was working today, but it is not completely explicit.",20260821T125948Z_8dbb5082
+2114,1,"Not bringing a bikini means the person does not have swimming gear with them, so no.",20260821T125948Z_8dbb5082
+2115,1,Not having time means the person is not free at the moment.,20260821T125948Z_8dbb5082
+2116,1,Watching it last month means they did not watch it yesterday.,20260821T125948Z_8dbb5082
+2117,7,"Being on a diet strongly suggests they are eating less than usual, not more.",20260821T125948Z_8dbb5082
+2118,1,Being Muslim means they do not practise Hinduism.,20260821T125948Z_8dbb5082
+2119,6,Head spinning after beers means the person is not feeling ok.,20260821T125948Z_8dbb5082
+2120,7,Very tired directly means not energetic.,20260821T125948Z_8dbb5082
+2121,1,Being broke means they do not have money saved up.,20260821T125948Z_8dbb5082
+2122,6,Having used a chainsaw before indicates it is not the first experience.,20260821T125948Z_8dbb5082
+2123,1,11 p.m. is not morning in Los Angeles.,20260821T125948Z_8dbb5082
+2124,6,Having a hangover means the person is not feeling good.,20260821T125948Z_8dbb5082
+2125,1,Being diabetic means the person is not free of chronic disease.,20260821T125948Z_8dbb5082
+2127,2,Usually getting seasick means the person does not feel well on boats.,20260821T125948Z_8dbb5082
+2128,7,"If the toothache is gone, the teeth are not still hurting.",20260821T125948Z_8dbb5082
+2129,5,"Several bus stops before the destination suggests there are many stations on the way, though it is not exactly the same thing.",20260821T125948Z_8dbb5082
+2130,6,Saying they should not staple them implies it is not allowed.,20260821T125948Z_8dbb5082
+2131,7,Very light directly answers that the luggage does not weigh much.,20260821T125948Z_8dbb5082
+2132,7,Having to get up at 5 am clearly means yes.,20260821T125948Z_8dbb5082
+2134,1,French being the native language means Spanish is not the mother tongue.,20260821T125948Z_8dbb5082
+2135,7,"If it does not work, the remote is still unusable.",20260821T125948Z_8dbb5082
+2136,7,Wolves are very common here directly confirms wild animals in the region.,20260821T125948Z_8dbb5082
+2137,2,Only having cacti suggests there are no trees in the garden.,20260821T125948Z_8dbb5082
+2138,6,Needing a passport for travelling implies it is necessary for taking the plane.,20260821T125948Z_8dbb5082
+2139,2,Having a sandwich means they did not bring pie for lunch.,20260821T125948Z_8dbb5082
+2140,5,"Having to go out soon suggests the kids are about to leave, though not explicitly yet.",20260821T125948Z_8dbb5082
+2141,7,Starving directly means hungry.,20260821T125948Z_8dbb5082
+2144,7,"Drinking tea all the time clearly means yes, they often consume hot drinks.",20260821T125948Z_8dbb5082
+2145,6,Too much light directly implies the room is very bright.,20260821T125948Z_8dbb5082
+2146,1,"If they will be abroad then, they will not stay in town till Friday.",20260821T125948Z_8dbb5082
+2147,5,"Having a soup indicates eating something, though it is phrased a bit casually.",20260821T125948Z_8dbb5082
+2148,6,Just started pouring means it is raining already.,20260821T125948Z_8dbb5082
+2149,7,Not drinking directly answers no to consuming alcohol.,20260821T125948Z_8dbb5082
+2150,1,"Having a dishwasher in the kitchen shows not everything was taken away, so no.",20260821T125948Z_8dbb5082
+2151,1,Giving away the racket ages ago means they do not still have tennis equipment.,20260821T125948Z_8dbb5082
+2152,1,Not eating spicy dishes means they do not consume all types of food.,20260821T125948Z_8dbb5082
+2153,7,Living right next to you directly means they are neighbors.,20260821T125948Z_8dbb5082
+2155,1,Understanding everything now means they are not still confused.,20260821T125948Z_8dbb5082
+2156,6,Chest hurts a lot indicates pain in the upper body.,20260821T125948Z_8dbb5082
+2157,1,Being in the middle of summer means it is not winter there.,20260821T125948Z_8dbb5082
+2159,6,Cutting a finger while cooking means the person got hurt.,20260821T125948Z_8dbb5082
+2160,6,Dust all over the floor means the living room is dirty.,20260821T125948Z_8dbb5082
+2161,1,Having brought mine means they did not leave toothpaste at home.,20260821T125948Z_8dbb5082
+2162,6,Chapped lips indicate the lips were damaged by wind or cold.,20260821T125948Z_8dbb5082
+2163,1,Working early tomorrow morning means they are not doing the afternoon shift tomorrow.,20260821T125948Z_8dbb5082
+2164,1,Planning to eat at a restaurant means they are not going to have dinner at home.,20260821T125948Z_8dbb5082
+2165,6,Having grown a lot recently means the hedges are taller than last time.,20260821T125948Z_8dbb5082
+2166,6,Lunch is now ready means cooking is finished.,20260821T125948Z_8dbb5082
+2167,6,A very complicated math exercise indicates difficult homework.,20260821T125948Z_8dbb5082
+2168,1,Not sure where to go yet means no destination has been decided.,20260821T125948Z_8dbb5082
+2169,5,"Smoking cigars only suggests they smoke, though not cigarettes specifically.",20260821T125948Z_8dbb5082
+2170,1,Usually typing on a laptop means they are not writing on paper.,20260821T125948Z_8dbb5082
+2171,6,A stove not delivered yet suggests the kitchen is still incomplete.,20260821T125948Z_8dbb5082
+2172,7,Cars get stolen regularly here directly means car theft occurs often.,20260821T125948Z_8dbb5082
+2173,1,A wardrobe completely full of clothes means there is no room left.,20260821T125948Z_8dbb5082
+2174,6,Laundry piling up clearly means there is a lot to wash.,20260821T125948Z_8dbb5082
+2175,5,"A relaxed breakfast suggests they are taking some time for breakfast, but the wording is indirect.",20260821T125948Z_8dbb5082
+2201,6,"Needing to revise topics means studying together would make sense and the answer leans yes, though it is not explicit.",20260821T125948Z_8dbb5082
+2202,5,"An interesting new movie suggests going to the cinema, but it is only a weak cue.",20260821T125948Z_8dbb5082
+2203,6,"If it is quite chilly, closing the window is a likely yes.",20260821T125948Z_8dbb5082
+2205,5,Having heard good things about the book is only a loose connection to wanting to borrow it.,20260821T125948Z_8dbb5082
+2206,6,Pulling a muscle last time strongly suggests skipping yoga class.,20260821T125948Z_8dbb5082
+2207,6,Not finding the phone implies a need to use the other person's phone.,20260821T125948Z_8dbb5082
+2208,7,Minus 20 degrees clearly means a coat is needed.,20260821T125948Z_8dbb5082
+2209,6,Entering a church strongly suggests turning off phones.,20260821T125948Z_8dbb5082
+2210,6,Training very hard suggests a protein shake would be welcome.,20260821T125948Z_8dbb5082
+2213,2,"Working on an exhausting task suggests taking a break, but because it could also mean they are busy, this is only somewhat no.",20260821T125948Z_8dbb5082
+2214,6,"Not bringing a bikini suggests going to the lake is unlikely, especially for swimming.",20260821T125948Z_8dbb5082
+2215,1,"Not having time directly means no, they are not coming.",20260821T125948Z_8dbb5082
+2216,1,Watching it last month means they should not watch Titanic tonight again? This clearly makes the answer no to watching it yesterday/tonight as proposed.,20260821T125948Z_8dbb5082
+2217,7,Being on a diet strongly suggests no dessert.,20260821T125948Z_8dbb5082
+2218,1,Being Muslim means they do not want pork.,20260821T125948Z_8dbb5082
+2219,1,Feeling spinning after beers means they do not want another beer.,20260821T125948Z_8dbb5082
+2220,2,"Being very tired suggests not going out, so likely no.",20260821T125948Z_8dbb5082
+2221,1,Being broke means they should not go on a trip.,20260821T125948Z_8dbb5082
+2222,6,Having used a chainsaw before implies no help is needed.,20260821T125948Z_8dbb5082
+2223,1,"11 p.m. means it is too late to go to the cinema, so no.",20260821T125948Z_8dbb5082
+2224,1,Having a hangover means no drinks.,20260821T125948Z_8dbb5082
+2225,1,Being diabetic means no cake.,20260821T125948Z_8dbb5082
+2227,2,Usually getting seasick suggests they would not want to join a sea cruise.,20260821T125948Z_8dbb5082
+2228,1,"If the toothache is gone, they do not want painkillers.",20260821T125948Z_8dbb5082
+2229,1,Having several bus stops before the destination means they do not want to take the bus seat now.,20260821T125948Z_8dbb5082
+2230,1,Saying they should not staple them means they do not want the stapler.,20260821T125948Z_8dbb5082
+2231,6,"If the luggage is very light, help is probably not needed.",20260821T125948Z_8dbb5082
+2232,6,"Having to get up at 5 am means yes, set the alarm.",20260821T125948Z_8dbb5082
+2234,7,French being the native language clearly means no need to check French spelling.,20260821T125948Z_8dbb5082
+2235,6,"If the remote does not work, changing the batteries is sensible and likely yes.",20260821T125948Z_8dbb5082
+2236,6,Wolves being very common suggests locking up cattle is a good idea.,20260821T125948Z_8dbb5082
+2237,1,"Only having cacti means there are no plants to water, so no.",20260821T125948Z_8dbb5082
+2238,7,"Needing the passport for travelling clearly means yes, pack it.",20260821T125948Z_8dbb5082
+2239,1,"Having a sandwich means they do not want more food right now, so likely no.",20260821T125948Z_8dbb5082
+2240,6,"If the kids have to go out soon, waking them up is appropriate.",20260821T125948Z_8dbb5082
+2241,1,"Being starving means they do want biscuits, so yes? Actually the question is can we offer biscuits; starvation implies yes.",20260821T125948Z_8dbb5082
+2244,7,Drinking tea all the time clearly means they would like to use the kettle.,20260821T125948Z_8dbb5082
+2245,6,Having too much light means turning down the dimmer is a likely yes.,20260821T125948Z_8dbb5082
+2246,1,"If they will be abroad then, they are not coming to the party this Friday.",20260821T125948Z_8dbb5082
+2247,7,Having soup clearly means they want a spoon.,20260821T125948Z_8dbb5082
+2248,7,"It just started pouring clearly means yes, an umbrella would be wanted.",20260821T125948Z_8dbb5082
+2249,7,Not drinking directly means no wine.,20260821T125948Z_8dbb5082
+2250,1,"Having a dishwasher means they do not need the person to do the dishes, so no.",20260821T125948Z_8dbb5082
+2251,1,Giving away the racket ages ago means they cannot or do not want to play tennis.,20260821T125948Z_8dbb5082
+2252,1,Not eating spicy dishes means no to Mexican food in this context.,20260821T125948Z_8dbb5082
+2253,1,Living right next to you means no ride home is needed.,20260821T125948Z_8dbb5082
+2255,1,Understanding everything now means they do not need it explained again.,20260821T125948Z_8dbb5082
+2256,6,Chest hurts a lot indicates calling the doctor is appropriate.,20260821T125948Z_8dbb5082
+2257,1,Being in the middle of summer means no extra blanket is needed.,20260821T125948Z_8dbb5082
+2259,6,Cutting a finger means a plaster would be useful.,20260821T125948Z_8dbb5082
+2260,6,Dust all over the floor means sweeping the living room is a good idea.,20260821T125948Z_8dbb5082
+2261,1,Having brought mine means they do not need toothpaste.,20260821T125948Z_8dbb5082
+2262,6,Chapped lips indicate they would want lip balm.,20260821T125948Z_8dbb5082
+2263,1,Working early tomorrow morning means they are unlikely to join for drinks tonight.,20260821T125948Z_8dbb5082
+2264,1,Planning to eat at a restaurant means no need to cook at home.,20260821T125948Z_8dbb5082
+2265,6,The hedges having grown a lot suggests pruning them is appropriate.,20260821T125948Z_8dbb5082
+2266,6,Lunch is now ready means setting the table makes sense.,20260821T125948Z_8dbb5082
+2267,5,"A very complicated math exercise suggests a calculator would help, but this is indirect.",20260821T125948Z_8dbb5082
+2268,1,"If they are not sure where to go yet, buying train tickets now is not appropriate.",20260821T125948Z_8dbb5082
+2269,1,"Smoking cigars only means no cigarettes, so no to the cigarette.",20260821T125948Z_8dbb5082
+2270,1,Usually typing on a laptop means no need for paper.,20260821T125948Z_8dbb5082
+2271,1,"If the stove was not delivered yet, getting delivery food makes sense, but the statement is about the stove, so the answer is not directly yes/no to the offered food.",20260821T125948Z_8dbb5082
+2272,6,Cars getting stolen regularly here suggests locking the car is a good idea.,20260821T125948Z_8dbb5082
+2273,1,A wardrobe completely full means they do not need to shop for clothes.,20260821T125948Z_8dbb5082
+2274,6,Dirty laundry piling up means doing the laundry is a good idea.,20260821T125948Z_8dbb5082
+2275,5,"A relaxed breakfast suggests yes, they have time for breakfast, though it is indirect.",20260821T125948Z_8dbb5082

@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787615783-Ml9GGukN8G3KnjjxSyz5,qwen/qwen3.8-27b,qwen/qwen3.8-27b,AkashML,stop,9792,35614,18184,45406,0.1107588,,chatcmpl-baa4e10b2d5639e1,stop,1337,712434,20260824T093740Z_5937923c

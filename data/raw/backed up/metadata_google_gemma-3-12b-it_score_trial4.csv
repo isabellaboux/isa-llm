@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787581850-GOSsmRE7UqoQ7q1WYhLB,google/gemma-3-12b-it,google/gemma-3-12b-it,DeepInfra,stop,9172,8099,0,17271,0.00167345,,chatcmpl-RczaQPN4f0ryz5EvAv5viZNg,stop,781,148336,20260824T093740Z_5937923c

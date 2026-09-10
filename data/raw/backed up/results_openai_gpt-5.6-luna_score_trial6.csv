@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,2,No; B says Martin has not been seen for ages.,20260821T125948Z_8dbb5082
+1102,7,Yes; sending an application is something B is doing now.,20260821T125948Z_8dbb5082
+1103,7,Yes; B explicitly trains with Lukas at the gym.,20260821T125948Z_8dbb5082
+1104,7,Yes; B confirms that his grandfather died.,20260821T125948Z_8dbb5082
+1105,6,Yes; 1000 km generally indicates Paris is far away.,20260821T125948Z_8dbb5082
+1106,6,Yes; a six-hour drive indicates a long journey.,20260821T125948Z_8dbb5082
+1107,2,Likely no; the delay indicates the journey is not going as planned.,20260821T125948Z_8dbb5082
+1108,1,Definitely no; some cereal remains.,20260821T125948Z_8dbb5082
+1109,1,Definitely no; the essay is not due for three months.,20260821T125948Z_8dbb5082
+1110,7,Yes; streets that are always congested indicate frequent heavy traffic.,20260821T125948Z_8dbb5082
+1111,1,Definitely no; a vegetarian does not eat meat.,20260821T125948Z_8dbb5082
+1112,7,Yes; having the flu means John is sick.,20260821T125948Z_8dbb5082
+1113,6,Likely yes; running for hours every day indicates daily training.,20260821T125948Z_8dbb5082
+1114,1,Definitely no; Clara has just woken up.,20260821T125948Z_8dbb5082
+1115,1,Definitely no; the movie comes out next week.,20260821T125948Z_8dbb5082
+1116,7,Yes; B says they have used a drill before.,20260821T125948Z_8dbb5082
+1117,1,"Definitely no; the celebration is tonight, not tomorrow.",20260821T125948Z_8dbb5082
+1118,6,Likely yes; moving out tomorrow means leaving the flat soon.,20260821T125948Z_8dbb5082
+1119,5,"Somewhat yes; repeatedly falling behind suggests slackness, though it is not explicit.",20260821T125948Z_8dbb5082
+1120,7,Yes; the region is explicitly famous for surfing.,20260821T125948Z_8dbb5082
+1121,1,Definitely no; the sea is described as rough.,20260821T125948Z_8dbb5082
+1122,1,Definitely no; B works at an NGO rather than a corporate company.,20260821T125948Z_8dbb5082
+1123,7,Yes; authoring many books establishes that he is a writer.,20260821T125948Z_8dbb5082
+1124,1,Definitely no; B is still analyzing the data.,20260821T125948Z_8dbb5082
+1125,3,"Likely no; being endangered suggests relatively few pandas remain, though it does not give a precise count.",20260821T125948Z_8dbb5082
+1126,7,Yes; enrolling at the gym confirms joining a fitness studio.,20260821T125948Z_8dbb5082
+1127,1,Definitely no; the thesis is not complete.,20260821T125948Z_8dbb5082
+1128,7,Yes; B says their hair was previously very long.,20260821T125948Z_8dbb5082
+1129,1,Definitely no; B identifies it as a business trip.,20260821T125948Z_8dbb5082
+1130,1,Definitely no; B needs a larger flat.,20260821T125948Z_8dbb5082
+1131,7,Yes; a deadline tomorrow means submission is soon.,20260821T125948Z_8dbb5082
+1132,7,Yes; sleeping only four hours indicates a short night.,20260821T125948Z_8dbb5082
+1133,1,Definitely no; the discount offer had expired.,20260821T125948Z_8dbb5082
+1134,7,Yes; the cat got wounded.,20260821T125948Z_8dbb5082
+1135,1,Definitely no; Mark is still missing.,20260821T125948Z_8dbb5082
+1137,7,Yes; being Chinese indicates coming from Asia.,20260821T125948Z_8dbb5082
+1138,5,"Somewhat yes; a dead line may mean the call ended, but it does not explicitly say B hung up.",20260821T125948Z_8dbb5082
+1139,6,Likely yes; having domestics suggests someone cares for the house.,20260821T125948Z_8dbb5082
+1140,1,Definitely no; the bar has just opened.,20260821T125948Z_8dbb5082
+1141,6,Likely yes; a house full of books suggests he owns many.,20260821T125948Z_8dbb5082
+1143,7,Yes; having only a few guests describes a small gathering.,20260821T125948Z_8dbb5082
+1144,1,Definitely no; B has only one week off.,20260821T125948Z_8dbb5082
+1145,7,Yes; expecting a baby indicates pregnancy.,20260821T125948Z_8dbb5082
+1147,1,Definitely no; B still owes money.,20260821T125948Z_8dbb5082
+1148,1,Definitely no; he only had water.,20260821T125948Z_8dbb5082
+1149,2,Likely no; an orchard is not a vegetable garden.,20260821T125948Z_8dbb5082
+1150,1,Definitely no; a 25-year-old is not underage.,20260821T125948Z_8dbb5082
+1151,1,"Definitely no; the tuition is extremely expensive, so it is not affordable.",20260821T125948Z_8dbb5082
+1152,6,Likely yes; making a bank transfer indicates payment.,20260821T125948Z_8dbb5082
+1153,1,Definitely no; the children cannot swim yet.,20260821T125948Z_8dbb5082
+1154,1,Definitely no; B says they are healthy again.,20260821T125948Z_8dbb5082
+1155,7,Yes; people are explicitly not allowed to approach.,20260821T125948Z_8dbb5082
+1156,7,Yes; B says they watered the plants regularly.,20260821T125948Z_8dbb5082
+1157,1,Definitely no; he was already dead in the 1980s.,20260821T125948Z_8dbb5082
+1158,7,Yes; a thick ice layer indicates the lake is frozen.,20260821T125948Z_8dbb5082
+1159,1,Definitely no; B is in the advanced course.,20260821T125948Z_8dbb5082
+1160,7,Yes; seeing a doctor is seeking medical advice.,20260821T125948Z_8dbb5082
+1161,1,Definitely no; B went out with friends.,20260821T125948Z_8dbb5082
+1162,7,Yes; voting yesterday indicates a recent election.,20260821T125948Z_8dbb5082
+1163,7,Yes; spotless means completely clean.,20260821T125948Z_8dbb5082
+1164,1,Definitely no; they submitted a blank sheet.,20260821T125948Z_8dbb5082
+1165,1,Definitely no; she has gone into the changing room.,20260821T125948Z_8dbb5082
+1166,7,Yes; being compensated means he got money back.,20260821T125948Z_8dbb5082
+1167,1,Definitely no; no one responded to the advertisement.,20260821T125948Z_8dbb5082
+1168,1,Definitely no; he does not play any instrument.,20260821T125948Z_8dbb5082
+1169,7,Yes; Japan is in Asia.,20260821T125948Z_8dbb5082
+1170,7,Yes; the mountain top is the summit.,20260821T125948Z_8dbb5082
+1171,7,Yes; the customer received the package.,20260821T125948Z_8dbb5082
+1173,2,"Likely no; she skipped the last four lessons, so she did not attend the whole course.",20260821T125948Z_8dbb5082
+1174,6,Likely yes; poor monitor resolution implies a bad image.,20260821T125948Z_8dbb5082
+1175,7,Yes; graduating from medical school confirms completion of those studies.,20260821T125948Z_8dbb5082
+1176,1,"Definitely no; it is private property, not a public building.",20260821T125948Z_8dbb5082
+1201,3,"Likely no; not seeing Martin for ages suggests distance, but does not prove they are no longer friends.",20260821T125948Z_8dbb5082
+1202,6,Likely yes; sending an application indicates looking for a job.,20260821T125948Z_8dbb5082
+1203,6,Likely yes; training with Lukas indicates knowing him.,20260821T125948Z_8dbb5082
+1204,4,Ambiguous; the grandfather’s death does not establish whether this is his property now.,20260821T125948Z_8dbb5082
+1205,6,Likely yes; 1000 km is a long drive.,20260821T125948Z_8dbb5082
+1206,6,Likely yes; a six-hour drive means Munich is far.,20260821T125948Z_8dbb5082
+1207,3,Likely no; a delayed train makes arriving home by noon less likely.,20260821T125948Z_8dbb5082
+1208,6,Likely yes; having cereal left suggests cereal was bought.,20260821T125948Z_8dbb5082
+1209,3,Likely no or not established; the due date does not say whether writing has started.,20260821T125948Z_8dbb5082
+1210,6,Likely yes; consistently congested streets make being late plausible.,20260821T125948Z_8dbb5082
+1211,1,Definitely no; a vegetarian is unlikely to attend a steak house for steak.,20260821T125948Z_8dbb5082
+1212,5,"Somewhat yes; having the flu makes staying home likely, but does not explicitly confirm it.",20260821T125948Z_8dbb5082
+1213,4,Ambiguous; daily running does not establish marathon registration.,20260821T125948Z_8dbb5082
+1214,1,"Definitely no; she has just woken up, so breakfast is not established as already eaten.",20260821T125948Z_8dbb5082
+1215,1,Definitely no; the movie is not released until next week.,20260821T125948Z_8dbb5082
+1216,7,Yes; B has used a drill before.,20260821T125948Z_8dbb5082
+1217,4,Ambiguous; celebrating tonight does not reveal whether B failed the exam.,20260821T125948Z_8dbb5082
+1218,5,"Somewhat yes; moving out may accompany a breakup, but does not prove one.",20260821T125948Z_8dbb5082
+1219,4,Ambiguous; falling behind could explain firing but does not confirm it.,20260821T125948Z_8dbb5082
+1220,6,"Likely yes; a surfing region commonly has sizable waves, though this is indirect.",20260821T125948Z_8dbb5082
+1221,1,Definitely no; rough seas are not safe for casual swimming.,20260821T125948Z_8dbb5082
+1222,3,"Likely no; working at an NGO often suggests lower pay, but it does not determine income.",20260821T125948Z_8dbb5082
+1223,6,Likely yes; many successful books suggest fame.,20260821T125948Z_8dbb5082
+1224,1,Definitely no; B is still analyzing the data and has not presented it.,20260821T125948Z_8dbb5082
+1225,3,"Likely no; endangered status suggests hunting may be restricted, but legality is not explicitly stated.",20260821T125948Z_8dbb5082
+1226,4,Ambiguous; joining a gym does not indicate whether weight was lost.,20260821T125948Z_8dbb5082
+1227,1,Definitely no; an incomplete thesis indicates graduation has not occurred.,20260821T125948Z_8dbb5082
+1228,6,Likely yes; saying the hair was too long strongly suggests it was cut.,20260821T125948Z_8dbb5082
+1229,1,Definitely no; a business trip does not provide time for vacation sightseeing.,20260821T125948Z_8dbb5082
+1230,1,"Definitely no; B needs a larger flat, not that one-room flat.",20260821T125948Z_8dbb5082
+1231,5,"Somewhat yes; an imminent deadline could cause stress, but it is not explicit.",20260821T125948Z_8dbb5082
+1232,7,Yes; sleeping only four hours strongly indicates tiredness.,20260821T125948Z_8dbb5082
+1233,2,Likely no; the expired offer likely prevented booking the flight.,20260821T125948Z_8dbb5082
+1234,6,Likely yes; an injured cat would reasonably be taken to a vet.,20260821T125948Z_8dbb5082
+1235,1,"Definitely no; Mark is still missing, so they are not ready.",20260821T125948Z_8dbb5082
+1237,4,Ambiguous; being Chinese does not establish the ability to cook Cantonese rice.,20260821T125948Z_8dbb5082
+1238,4,Ambiguous; a dead line prevents knowing whether the issue was communicated.,20260821T125948Z_8dbb5082
+1239,6,Likely yes; domestic staff could keep the house tidy.,20260821T125948Z_8dbb5082
+1240,4,Ambiguous; the bar’s recent opening does not say whether B has tried it.,20260821T125948Z_8dbb5082
+1241,6,Likely yes; a house full of history books suggests a passion for history.,20260821T125948Z_8dbb5082
+1243,6,Likely yes; few dinner guests make a smaller saucepan more likely to be sufficient.,20260821T125948Z_8dbb5082
+1244,1,"Definitely no; B has only one week off, not two.",20260821T125948Z_8dbb5082
+1245,6,Likely yes; pregnancy commonly explains avoiding alcohol.,20260821T125948Z_8dbb5082
+1247,4,Ambiguous; owing money does not establish whether a new loan was obtained.,20260821T125948Z_8dbb5082
+1248,1,Definitely no; he only drank water.,20260821T125948Z_8dbb5082
+1249,4,Ambiguous; owning an orchard does not answer whether fruit is bought at a supermarket.,20260821T125948Z_8dbb5082
+1250,1,Definitely no; a 25-year-old is not in elementary school.,20260821T125948Z_8dbb5082
+1251,1,"Definitely no; the tuition is extremely expensive, making Harvard unlikely to be an option financially.",20260821T125948Z_8dbb5082
+1252,6,Likely yes; transferring money suggests she accepted and acted on the deal.,20260821T125948Z_8dbb5082
+1253,3,"Likely no; inability to swim makes going to the pool less likely, though it is not conclusive.",20260821T125948Z_8dbb5082
+1254,1,Definitely no; being healthy again suggests the pills are no longer needed.,20260821T125948Z_8dbb5082
+1255,5,"Somewhat yes; restricted access suggests a possible hazard, but does not specifically establish contamination.",20260821T125948Z_8dbb5082
+1256,6,Likely yes; regular watering suggests the plants are being kept alive.,20260821T125948Z_8dbb5082
+1257,1,Definitely no; he was already dead in 1981.,20260821T125948Z_8dbb5082
+1258,6,Likely yes; thick ice suggests conditions suitable for ice skating.,20260821T125948Z_8dbb5082
+1259,1,Definitely no; B is in an advanced course.,20260821T125948Z_8dbb5082
+1260,6,"Likely yes; seeing a doctor suggests B had been sick, though it is not explicit.",20260821T125948Z_8dbb5082
+1261,1,Definitely no; going out with friends indicates B did not go to bed early.,20260821T125948Z_8dbb5082
+1262,7,Yes; voting yesterday indicates members can elect a representative.,20260821T125948Z_8dbb5082
+1263,5,"Somewhat yes; spotless indicates it is clean, but not specifically that it is back from the car wash.",20260821T125948Z_8dbb5082
+1264,1,Definitely no; a blank sheet is not a good completed exam.,20260821T125948Z_8dbb5082
+1265,1,Definitely no; she is still in the changing room and not dressed for the game.,20260821T125948Z_8dbb5082
+1266,6,Likely yes; compensation suggests the lawsuit was settled financially.,20260821T125948Z_8dbb5082
+1267,1,Definitely no; no one responded to the sale listing.,20260821T125948Z_8dbb5082
+1268,1,"Definitely no; he does not play an instrument, which rules out marching-band membership here.",20260821T125948Z_8dbb5082
+1269,6,Likely yes; spending several months in Japan makes trying sushi plausible.,20260821T125948Z_8dbb5082
+1270,5,"Somewhat yes; aiming for the mountaintop suggests an uphill route, but not that the whole way is uphill.",20260821T125948Z_8dbb5082
+1271,7,Yes; receipt by the customer confirms shipment.,20260821T125948Z_8dbb5082
+1273,2,Likely no; skipping four lessons suggests she is not highly dedicated.,20260821T125948Z_8dbb5082
+1274,5,"Somewhat yes; poor resolution can strain the eyes, but this is indirect.",20260821T125948Z_8dbb5082
+1275,7,Yes; graduating from medical school supports being a medical doctor.,20260821T125948Z_8dbb5082
+1276,4,Ambiguous; private property does not establish whether B has been inside.,20260821T125948Z_8dbb5082
+2101,7,Yes; needing to revise topics means B has to study.,20260821T125948Z_8dbb5082
+2102,7,Yes; an interesting new movie has recently appeared in cinemas.,20260821T125948Z_8dbb5082
+2103,7,Yes; chilly means cold.,20260821T125948Z_8dbb5082
+2105,6,Likely yes; hearing good things indicates some knowledge about the novel.,20260821T125948Z_8dbb5082
+2106,7,Yes; pulling a muscle is an injury sustained at the class.,20260821T125948Z_8dbb5082
+2107,7,Yes; B cannot find the phone and therefore may have lost it.,20260821T125948Z_8dbb5082
+2108,7,Yes; minus 20 degrees is clearly cold.,20260821T125948Z_8dbb5082
+2109,7,"Yes; they have just entered a church, a religious building.",20260821T125948Z_8dbb5082
+2110,7,Yes; training very hard indicates difficult workouts.,20260821T125948Z_8dbb5082
+2113,7,Yes; B says they have been working today.,20260821T125948Z_8dbb5082
+2114,1,Definitely no; B did not bring swimming gear or a bikini.,20260821T125948Z_8dbb5082
+2115,1,Definitely no; B says they do not have time.,20260821T125948Z_8dbb5082
+2116,1,"Definitely no; B watched Titanic last month, not yesterday.",20260821T125948Z_8dbb5082
+2117,1,Definitely no; being on a diet suggests not eating more than usual.,20260821T125948Z_8dbb5082
+2118,1,Definitely no; B identifies as Muslim rather than Hindu.,20260821T125948Z_8dbb5082
+2119,1,Definitely no; dizziness after drinking indicates B is not feeling okay.,20260821T125948Z_8dbb5082
+2120,1,Definitely no; B explicitly says they are very tired.,20260821T125948Z_8dbb5082
+2121,1,Definitely no; being broke indicates no money is currently saved.,20260821T125948Z_8dbb5082
+2122,7,Yes; B has used a chainsaw before.,20260821T125948Z_8dbb5082
+2123,1,Definitely no; 11 p.m. is not morning.,20260821T125948Z_8dbb5082
+2124,1,Definitely no; a hangover indicates B is not feeling good.,20260821T125948Z_8dbb5082
+2125,1,"Definitely no; B is diabetic, a chronic disease.",20260821T125948Z_8dbb5082
+2127,1,Definitely no; B usually gets seasick on boats.,20260821T125948Z_8dbb5082
+2128,1,Definitely no; the toothache is gone.,20260821T125948Z_8dbb5082
+2129,7,Yes; several bus stops means there are many stations on the route.,20260821T125948Z_8dbb5082
+2130,1,Definitely no; B should not staple the documents.,20260821T125948Z_8dbb5082
+2131,1,Definitely no; the luggage is very light.,20260821T125948Z_8dbb5082
+2132,7,Yes; getting up at 5 a.m. requires waking early.,20260821T125948Z_8dbb5082
+2134,1,"Definitely no; French, not Spanish, is B’s native language.",20260821T125948Z_8dbb5082
+2135,7,Yes; the remote does not work.,20260821T125948Z_8dbb5082
+2136,7,Yes; wolves are wild animals and are common in the region.,20260821T125948Z_8dbb5082
+2137,1,Definitely no; the garden has cacti rather than trees.,20260821T125948Z_8dbb5082
+2138,7,Yes; B explicitly says a passport is needed for travel.,20260821T125948Z_8dbb5082
+2139,1,"Definitely no; B brought a sandwich, not pie.",20260821T125948Z_8dbb5082
+2140,7,Yes; they have to go out soon.,20260821T125948Z_8dbb5082
+2141,7,Yes; B says they are starving.,20260821T125948Z_8dbb5082
+2144,7,Yes; B drinks tea all the time.,20260821T125948Z_8dbb5082
+2145,7,Yes; too much light means the room is very bright.,20260821T125948Z_8dbb5082
+2146,1,Definitely no; B will be abroad until then.,20260821T125948Z_8dbb5082
+2147,7,Yes; B is having soup.,20260821T125948Z_8dbb5082
+2148,7,"Yes; pouring has just started, so it is raining.",20260821T125948Z_8dbb5082
+2149,1,Definitely no; B says they do not drink alcohol.,20260821T125948Z_8dbb5082
+2150,1,Definitely no; a dishwasher remains in the flat.,20260821T125948Z_8dbb5082
+2151,1,Definitely no; B gave away the racket.,20260821T125948Z_8dbb5082
+2152,1,Definitely no; B does not eat spicy dishes.,20260821T125948Z_8dbb5082
+2153,7,Yes; living right next door means they are neighbors.,20260821T125948Z_8dbb5082
+2155,1,Definitely no; B understands everything now.,20260821T125948Z_8dbb5082
+2156,7,Yes; chest pain is pain in the upper body.,20260821T125948Z_8dbb5082
+2157,1,Definitely no; it is the middle of summer.,20260821T125948Z_8dbb5082
+2159,7,Yes; cutting a finger is an injury.,20260821T125948Z_8dbb5082
+2160,7,Yes; dust all over the floor indicates the room is dirty.,20260821T125948Z_8dbb5082
+2161,1,Definitely no; B brought their toothpaste.,20260821T125948Z_8dbb5082
+2162,7,Yes; chapped lips are wind-related damage.,20260821T125948Z_8dbb5082
+2163,1,"Definitely no; B is working the early shift, not the afternoon shift.",20260821T125948Z_8dbb5082
+2164,1,Definitely no; B plans to eat at a restaurant.,20260821T125948Z_8dbb5082
+2165,7,Yes; the hedges have grown a lot.,20260821T125948Z_8dbb5082
+2166,7,Yes; lunch being ready indicates cooking is finished.,20260821T125948Z_8dbb5082
+2167,7,Yes; a complicated math exercise is difficult homework.,20260821T125948Z_8dbb5082
+2168,1,Definitely no; B has not decided on a destination.,20260821T125948Z_8dbb5082
+2169,1,"Definitely no; B smokes cigars only, not cigarettes.",20260821T125948Z_8dbb5082
+2170,1,Definitely no; B usually types on a laptop.,20260821T125948Z_8dbb5082
+2171,6,Likely yes; an undelivered stove indicates the kitchen is not complete.,20260821T125948Z_8dbb5082
+2172,7,Yes; cars are stolen regularly there.,20260821T125948Z_8dbb5082
+2173,1,Definitely no; the wardrobe is completely full.,20260821T125948Z_8dbb5082
+2174,7,Yes; dirty laundry is piling up.,20260821T125948Z_8dbb5082
+2175,6,Likely yes; B says they can have a relaxed breakfast.,20260821T125948Z_8dbb5082
+2201,6,Likely yes; revising topics is compatible with studying together.,20260821T125948Z_8dbb5082
+2202,6,Likely yes; the new movie provides a reason to go to the cinema.,20260821T125948Z_8dbb5082
+2203,6,Likely yes; chilly weather supports closing the window.,20260821T125948Z_8dbb5082
+2205,5,"Somewhat yes; hearing good things suggests interest, but does not explicitly accept the book.",20260821T125948Z_8dbb5082
+2206,2,Likely no; a pulled muscle is a reason to skip yoga.,20260821T125948Z_8dbb5082
+2207,1,Definitely no; B cannot find their own phone and does not request another.,20260821T125948Z_8dbb5082
+2208,6,Likely yes; minus 20 degrees makes needing a coat very likely.,20260821T125948Z_8dbb5082
+2209,6,Likely yes; entering a church supports turning phones off.,20260821T125948Z_8dbb5082
+2210,4,Ambiguous; training hard does not directly answer whether B wants a protein shake.,20260821T125948Z_8dbb5082
+2213,6,Likely yes; an exhausting task supports taking a break.,20260821T125948Z_8dbb5082
+2214,2,"Likely no; B lacks a bikini, suggesting they are not prepared to go to the lake.",20260821T125948Z_8dbb5082
+2215,1,Definitely no; B says they do not have time.,20260821T125948Z_8dbb5082
+2216,1,Definitely no; B already watched Titanic last month.,20260821T125948Z_8dbb5082
+2217,1,Definitely no; B is on a diet.,20260821T125948Z_8dbb5082
+2218,1,Definitely no; B is Muslim and does not accept pork.,20260821T125948Z_8dbb5082
+2219,1,Definitely no; dizziness after several beers suggests declining another.,20260821T125948Z_8dbb5082
+2220,1,Definitely no; B is very tired.,20260821T125948Z_8dbb5082
+2221,1,Definitely no; B says they are broke.,20260821T125948Z_8dbb5082
+2222,4,Ambiguous; prior chainsaw experience does not say whether help is wanted.,20260821T125948Z_8dbb5082
+2223,1,Definitely no; it is already 11 p.m.,20260821T125948Z_8dbb5082
+2224,1,Definitely no; a hangover makes having drinks unlikely.,20260821T125948Z_8dbb5082
+2225,1,Definitely no; diabetes is a reason not to accept cake.,20260821T125948Z_8dbb5082
+2227,1,Definitely no; B usually gets seasick.,20260821T125948Z_8dbb5082
+2228,1,Definitely no; the toothache is gone.,20260821T125948Z_8dbb5082
+2229,4,Ambiguous; having several stops does not directly answer whether B wants the seat.,20260821T125948Z_8dbb5082
+2230,1,Definitely no; B should not staple the documents.,20260821T125948Z_8dbb5082
+2231,1,"Definitely no; the luggage is very light, so help is unnecessary.",20260821T125948Z_8dbb5082
+2232,7,Yes; getting up at 5 a.m. supports setting an alarm.,20260821T125948Z_8dbb5082
+2234,2,Likely no; being a native French speaker makes spelling assistance less necessary.,20260821T125948Z_8dbb5082
+2235,6,"Likely yes; if the remote does not work, changing its batteries is a reasonable response.",20260821T125948Z_8dbb5082
+2236,6,Likely yes; common wolves provide a reason to lock up cattle.,20260821T125948Z_8dbb5082
+2237,3,"Likely no; having only cacti makes watering tomorrow less clearly necessary, though it is not impossible.",20260821T125948Z_8dbb5082
+2238,7,Yes; B says the passport is needed for travel.,20260821T125948Z_8dbb5082
+2239,5,"Somewhat yes; having a sandwich suggests food is available, but does not explicitly reject the offer.",20260821T125948Z_8dbb5082
+2240,6,"Likely yes; the kids need to go out soon, so waking them is appropriate.",20260821T125948Z_8dbb5082
+2241,7,Yes; being starving indicates willingness for food.,20260821T125948Z_8dbb5082
+2244,5,"Somewhat yes; B drinks tea frequently, but does not explicitly request use of the kettle.",20260821T125948Z_8dbb5082
+2245,7,Yes; too much light supports turning down the dimmer.,20260821T125948Z_8dbb5082
+2246,1,Definitely no; B will be abroad on Friday.,20260821T125948Z_8dbb5082
+2247,6,Likely yes; soup is typically eaten with a spoon.,20260821T125948Z_8dbb5082
+2248,7,Yes; pouring rain makes an umbrella useful.,20260821T125948Z_8dbb5082
+2249,1,Definitely no; B does not drink alcohol.,20260821T125948Z_8dbb5082
+2250,1,Definitely no; the dishwasher makes hand-washing dishes unnecessary.,20260821T125948Z_8dbb5082
+2251,1,Definitely no; B no longer has a racket.,20260821T125948Z_8dbb5082
+2252,1,Definitely no; B does not eat spicy dishes.,20260821T125948Z_8dbb5082
+2253,6,Likely no; living next door means a ride home is probably unnecessary.,20260821T125948Z_8dbb5082
+2255,1,Definitely no; B says they understand everything now.,20260821T125948Z_8dbb5082
+2256,7,Yes; significant chest pain supports calling a doctor.,20260821T125948Z_8dbb5082
+2257,1,Definitely no; extra warmth is unnecessary in midsummer.,20260821T125948Z_8dbb5082
+2259,7,Yes; a cut finger is an appropriate reason for a plaster.,20260821T125948Z_8dbb5082
+2260,7,Yes; dust all over the floor supports sweeping.,20260821T125948Z_8dbb5082
+2261,1,Definitely no; B already brought toothpaste.,20260821T125948Z_8dbb5082
+2262,7,Yes; chapped lips make lip balm useful.,20260821T125948Z_8dbb5082
+2263,2,Likely no; working early tomorrow makes joining drinks tonight less likely.,20260821T125948Z_8dbb5082
+2264,1,Definitely no; B plans to eat at a restaurant.,20260821T125948Z_8dbb5082
+2265,6,Likely yes; substantially grown hedges suggest they need pruning.,20260821T125948Z_8dbb5082
+2266,6,"Likely yes; with lunch ready, setting the table is appropriate.",20260821T125948Z_8dbb5082
+2267,5,"Somewhat yes; complicated homework could benefit from a calculator, but the answer is not explicit.",20260821T125948Z_8dbb5082
+2268,1,Definitely no; the destination has not been decided.,20260821T125948Z_8dbb5082
+2269,1,Definitely no; B smokes cigars only.,20260821T125948Z_8dbb5082
+2270,1,Definitely no; B prefers typing rather than using paper.,20260821T125948Z_8dbb5082
+2271,6,Likely yes; an unavailable stove makes delivery food practical.,20260821T125948Z_8dbb5082
+2272,6,Likely yes; frequent car theft supports locking the car.,20260821T125948Z_8dbb5082
+2273,1,Definitely no; the wardrobe is already full.,20260821T125948Z_8dbb5082
+2274,7,Yes; accumulating dirty laundry supports doing it.,20260821T125948Z_8dbb5082
+2275,6,Likely yes; B says they can have a relaxed breakfast.,20260821T125948Z_8dbb5082

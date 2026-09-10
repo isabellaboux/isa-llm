@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Person B explicitly states they haven't seen Martin for ages, which directly means they haven't met him lately.",20260824T093740Z_5937923c
+1102,7,"Person B describes the specific action they are currently doing, confirming they are indeed doing something.",20260824T093740Z_5937923c
+1103,7,"Person B confirms they train with Lukas at the gym, which means they exercise with him.",20260824T093740Z_5937923c
+1104,7,"Person B confirms that his grandfather died, which constitutes a death in the family.",20260824T093740Z_5937923c
+1105,6,"1000 Km is generally considered a far distance, implying a yes.",20260824T093740Z_5937923c
+1106,6,"A six-hour drive is typically considered a long time, implying a yes.",20260824T093740Z_5937923c
+1107,2,A delay means the journey is not going exactly as planned.,20260824T093740Z_5937923c
+1108,1,"If there is still some cereal left, they have not finished it.",20260824T093740Z_5937923c
+1109,1,"Person B explicitly states the deadline is in three months, not next week.",20260824T093740Z_5937923c
+1110,7,Congested streets mean there is a lot of traffic.,20260824T093740Z_5937923c
+1111,1,Vegetarians do not eat meat.,20260824T093740Z_5937923c
+1112,7,Having the flu means John is sick.,20260824T093740Z_5937923c
+1113,7,Running every day means she trains daily.,20260824T093740Z_5937923c
+1114,1,"If she just woke up, she is no longer sleeping.",20260824T093740Z_5937923c
+1115,1,"Person B states the movie comes out next week, not today.",20260824T093740Z_5937923c
+1116,7,Using one before means they have worked with a drill.,20260824T093740Z_5937923c
+1117,1,"Person B is celebrating tonight, not tomorrow.",20260824T093740Z_5937923c
+1118,7,Moving out tomorrow means leaving the flat soon.,20260824T093740Z_5937923c
+1119,6,"Falling behind is a strong characteristic of a slacker, implying yes.",20260824T093740Z_5937923c
+1120,7,Being famous for surfing means the area is popular for something.,20260824T093740Z_5937923c
+1121,1,Rough sea is the opposite of calm.,20260824T093740Z_5937923c
+1122,1,"An NGO is a non-governmental organization, not a corporate company.",20260824T093740Z_5937923c
+1123,7,Authoring books makes someone a writer.,20260824T093740Z_5937923c
+1124,1,Still analyzing means they are not finished working on the data.,20260824T093740Z_5937923c
+1125,1,"Endangered species have very few individuals left, meaning not many.",20260824T093740Z_5937923c
+1126,7,Enrolling at a gym is the same as joining a fitness studio.,20260824T093740Z_5937923c
+1127,1,Person B explicitly states the thesis is not complete.,20260824T093740Z_5937923c
+1128,7,Person B confirms their hair was long in the past.,20260824T093740Z_5937923c
+1129,1,A business trip is not a vacation.,20260824T093740Z_5937923c
+1130,1,Needing a larger flat means a one-room flat is not enough.,20260824T093740Z_5937923c
+1131,7,"Tomorrow is soon, so she has to hand it in soon.",20260824T093740Z_5937923c
+1132,7,Sleeping only four hours constitutes a short night.,20260824T093740Z_5937923c
+1133,1,"If the offer expired, the flight is no longer discounted.",20260824T093740Z_5937923c
+1134,7,Being wounded means the cat is hurt.,20260824T093740Z_5937923c
+1135,1,"If Mark is missing, not everyone is there.",20260824T093740Z_5937923c
+1137,7,"China is in Asia, so being Chinese means coming from Asia.",20260824T093740Z_5937923c
+1138,2,"The line going dead implies the connection dropped, not necessarily that Person B hung up intentionally.",20260824T093740Z_5937923c
+1139,7,Having domestics (domestic workers) means someone is taking care of the house.,20260824T093740Z_5937923c
+1140,1,Just opened means the bar hasn't been there for long.,20260824T093740Z_5937923c
+1141,7,A house full of books means he owns many books.,20260824T093740Z_5937923c
+1143,7,A few guests for dinner is a small gathering.,20260824T093740Z_5937923c
+1144,1,"Person B explicitly states they only have one week off, not two.",20260824T093740Z_5937923c
+1145,7,Going to have a baby means she is pregnant.,20260824T093740Z_5937923c
+1147,1,Still owing money means the debts are not fully paid back.,20260824T093740Z_5937923c
+1148,1,Only having water means he didn't drink a cocktail.,20260824T093740Z_5937923c
+1149,2,"An orchard is for fruit trees, which implies they don't have a vegetable garden, though it's not a strict contradiction.",20260824T093740Z_5937923c
+1150,1,25 years old is well over the legal age of majority everywhere.,20260824T093740Z_5937923c
+1151,1,Extremely expensive is the opposite of affordable.,20260824T093740Z_5937923c
+1152,7,Making a bank transfer means she has paid.,20260824T093740Z_5937923c
+1153,1,"If they cannot swim, they are not good at it.",20260824T093740Z_5937923c
+1154,1,Being healthy again means the cold is gone.,20260824T093740Z_5937923c
+1155,7,Not allowed to get closer means it is forbidden to approach.,20260824T093740Z_5937923c
+1156,7,Watering them regularly means Person B took care of the plants.,20260824T093740Z_5937923c
+1157,1,Already dead means he was not alive in the 80s.,20260824T093740Z_5937923c
+1158,7,A thick ice layer means the lake is frozen.,20260824T093740Z_5937923c
+1159,1,Being in the advanced course means not in the beginners' class.,20260824T093740Z_5937923c
+1160,7,Seeing a doctor is seeking medical advice.,20260824T093740Z_5937923c
+1161,1,Going out means not staying home.,20260824T093740Z_5937923c
+1162,7,Voting yesterday means there was an election recently.,20260824T093740Z_5937923c
+1163,7,Spotless means completely clean.,20260824T093740Z_5937923c
+1164,1,A blank sheet means no questions were answered.,20260824T093740Z_5937923c
+1165,1,Being in the changing room means she is not out on the field.,20260824T093740Z_5937923c
+1166,7,Being compensated means he got the money back.,20260824T093740Z_5937923c
+1167,1,No one responding means no one answered the ad.,20260824T093740Z_5937923c
+1168,1,Not playing any instrument strongly implies he is not a musician.,20260824T093740Z_5937923c
+1169,7,"Japan is in Asia, so being there means he has travelled in Asia.",20260824T093740Z_5937923c
+1170,7,The mountain top is the summit.,20260824T093740Z_5937923c
+1171,7,Receiving it means getting the package.,20260824T093740Z_5937923c
+1173,1,Skipping lessons means she didn't attend the whole course.,20260824T093740Z_5937923c
+1174,7,Poor resolution means a bad image.,20260824T093740Z_5937923c
+1175,7,Graduating means completing the studies.,20260824T093740Z_5937923c
+1176,1,Private property is the opposite of a public building.,20260824T093740Z_5937923c
+1201,2,"Not seeing someone for ages implies they are likely no longer good friends, though not a definitive no.",20260824T093740Z_5937923c
+1202,7,Sending out an application means looking for a job.,20260824T093740Z_5937923c
+1203,7,Training with him means Person B knows him.,20260824T093740Z_5937923c
+1204,5,"The grandfather passing away implies he inherited it, but it's not explicitly stated.",20260824T093740Z_5937923c
+1205,7,1000 Km is a long drive.,20260824T093740Z_5937923c
+1206,7,A six-hour drive means it is far.,20260824T093740Z_5937923c
+1207,2,A delay implies Person B will likely be late and not home by noon.,20260824T093740Z_5937923c
+1208,1,Having some left implies Person B didn't buy more.,20260824T093740Z_5937923c
+1209,2,Stating it's not due for three months implies Person B hasn't started yet.,20260824T093740Z_5937923c
+1210,6,"Congested streets usually cause delays, making it very likely they will be late.",20260824T093740Z_5937923c
+1211,2,"Vegetarians usually avoid steak houses, implying she is not coming.",20260824T093740Z_5937923c
+1212,7,Having the flu means he will stay home.,20260824T093740Z_5937923c
+1213,4,"Running every day means she trains, but doesn't confirm if she actually registered for the marathon.",20260824T093740Z_5937923c
+1214,1,Just waking up means she hasn't had time to eat breakfast yet.,20260824T093740Z_5937923c
+1215,1,"If it comes out next week, Person B couldn't have seen it yet.",20260824T093740Z_5937923c
+1216,7,Having used one before means Person B knows how to use it.,20260824T093740Z_5937923c
+1217,1,"Celebrating implies passing the exam, not failing.",20260824T093740Z_5937923c
+1218,6,Moving out strongly implies a breakup in this context.,20260824T093740Z_5937923c
+1219,5,"Falling behind is a reason for being fired, implying he likely was.",20260824T093740Z_5937923c
+1220,7,"Surfing requires big waves, so being famous for it means there are big waves.",20260824T093740Z_5937923c
+1221,1,Rough sea is not safe to swim in.,20260824T093740Z_5937923c
+1222,2,NGOs are typically known for not paying high salaries.,20260824T093740Z_5937923c
+1223,6,Authoring many successful books usually makes someone famous.,20260824T093740Z_5937923c
+1224,1,Still analyzing means the data wasn't ready to be presented.,20260824T093740Z_5937923c
+1225,1,"Endangered species are protected by law, making it illegal to hunt them.",20260824T093740Z_5937923c
+1226,4,Enrolling at the gym doesn't mean weight has been lost yet.,20260824T093740Z_5937923c
+1227,1,An incomplete thesis means Person B hasn't graduated.,20260824T093740Z_5937923c
+1228,7,Saying it 'was' too long implies it has been cut.,20260824T093740Z_5937923c
+1229,2,Business trips usually leave little to no time for sightseeing.,20260824T093740Z_5937923c
+1230,1,Needing a larger one means Person B didn't buy the one-room flat.,20260824T093740Z_5937923c
+1231,6,A deadline tomorrow usually causes stress.,20260824T093740Z_5937923c
+1232,7,Sleeping only four hours makes someone tired.,20260824T093740Z_5937923c
+1233,2,The offer expiring implies he didn't book it.,20260824T093740Z_5937923c
+1234,7,"A wounded cat needs a vet, implying Person B is bringing it.",20260824T093740Z_5937923c
+1235,1,Missing a person means they are not ready to go.,20260824T093740Z_5937923c
+1237,5,"Being Chinese implies familiarity with Chinese cuisine, but doesn't guarantee knowing how to cook a specific dish.",20260824T093740Z_5937923c
+1238,2,The line going dead implies the conversation was cut short before the issue could be discussed.,20260824T093740Z_5937923c
+1239,7,Having domestic workers explains why the house is always tidy.,20260824T093740Z_5937923c
+1240,2,Just opening implies Person B hasn't had the chance to try it yet.,20260824T093740Z_5937923c
+1241,7,A house full of history books strongly indicates a passion for history.,20260824T093740Z_5937923c
+1243,6,A few guests means a regular saucepan is likely big enough.,20260824T093740Z_5937923c
+1244,1,Having only one week off means Person B cannot take a two-week trip.,20260824T093740Z_5937923c
+1245,7,"Pregnant women avoid alcohol, so Person B is avoiding it.",20260824T093740Z_5937923c
+1247,4,Still owing money doesn't clearly answer if a new loan was obtained.,20260824T093740Z_5937923c
+1248,1,Only having water means he cannot be drunk.,20260824T093740Z_5937923c
+1249,1,Owning an orchard means Person B grows their own fruit and doesn't need to buy it.,20260824T093740Z_5937923c
+1250,1,A 25-year-old is too old for elementary school.,20260824T093740Z_5937923c
+1251,2,Extremely expensive implies it's likely not a viable option.,20260824T093740Z_5937923c
+1252,7,Making a payment implies accepting the deal.,20260824T093740Z_5937923c
+1253,2,Not being able to swim implies they likely didn't go to the pool.,20260824T093740Z_5937923c
+1254,1,Being healthy means the pills are no longer needed.,20260824T093740Z_5937923c
+1255,5,"Not being allowed closer implies danger, possibly contamination, but it's not a direct confirmation.",20260824T093740Z_5937923c
+1256,6,Watering them regularly implies they are kept alive.,20260824T093740Z_5937923c
+1257,1,"If he was dead, he couldn't have created it in 1981.",20260824T093740Z_5937923c
+1258,7,Thick ice means it's safe for ice skating.,20260824T093740Z_5937923c
+1259,1,Being in the advanced course means Person B is not a beginner.,20260824T093740Z_5937923c
+1260,6,Seeing a doctor usually means one has been sick.,20260824T093740Z_5937923c
+1261,1,Going out means Person B didn't go to bed early.,20260824T093740Z_5937923c
+1262,7,Voting means they can and did elect a representative.,20260824T093740Z_5937923c
+1263,6,Being spotless implies it has been washed.,20260824T093740Z_5937923c
+1264,1,A blank sheet means they didn't write a good exam.,20260824T093740Z_5937923c
+1265,1,Just getting into the changing room means she is not dressed yet.,20260824T093740Z_5937923c
+1266,6,Being compensated implies the lawsuit was settled.,20260824T093740Z_5937923c
+1267,1,No responses means the house hasn't been sold.,20260824T093740Z_5937923c
+1268,1,Not playing an instrument means he can't be in the marching band.,20260824T093740Z_5937923c
+1269,6,Being in Japan for months makes it highly likely he tried sushi.,20260824T093740Z_5937923c
+1270,7,Aiming for the top means the way is uphill.,20260824T093740Z_5937923c
+1271,7,Receiving it means it was shipped.,20260824T093740Z_5937923c
+1273,1,Skipping lessons shows a lack of dedication.,20260824T093740Z_5937923c
+1274,6,Poor resolution causes eye strain.,20260824T093740Z_5937923c
+1275,7,Graduating from medical school makes her a doctor.,20260824T093740Z_5937923c
+1276,2,"Private property implies Person B likely hasn't been inside, as access is restricted.",20260824T093740Z_5937923c
+2101,7,Revising topics means studying for the test.,20260824T093740Z_5937923c
+2102,7,A new movie means something has come out.,20260824T093740Z_5937923c
+2103,7,Chilly means cold.,20260824T093740Z_5937923c
+2105,7,Hearing good things means Person B knows something about it.,20260824T093740Z_5937923c
+2106,7,Pulling a muscle is an injury.,20260824T093740Z_5937923c
+2107,7,Not being able to find it means it is lost.,20260824T093740Z_5937923c
+2108,7,Minus 20 degrees is extremely cold.,20260824T093740Z_5937923c
+2109,7,A church is a religious building.,20260824T093740Z_5937923c
+2110,7,Training very hard means the workouts are difficult.,20260824T093740Z_5937923c
+2113,7,Working on a task means Person B was working.,20260824T093740Z_5937923c
+2114,1,Not bringing a bikini means Person B doesn't have swimming gear.,20260824T093740Z_5937923c
+2115,1,Not having time means Person B is not free.,20260824T093740Z_5937923c
+2116,1,Watching it last month means Person B didn't watch it yesterday.,20260824T093740Z_5937923c
+2117,1,"Being on a diet implies eating less, not more.",20260824T093740Z_5937923c
+2118,1,Being Muslim means Person B does not practice Hinduism.,20260824T093740Z_5937923c
+2119,1,Head spinning means Person B is not feeling ok.,20260824T093740Z_5937923c
+2120,1,Being tired is the opposite of energetic.,20260824T093740Z_5937923c
+2121,1,Being broke means having no money saved up.,20260824T093740Z_5937923c
+2122,1,Having used one in the past means it's not the first experience.,20260824T093740Z_5937923c
+2123,1,"11 p.m. is night, not morning.",20260824T093740Z_5937923c
+2124,1,Having a hangover means not feeling good.,20260824T093740Z_5937923c
+2125,1,"Diabetes is a chronic disease, so Person B is not free of them.",20260824T093740Z_5937923c
+2127,1,Getting seasick means not feeling well on boats.,20260824T093740Z_5937923c
+2128,1,Toothache gone means teeth are not hurting.,20260824T093740Z_5937923c
+2129,7,Several bus stops means there are many stations.,20260824T093740Z_5937923c
+2130,1,Should not staple means not allowed to.,20260824T093740Z_5937923c
+2131,1,Very light means it doesn't weigh much.,20260824T093740Z_5937923c
+2132,7,5 am is early.,20260824T093740Z_5937923c
+2134,1,French being native means Spanish is not.,20260824T093740Z_5937923c
+2135,7,Not working means it is unusable.,20260824T093740Z_5937923c
+2136,7,Wolves are wild animals.,20260824T093740Z_5937923c
+2137,1,Only having cacti means there are no trees.,20260824T093740Z_5937923c
+2138,7,Needing it for travelling means it is necessary.,20260824T093740Z_5937923c
+2139,1,Having a sandwich implies Person B didn't bring pie.,20260824T093740Z_5937923c
+2140,7,Going out soon means they are about to leave.,20260824T093740Z_5937923c
+2141,7,Starving means very hungry.,20260824T093740Z_5937923c
+2144,7,Drinking tea all the time means consuming hot drinks often.,20260824T093740Z_5937923c
+2145,7,Too much light means it is very bright.,20260824T093740Z_5937923c
+2146,1,Being abroad means not staying in town.,20260824T093740Z_5937923c
+2147,7,Having soup means eating something.,20260824T093740Z_5937923c
+2148,7,Pouring means it is raining.,20260824T093740Z_5937923c
+2149,1,Not drinking means not consuming alcohol.,20260824T093740Z_5937923c
+2150,1,A dishwasher remaining means not everything was taken away.,20260824T093740Z_5937923c
+2151,1,Giving away the racket means Person B no longer has the equipment.,20260824T093740Z_5937923c
+2152,1,Not eating spicy dishes means not consuming all types of food.,20260824T093740Z_5937923c
+2153,7,Living right next to someone makes them neighbours.,20260824T093740Z_5937923c
+2155,1,Understanding everything means no longer confused.,20260824T093740Z_5937923c
+2156,7,Chest hurting means pain in the upper body.,20260824T093740Z_5937923c
+2157,1,Summer means it is not winter.,20260824T093740Z_5937923c
+2159,7,Cutting a finger means getting hurt.,20260824T093740Z_5937923c
+2160,7,Dust all over the floor means it is dirty.,20260824T093740Z_5937923c
+2161,1,Bringing it means not leaving it at home.,20260824T093740Z_5937923c
+2162,7,Chapped lips mean they got damaged.,20260824T093740Z_5937923c
+2163,1,Working early morning means not doing the afternoon shift.,20260824T093740Z_5937923c
+2164,1,Eating at a restaurant means not having dinner at home.,20260824T093740Z_5937923c
+2165,7,Growing a lot means they are taller.,20260824T093740Z_5937923c
+2166,7,Lunch being ready means cooking is finished.,20260824T093740Z_5937923c
+2167,7,Complicated exercise means difficult homework.,20260824T093740Z_5937923c
+2168,1,Not sure where to go means not decided.,20260824T093740Z_5937923c
+2169,1,Smoking cigars only means not smoking cigarettes.,20260824T093740Z_5937923c
+2170,1,Typing on a laptop means not writing on paper.,20260824T093740Z_5937923c
+2171,7,Stove not delivered means the kitchen is incomplete.,20260824T093740Z_5937923c
+2172,7,Stolen regularly means car theft occurs often.,20260824T093740Z_5937923c
+2173,1,Completely full means no room left.,20260824T093740Z_5937923c
+2174,7,Piling up means there is a lot to wash.,20260824T093740Z_5937923c
+2175,7,Relaxed breakfast means taking time for it.,20260824T093740Z_5937923c
+2201,5,"Revising topics implies a willingness to study, but doesn't explicitly confirm doing it together.",20260824T093740Z_5937923c
+2202,6,Mentioning an interesting movie implies agreement to go to the cinema.,20260824T093740Z_5937923c
+2203,7,Saying it's chilly is a clear indirect request to close the window.,20260824T093740Z_5937923c
+2205,6,Hearing good things implies interest in borrowing it.,20260824T093740Z_5937923c
+2206,7,Pulling a muscle is a strong reason to skip the class.,20260824T093740Z_5937923c
+2207,7,Not finding their own phone implies they want to use Person A's phone.,20260824T093740Z_5937923c
+2208,7,Minus 20 degrees necessitates a coat.,20260824T093740Z_5937923c
+2209,7,Entering a church implies the need to turn off phones out of respect.,20260824T093740Z_5937923c
+2210,6,Training hard implies a need for a protein shake.,20260824T093740Z_5937923c
+2213,7,Working on an exhausting task implies a strong need for a break.,20260824T093740Z_5937923c
+2214,2,Not bringing a bikini implies Person B cannot or does not want to go to the lake.,20260824T093740Z_5937923c
+2215,1,Not having time means Person B is not coming.,20260824T093740Z_5937923c
+2216,2,Having watched it recently implies Person B doesn't want to watch it again so soon.,20260824T093740Z_5937923c
+2217,1,Being on a diet implies refusing dessert.,20260824T093740Z_5937923c
+2218,1,Muslims do not eat pork.,20260824T093740Z_5937923c
+2219,1,Head spinning means Person B has had enough and doesn't want another.,20260824T093740Z_5937923c
+2220,1,Being very tired implies Person B does not want to go out.,20260824T093740Z_5937923c
+2221,1,Being broke means they cannot afford a trip.,20260824T093740Z_5937923c
+2222,2,Having used one implies Person B knows how to use it and doesn't need help.,20260824T093740Z_5937923c
+2223,2,11 p.m. is usually too late to go to the cinema.,20260824T093740Z_5937923c
+2224,1,Having a hangover implies Person B does not want more drinks.,20260824T093740Z_5937923c
+2225,1,"Diabetics usually avoid cake, implying a no.",20260824T093740Z_5937923c
+2227,1,Getting seasick implies Person B will not join a sea cruise.,20260824T093740Z_5937923c
+2228,1,Toothache gone means painkillers are not needed.,20260824T093740Z_5937923c
+2229,6,Having several stops implies Person B would appreciate sitting down.,20260824T093740Z_5937923c
+2230,1,Not supposed to staple means Person B doesn't want the stapler.,20260824T093740Z_5937923c
+2231,1,Very light luggage means help is not needed.,20260824T093740Z_5937923c
+2232,7,Getting up at 5 am requires an alarm clock.,20260824T093740Z_5937923c
+2234,1,Being a native speaker implies Person B doesn't need spelling checked.,20260824T093740Z_5937923c
+2235,6,The remote not working implies the batteries need changing.,20260824T093740Z_5937923c
+2236,7,Wolves being common is a strong reason to lock up the cattle.,20260824T093740Z_5937923c
+2237,1,"Cacti do not need frequent watering, implying no.",20260824T093740Z_5937923c
+2238,7,Needing it means it should be packed.,20260824T093740Z_5937923c
+2239,1,Having a sandwich implies Person B doesn't need more food.,20260824T093740Z_5937923c
+2240,7,Having to go out soon means they need to be woken up.,20260824T093740Z_5937923c
+2241,7,Starving implies Person B would gladly accept biscuits.,20260824T093740Z_5937923c
+2244,7,Drinking tea all the time implies Person B would like to use the kettle.,20260824T093740Z_5937923c
+2245,7,Too much light means the dimmer should be turned down.,20260824T093740Z_5937923c
+2246,1,Being abroad means Person B cannot come to the party.,20260824T093740Z_5937923c
+2247,7,Having soup requires a spoon.,20260824T093740Z_5937923c
+2248,7,Pouring rain means an umbrella is needed.,20260824T093740Z_5937923c
+2249,1,Not drinking means Person B does not want wine.,20260824T093740Z_5937923c
+2250,1,Having a dishwasher implies Person A doesn't need to do the dishes by hand.,20260824T093740Z_5937923c
+2251,1,Giving away the racket means Person B cannot play tennis.,20260824T093740Z_5937923c
+2252,1,"Mexican food is often spicy, so Person B implies no.",20260824T093740Z_5937923c
+2253,6,Living right next to Person A implies Person B would appreciate a ride home with Person A.,20260824T093740Z_5937923c
+2255,1,Understanding everything means no further explanation is needed.,20260824T093740Z_5937923c
+2256,7,Severe chest pain is a medical emergency requiring a doctor.,20260824T093740Z_5937923c
+2257,1,Summer implies it's hot and an extra blanket is not needed.,20260824T093740Z_5937923c
+2259,7,A cut finger requires a plaster.,20260824T093740Z_5937923c
+2260,7,Dust all over the floor means it needs sweeping.,20260824T093740Z_5937923c
+2261,1,Bringing their own means Person B doesn't need Person A's toothpaste.,20260824T093740Z_5937923c
+2262,7,Chapped lips require lip balm.,20260824T093740Z_5937923c
+2263,2,Working early implies Person B will not join for drinks to get enough sleep.,20260824T093740Z_5937923c
+2264,1,Eating at a restaurant means Person A doesn't need to cook for Person B.,20260824T093740Z_5937923c
+2265,7,Growing a lot means they need pruning.,20260824T093740Z_5937923c
+2266,7,Lunch being ready means the table should be set.,20260824T093740Z_5937923c
+2267,7,A complicated math exercise implies a calculator would be helpful.,20260824T093740Z_5937923c
+2268,1,Not knowing the destination means tickets cannot be bought yet.,20260824T093740Z_5937923c
+2269,1,Smoking cigars only means Person B does not want a cigarette.,20260824T093740Z_5937923c
+2270,1,Typing on a laptop means Person B doesn't need paper.,20260824T093740Z_5937923c
+2271,7,"No stove means they cannot cook, so they need delivery food.",20260824T093740Z_5937923c
+2272,7,High risk of theft means the car should definitely be locked.,20260824T093740Z_5937923c
+2273,1,A full wardrobe implies Person B doesn't need or want to go shopping for more clothes.,20260824T093740Z_5937923c
+2274,7,Laundry piling up means it needs to be done.,20260824T093740Z_5937923c
+2275,6,Having time for a relaxed breakfast implies Person B would enjoy pancakes.,20260824T093740Z_5937923c

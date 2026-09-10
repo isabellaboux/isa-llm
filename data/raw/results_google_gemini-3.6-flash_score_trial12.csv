@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Person B states they have not seen Martin for ages, which directly means they have not met him lately.",20260824T093740Z_5937923c
+1102,7,"Person B confirms they are currently sending out an application, which means they are doing something right now.",20260824T093740Z_5937923c
+1103,7,"Person B confirms that they train with Lukas at the gym, directly answering yes to exercising with him.",20260824T093740Z_5937923c
+1104,7,"Person B states that his grandfather passed away recently, confirming a death in the family.",20260824T093740Z_5937923c
+1105,6,"A distance of 1000 km is generally considered very far, so Person B's answer implies yes.",20260824T093740Z_5937923c
+1106,6,"A six-hour drive is a significant duration, implying that it does take long to get there.",20260824T093740Z_5937923c
+1107,2,A delayed train indicates that the journey is not proceeding according to plan.,20260824T093740Z_5937923c
+1108,1,"If there is still cereal left, they have not finished it yet.",20260824T093740Z_5937923c
+1109,1,A deadline three months away explicitly contradicts the deadline being next week.,20260824T093740Z_5937923c
+1110,7,Streets being always congested with cars directly implies a lot of traffic.,20260824T093740Z_5937923c
+1111,1,"Vegetarians do not eat meat, so the answer is definitely no.",20260824T093740Z_5937923c
+1112,7,Having the flu confirms that John is sick.,20260824T093740Z_5937923c
+1113,7,Running for hours every day means she trains daily.,20260824T093740Z_5937923c
+1114,1,Just waking up means she is no longer sleeping.,20260824T093740Z_5937923c
+1115,1,Coming out next week directly contradicts a release today.,20260824T093740Z_5937923c
+1116,7,Having used a drill before directly confirms having worked with one.,20260824T093740Z_5937923c
+1117,1,Celebrating tonight means the party is not taking place tomorrow.,20260824T093740Z_5937923c
+1118,7,Moving out tomorrow means leaving the flat very soon.,20260824T093740Z_5937923c
+1119,6,Always falling behind strongly implies that he exhibits slacker behavior.,20260824T093740Z_5937923c
+1120,7,Being famous for surfing confirms the area is popular for something.,20260824T093740Z_5937923c
+1121,1,A rough sea directly contradicts it being calm.,20260824T093740Z_5937923c
+1122,1,An NGO (non-governmental organization) is distinct from a corporate company.,20260824T093740Z_5937923c
+1123,7,Authoring many successful books confirms that he is a writer.,20260824T093740Z_5937923c
+1124,1,Still analyzing the data means work on it is not finished.,20260824T093740Z_5937923c
+1125,1,Being an endangered species indicates there are not many left.,20260824T093740Z_5937923c
+1126,7,Enrolling at a gym means joining a fitness studio.,20260824T093740Z_5937923c
+1127,1,Stating the thesis is not complete directly means it is not finished.,20260824T093740Z_5937923c
+1128,7,Stating their hair was way too long confirms having had long hair.,20260824T093740Z_5937923c
+1129,1,A business trip is distinct from a vacation.,20260824T093740Z_5937923c
+1130,1,Needing a larger flat indicates a one-room flat is not enough.,20260824T093740Z_5937923c
+1131,7,A deadline tomorrow confirms that she has to hand it in soon.,20260824T093740Z_5937923c
+1132,7,Sleeping only four hours qualifies as having a short night.,20260824T093740Z_5937923c
+1133,1,An expired offer means the discount was no longer available.,20260824T093740Z_5937923c
+1134,7,Getting wounded means the cat is hurt.,20260824T093740Z_5937923c
+1135,1,Someone still missing confirms that everyone is not present.,20260824T093740Z_5937923c
+1137,7,"China is located in Asia, so being Chinese confirms coming from Asia.",20260824T093740Z_5937923c
+1138,2,The line going dead implies a technical disconnection rather than intentionally hanging up.,20260824T093740Z_5937923c
+1139,7,Having domestics confirms that someone is taking care of their house.,20260824T093740Z_5937923c
+1140,1,Having just opened means the bar has not been there for long.,20260824T093740Z_5937923c
+1141,7,A house full of history books confirms owning many books.,20260824T093740Z_5937923c
+1143,7,Having only a few guests over for dinner describes a small gathering.,20260824T093740Z_5937923c
+1144,1,Having only one week off work means not having two weeks of holiday.,20260824T093740Z_5937923c
+1145,7,Going to have a baby directly means being pregnant.,20260824T093740Z_5937923c
+1147,1,Still owing money means debts have not been fully paid back.,20260824T093740Z_5937923c
+1148,1,Only having water directly means he did not drink a cocktail.,20260824T093740Z_5937923c
+1149,2,"An orchard is used for growing fruit trees, which is distinct from a vegetable garden.",20260824T093740Z_5937923c
+1150,1,"Being 25 years old means he is an adult, not underage.",20260824T093740Z_5937923c
+1151,1,Extremely expensive tuition means it is not affordable.,20260824T093740Z_5937923c
+1152,7,Making a bank transfer confirms that payment has been made.,20260824T093740Z_5937923c
+1153,1,Inability to swim yet means they are not good at swimming.,20260824T093740Z_5937923c
+1154,1,Being healthy again means no longer having a cold.,20260824T093740Z_5937923c
+1155,7,Not being allowed to get closer confirms it is forbidden to approach.,20260824T093740Z_5937923c
+1156,7,Watering them regularly confirms taking care of the plants.,20260824T093740Z_5937923c
+1157,1,Being already dead by then confirms he was not alive in the 80s.,20260824T093740Z_5937923c
+1158,7,A thick ice layer confirms the lake is frozen.,20260824T093740Z_5937923c
+1159,1,Being in the advanced course means not attending the beginners' class.,20260824T093740Z_5937923c
+1160,7,Seeing a doctor means seeking medical advice.,20260824T093740Z_5937923c
+1161,1,Going out with friends directly contradicts staying home.,20260824T093740Z_5937923c
+1162,7,Voting yesterday confirms an election occurred recently.,20260824T093740Z_5937923c
+1163,7,Spotless means completely clean.,20260824T093740Z_5937923c
+1164,1,Submitting a blank sheet means leaving all questions unanswered.,20260824T093740Z_5937923c
+1165,1,Being in the changing room means she is not out on the tennis field.,20260824T093740Z_5937923c
+1166,6,Being compensated implies getting money back or reimbursed.,20260824T093740Z_5937923c
+1167,1,No one responding directly means no one answered the ad.,20260824T093740Z_5937923c
+1168,1,Not playing any instrument strongly implies not being a musician.,20260824T093740Z_5937923c
+1169,7,"Japan is in Asia, so being there for months confirms travelling in Asia.",20260824T093740Z_5937923c
+1170,7,Aiming for the mountain top confirms that the goal is the summit.,20260824T093740Z_5937923c
+1171,7,The customer receiving the package directly answers yes.,20260824T093740Z_5937923c
+1173,1,Skipping the last four lessons means she did not attend the whole course.,20260824T093740Z_5937923c
+1174,7,Really poor monitor resolution directly implies a bad image on screen.,20260824T093740Z_5937923c
+1175,7,Graduating from medical school confirms completion of medical studies.,20260824T093740Z_5937923c
+1176,1,Private property is the opposite of a public building.,20260824T093740Z_5937923c
+1201,2,Not seeing someone for ages strongly implies they are no longer close friends.,20260824T093740Z_5937923c
+1202,7,Sending out applications is a direct action taken when looking for a job.,20260824T093740Z_5937923c
+1203,7,Training with Lukas at the gym confirms knowing him.,20260824T093740Z_5937923c
+1204,6,A grandfather passing away recently strongly implies inheriting the property.,20260824T093740Z_5937923c
+1205,6,"A 1000 km drive is long, implying yes.",20260824T093740Z_5937923c
+1206,6,A six-hour drive implies Munich is far.,20260824T093740Z_5937923c
+1207,2,A train delay suggests likely not arriving home by noon.,20260824T093740Z_5937923c
+1208,2,Noting that there is still cereal left implies not having bought new cereal.,20260824T093740Z_5937923c
+1209,2,Noting that it is not due for three months implies work on the essay has not started.,20260824T093740Z_5937923c
+1210,6,Congested streets strongly suggest that they will be late.,20260824T093740Z_5937923c
+1211,2,"Vegetarians typically avoid steak houses, so she is unlikely coming.",20260824T093740Z_5937923c
+1212,6,Having the flu strongly implies staying home.,20260824T093740Z_5937923c
+1213,5,"Running for hours every day indicates marathon-level training, making registration likely.",20260824T093740Z_5937923c
+1214,1,Just waking up means she has not eaten breakfast yet.,20260824T093740Z_5937923c
+1215,1,A movie coming out next week could not have been seen already.,20260824T093740Z_5937923c
+1216,7,Having used a drill before implies knowing how to use it.,20260824T093740Z_5937923c
+1217,1,"Celebrating tonight strongly implies passing, not failing, the exam.",20260824T093740Z_5937923c
+1218,6,Moving out tomorrow strongly implies breaking up.,20260824T093740Z_5937923c
+1219,6,Always falling behind offers the rationale for having been fired.,20260824T093740Z_5937923c
+1220,7,Being famous for surfing implies the presence of big waves.,20260824T093740Z_5937923c
+1221,1,Quite rough seas mean it is not safe to swim.,20260824T093740Z_5937923c
+1222,2,Working at an NGO typically implies modest rather than high corporate salaries.,20260824T093740Z_5937923c
+1223,6,Authoring many successful books strongly implies being famous.,20260824T093740Z_5937923c
+1224,1,Still analyzing data means it was not presented yet.,20260824T093740Z_5937923c
+1225,1,Being endangered means hunting them is illegal.,20260824T093740Z_5937923c
+1226,3,"Enrolling at a gym explains an intention, but does not confirm actual weight loss yet.",20260824T093740Z_5937923c
+1227,1,An incomplete thesis means graduation has not happened.,20260824T093740Z_5937923c
+1228,6,Stating hair was way too long justifies having gotten a haircut.,20260824T093740Z_5937923c
+1229,2,A business trip usually leaves little to no time for sightseeing.,20260824T093740Z_5937923c
+1230,1,Needing a larger flat indicates the one-room flat was not bought.,20260824T093740Z_5937923c
+1231,6,An imminent deadline tomorrow suggests high stress.,20260824T093740Z_5937923c
+1232,6,Only four hours of sleep strongly suggests tiredness.,20260824T093740Z_5937923c
+1233,1,An expired offer indicates the flight was not booked at the discounted price.,20260824T093740Z_5937923c
+1234,6,The cat getting wounded gives a clear yes reason for bringing it to the vet.,20260824T093740Z_5937923c
+1235,1,Someone missing means the group is not ready to go.,20260824T093740Z_5937923c
+1237,6,Being Chinese strongly implies familiarity and ability to cook Cantonese rice.,20260824T093740Z_5937923c
+1238,2,The line going dead indicates the communication was cut off before telling him.,20260824T093740Z_5937923c
+1239,7,Having domestics explains why the house is always tidy.,20260824T093740Z_5937923c
+1240,2,Just having opened implies Person B likely hasn't tried it yet.,20260824T093740Z_5937923c
+1241,7,Having a house full of history books shows a clear passion for history.,20260824T093740Z_5937923c
+1243,6,Having only a few guests implies the saucepan is big enough.,20260824T093740Z_5937923c
+1244,1,Having only one week off precludes a two-week trip.,20260824T093740Z_5937923c
+1245,7,Pregnancy requires avoiding alcohol.,20260824T093740Z_5937923c
+1247,3,Owing money to the bank implies existing debt rather than taking out a new loan.,20260824T093740Z_5937923c
+1248,1,Drinking only water precludes being drunk.,20260824T093740Z_5937923c
+1249,1,"Owning an orchard means growing fruit, making buying it at a supermarket unnecessary.",20260824T093740Z_5937923c
+1250,1,A 25-year-old is far beyond elementary school age.,20260824T093740Z_5937923c
+1251,1,Extremely expensive tuition implies Harvard is not a viable financial option.,20260824T093740Z_5937923c
+1252,7,Making a bank transfer indicates acceptance and completion of the deal.,20260824T093740Z_5937923c
+1253,2,Inability to swim implies they did not go swimming.,20260824T093740Z_5937923c
+1254,1,Being healthy again means no longer taking pills.,20260824T093740Z_5937923c
+1255,6,People not being allowed closer implies danger or contamination.,20260824T093740Z_5937923c
+1256,6,Watering plants regularly implies they are still alive.,20260824T093740Z_5937923c
+1257,1,Being already dead by 1981 means he could not have created it then.,20260824T093740Z_5937923c
+1258,6,A thick ice layer indicates it is ice skating season.,20260824T093740Z_5937923c
+1259,1,Being in the advanced course directly contradicts being a beginner.,20260824T093740Z_5937923c
+1260,6,Seeing a doctor implies having been sick.,20260824T093740Z_5937923c
+1261,1,Going out with friends contradicts going to bed early.,20260824T093740Z_5937923c
+1262,7,Voting yesterday confirms they can and did elect a representative.,20260824T093740Z_5937923c
+1263,6,Being spotless implies the car has returned clean from the wash.,20260824T093740Z_5937923c
+1264,1,Submitting a blank sheet means performing poorly on the exam.,20260824T093740Z_5937923c
+1265,2,Just getting into the changing room means she is not dressed for the game yet.,20260824T093740Z_5937923c
+1266,6,Being compensated implies the lawsuit was settled.,20260824T093740Z_5937923c
+1267,1,No responses to the ad means the house has not been sold.,20260824T093740Z_5937923c
+1268,1,Not playing an instrument precludes being in a marching band.,20260824T093740Z_5937923c
+1269,6,Living in Japan for several months strongly implies having tried sushi.,20260824T093740Z_5937923c
+1270,6,Aiming for a mountain top implies going uphill.,20260824T093740Z_5937923c
+1271,7,The customer receiving it confirms the package was shipped.,20260824T093740Z_5937923c
+1273,1,Skipping four lessons shows a lack of dedication.,20260824T093740Z_5937923c
+1274,6,Poor monitor resolution explains why eyes get strained.,20260824T093740Z_5937923c
+1275,7,Graduating from medical school qualifies her as a medical doctor.,20260824T093740Z_5937923c
+1276,2,"Private property restricts access, making having been inside unlikely.",20260824T093740Z_5937923c
+2101,7,Needing to revise topics confirms the need to study.,20260824T093740Z_5937923c
+2102,7,An interesting new movie confirms something came out in cinemas.,20260824T093740Z_5937923c
+2103,6,Chilly weather indicates it is cold.,20260824T093740Z_5937923c
+2105,6,Hearing good things about a book confirms knowing something about it.,20260824T093740Z_5937923c
+2106,7,Pulling a muscle is an injury sustained during class.,20260824T093740Z_5937923c
+2107,7,Inability to find the phone means it is lost.,20260824T093740Z_5937923c
+2108,7,Minus 20 degrees is extremely cold.,20260824T093740Z_5937923c
+2109,7,A church is a religious building.,20260824T093740Z_5937923c
+2110,6,Training very hard implies workouts are difficult.,20260824T093740Z_5937923c
+2113,7,Working on an exhausting task confirms working today.,20260824T093740Z_5937923c
+2114,1,Not bringing a bikini means not having swimming gear.,20260824T093740Z_5937923c
+2115,1,Not having time directly means not being free.,20260824T093740Z_5937923c
+2116,1,Watching it last month means not watching it yesterday.,20260824T093740Z_5937923c
+2117,1,"Being on a diet implies restricting food, not eating more.",20260824T093740Z_5937923c
+2118,1,Being Muslim excludes practicing Hinduism.,20260824T093740Z_5937923c
+2119,1,A spinning head from beers means not feeling ok.,20260824T093740Z_5937923c
+2120,1,Being very tired directly contradicts feeling energetic.,20260824T093740Z_5937923c
+2121,1,Being broke means having no money saved up.,20260824T093740Z_5937923c
+2122,1,Having used a chainsaw in the past means it is not a first experience.,20260824T093740Z_5937923c
+2123,1,"11 p.m. is night time, not morning.",20260824T093740Z_5937923c
+2124,1,Having a hangover means not feeling good.,20260824T093740Z_5937923c
+2125,1,Diabetes is a chronic disease.,20260824T093740Z_5937923c
+2127,1,Getting seasick means not feeling well on boats.,20260824T093740Z_5937923c
+2128,1,A toothache being gone means teeth are no longer hurting.,20260824T093740Z_5937923c
+2129,6,Having several bus stops confirms multiple stations on the route.,20260824T093740Z_5937923c
+2130,1,Stating they should not staple them means it is not allowed/advisable.,20260824T093740Z_5937923c
+2131,1,Very light luggage does not weigh much.,20260824T093740Z_5937923c
+2132,7,Getting up at 5 am is waking up early.,20260824T093740Z_5937923c
+2134,1,French being native language means Spanish is not.,20260824T093740Z_5937923c
+2135,7,Not working means the remote remains unusable.,20260824T093740Z_5937923c
+2136,7,Wolves are wild animals.,20260824T093740Z_5937923c
+2137,1,Having only cacti means no trees in the garden.,20260824T093740Z_5937923c
+2138,6,Needing it for travelling confirms it is necessary for taking the plane.,20260824T093740Z_5937923c
+2139,1,Having a sandwich means pie was not brought.,20260824T093740Z_5937923c
+2140,6,Having to go out soon implies being about to leave.,20260824T093740Z_5937923c
+2141,7,Starving means extremely hungry.,20260824T093740Z_5937923c
+2144,7,Drinking tea all the time confirms frequent hot drink consumption.,20260824T093740Z_5937923c
+2145,7,Having too much light confirms the room is very bright.,20260824T093740Z_5937923c
+2146,1,Being abroad means not staying in town till Friday.,20260824T093740Z_5937923c
+2147,7,Having soup is eating something.,20260824T093740Z_5937923c
+2148,7,Pouring rain confirms it is raining.,20260824T093740Z_5937923c
+2149,1,Not drinking means not consuming alcohol.,20260824T093740Z_5937923c
+2150,1,A remaining dishwasher means not everything was taken away.,20260824T093740Z_5937923c
+2151,1,Giving away the racket ages ago implies no longer having tennis equipment.,20260824T093740Z_5937923c
+2152,1,Not eating spicy dishes means not consuming all types of food.,20260824T093740Z_5937923c
+2153,7,Living right next door confirms being neighbours.,20260824T093740Z_5937923c
+2155,1,Understanding everything means no longer confused.,20260824T093740Z_5937923c
+2156,7,Chest pain is pain in the upper body.,20260824T093740Z_5937923c
+2157,1,Middle of summer contradicts winter.,20260824T093740Z_5937923c
+2159,7,Cutting a finger is getting hurt.,20260824T093740Z_5937923c
+2160,7,Dust all over the floor means the room is dirty.,20260824T093740Z_5937923c
+2161,1,Bringing toothpaste means it was not left at home.,20260824T093740Z_5937923c
+2162,7,Chapped lips confirm damage from wind.,20260824T093740Z_5937923c
+2163,1,Working early morning contradicts doing the afternoon shift.,20260824T093740Z_5937923c
+2164,1,Eating at a restaurant contradicts having dinner at home.,20260824T093740Z_5937923c
+2165,7,Growing a lot confirms being taller than last time.,20260824T093740Z_5937923c
+2166,7,Lunch being ready confirms cooking is finished.,20260824T093740Z_5937923c
+2167,7,A very complicated math exercise is difficult homework.,20260824T093740Z_5937923c
+2168,1,Not being sure where to go means a destination is not decided.,20260824T093740Z_5937923c
+2169,1,Smoking cigars only excludes smoking cigarettes.,20260824T093740Z_5937923c
+2170,1,Typing on a laptop contradicts writing on paper.,20260824T093740Z_5937923c
+2171,7,An undelivered stove confirms the kitchen is incomplete.,20260824T093740Z_5937923c
+2172,7,Cars getting stolen regularly confirms frequent car theft.,20260824T093740Z_5937923c
+2173,1,A completely full wardrobe has no extra room.,20260824T093740Z_5937923c
+2174,7,Piling dirty laundry confirms a lot of laundry.,20260824T093740Z_5937923c
+2175,7,Having a relaxed breakfast confirms taking time for it.,20260824T093740Z_5937923c
+2201,6,Needing to revise topics implies accepting the offer to study together.,20260824T093740Z_5937923c
+2202,6,Mentioning an interesting new movie accepts the proposal to go to the cinema.,20260824T093740Z_5937923c
+2203,6,Noting it is chilly agrees to closing the window.,20260824T093740Z_5937923c
+2205,6,Having heard good things encourages accepting the offer to borrow the book.,20260824T093740Z_5937923c
+2206,6,A pulled muscle provides a clear reason to accept skipping yoga.,20260824T093740Z_5937923c
+2207,6,Inability to find own phone prompts accepting the offer to use theirs.,20260824T093740Z_5937923c
+2208,7,Minus 20 degrees confirms the need for a coat.,20260824T093740Z_5937923c
+2209,7,Entering a church provides reason to agree to turning off phones.,20260824T093740Z_5937923c
+2210,6,Training hard supports accepting a protein shake.,20260824T093740Z_5937923c
+2213,6,Working on an exhausting task agrees with taking a break.,20260824T093740Z_5937923c
+2214,2,Not bringing a bikini implies declining the trip to the lake.,20260824T093740Z_5937923c
+2215,1,Not having time declines coming to the talk.,20260824T093740Z_5937923c
+2216,2,Having watched it last month suggests declining to rewatch it tonight.,20260824T093740Z_5937923c
+2217,1,Being on a diet declines having dessert.,20260824T093740Z_5937923c
+2218,1,Being Muslim strictly declines pork consumption.,20260824T093740Z_5937923c
+2219,1,A spinning head declines another beer.,20260824T093740Z_5937923c
+2220,1,Being very tired declines going out.,20260824T093740Z_5937923c
+2221,1,Being broke declines going on a trip.,20260824T093740Z_5937923c
+2222,2,Prior experience suggests declining help with the chainsaw.,20260824T093740Z_5937923c
+2223,1,"11 p.m. is too late for cinema, declining the offer.",20260824T093740Z_5937923c
+2224,1,Having a hangover declines having more drinks.,20260824T093740Z_5937923c
+2225,1,Being diabetic declines eating cake.,20260824T093740Z_5937923c
+2227,1,Getting seasick declines joining a sea cruise.,20260824T093740Z_5937923c
+2228,1,A toothache being gone declines needing painkillers.,20260824T093740Z_5937923c
+2229,6,Having several bus stops remaining accepts the offered bus seat.,20260824T093740Z_5937923c
+2230,1,Not needing/wanting to staple documents declines the stapler.,20260824T093740Z_5937923c
+2231,1,Very light luggage declines the offer for help.,20260824T093740Z_5937923c
+2232,6,Needing to get up at 5 am agrees to setting the alarm.,20260824T093740Z_5937923c
+2234,1,Being a native French speaker declines spelling help.,20260824T093740Z_5937923c
+2235,6,The remote not working accepts changing batteries.,20260824T093740Z_5937923c
+2236,6,Wolves being common agrees to locking up cattle.,20260824T093740Z_5937923c
+2237,1,"Cacti do not need frequent watering, declining the offer.",20260824T093740Z_5937923c
+2238,6,Needing the passport accepts packing it.,20260824T093740Z_5937923c
+2239,1,Already having a sandwich declines additional food.,20260824T093740Z_5937923c
+2240,6,Needing to leave soon agrees to waking the kids.,20260824T093740Z_5937923c
+2241,6,Starving accepts offered biscuits.,20260824T093740Z_5937923c
+2244,6,Drinking tea all the time accepts using the kettle.,20260824T093740Z_5937923c
+2245,6,Too much light agrees to turning down the dimmer.,20260824T093740Z_5937923c
+2246,1,Being abroad declines coming to the party.,20260824T093740Z_5937923c
+2247,6,Having soup accepts the offer of a spoon.,20260824T093740Z_5937923c
+2248,6,Pouring rain accepts an umbrella.,20260824T093740Z_5937923c
+2249,1,Not drinking declines wine.,20260824T093740Z_5937923c
+2250,2,Having a dishwasher declines doing dishes manually.,20260824T093740Z_5937923c
+2251,1,Having given away the racket declines playing tennis.,20260824T093740Z_5937923c
+2252,1,Not eating spicy food declines Mexican food.,20260824T093740Z_5937923c
+2253,6,Living right next door makes accepting a ride very convenient.,20260824T093740Z_5937923c
+2255,1,Understanding everything declines re-explanation.,20260824T093740Z_5937923c
+2256,6,Severe chest pain accepts calling a doctor.,20260824T093740Z_5937923c
+2257,1,Middle of summer weather declines an extra blanket.,20260824T093740Z_5937923c
+2259,6,A cut finger accepts a plaster.,20260824T093740Z_5937923c
+2260,6,Dust on the floor agrees to sweeping.,20260824T093740Z_5937923c
+2261,1,Having brought own toothpaste declines borrowing some.,20260824T093740Z_5937923c
+2262,6,Chapped lips accepts lip balm.,20260824T093740Z_5937923c
+2263,1,Early morning work declines going for drinks tonight.,20260824T093740Z_5937923c
+2264,1,Planning to eat at a restaurant declines home cooking.,20260824T093740Z_5937923c
+2265,6,Overgrown hedges accept pruning.,20260824T093740Z_5937923c
+2266,6,Lunch being ready accepts setting the table.,20260824T093740Z_5937923c
+2267,6,Complicated math homework accepts the calculator.,20260824T093740Z_5937923c
+2268,1,Not knowing where to go declines buying train tickets.,20260824T093740Z_5937923c
+2269,1,Smoking cigars only declines a cigarette.,20260824T093740Z_5937923c
+2270,1,Typing directly on laptop declines paper.,20260824T093740Z_5937923c
+2271,6,Lacking a stove accepts ordering delivery food.,20260824T093740Z_5937923c
+2272,6,High car theft rate accepts locking the car.,20260824T093740Z_5937923c
+2273,1,A full wardrobe declines shopping for more clothes.,20260824T093740Z_5937923c
+2274,6,Piling dirty laundry agrees to doing laundry.,20260824T093740Z_5937923c
+2275,6,Having time for a relaxed breakfast accepts pancakes.,20260824T093740Z_5937923c

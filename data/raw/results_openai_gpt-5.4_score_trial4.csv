@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"B says they have not seen Martin for ages, which directly means they have not met him lately. This is a clear negative answer.",20260821T125948Z_8dbb5082
+1102,7,B states they are sending out an application right now. That directly answers that they are doing something at the moment.,20260821T125948Z_8dbb5082
+1103,6,"B says they train with Lukas at the gym, which strongly suggests they usually exercise with him. It is not stated with 'usually,' but it is a strong yes.",20260821T125948Z_8dbb5082
+1104,7,"B says his grandfather passed away recently, which clearly means there was a death in his family. This is a direct yes.",20260821T125948Z_8dbb5082
+1105,5,"B says Paris is about 1000 km away, which generally implies it is far. Since 'very far' is somewhat subjective, this is only somewhat likely yes.",20260821T125948Z_8dbb5082
+1106,6,"A six hour drive generally counts as taking a long time. B's response strongly supports yes, though 'long' is somewhat subjective.",20260821T125948Z_8dbb5082
+1107,2,"B says the train has some delay, which suggests the journey is not going exactly as planned. The answer implies no, though only indirectly.",20260821T125948Z_8dbb5082
+1108,1,"B says there is still some cereal left, which means they have not finished it. This is definitely no.",20260821T125948Z_8dbb5082
+1109,1,"B says the essay is not due for three months, so the deadline is not next week. This is a direct no.",20260821T125948Z_8dbb5082
+1110,7,"B says the streets are always congested with cars, which clearly means there is usually a lot of traffic. Strong direct yes.",20260821T125948Z_8dbb5082
+1111,1,"B says Megan is vegetarian, which means she does not eat meat. This is definitely no.",20260821T125948Z_8dbb5082
+1112,7,Having the flu clearly means John is sick today. Direct yes.,20260821T125948Z_8dbb5082
+1113,7,"B says Sonya runs for hours every day, which directly indicates she trains daily. Definite yes.",20260821T125948Z_8dbb5082
+1114,1,"B says Clara just woke up, so she is no longer still sleeping. Clear no.",20260821T125948Z_8dbb5082
+1115,1,"B says the movie comes out next week, so it is not being released today. Definite no.",20260821T125948Z_8dbb5082
+1116,7,"B says they have used a drill before, which directly means they have worked with one. Clear yes.",20260821T125948Z_8dbb5082
+1117,1,"B says they are celebrating tonight, not tomorrow. So the party does not take place tomorrow.",20260821T125948Z_8dbb5082
+1118,7,"B says they are moving out tomorrow, which clearly means they are leaving the flat soon. Strong yes.",20260821T125948Z_8dbb5082
+1119,6,"B says he was always falling behind, which strongly suggests he is a slacker. It is an evaluative label, so not absolutely direct, but strongly yes.",20260821T125948Z_8dbb5082
+1120,7,"B says the region is famous for surfing, directly identifying something the area is popular for. Clear yes.",20260821T125948Z_8dbb5082
+1121,1,"B says the sea is quite rough, which is the opposite of calm. Definite no.",20260821T125948Z_8dbb5082
+1122,1,"B works at an NGO, which is not a corporate company. Direct no.",20260821T125948Z_8dbb5082
+1123,7,"B says he has authored many successful books, which directly means he is a writer. Definite yes.",20260821T125948Z_8dbb5082
+1124,1,"B is still analyzing the data, so they are not finished working on it. Clear no.",20260821T125948Z_8dbb5082
+1125,6,"If pandas are endangered, that strongly suggests there are not many left in the world. It is not a precise count, but strongly no to 'many'.",20260821T125948Z_8dbb5082
+1126,7,"B says they have enrolled at the gym, which means they have joined a fitness studio. Direct yes.",20260821T125948Z_8dbb5082
+1127,1,"B explicitly says the thesis is not complete yet, so they have not finished writing it. Definite no.",20260821T125948Z_8dbb5082
+1128,7,"B says their hair was way too long, which clearly implies they used to have long hair. Direct yes.",20260821T125948Z_8dbb5082
+1129,3,"B says it was a business trip, which does not rule out going to Japan; it only says the purpose was not vacation. So it leans no as an answer to the vacation question, but not definitively.",20260821T125948Z_8dbb5082
+1130,1,"B says they need a larger flat, which clearly means a one-room flat is not enough. Definite no.",20260821T125948Z_8dbb5082
+1131,7,"B says the deadline is tomorrow, which means she has to hand it in soon. Clear yes.",20260821T125948Z_8dbb5082
+1132,7,Sleeping only four hours clearly indicates a short night. Direct yes.,20260821T125948Z_8dbb5082
+1133,1,"B says the offer had already expired, so the flight was not still discounted. Definite no.",20260821T125948Z_8dbb5082
+1134,7,"B says the cat got wounded, which means it is hurt. Clear yes.",20260821T125948Z_8dbb5082
+1135,1,"B says Mark is still missing, so not everyone is here. Definite no.",20260821T125948Z_8dbb5082
+1137,7,"B says they are Chinese, which means they come from Asia. Direct yes.",20260821T125948Z_8dbb5082
+1138,4,"B says the line went dead, which could mean the call ended without specifying who hung up. This does not clearly answer whether B hung up.",20260821T125948Z_8dbb5082
+1139,6,"B says they have domestics, which strongly implies someone is taking care of the house. Strong yes, though somewhat indirect.",20260821T125948Z_8dbb5082
+1140,1,"B says the bar has just opened, so it has not been there for long. Definite no.",20260821T125948Z_8dbb5082
+1141,7,"B says his house is full of history books, which clearly indicates he owns many books. Strong yes.",20260821T125948Z_8dbb5082
+1143,6,"B says only a few guests are coming over, which strongly suggests a small gathering. Strong yes.",20260821T125948Z_8dbb5082
+1144,1,"B says they only have one week off work, so they do not have two weeks of holiday. Definite no.",20260821T125948Z_8dbb5082
+1145,7,"B says they are going to have a baby, which clearly implies pregnancy. Direct yes.",20260821T125948Z_8dbb5082
+1147,1,"B says they still owe the bank money, meaning the debts have not been fully paid back. Definite no.",20260821T125948Z_8dbb5082
+1148,1,"B says he only had water, so he did not drink a cocktail tonight. Direct no.",20260821T125948Z_8dbb5082
+1149,3,"An orchard means fruit trees, not necessarily a vegetable garden. So the answer suggests no, but it does not completely rule out also having vegetables.",20260821T125948Z_8dbb5082
+1150,1,"B says the son is 25 years old, so he is not underage. Definite no.",20260821T125948Z_8dbb5082
+1151,1,"B says Harvard's tuition is extremely expensive, which strongly implies it is not affordable. Definite no.",20260821T125948Z_8dbb5082
+1152,7,"B says she made a bank transfer a few moments ago, which means she has paid. Clear yes.",20260821T125948Z_8dbb5082
+1153,1,"B says the kids cannot swim yet, so they are not good at swimming. Definite no.",20260821T125948Z_8dbb5082
+1154,1,"B says they are healthy again, so they no longer have a cold. Definite no.",20260821T125948Z_8dbb5082
+1155,7,"B says people are not allowed to get closer, which directly means approaching the area is forbidden. Clear yes.",20260821T125948Z_8dbb5082
+1156,7,"B says they have watered the plants regularly, which directly means someone took care of them. Definite yes.",20260821T125948Z_8dbb5082
+1157,1,"B says he was already dead by the 80s, so he was not still alive then. Definite no.",20260821T125948Z_8dbb5082
+1158,7,A thick ice layer strongly indicates the lake is frozen. Direct yes.,20260821T125948Z_8dbb5082
+1159,1,"B says they are in the advanced course, so they are not attending the beginners' class. Definite no.",20260821T125948Z_8dbb5082
+1160,7,"B says they have seen a doctor, which directly means they sought medical advice. Clear yes.",20260821T125948Z_8dbb5082
+1161,1,"B says they went out with friends, so they did not stay home last night. Definite no.",20260821T125948Z_8dbb5082
+1162,7,"B says they voted yesterday, which clearly means there was an election recently. Definite yes.",20260821T125948Z_8dbb5082
+1163,7,"B says the car is spotless, which means it is completely clean. Clear yes.",20260821T125948Z_8dbb5082
+1164,1,Submitting a blank sheet means they did not answer all questions. Definite no.,20260821T125948Z_8dbb5082
+1165,1,"B says she just got into the changing room, so she is not out on the tennis field. Definite no.",20260821T125948Z_8dbb5082
+1166,6,"If he was compensated, that strongly suggests he got the money back or some monetary recovery. Strong yes, though not necessarily the exact same money.",20260821T125948Z_8dbb5082
+1167,1,"B explicitly says no one has responded, so nobody answered the ad. Definite no.",20260821T125948Z_8dbb5082
+1168,1,"B says he does not play any instrument, so he is not a musician. Definite no.",20260821T125948Z_8dbb5082
+1169,7,"B says he has been in Japan for several months, and Japan is in Asia, so he has travelled in Asia. Definite yes.",20260821T125948Z_8dbb5082
+1170,7,"B says they are aiming for the mountain top, which directly means the summit is the goal. Clear yes.",20260821T125948Z_8dbb5082
+1171,7,"B says the customer received the package, which means he got it. Definite yes.",20260821T125948Z_8dbb5082
+1173,2,"B says she skipped the last four lessons, which means she did not attend the whole course. Strong no.",20260821T125948Z_8dbb5082
+1174,7,"B says the monitor's resolution is really poor, which clearly means the screen has a bad image. Direct yes.",20260821T125948Z_8dbb5082
+1175,7,"B says she graduated from medical school last year, which means she completed her medical studies. Definite yes.",20260821T125948Z_8dbb5082
+1176,1,"B says it is private property, which means it is not a public building. Definite no.",20260821T125948Z_8dbb5082
+1201,3,"Not seeing Martin for ages suggests they are probably not still good friends, but it does not prove the friendship ended. So it leans no, but only somewhat.",20260821T125948Z_8dbb5082
+1202,6,Sending out an application strongly suggests B is looking for a job. Strong yes.,20260821T125948Z_8dbb5082
+1203,7,Training with Lukas at the gym clearly means B knows Lukas. Definite yes.,20260821T125948Z_8dbb5082
+1204,4,"His grandfather passing away recently does not directly answer whether the property is his now. It may hint at inheritance, but that is speculative.",20260821T125948Z_8dbb5082
+1205,6,"If Paris is about 1000 km away, it likely takes a long time to drive there. Strong yes, though indirect.",20260821T125948Z_8dbb5082
+1206,6,A six-hour drive strongly suggests Munich is far from here. Strong yes.,20260821T125948Z_8dbb5082
+1207,3,"A delayed train suggests B may not be home by noon, but it does not make it certain. Somewhat likely no.",20260821T125948Z_8dbb5082
+1208,3,"Saying there is still some cereal left suggests there may be no need to buy more, but it does not directly answer whether they already bought cereal. Slight lean no.",20260821T125948Z_8dbb5082
+1209,4,"B says the essay is not due for three months, which does not directly answer whether they have started writing it. The response is not clearly relevant enough.",20260821T125948Z_8dbb5082
+1210,6,"If the streets are always congested with cars, that strongly suggests they may be late to the cinema. Strong yes, though indirect.",20260821T125948Z_8dbb5082
+1211,4,"Being vegetarian suggests Megan may not want to come to a steak house, but vegetarians can still attend. The implication is uncertain.",20260821T125948Z_8dbb5082
+1212,5,"Having the flu suggests John is likely staying home. It is a reasonable inference, though not explicitly stated.",20260821T125948Z_8dbb5082
+1213,5,"Running for hours every day suggests Sonya may have registered for the marathon, but training does not guarantee registration. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1214,1,"If Clara just woke up, she has not had breakfast already. Strong no.",20260821T125948Z_8dbb5082
+1215,1,"If the movie comes out next week, B could not have seen it yet. Definite no.",20260821T125948Z_8dbb5082
+1216,7,Having used a drill before clearly means B knows how to use one. Definite yes.,20260821T125948Z_8dbb5082
+1217,2,Celebrating tonight strongly suggests B did not fail the exam. This is an indirect but strong no.,20260821T125948Z_8dbb5082
+1218,5,"Moving out tomorrow suggests a breakup is likely, but not certain since people can move out for other reasons. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1219,5,"Always falling behind could be a reason for being fired, but it does not state that he was fired. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1220,6,A region famous for surfing strongly suggests there are big waves there. Strong yes.,20260821T125948Z_8dbb5082
+1221,2,"If the sea is quite rough, it is probably not safe to swim there. Strongly suggests no.",20260821T125948Z_8dbb5082
+1222,3,"Working at an NGO may suggest lower pay, but it does not directly answer whether B makes a lot of money. Somewhat likely no.",20260821T125948Z_8dbb5082
+1223,6,"Authoring many successful books strongly suggests he is famous. Strong yes, though not guaranteed.",20260821T125948Z_8dbb5082
+1224,1,"B is still analyzing the data, so they have not presented it at the meeting yet. Definite no.",20260821T125948Z_8dbb5082
+1225,6,"Being an endangered species strongly suggests hunting pandas is illegal. Strong yes, though not directly stated.",20260821T125948Z_8dbb5082
+1226,4,"Enrolling at the gym suggests an effort that might lead to weight loss, but it does not answer whether any weight has already been lost. Ambiguous.",20260821T125948Z_8dbb5082
+1227,1,"If the thesis is not complete yet, B has not graduated. Definite no.",20260821T125948Z_8dbb5082
+1228,4,"Saying the hair was way too long suggests a haircut may be needed, but does not confirm it happened. Ambiguous.",20260821T125948Z_8dbb5082
+1229,3,"A business trip suggests sightseeing was less likely, but it does not rule it out. Somewhat likely no.",20260821T125948Z_8dbb5082
+1230,2,Saying a larger flat is needed strongly suggests B did not buy that one-room flat. Very likely no.,20260821T125948Z_8dbb5082
+1231,6,A deadline tomorrow strongly suggests she is stressed about the project. Strong yes.,20260821T125948Z_8dbb5082
+1232,6,Sleeping only four hours strongly implies tiredness. Strong yes.,20260821T125948Z_8dbb5082
+1233,3,"If the offer had already expired, he may not have booked the flight, but this is not certain. Somewhat likely no.",20260821T125948Z_8dbb5082
+1234,5,"If the cat got wounded, bringing it to the vet is likely, but not directly stated. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1235,1,"If Mark is still missing, the group is not ready to go. Definite no.",20260821T125948Z_8dbb5082
+1237,4,Being Chinese does not necessarily mean B can cook Cantonese rice. Nationality is not enough to answer the ability question.,20260821T125948Z_8dbb5082
+1238,2,"If the line went dead, B likely did not manage to tell him about the issue. Strongly suggests no, though not fully certain.",20260821T125948Z_8dbb5082
+1239,6,"Having domestics strongly suggests the house is kept tidy. Strong yes, though indirect.",20260821T125948Z_8dbb5082
+1240,2,"If the bar has just opened, B likely has not tried it yet. Strong no, though not absolute.",20260821T125948Z_8dbb5082
+1241,7,A house full of history books clearly suggests he has a passion for history. Definite yes.,20260821T125948Z_8dbb5082
+1243,5,"Only a few guests suggests a smaller saucepan may be enough. Somewhat likely yes, though saucepan size is not explicitly addressed.",20260821T125948Z_8dbb5082
+1244,1,Having only one week off means B will not take a two-week trip. Definite no.,20260821T125948Z_8dbb5082
+1245,6,Pregnancy strongly implies avoiding alcohol. Strong yes.,20260821T125948Z_8dbb5082
+1247,4,Still owing the bank money does not clearly show whether B got a new loan or is referring to an old one. Ambiguous.,20260821T125948Z_8dbb5082
+1248,1,"If he only had water, he is not drunk from alcohol. Definite no.",20260821T125948Z_8dbb5082
+1249,5,"Owning an orchard means access to fruit, so buying fruit at the supermarket is less likely. Somewhat likely no would fit, but not certain because they still might buy some there.",20260821T125948Z_8dbb5082
+1250,1,A 25-year-old son is clearly not at elementary school. Definite no.,20260821T125948Z_8dbb5082
+1251,3,"Extreme expense suggests Harvard may not be an option, but it does not fully rule it out. Somewhat likely no.",20260821T125948Z_8dbb5082
+1252,6,Making a bank transfer strongly suggests she accepted the deal and paid. Strong yes.,20260821T125948Z_8dbb5082
+1253,2,"If the kids cannot swim yet, they likely did not go to the swimming pool. Very likely no, though not impossible.",20260821T125948Z_8dbb5082
+1254,2,Being healthy again suggests B probably is no longer taking the pills. Very likely no.,20260821T125948Z_8dbb5082
+1255,6,"If people are not allowed to get closer, contamination is a plausible reason. Strong yes, though not explicitly stated.",20260821T125948Z_8dbb5082
+1256,6,"Regular watering strongly suggests the plants are still alive. Strong yes, though not guaranteed.",20260821T125948Z_8dbb5082
+1257,1,"If he was already dead by 1981, he could not have created the artwork then. Definite no.",20260821T125948Z_8dbb5082
+1258,7,A thick ice layer clearly indicates conditions suitable for ice skating season. Definite yes.,20260821T125948Z_8dbb5082
+1259,1,Being in the advanced course means B is not a beginner. Definite no.,20260821T125948Z_8dbb5082
+1260,5,"Seeing a doctor suggests B has likely been sick, though it could also be for a checkup. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1261,2,Going out with friends suggests B did not go to bed early. Very likely no.,20260821T125948Z_8dbb5082
+1262,7,"If they voted yesterday, members clearly can elect a representative. Direct yes.",20260821T125948Z_8dbb5082
+1263,6,A spotless car strongly suggests it is back from the car wash. Strong yes.,20260821T125948Z_8dbb5082
+1264,1,Submitting a blank sheet means they did not write a good exam. Definite no.,20260821T125948Z_8dbb5082
+1265,3,"She has just got into the changing room, so she may not be dressed yet. This suggests no, but not certainly.",20260821T125948Z_8dbb5082
+1266,6,Being compensated strongly suggests the lawsuit was settled or resolved in his favor. Strong yes.,20260821T125948Z_8dbb5082
+1267,1,"If no one has responded to the ad, the house has not been sold. Definite no.",20260821T125948Z_8dbb5082
+1268,1,Not playing any instrument means he is not part of the marching band. Definite no.,20260821T125948Z_8dbb5082
+1269,5,"Having been in Japan for several months makes it likely he has tried sushi, though it is not explicitly stated. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1270,5,"Aiming for the mountain top suggests the route may go uphill, but not necessarily the whole way. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1271,7,"If the customer received the package, it must have been shipped to them. Definite yes.",20260821T125948Z_8dbb5082
+1273,2,Skipping the last four lessons suggests she is not very dedicated to the course. Strong no.,20260821T125948Z_8dbb5082
+1274,5,"Poor monitor resolution can strain the eyes, so the answer suggests yes, though not directly. Somewhat likely yes.",20260821T125948Z_8dbb5082
+1275,6,"Graduating from medical school strongly suggests she is a medical doctor, though formal licensing is not explicitly mentioned. Strong yes.",20260821T125948Z_8dbb5082
+1276,4,Saying it is private property does not tell us whether B has ever been inside. Irrelevant or ambiguous.,20260821T125948Z_8dbb5082
+2101,6,Needing to revise topics strongly indicates B does have to study for the test. Strong yes.,20260821T125948Z_8dbb5082
+2102,6,An interesting new movie implies something has recently come out in cinemas. Strong yes.,20260821T125948Z_8dbb5082
+2103,6,Saying it is quite chilly strongly supports that it is cold in the village. Strong yes.,20260821T125948Z_8dbb5082
+2105,6,Having heard good things about the book means B knows something about the novel. Strong yes.,20260821T125948Z_8dbb5082
+2106,7,Pulling a muscle at yoga class is clearly an injury. Definite yes.,20260821T125948Z_8dbb5082
+2107,7,Not being able to find the phone directly implies it is lost. Definite yes.,20260821T125948Z_8dbb5082
+2108,7,Minus 20 degrees is unquestionably cold. Definite yes.,20260821T125948Z_8dbb5082
+2109,7,Entering a church clearly means they are in a religious building. Definite yes.,20260821T125948Z_8dbb5082
+2110,6,Training very hard strongly suggests the workouts are usually difficult. Strong yes.,20260821T125948Z_8dbb5082
+2113,7,"B says they have been working on an exhausting task, which directly means they were working today. Definite yes.",20260821T125948Z_8dbb5082
+2114,1,"B says they did not bring their bikini, so they do not have swimming gear with them. Definite no.",20260821T125948Z_8dbb5082
+2115,1,"B says they do not have time, which clearly means they are not free at the moment. Definite no.",20260821T125948Z_8dbb5082
+2116,1,"B watched Titanic last month, not yesterday. Definite no.",20260821T125948Z_8dbb5082
+2117,2,Being on a diet strongly suggests B is not eating more than usual. Very likely no.,20260821T125948Z_8dbb5082
+2118,1,"B says they are Muslim, not Hindu. Definite no.",20260821T125948Z_8dbb5082
+2119,2,A spinning head after many beers indicates B is probably not feeling okay. Strong no.,20260821T125948Z_8dbb5082
+2120,1,"B says they are very tired, which is the opposite of feeling energetic. Definite no.",20260821T125948Z_8dbb5082
+2121,1,Being broke means they do not have money saved up. Definite no.,20260821T125948Z_8dbb5082
+2122,1,Having used a chainsaw in the past means it is not the first experience. Definite no.,20260821T125948Z_8dbb5082
+2123,1,"If it is 11 p.m., it is not morning in Los Angeles. Definite no.",20260821T125948Z_8dbb5082
+2124,1,Having a hangover means B is not feeling good. Definite no.,20260821T125948Z_8dbb5082
+2125,1,Being diabetic means B is not free of chronic disease. Definite no.,20260821T125948Z_8dbb5082
+2127,1,Usually getting seasick means B does not feel well on boats. Definite no.,20260821T125948Z_8dbb5082
+2128,1,"If the toothache is gone, the teeth are not still hurting. Definite no.",20260821T125948Z_8dbb5082
+2129,7,Several bus stops before the destination clearly means there are many stations on the way. Definite yes.,20260821T125948Z_8dbb5082
+2130,1,"B says they should not staple the documents, so they are not allowed to. Definite no.",20260821T125948Z_8dbb5082
+2131,1,"B says the luggage is very light, so it does not weigh much. Definite no.",20260821T125948Z_8dbb5082
+2132,7,Having to get up at 5 a.m. clearly means they need to wake up early. Definite yes.,20260821T125948Z_8dbb5082
+2134,1,"B says French is their native language, so Spanish is not their mother tongue. Definite no.",20260821T125948Z_8dbb5082
+2135,7,"B says the remote does not work, which means it is still unusable. Definite yes.",20260821T125948Z_8dbb5082
+2136,7,Wolves being very common directly means there are wild animals in the region. Definite yes.,20260821T125948Z_8dbb5082
+2137,1,"B says they only have cacti, so there are no trees in the garden. Definite no.",20260821T125948Z_8dbb5082
+2138,6,Saying the passport is needed for travelling strongly indicates it is necessary for taking the plane. Strong yes.,20260821T125948Z_8dbb5082
+2139,1,"B has a sandwich, not pie, for lunch. Definite no.",20260821T125948Z_8dbb5082
+2140,7,"If the kids have to go out soon, they are about to leave. Definite yes.",20260821T125948Z_8dbb5082
+2141,7,Being starving clearly means B is already hungry. Definite yes.,20260821T125948Z_8dbb5082
+2144,7,Drinking tea all the time clearly means B often consumes hot drinks. Definite yes.,20260821T125948Z_8dbb5082
+2145,7,Having too much light in the room means it is very bright. Definite yes.,20260821T125948Z_8dbb5082
+2146,1,"B will be abroad on Friday, so they will not stay in town till then. Definite no.",20260821T125948Z_8dbb5082
+2147,7,Having a soup clearly means B is eating something. Definite yes.,20260821T125948Z_8dbb5082
+2148,7,"If it just started pouring, then it is already raining. Definite yes.",20260821T125948Z_8dbb5082
+2149,1,"B explicitly says they do not drink, so they do not consume alcohol. Definite no.",20260821T125948Z_8dbb5082
+2150,1,"B mentions a dishwasher still in the kitchen, so not everything was taken away. Definite no.",20260821T125948Z_8dbb5082
+2151,1,Giving away the racket ages ago means B no longer has tennis equipment. Definite no.,20260821T125948Z_8dbb5082
+2152,1,Not eating spicy dishes means B does not consume all types of food. Definite no.,20260821T125948Z_8dbb5082
+2153,7,Living right next to A directly means they are neighbours. Definite yes.,20260821T125948Z_8dbb5082
+2155,1,"B says they understand everything now, so they are not still confused. Definite no.",20260821T125948Z_8dbb5082
+2156,7,Chest pain is pain in the upper body. Definite yes.,20260821T125948Z_8dbb5082
+2157,1,Being in the middle of summer means it is not winter there. Definite no.,20260821T125948Z_8dbb5082
+2159,7,Cutting a finger while cooking clearly means B got hurt. Definite yes.,20260821T125948Z_8dbb5082
+2160,7,Dust all over the floor clearly means the living room is dirty. Definite yes.,20260821T125948Z_8dbb5082
+2161,1,"B says they actually brought their toothpaste, so they did not leave it at home. Definite no.",20260821T125948Z_8dbb5082
+2162,7,Chapped lips clearly mean the lips were damaged by the wind. Definite yes.,20260821T125948Z_8dbb5082
+2163,1,Working early tomorrow morning means not doing the afternoon shift. Definite no.,20260821T125948Z_8dbb5082
+2164,1,Planning to eat at a restaurant means not having dinner at home. Definite no.,20260821T125948Z_8dbb5082
+2165,7,"If the hedges have grown a lot recently, they are taller than before. Definite yes.",20260821T125948Z_8dbb5082
+2166,7,Lunch being ready means cooking is finished. Definite yes.,20260821T125948Z_8dbb5082
+2167,7,A very complicated math exercise clearly means the homework is difficult. Definite yes.,20260821T125948Z_8dbb5082
+2168,1,Not being sure where to go means they have not decided on a destination. Definite no.,20260821T125948Z_8dbb5082
+2169,3,"B smokes cigars only, not cigarettes. This is a no to cigarettes specifically, though they do smoke generally.",20260821T125948Z_8dbb5082
+2170,1,Typing directly on a laptop means B is not writing on paper. Definite no.,20260821T125948Z_8dbb5082
+2171,7,"If the new stove was not delivered yet, the kitchen is still incomplete. Definite yes.",20260821T125948Z_8dbb5082
+2172,7,Cars getting stolen regularly clearly means car theft occurs often. Definite yes.,20260821T125948Z_8dbb5082
+2173,1,A completely full wardrobe means there is no room left. Definite no.,20260821T125948Z_8dbb5082
+2174,7,Dirty laundry piling up clearly means there is a lot to wash. Definite yes.,20260821T125948Z_8dbb5082
+2175,7,Being able to have a relaxed breakfast clearly means taking some time for breakfast. Definite yes.,20260821T125948Z_8dbb5082
+2201,6,"Needing to revise topics suggests B is open to and has reason to study together. Strong yes, though not explicit acceptance.",20260821T125948Z_8dbb5082
+2202,6,Mentioning an interesting new movie suggests willingness to go to the cinema. Strong yes.,20260821T125948Z_8dbb5082
+2203,6,Saying it is chilly implies closing the window would be desirable. Strong yes.,20260821T125948Z_8dbb5082
+2205,6,Saying they have heard good things about the book suggests interest in borrowing it. Strong yes.,20260821T125948Z_8dbb5082
+2206,6,Having pulled a muscle last time suggests B would likely want to skip yoga class. Strong yes.,20260821T125948Z_8dbb5082
+2207,7,Not being able to find their phone directly implies B wants to use A's phone. Definite yes.,20260821T125948Z_8dbb5082
+2208,7,"At minus 20 degrees, B clearly needs a coat. Definite yes.",20260821T125948Z_8dbb5082
+2209,6,Having just entered a church suggests turning off phones is appropriate. Strong yes.,20260821T125948Z_8dbb5082
+2210,5,Training very hard suggests a protein shake would be welcome or useful. Somewhat likely yes.,20260821T125948Z_8dbb5082
+2213,5,"Working on an exhausting task suggests a break would be desirable, though B does not explicitly agree. Somewhat likely yes.",20260821T125948Z_8dbb5082
+2214,2,Not bringing a bikini suggests B likely does not want to go to the lake. Strong no.,20260821T125948Z_8dbb5082
+2215,1,"B says they do not have time, so they are not coming to the talk. Definite no.",20260821T125948Z_8dbb5082
+2216,3,"Having watched Titanic last month suggests less interest in watching it tonight, but not necessarily refusal. Somewhat likely no.",20260821T125948Z_8dbb5082
+2217,2,Being on a diet suggests B probably does not want dessert. Strong no.,20260821T125948Z_8dbb5082
+2218,2,Being Muslim strongly suggests B does not want pork. Very likely no.,20260821T125948Z_8dbb5082
+2219,1,Feeling dizzy after all these beers clearly means B does not want another beer. Definite no.,20260821T125948Z_8dbb5082
+2220,2,Being very tired suggests B probably does not want to go out. Strong no.,20260821T125948Z_8dbb5082
+2221,2,Being broke strongly suggests B does not want or cannot afford a trip. Strong no.,20260821T125948Z_8dbb5082
+2222,2,Saying they have used a chainsaw before suggests they likely do not need help. Very likely no.,20260821T125948Z_8dbb5082
+2223,1,"If it is 11 p.m., going to the cinema now is unlikely or impossible. Definite no.",20260821T125948Z_8dbb5082
+2224,2,Having a hangover strongly suggests B does not want drinks. Strong no.,20260821T125948Z_8dbb5082
+2225,2,Being diabetic strongly suggests B does not want cake. Very likely no.,20260821T125948Z_8dbb5082
+2227,1,Usually getting seasick clearly means B does not want to join a sea cruise. Definite no.,20260821T125948Z_8dbb5082
+2228,1,"If the toothache is gone, B does not want painkillers. Definite no.",20260821T125948Z_8dbb5082
+2229,5,"Having several stops left suggests a seat might still be useful, though not explicitly requested. Somewhat likely yes.",20260821T125948Z_8dbb5082
+2230,1,"B says they should not staple the documents, so they do not want the stapler. Definite no.",20260821T125948Z_8dbb5082
+2231,1,"If the luggage is very light, B does not need help with it. Definite no.",20260821T125948Z_8dbb5082
+2232,7,Having to get up at 5 a.m. clearly means they should set the alarm clock. Definite yes.,20260821T125948Z_8dbb5082
+2234,1,French being B's native language suggests they do not need help checking French spelling. Definite no.,20260821T125948Z_8dbb5082
+2235,6,"If the remote does not work, changing the batteries is a sensible action B likely wants. Strong yes.",20260821T125948Z_8dbb5082
+2236,7,Wolves being very common clearly means locking up the cattle is advisable. Definite yes.,20260821T125948Z_8dbb5082
+2237,3,"Having only cacti suggests watering may not be necessary, but cacti still sometimes need water. Somewhat likely no.",20260821T125948Z_8dbb5082
+2238,7,"If the passport is needed for travelling, B clearly wants it packed. Definite yes.",20260821T125948Z_8dbb5082
+2239,3,"Having a sandwich means B already has food, so they may not want more. Somewhat likely no.",20260821T125948Z_8dbb5082
+2240,6,"If the kids have to go out soon, waking them up is likely appropriate. Strong yes.",20260821T125948Z_8dbb5082
+2241,7,Being starving clearly indicates B would like some biscuits. Definite yes.,20260821T125948Z_8dbb5082
+2244,6,Drinking tea all the time suggests B would likely like to use the kettle. Strong yes.,20260821T125948Z_8dbb5082
+2245,7,Having too much light directly supports turning down the dimmer. Definite yes.,20260821T125948Z_8dbb5082
+2246,1,"B will be abroad on Friday, so they are not coming to the party. Definite no.",20260821T125948Z_8dbb5082
+2247,7,Having soup strongly implies needing or wanting a spoon. Definite yes.,20260821T125948Z_8dbb5082
+2248,7,"If it just started pouring, B would clearly like an umbrella. Definite yes.",20260821T125948Z_8dbb5082
+2249,1,"B explicitly says they do not drink, so they would not like wine. Definite no.",20260821T125948Z_8dbb5082
+2250,2,Mentioning the dishwasher suggests doing the dishes manually is unnecessary. Strong no.,20260821T125948Z_8dbb5082
+2251,1,Giving away the racket means B likely cannot or does not want to play tennis. Definite no.,20260821T125948Z_8dbb5082
+2252,2,Not eating spicy dishes suggests B probably does not want Mexican food. Strong no.,20260821T125948Z_8dbb5082
+2253,1,Living right next to A means B does not need a ride home. Definite no.,20260821T125948Z_8dbb5082
+2255,1,Understanding everything now means B does not need another explanation. Definite no.,20260821T125948Z_8dbb5082
+2256,7,Severe chest pain clearly suggests B wants a doctor called. Definite yes.,20260821T125948Z_8dbb5082
+2257,1,Being in the middle of summer means no extra blanket is wanted. Definite no.,20260821T125948Z_8dbb5082
+2259,7,Cutting a finger strongly suggests B wants a plaster. Definite yes.,20260821T125948Z_8dbb5082
+2260,7,Dust all over the floor clearly means sweeping the living room would be welcome. Definite yes.,20260821T125948Z_8dbb5082
+2261,1,"B already brought toothpaste, so they do not need any. Definite no.",20260821T125948Z_8dbb5082
+2262,7,Chapped lips clearly mean B would want some lip balm. Definite yes.,20260821T125948Z_8dbb5082
+2263,2,Working early tomorrow morning strongly suggests B is not joining for drinks tonight. Strong no.,20260821T125948Z_8dbb5082
+2264,1,Planning to eat at a restaurant means B does not want A to cook for both of them. Definite no.,20260821T125948Z_8dbb5082
+2265,7,"If the hedges have grown a lot, pruning them is likely wanted. Definite yes.",20260821T125948Z_8dbb5082
+2266,7,"If lunch is ready, setting the table is appropriate and likely desired. Definite yes.",20260821T125948Z_8dbb5082
+2267,6,A very complicated math exercise suggests a calculator would be useful and wanted. Strong yes.,20260821T125948Z_8dbb5082
+2268,1,Not knowing where to go means B does not want tickets bought yet. Definite no.,20260821T125948Z_8dbb5082
+2269,2,"B smokes cigars only, so they likely do not want a cigarette. Strong no.",20260821T125948Z_8dbb5082
+2270,1,Typing directly on a laptop means B does not want paper. Definite no.,20260821T125948Z_8dbb5082
+2271,6,"Without a delivered stove, getting delivery food is strongly suggested. Strong yes.",20260821T125948Z_8dbb5082
+2272,6,"If cars get stolen regularly there, B would likely want the car locked. Strong yes.",20260821T125948Z_8dbb5082
+2273,1,A completely full wardrobe means B does not need more clothes shopping. Definite no.,20260821T125948Z_8dbb5082
+2274,7,Laundry piling up clearly means B would want help doing it. Definite yes.,20260821T125948Z_8dbb5082
+2275,5,"Being able to have a relaxed breakfast suggests pancakes are welcome, though not explicitly requested. Somewhat likely yes.",20260821T125948Z_8dbb5082

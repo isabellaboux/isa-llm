@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787584118-hQkOdGV0TTNKTAM1XJXR,meta-llama/llama-4-maverick,meta-llama/llama-4-maverick,DigitalOcean,stop,9190,11240,0,20430,0.00966104,,chatcmpl-156dbcc8-a205-4992-840b-cb7e63916391,stop,1094,512291,20260824T093740Z_5937923c

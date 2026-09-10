@@ -1,0 +1,139 @@
+id,score,rationale,run_id
+1101,2,"The phrase 'I have not seen him for ages' indicates a lack of recent contact, strongly implying the answer to 'Have you met Martin lately?' is no.",20260824T093740Z_5937923c
+1102,3,"The response describes an action (sending an application) that doesn't directly answer whether they are currently doing something else. It suggests they are busy, but not necessarily with what was asked.",20260824T093740Z_5937923c
+1103,6,Saying 'I train with him at the gym' is a clear affirmation that they do exercise with Lukas. It's a direct and positive response.,20260824T093740Z_5937923c
+1104,7,The response 'His grandfather passed away recently' is a direct confirmation of a death in the family. It's a definitive answer.,20260824T093740Z_5937923c
+1105,4,"Providing a distance (1000 Km) doesn't answer whether Paris is 'very far'. It's a factual statement, but doesn't address the subjective 'far' aspect.",20260824T093740Z_5937923c
+1106,4,"A six-hour drive is a measure of time, not a direct answer to whether it 'takes long' to get to Munich. It's informative, but doesn't provide a simple yes/no equivalent.",20260824T093740Z_5937923c
+1107,3,"A train delay suggests the journey isn't going as planned, but doesn't explicitly state it. It implies a negative response, but isn't a direct confirmation.",20260824T093740Z_5937923c
+1108,3,"Saying 'There is still some left' implies they haven't finished it, so the answer to 'Have they finished their cereal?' is likely no, but it's not a direct denial.",20260824T093740Z_5937923c
+1109,2,"The response 'It is not due for three months' clearly indicates the deadline is *not* next week, making a 'yes' answer unlikely.",20260824T093740Z_5937923c
+1110,6,Saying 'The streets are always congested with cars' strongly suggests there *is* usually a lot of traffic. It's a descriptive affirmation.,20260824T093740Z_5937923c
+1111,7,Stating 'She is vegetarian' is a definitive answer to the question of whether Megan eats meat. It's a clear 'no'.,20260824T093740Z_5937923c
+1112,7,Saying 'He has the flu' is a direct confirmation that John is sick.,20260824T093740Z_5937923c
+1113,6,The response 'She runs for hours every day' strongly implies Sonya trains daily. It's a descriptive affirmation.,20260824T093740Z_5937923c
+1114,3,"Saying 'She just woke up' implies she *was* sleeping, but doesn't directly answer if she *is still* sleeping. It suggests 'no', but isn't definitive.",20260824T093740Z_5937923c
+1115,2,The response 'It comes out next week' clearly indicates the movie is *not* being released today.,20260824T093740Z_5937923c
+1116,6,"Saying 'I have used one before' confirms they have experience with a drill, indicating a 'yes' answer.",20260824T093740Z_5937923c
+1117,2,"Saying 'I am celebrating tonight' implies the party is not tomorrow, making a 'yes' answer unlikely.",20260824T093740Z_5937923c
+1118,6,Saying 'I am moving out tomorrow' strongly suggests they are leaving their flat soon. It's a descriptive affirmation.,20260824T093740Z_5937923c
+1119,6,Saying 'He was always falling behind' strongly suggests he *is* a slacker. It's a descriptive affirmation.,20260824T093740Z_5937923c
+1120,6,Saying 'The region is famous for surfing' strongly suggests the area *is* popular for something. It's a descriptive affirmation.,20260824T093740Z_5937923c
+1121,3,"Saying 'It is quite rough' implies the sea is *not* calm, but doesn't directly answer the question. It suggests 'no', but isn't definitive.",20260824T093740Z_5937923c
+1122,2,Saying 'My job is at an NGO' implies they do *not* work for a corporate company. It's a clear 'no'.,20260824T093740Z_5937923c
+1123,7,Saying 'He has authored many successful books' is a definitive answer to the question of whether he is a writer. It's a clear 'yes',20260824T093740Z_5937923c
+1124,3,"Saying 'I am still analyzing it' implies they have *not* finished, suggesting a 'no' answer, but it's not a direct denial.",20260824T093740Z_5937923c
+1125,5,"Saying 'They are an endangered species' implies there aren't many left, leaning towards a 'yes' answer, but it's not a direct confirmation of the number.",20260824T093740Z_5937923c
+1126,6,Saying 'I have enrolled at the gym' confirms they have joined a fitness studio. It's a direct and positive response.,20260824T093740Z_5937923c
+1127,2,Saying 'My thesis is not complete yet' clearly indicates they have *not* finished writing it.,20260824T093740Z_5937923c
+1128,6,Saying 'My hair was way too long' confirms they used to have long hair. It's a descriptive affirmation.,20260824T093740Z_5937923c
+1129,2,Saying 'It was a business trip' implies it was *not* a vacation.,20260824T093740Z_5937923c
+1130,2,Saying 'I need a larger one' implies the current flat is *not* enough.,20260824T093740Z_5937923c
+1131,6,Saying 'The deadline is tomorrow' confirms the deadline is coming up soon.,20260824T093740Z_5937923c
+1132,3,"Saying 'I slept only four hours' implies they *did* have a short night, but it's not a direct confirmation.",20260824T093740Z_5937923c
+1133,2,Saying 'The offer had already expired' clearly indicates the flight is *not* still discounted.,20260824T093740Z_5937923c
+1134,7,Saying 'It got wounded' is a direct confirmation that the cat is hurt.,20260824T093740Z_5937923c
+1135,3,"Saying 'Mark is still missing' implies not everyone is there, leaning towards a 'no' answer, but it's not definitive.",20260824T093740Z_5937923c
+1137,6,Saying 'I am Chinese' confirms they come from Asia. It's a direct and positive response.,20260824T093740Z_5937923c
+1138,2,Saying 'The line went dead' implies they did *not* hang up.,20260824T093740Z_5937923c
+1139,6,Saying 'They have domestics' implies someone *is* taking care of their house.,20260824T093740Z_5937923c
+1140,2,Saying 'They have just opened' implies the bar has *not* been there for long.,20260824T093740Z_5937923c
+1141,7,Saying 'His house is full of history books' is a strong indication that he owns many books. It's a descriptive affirmation.,20260824T093740Z_5937923c
+1143,5,"Saying 'We have only few guests over for dinner' suggests there *is* a gathering, but it's small, leaning towards a 'yes' answer.",20260824T093740Z_5937923c
+1144,2,Saying 'I only have one week off work' implies they do *not* have two weeks of holiday.,20260824T093740Z_5937923c
+1145,7,Saying 'I am going to have a baby' is a direct confirmation of pregnancy.,20260824T093740Z_5937923c
+1147,3,Saying 'I still owe the bank some money' implies they have *not* paid back their debts.,20260824T093740Z_5937923c
+1148,2,Saying 'He only had water' implies he did *not* drink a cocktail.,20260824T093740Z_5937923c
+1149,2,Saying 'I own an orchard' implies they do *not* have a vegetable garden.,20260824T093740Z_5937923c
+1150,2,Saying 'He is 25 years old' implies he is *not* underage.,20260824T093740Z_5937923c
+1151,2,Saying 'Their tuition fee is extremely expensive' implies Harvard University is *not* affordable.,20260824T093740Z_5937923c
+1152,7,Saying 'She made a bank transfer few moments ago' is a direct confirmation that she paid them.,20260824T093740Z_5937923c
+1153,2,Saying 'They cannot swim yet' implies they are *not* good at swimming.,20260824T093740Z_5937923c
+1154,7,Saying 'I am healthy again' confirms they are *not* still sick.,20260824T093740Z_5937923c
+1155,7,Saying 'People are not allowed to get closer' confirms it *is* forbidden to approach the area.,20260824T093740Z_5937923c
+1156,6,Saying 'I have watered them regularly' confirms someone *did* take care of the plants.,20260824T093740Z_5937923c
+1157,2,Saying 'He was already dead by then' implies he was *not* still alive in the 80s.,20260824T093740Z_5937923c
+1158,6,Saying 'The ice layer is quite thick' confirms the lake *is* frozen.,20260824T093740Z_5937923c
+1159,2,Saying 'I am in the advanced course' implies they are *not* in the beginners' class.,20260824T093740Z_5937923c
+1160,6,Saying 'I have seen a doctor' confirms they *did* seek medical advice.,20260824T093740Z_5937923c
+1161,2,Saying 'I went out with some friends' implies they did *not* stay home.,20260824T093740Z_5937923c
+1162,7,Saying 'They voted yesterday' confirms there *was* an election recently.,20260824T093740Z_5937923c
+1163,7,Saying 'It is spotless' confirms the car *is* completely clean.,20260824T093740Z_5937923c
+1164,2,Saying 'They have submitted a blank sheet' implies they did *not* answer all questions.,20260824T093740Z_5937923c
+1165,3,"Saying 'She has just got into the changing room' implies she is *not* currently on the tennis field, but doesn't directly answer the question.",20260824T093740Z_5937923c
+1166,7,Saying 'He was compensated' confirms he *did* get the money back.,20260824T093740Z_5937923c
+1167,2,Saying 'No one has responded' implies no one answered the house sale ad.,20260824T093740Z_5937923c
+1168,2,Saying 'He does not play any instrument' implies he is *not* a musician.,20260824T093740Z_5937923c
+1169,6,Saying 'He has been in Japan for several months' confirms he *has* travelled in Asia.,20260824T093740Z_5937923c
+1170,6,Saying 'We are aiming for the mountain top' confirms the goal *is* the summit.,20260824T093740Z_5937923c
+1171,7,Saying 'The customer received it' confirms the package *did* get to the customer.,20260824T093740Z_5937923c
+1173,3,"Saying 'She skipped the last four lessons' implies she did *not* attend the whole course, but doesn't directly answer the question.",20260824T093740Z_5937923c
+1174,3,"Saying 'My monitor's resolution is really poor' implies the screen image is *not* good, but doesn't directly answer the question.",20260824T093740Z_5937923c
+1175,7,Saying 'She graduated from medical school last year' confirms she *did* complete her medical studies.,20260824T093740Z_5937923c
+1176,2,Saying 'It is a private property' implies it is *not* a public building.,20260824T093740Z_5937923c
+2101,5,"The response 'I need to revise some of the topics' suggests a need to study, leaning towards a 'yes' answer, but it's not a direct confirmation.",20260824T093740Z_5937923c
+2102,6,"The response 'There is an interesting new movie' suggests there *have* been new releases, leaning towards a 'yes' answer.",20260824T093740Z_5937923c
+2103,5,"The response 'It is quite chilly' suggests it *is* cold, leaning towards a 'yes' answer.",20260824T093740Z_5937923c
+2105,6,"The response 'I have heard good things about that book' suggests a positive opinion, leaning towards a 'yes' answer.",20260824T093740Z_5937923c
+2106,2,"The response 'I pulled a muscle last time' suggests they *should* skip the class, leaning towards a 'no' answer.",20260824T093740Z_5937923c
+2107,7,The response 'I cannot find my phone' confirms they *have* lost their phone.,20260824T093740Z_5937923c
+2108,7,The response 'It is minus 20 degrees' confirms it *is* cold outside.,20260824T093740Z_5937923c
+2109,7,The response 'We have just entered a church' confirms they *are* in a religious building.,20260824T093740Z_5937923c
+2110,6,The response 'I am training very hard' suggests they *do* have difficult workouts.,20260824T093740Z_5937923c
+2113,6,The response 'I have been working on an exhausting task' suggests they *were* working today.,20260824T093740Z_5937923c
+2114,2,The response 'I did not bring my bikini' suggests they *won't* go to the lake.,20260824T093740Z_5937923c
+2115,2,The response 'I do not have time' suggests they *won't* come to the talk.,20260824T093740Z_5937923c
+2116,2,The response 'I watched it last month' suggests they *didn't* watch it yesterday.,20260824T093740Z_5937923c
+2117,2,The response 'I am on a diet' suggests they *won't* have dessert.,20260824T093740Z_5937923c
+2118,2,The response 'I am actually a Muslim' suggests they *don't* practice Hinduism.,20260824T093740Z_5937923c
+2119,3,"The response 'My head is spinning after all these beers' suggests they *are* not feeling well, but it's not a direct confirmation.",20260824T093740Z_5937923c
+2120,2,The response 'I am very tired' suggests they *are not* feeling energetic.,20260824T093740Z_5937923c
+2121,2,The response 'We are broke at the moment' suggests they *don't* have money saved up.,20260824T093740Z_5937923c
+2122,6,The response 'I have used one already in the past' confirms they *have* experience with a chainsaw.,20260824T093740Z_5937923c
+2123,2,The response 'It is 11 p.m.' suggests it is *not* morning in Los Angeles.,20260824T093740Z_5937923c
+2124,3,"The response 'I have a hangover' suggests they *are not* feeling good, but it's not a direct confirmation.",20260824T093740Z_5937923c
+2125,2,The response 'I am actually diabetic' suggests they *don't* have a chronic disease.,20260824T093740Z_5937923c
+2127,6,The response 'I usually get seasick' suggests they *don't* feel well on boats.,20260824T093740Z_5937923c
+2128,7,The response 'My toothache is gone' confirms their teeth *are not* hurting anymore.,20260824T093740Z_5937923c
+2129,6,The response 'I have several bus stops before my destination' suggests they *do* have many stations on their way.,20260824T093740Z_5937923c
+2130,2,The response 'I should not staple them' suggests they *are not* allowed to staple their documents.,20260824T093740Z_5937923c
+2131,5,"The response 'It is very light' suggests the luggage *doesn't* weigh much, leaning towards a 'yes' answer.",20260824T093740Z_5937923c
+2132,7,The response 'We have to get up at 5 am' confirms they *do* need to wake up early tomorrow.,20260824T093740Z_5937923c
+2134,7,The response 'French is my native language' confirms French *is* their mother tongue.,20260824T093740Z_5937923c
+2135,2,The response 'It does not work' confirms the remote *is* still unusable.,20260824T093740Z_5937923c
+2136,6,The response 'Wolves are very common here' confirms there *are* wild animals in the region.,20260824T093740Z_5937923c
+2137,2,The response 'We only have cacti' suggests there *are not* trees in their garden.,20260824T093740Z_5937923c
+2138,7,The response 'We need it for travelling' confirms the passport *is* necessary for taking the plane.,20260824T093740Z_5937923c
+2139,2,The response 'I have got a sandwich' suggests they *didn't* bring pie for lunch.,20260824T093740Z_5937923c
+2140,6,The response 'They have to go out soon' confirms the kids *are* about to leave.,20260824T093740Z_5937923c
+2141,7,The response 'Right now I am starving' confirms they *are* hungry.,20260824T093740Z_5937923c
+2144,6,The response 'I drink tea all the time' confirms they *do* consume hot drinks.,20260824T093740Z_5937923c
+2145,2,The response 'We have too much light in here' suggests the room *is not* dark.,20260824T093740Z_5937923c
+2146,2,The response 'I will be abroad then' suggests they *won't* stay in town till Friday.,20260824T093740Z_5937923c
+2147,6,The response 'I am having a soup' confirms they *are* eating something.,20260824T093740Z_5937923c
+2148,7,The response 'It just started pouring' confirms it *is* raining.,20260824T093740Z_5937923c
+2149,2,The response 'I do not drink' suggests they *don't* consume alcohol.,20260824T093740Z_5937923c
+2150,2,The response 'There is a dish washer in the kitchen' suggests everything *wasn't* taken away from the flat.,20260824T093740Z_5937923c
+2151,2,The response 'I gave away my racket ages ago' suggests they *don't* still have tennis equipment.,20260824T093740Z_5937923c
+2152,2,The response 'I do not eat spicy dishes' suggests they *don't* consume all types of food.,20260824T093740Z_5937923c
+2153,7,The response 'I live right next to you' confirms they *are* neighbors.,20260824T093740Z_5937923c
+2155,7,The response 'I understand everything now' confirms they *are not* still confused.,20260824T093740Z_5937923c
+2156,7,The response 'My chest hurts a lot' confirms they *do* feel pain in their upper body.,20260824T093740Z_5937923c
+2157,2,The response 'We are in the middle of the summer' suggests it is *not* winter there.,20260824T093740Z_5937923c
+2159,7,The response 'I cut my finger while cooking' confirms they *did* get hurt.,20260824T093740Z_5937923c
+2160,6,The response 'There is dust all over the floor' suggests the living room *is* dirty.,20260824T093740Z_5937923c
+2161,7,The response 'I have actually brought mine' confirms they *didn't* leave their toothpaste at home.,20260824T093740Z_5937923c
+2162,7,The response 'My lips are all chapped' confirms their lips *did* get damaged with the wind.,20260824T093740Z_5937923c
+2163,2,The response 'I am working early tomorrow morning' suggests they *won't* be doing the afternoon shift tomorrow.,20260824T093740Z_5937923c
+2164,2,The response 'I plan to eat at a restaurant' suggests they *won't* be having dinner at home.,20260824T093740Z_5937923c
+2165,6,The response 'They have grown a lot recently' suggests the hedges *are* taller than last time.,20260824T093740Z_5937923c
+2166,7,The response 'Lunch is now ready' confirms they *have* finished cooking.,20260824T093740Z_5937923c
+2167,6,The response 'My math exercise is very complicated' suggests they *do* have difficult homework.,20260824T093740Z_5937923c
+2168,2,The response 'We are not sure where to go yet' suggests they *haven't* decided on a destination.,20260824T093740Z_5937923c
+2169,2,The response 'I smoke cigars only' suggests they *don't* smoke cigarettes.,20260824T093740Z_5937923c
+2170,2,The response 'I usually type directly on my laptop' suggests they *aren't* writing on paper.,20260824T093740Z_5937923c
+2171,2,The response 'Our new stove was not delivered yet' suggests the kitchen *is* still incomplete.,20260824T093740Z_5937923c
+2172,6,The response 'Cars get stolen regularly here' confirms car theft *does* occur often.,20260824T093740Z_5937923c
+2173,2,The response 'My wardrobe is completely full of clothes' suggests they *don't* have room in their wardrobe.,20260824T093740Z_5937923c
+2174,6,The response 'The dirty laundry is piling up' suggests there *is* a lot of laundry to wash.,20260824T093740Z_5937923c
+2175,6,The response 'I can have a relaxed breakfast' suggests they *are* taking some time for breakfast today.,20260824T093740Z_5937923c

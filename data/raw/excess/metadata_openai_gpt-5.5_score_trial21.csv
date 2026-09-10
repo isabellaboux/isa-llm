@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,run_id
+gen-1787319650-8xcG4KPXTh8tRBJNiVka,openai/gpt-5.5,openai/gpt-5.5,OpenAI,stop,9220,11709,4300,20929,0.35705,20260821T125948Z_8dbb5082

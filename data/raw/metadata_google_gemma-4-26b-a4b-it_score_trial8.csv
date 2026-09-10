@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787575688-kipobO8CeB9K8n4nOiRM,google/gemma-4-26b-a4b-it,google/gemma-4-26b-a4b-it,Parasail,stop,9181,9736,0,18917,0.00508793,,chatcmpl-5b15f411c2c9c8459eff05e5aed98ef7-fe73de8c6dfd024b,stop,1786,487643,20260824T093740Z_5937923c

@@ -1,0 +1,139 @@
+id,score,rationale,run_id
+1101,2,"Person B's response, ""I have not seen him for ages,"" strongly implies they have not met Martin recently, which is a negative response to the question of whether they have met him lately.",20260824T093740Z_5937923c
+1102,5,"Person B's response, ""I am sending out an application,"" suggests they are actively seeking employment, which is a positive indication of doing something.",20260824T093740Z_5937923c
+1103,6,"Person B's response, ""I train with him at the gym,"" confirms they exercise with Lukas, a clear affirmative answer.",20260824T093740Z_5937923c
+1104,7,"Person B's response, ""His grandfather passed away recently,"" directly answers the question with a definitive 'yes' (there was a death in his family).",20260824T093740Z_5937923c
+1105,5,"Person B's response, ""It is about 1000 Km away,"" provides a distance, indicating Paris is far away, a positive response.",20260824T093740Z_5937923c
+1106,5,"Person B's response, ""It is a six hour drive,"" gives a time estimate, implying it takes a long time to get to Munich, a positive response.",20260824T093740Z_5937923c
+1107,3,"Person B's response, ""My train has some delay,"" indicates the journey is not going as planned, leaning towards a negative response.",20260824T093740Z_5937923c
+1108,2,"Person B's response, ""There is still some left,"" implies the cereal is not finished, a negative response.",20260824T093740Z_5937923c
+1109,1,"Person B's response, ""It is not due for three months,"" directly states the deadline is not next week, a definitive 'no.'",20260824T093740Z_5937923c
+1110,6,"Person B's response, ""The streets are always congested with cars,"" confirms there is usually a lot of traffic, a clear affirmative answer.",20260824T093740Z_5937923c
+1111,1,"Person B's response, ""She is vegetarian,"" indicates Megan does not eat meat, a definitive 'no.'",20260824T093740Z_5937923c
+1112,7,"Person B's response, ""He has the flu,"" directly answers the question with a definitive 'yes' (John is sick).",20260824T093740Z_5937923c
+1113,6,"Person B's response, ""She runs for hours every day,"" confirms Sonya trains daily, a clear affirmative answer.",20260824T093740Z_5937923c
+1114,5,"Person B's response, ""She just woke up,"" implies Clara was sleeping, a positive response.",20260824T093740Z_5937923c
+1115,2,"Person B's response, ""It comes out next week,"" indicates the movie is not being released today, a negative response.",20260824T093740Z_5937923c
+1116,6,"Person B's response, ""I have used one before,"" confirms they have worked with a drill, a clear affirmative answer.",20260824T093740Z_5937923c
+1117,2,"Person B's response, ""I am celebrating tonight,"" implies the party is not tomorrow, a negative response.",20260824T093740Z_5937923c
+1118,6,"Person B's response, ""I am moving out tomorrow,"" confirms they are leaving soon, a clear affirmative answer.",20260824T093740Z_5937923c
+1119,2,"Person B's response, ""He was always falling behind,"" suggests he is a slacker, a negative response.",20260824T093740Z_5937923c
+1120,6,"Person B's response, ""The region is famous for surfing,"" confirms the area is popular for something, a clear affirmative answer.",20260824T093740Z_5937923c
+1121,1,"Person B's response, ""It is quite rough,"" indicates the sea is not calm, a definitive 'no.'",20260824T093740Z_5937923c
+1122,1,"Person B's response, ""My job is at an NGO,"" indicates they do not work for a corporate company, a definitive 'no.'",20260824T093740Z_5937923c
+1123,6,"Person B's response, ""He has authored many successful books,"" confirms he is a writer, a clear affirmative answer.",20260824T093740Z_5937923c
+1124,2,"Person B's response, ""I am still analyzing it,"" implies the data is not finished, a negative response.",20260824T093740Z_5937923c
+1125,1,"Person B's response, ""They are an endagered species,"" indicates there are not many pandas left, a definitive 'no.'",20260824T093740Z_5937923c
+1126,6,"Person B's response, ""I have enrolled at the gym,"" confirms they have joined a fitness studio, a clear affirmative answer.",20260824T093740Z_5937923c
+1127,1,"Person B's response, ""My thesis is not complete yet,"" directly states the thesis is not finished, a definitive 'no.'",20260824T093740Z_5937923c
+1128,6,"Person B's response, ""My hair was way too long,"" confirms they used to have long hair, a clear affirmative answer.",20260824T093740Z_5937923c
+1129,1,"Person B's response, ""It was a business trip,"" indicates it was not a vacation, a definitive 'no.'",20260824T093740Z_5937923c
+1130,1,"Person B's response, ""I need a larger one,"" implies a one-room flat is not enough, a definitive 'no.'",20260824T093740Z_5937923c
+1131,6,"Person B's response, ""The deadline is tomorrow,"" confirms she has to hand it in soon, a clear affirmative answer.",20260824T093740Z_5937923c
+1132,2,"Person B's response, ""I slept only four hours,"" implies a short night, a negative response.",20260824T093740Z_5937923c
+1133,1,"Person B's response, ""The offer had already expired,"" indicates the flight was not discounted, a definitive 'no.'",20260824T093740Z_5937923c
+1134,6,"Person B's response, ""It got wounded,"" confirms the cat is hurt, a clear affirmative answer.",20260824T093740Z_5937923c
+1135,1,"Person B's response, ""Mark is still missing,"" indicates not everyone is here, a definitive 'no.'",20260824T093740Z_5937923c
+1137,6,"Person B's response, ""I am Chinese,"" confirms they come from Asia, a clear affirmative answer.",20260824T093740Z_5937923c
+1138,1,"Person B's response, ""The line went dead,"" implies they did not hang up, a definitive 'no.'",20260824T093740Z_5937923c
+1139,6,"Person B's response, ""They have domestics,"" confirms someone is taking care of their house, a clear affirmative answer.",20260824T093740Z_5937923c
+1140,1,"Person B's response, ""They have just opened,"" indicates the bar has not been here for long, a definitive 'no.'",20260824T093740Z_5937923c
+1141,6,"Person B's response, ""His house is full of history books,"" confirms he owns many books, a clear affirmative answer.",20260824T093740Z_5937923c
+1143,5,"Person B's response, ""We have only few guests over for dinner,"" suggests a small gathering, a positive response.",20260824T093740Z_5937923c
+1144,2,"Person B's response, ""I only have one week off work,"" implies they do not have two weeks of holiday, a negative response.",20260824T093740Z_5937923c
+1145,7,"Person B's response, ""I am going to have a baby,"" confirms she is pregnant, a definitive 'yes.'",20260824T093740Z_5937923c
+1147,1,"Person B's response, ""I still owe the bank some money,"" indicates they have not paid back their debts, a definitive 'no.'",20260824T093740Z_5937923c
+1148,1,"Person B's response, ""He only had water,"" indicates he did not drink a cocktail, a definitive 'no.'",20260824T093740Z_5937923c
+1149,1,"Person B's response, ""I own an orchard,"" indicates they do not have a vegetable garden, a definitive 'no.'",20260824T093740Z_5937923c
+1150,1,"Person B's response, ""He is 25 years old,"" indicates he is not underage, a definitive 'no.'",20260824T093740Z_5937923c
+1151,1,"Person B's response, ""Their tuition fee is extremely expensive,"" indicates Harvard is not affordable, a definitive 'no.'",20260824T093740Z_5937923c
+1152,6,"Person B's response, ""She made a bank transfer few moments ago,"" confirms she has paid, a clear affirmative answer.",20260824T093740Z_5937923c
+1153,1,"Person B's response, ""They cannot swim yet,"" indicates the kids are not good at swimming, a definitive 'no.'",20260824T093740Z_5937923c
+1154,6,"Person B's response, ""I am healthy again,"" confirms they are not still sick, a clear affirmative answer.",20260824T093740Z_5937923c
+1155,6,"Person B's response, ""People are not allowed to get closer,"" confirms it is forbidden to approach, a clear affirmative answer.",20260824T093740Z_5937923c
+1156,6,"Person B's response, ""I have watered them regularly,"" confirms someone took care of the plants, a clear affirmative answer.",20260824T093740Z_5937923c
+1157,1,"Person B's response, ""He was already dead by then,"" indicates the artist was not still alive in the 80s, a definitive 'no.'",20260824T093740Z_5937923c
+1158,6,"Person B's response, ""The ice layer is quite thick,"" confirms the lake is frozen, a clear affirmative answer.",20260824T093740Z_5937923c
+1159,1,"Person B's response, ""I am in the advanced course,"" indicates they are not attending the beginners' class, a definitive 'no.'",20260824T093740Z_5937923c
+1160,6,"Person B's response, ""I have seen a doctor,"" confirms they have sought medical advice, a clear affirmative answer.",20260824T093740Z_5937923c
+1161,1,"Person B's response, ""I went out with some friends,"" indicates they did not stay home last night, a definitive 'no.'",20260824T093740Z_5937923c
+1162,6,"Person B's response, ""They voted yesterday,"" confirms there was an election recently, a clear affirmative answer.",20260824T093740Z_5937923c
+1163,7,"Person B's response, ""It is spotless,"" confirms the car is completely clean, a definitive 'yes.'",20260824T093740Z_5937923c
+1164,1,"Person B's response, ""They have submitted a blank sheet,"" indicates they have not answered all questions, a definitive 'no.'",20260824T093740Z_5937923c
+1165,2,"Person B's response, ""She has just got into the changing room,"" implies she is not still on the tennis field, a negative response.",20260824T093740Z_5937923c
+1166,6,"Person B's response, ""He was compensated,"" confirms he got the money back, a clear affirmative answer.",20260824T093740Z_5937923c
+1167,1,"Person B's response, ""No one has responded,"" indicates no one has answered the house sale ad, a definitive 'no.'",20260824T093740Z_5937923c
+1168,1,"Person B's response, ""He does not play any instrument,"" indicates he is not a musician, a definitive 'no.'",20260824T093740Z_5937923c
+1169,6,"Person B's response, ""He has been in Japan for several months,"" confirms he has travelled in Asia, a clear affirmative answer.",20260824T093740Z_5937923c
+1170,6,"Person B's response, ""We are aiming for the mountain top,"" confirms their goal is the summit, a clear affirmative answer.",20260824T093740Z_5937923c
+1171,6,"Person B's response, ""The customer received it,"" confirms the customer got the package, a clear affirmative answer.",20260824T093740Z_5937923c
+1173,1,"Person B's response, ""She skipped the last four lessons,"" indicates she did not attend the whole singing course, a definitive 'no.'",20260824T093740Z_5937923c
+1174,2,"Person B's response, ""My monitor's resolution is really poor,"" implies the screen does not have a good image, a negative response.",20260824T093740Z_5937923c
+1175,6,"Person B's response, ""She graduated from medical school last year,"" confirms she has completed her medical studies, a clear affirmative answer.",20260824T093740Z_5937923c
+1176,1,"Person B's response, ""It is a private property,"" indicates it is not a public building, a definitive 'no.'",20260824T093740Z_5937923c
+2101,5,"Person B's response, ""I need to revise some of the topics,"" suggests they do need to study, a positive response.",20260824T093740Z_5937923c
+2102,5,"Person B's response, ""There is an interesting new movie,"" indicates something has come out in the cinemas recently, a positive response.",20260824T093740Z_5937923c
+2103,2,"Person B's response, ""It is quite chilly,"" implies it is cold in the village, a negative response.",20260824T093740Z_5937923c
+2105,5,"Person B's response, ""I have heard good things about that book,"" suggests they know something about the novel, a positive response.",20260824T093740Z_5937923c
+2106,2,"Person B's response, ""I pulled a muscle last time,"" implies they were injured at yoga class, a negative response.",20260824T093740Z_5937923c
+2107,1,"Person B's response, ""I cannot find my phone,"" indicates they have lost their phone, a definitive 'no.'",20260824T093740Z_5937923c
+2108,6,"Person B's response, ""It is minus 20 degrees,"" confirms it is cold outside, a clear affirmative answer.",20260824T093740Z_5937923c
+2109,6,"Person B's response, ""We have just entered a church,"" confirms it is a religious building, a clear affirmative answer.",20260824T093740Z_5937923c
+2110,6,"Person B's response, ""I am training very hard,"" confirms their workouts are usually difficult, a clear affirmative answer.",20260824T093740Z_5937923c
+2113,2,"Person B's response, ""I have been working on an exhausting task,"" implies they were working today, a negative response.",20260824T093740Z_5937923c
+2114,1,"Person B's response, ""I did not bring my bikini,"" indicates they did not bring swimming gear, a definitive 'no.'",20260824T093740Z_5937923c
+2115,1,"Person B's response, ""I do not have time,"" indicates they are not free at the moment, a definitive 'no.'",20260824T093740Z_5937923c
+2116,1,"Person B's response, ""I watched it last month,"" indicates they did not watch 'Titanic' yesterday, a definitive 'no.'",20260824T093740Z_5937923c
+2117,2,"Person B's response, ""I am on a diet,"" implies they are not eating more than usual, a negative response.",20260824T093740Z_5937923c
+2118,1,"Person B's response, ""I am actually a Muslim,"" indicates they do not practise Hinduism, a definitive 'no.'",20260824T093740Z_5937923c
+2119,2,"Person B's response, ""My head is spinning after all these beers,"" implies they are not feeling ok, a negative response.",20260824T093740Z_5937923c
+2120,2,"Person B's response, ""I am very tired,"" implies they are not feeling energetic today, a negative response.",20260824T093740Z_5937923c
+2121,1,"Person B's response, ""We are broke at the moment,"" indicates they do not have any money saved up, a definitive 'no.'",20260824T093740Z_5937923c
+2122,6,"Person B's response, ""I have used one already in the past,"" confirms they have experience with a chain saw, a clear affirmative answer.",20260824T093740Z_5937923c
+2123,1,"Person B's response, ""It is 11 p.m.,"" indicates it is not morning in Los Angeles, a definitive 'no.'",20260824T093740Z_5937923c
+2124,2,"Person B's response, ""I have a hangover,"" implies they are not feeling good, a negative response.",20260824T093740Z_5937923c
+2125,1,"Person B's response, ""I am actually diabetic,"" indicates they are not free of any chronic disease, a definitive 'no.'",20260824T093740Z_5937923c
+2127,2,"Person B's response, ""I usually get seasick,"" implies they do not feel well on boats, a negative response.",20260824T093740Z_5937923c
+2128,6,"Person B's response, ""My toothache is gone,"" confirms their teeth are not still hurting, a clear affirmative answer.",20260824T093740Z_5937923c
+2129,6,"Person B's response, ""I have several bus stops before my destination,"" confirms there are many stations on their way, a clear affirmative answer.",20260824T093740Z_5937923c
+2130,1,"Person B's response, ""I should not staple them,"" indicates they do not have permission to staple their documents, a definitive 'no.'",20260824T093740Z_5937923c
+2131,6,"Person B's response, ""It is very light,"" confirms their luggage does not weigh much, a clear affirmative answer.",20260824T093740Z_5937923c
+2132,6,"Person B's response, ""We have to get up at 5 am,"" confirms they need to wake up early tomorrow, a clear affirmative answer.",20260824T093740Z_5937923c
+2134,1,"Person B's response, ""French is my native language,"" indicates Spanish is not their mother tongue, a definitive 'no.'",20260824T093740Z_5937923c
+2135,1,"Person B's response, ""It does not work,"" indicates the remote is still unusable, a definitive 'no.'",20260824T093740Z_5937923c
+2136,6,"Person B's response, ""Wolves are very common here,"" confirms there are wild animals in the region, a clear affirmative answer.",20260824T093740Z_5937923c
+2137,1,"Person B's response, ""We only have cacti,"" indicates there are not trees in their garden, a definitive 'no.'",20260824T093740Z_5937923c
+2138,6,"Person B's response, ""We need it for travelling,"" confirms the passport is necessary for taking the plane, a clear affirmative answer.",20260824T093740Z_5937923c
+2139,1,"Person B's response, ""I have got a sandwich,"" indicates they did not bring pie for lunch, a definitive 'no.'",20260824T093740Z_5937923c
+2140,6,"Person B's response, ""They have to go out soon,"" confirms the kids are about to leave, a clear affirmative answer.",20260824T093740Z_5937923c
+2141,6,"Person B's response, ""Right now I am starving,"" confirms they are already hungry, a clear affirmative answer.",20260824T093740Z_5937923c
+2144,6,"Person B's response, ""I drink tea all the time,"" confirms they do consume hot drinks, a clear affirmative answer.",20260824T093740Z_5937923c
+2145,2,"Person B's response, ""We have too much light in here,"" implies the room is not very bright, a negative response.",20260824T093740Z_5937923c
+2146,1,"Person B's response, ""I will be abroad then,"" indicates they will not be staying in town till Friday, a definitive 'no.'",20260824T093740Z_5937923c
+2147,6,"Person B's response, ""I am having a soup,"" confirms they are eating something, a clear affirmative answer.",20260824T093740Z_5937923c
+2148,1,"Person B's response, ""It just started pouring,"" indicates it is raining already, a definitive 'no.'",20260824T093740Z_5937923c
+2149,1,"Person B's response, ""I do not drink,"" indicates they do not consume alcohol, a definitive 'no.'",20260824T093740Z_5937923c
+2150,1,"Person B's response, ""There is a dish washer in the kitchen,"" indicates everything was not taken away from the flat, a definitive 'no.'",20260824T093740Z_5937923c
+2151,6,"Person B's response, ""I gave away my racket ages ago,"" confirms they do not still have tennis equipment, a clear affirmative answer.",20260824T093740Z_5937923c
+2152,1,"Person B's response, ""I do not eat spicy dishes,"" indicates they do not consume all types of food, a definitive 'no.'",20260824T093740Z_5937923c
+2153,6,"Person B's response, ""I live right next to you,"" confirms you are neighbours, a clear affirmative answer.",20260824T093740Z_5937923c
+2155,6,"Person B's response, ""I understand everything now,"" confirms they are no longer confused about it, a clear affirmative answer.",20260824T093740Z_5937923c
+2156,2,"Person B's response, ""My chest hurts a lot,"" implies they are not feeling well, a negative response.",20260824T093740Z_5937923c
+2157,1,"Person B's response, ""We are in the middle of the summer,"" indicates it is not winter there, a definitive 'no.'",20260824T093740Z_5937923c
+2159,6,"Person B's response, ""I cut my finger while cooking,"" confirms they did get hurt, a clear affirmative answer.",20260824T093740Z_5937923c
+2160,2,"Person B's response, ""There is dust all over the floor,"" implies the living room is not clean, a negative response.",20260824T093740Z_5937923c
+2161,1,"Person B's response, ""I have actually brought mine,"" indicates they did not leave their toothpaste at home, a definitive 'no.'",20260824T093740Z_5937923c
+2162,2,"Person B's response, ""My lips are all chapped,"" implies their lips did get damaged with the wind, a negative response.",20260824T093740Z_5937923c
+2163,2,"Person B's response, ""I am working early tomorrow morning,"" implies they are not doing the afternoon shift tomorrow, a negative response.",20260824T093740Z_5937923c
+2164,1,"Person B's response, ""I plan to eat at a restaurant,"" indicates they are not going to have dinner at home, a definitive 'no.'",20260824T093740Z_5937923c
+2165,6,"Person B's response, ""They have grown a lot recently,"" confirms the hedges are taller than last time, a clear affirmative answer.",20260824T093740Z_5937923c
+2166,6,"Person B's response, ""Lunch is now ready,"" confirms they have finished cooking, a clear affirmative answer.",20260824T093740Z_5937923c
+2167,6,"Person B's response, ""My math exercise is very complicated,"" confirms they do have difficult homework, a clear affirmative answer.",20260824T093740Z_5937923c
+2168,1,"Person B's response, ""We are not sure where to go yet,"" indicates they have not decided on a destination, a definitive 'no.'",20260824T093740Z_5937923c
+2169,1,"Person B's response, ""I smoke cigars only,"" indicates they do not smoke cigarettes, a definitive 'no.'",20260824T093740Z_5937923c
+2170,6,"Person B's response, ""I usually type directly on my laptop,"" confirms they are writing on paper, a clear affirmative answer.",20260824T093740Z_5937923c
+2171,1,"Person B's response, ""Our new stove was not delivered yet,"" indicates the kitchen is still incomplete, a definitive 'no.'",20260824T093740Z_5937923c
+2172,6,"Person B's response, ""Cars get stolen regularly here,"" confirms car theft occurs often, a clear affirmative answer.",20260824T093740Z_5937923c
+2173,6,"Person B's response, ""My wardrobe is completely full of clothes,"" confirms they do not have room in their wardrobe, a clear affirmative answer.",20260824T093740Z_5937923c
+2174,6,"Person B's response, ""The dirty laundry is piling up,"" confirms there is a lot of laundry to wash, a clear affirmative answer.",20260824T093740Z_5937923c
+2175,6,"Person B's response, ""I can have a relaxed breakfast,"" confirms they are going to have breakfast, a clear affirmative answer.",20260824T093740Z_5937923c

@@ -1,0 +1,21 @@
+id,score,rationale,run_id
+1101,3,"Person B says they have not seen Martin for ages, which suggests the answer is no, but it is not a direct yes/no response to meeting lately. It strongly implies they have not met him recently.",20260821T125948Z_8dbb5082
+1102,6,"Saying ""I am sending out an application"" clearly indicates they are doing something right now. This is a very likely yes.",20260821T125948Z_8dbb5082
+1103,6,"""I train with him at the gym"" directly supports the idea that they usually exercise with Lukas. It is a strong yes, though the word ""usually"" is inferred rather than explicitly stated.",20260821T125948Z_8dbb5082
+1104,7,"""His grandfather passed away recently"" directly answers that there was a death in his family. This is definite yes.",20260821T125948Z_8dbb5082
+1105,7,Saying Paris is about 1000 km away directly answers that it is very far. This is definitely yes.,20260821T125948Z_8dbb5082
+1106,7,A six hour drive clearly indicates it takes long to get to Munich. This is definite yes.,20260821T125948Z_8dbb5082
+1107,2,"A train delay suggests the journey is not going as planned, but it does not explicitly say the whole journey is off track. Still, it strongly points to no.",20260821T125948Z_8dbb5082
+1108,7,"If there is still some cereal left, then they have not finished it. This is a clear no.",20260821T125948Z_8dbb5082
+1109,7,"""Not due for three months"" directly contradicts the deadline being next week. This is definite no.",20260821T125948Z_8dbb5082
+1110,7,"""Always congested with cars"" directly confirms there is usually a lot of traffic. This is definite yes.",20260821T125948Z_8dbb5082
+1111,7,Being vegetarian strongly implies she does not eat meat. This is a definite yes to the implied no-answer question.,20260821T125948Z_8dbb5082
+1112,7,Having the flu means John is sick today. This is definite yes.,20260821T125948Z_8dbb5082
+1113,7,Running for hours every day clearly means she trains daily. This is definite yes.,20260821T125948Z_8dbb5082
+1114,7,"If she just woke up, she is not still sleeping. This is definite no.",20260821T125948Z_8dbb5082
+1115,7,"If it comes out next week, it is not being released today. This is definite no.",20260821T125948Z_8dbb5082
+1116,6,"Using one before indicates prior experience with a drill. It strongly answers yes, though it is phrased as a past experience rather than a direct statement of ability.",20260821T125948Z_8dbb5082
+1117,7,Celebrating tonight means the party is not tomorrow. This is definite no.,20260821T125948Z_8dbb5082
+1118,7,Moving out tomorrow means they are leaving soon. This is definite yes.,20260821T125948Z_8dbb5082
+1119,6,"Always falling behind strongly suggests he is a slacker. It is not an explicit label, but it clearly supports yes.",20260821T125948Z_8dbb5082
+1120,7,Being famous for surfing directly answers that the area is popular for something. This is definite yes.,20260821T125948Z_8dbb5082

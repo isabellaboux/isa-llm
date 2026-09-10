@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Person B says they have not seen Martin for ages, which directly implies they have not met him lately.",20260824T093740Z_5937923c
+1102,7,"Person B states they are sending out an application, which is something they are doing right now.",20260824T093740Z_5937923c
+1103,6,"Person B says they train with Lukas at the gym, which strongly suggests they usually exercise with him.",20260824T093740Z_5937923c
+1104,7,"Person B says his grandfather passed away recently, which directly confirms a death in the family.",20260824T093740Z_5937923c
+1105,6,A distance of about 1000 km strongly suggests Paris is very far from here.,20260824T093740Z_5937923c
+1106,6,A six-hour drive strongly suggests it takes a long time to get to Munich.,20260824T093740Z_5937923c
+1107,2,"Person B says the train is delayed, which strongly suggests the journey is not going as planned.",20260824T093740Z_5937923c
+1108,1,"Person B says there is still some cereal left, meaning they have not finished it.",20260824T093740Z_5937923c
+1109,1,"Person B says the essay is not due for three months, so the deadline is not next week.",20260824T093740Z_5937923c
+1110,7,"Person B says the streets are always congested with cars, directly confirming a lot of traffic.",20260824T093740Z_5937923c
+1111,1,"Person B says Megan is vegetarian, which implies she does not eat meat.",20260824T093740Z_5937923c
+1112,7,"Person B says John has the flu, directly confirming he is sick today.",20260824T093740Z_5937923c
+1113,7,"Person B says Sonya runs for hours every day, directly confirming she trains daily.",20260824T093740Z_5937923c
+1114,1,"Person B says Clara just woke up, so she is no longer sleeping.",20260824T093740Z_5937923c
+1115,1,"Person B says the movie comes out next week, so it is not being released today.",20260824T093740Z_5937923c
+1116,7,"Person B says they have used a drill before, directly confirming experience with one.",20260824T093740Z_5937923c
+1117,1,"Person B says they are celebrating tonight, so the party is not tomorrow.",20260824T093740Z_5937923c
+1118,7,"Person B says they are moving out tomorrow, directly confirming they are leaving soon.",20260824T093740Z_5937923c
+1119,6,"Person B says he was always falling behind, which strongly suggests he is a slacker.",20260824T093740Z_5937923c
+1120,7,"Person B says the region is famous for surfing, directly confirming it is popular for something.",20260824T093740Z_5937923c
+1121,1,"Person B says the sea is quite rough, so it is not calm.",20260824T093740Z_5937923c
+1122,2,"Person B says their job is at an NGO, which strongly suggests they do not work for a corporate company.",20260824T093740Z_5937923c
+1123,7,"Person B says he has authored many successful books, directly confirming he is a writer.",20260824T093740Z_5937923c
+1124,1,"Person B says they are still analyzing the data, so they are not finished working on it.",20260824T093740Z_5937923c
+1125,2,"Person B says pandas are an endangered species, which strongly suggests there are not many left.",20260824T093740Z_5937923c
+1126,7,"Person B says they have enrolled at the gym, directly confirming they joined a fitness studio.",20260824T093740Z_5937923c
+1127,1,Person B explicitly says the thesis is not complete yet.,20260824T093740Z_5937923c
+1128,6,"Person B says their hair was way too long, which strongly suggests they used to have long hair.",20260824T093740Z_5937923c
+1129,2,"Person B says it was a business trip, which strongly suggests it was not a vacation.",20260824T093740Z_5937923c
+1130,1,"Person B says they need a larger one, so a one-room flat is not enough.",20260824T093740Z_5937923c
+1131,7,"Person B says the deadline is tomorrow, which directly confirms she has to hand in soon.",20260824T093740Z_5937923c
+1132,7,"Person B says they slept only four hours, directly confirming a short night.",20260824T093740Z_5937923c
+1133,1,"Person B says the offer had already expired, so the flight was no longer discounted.",20260824T093740Z_5937923c
+1134,7,"Person B says the cat got wounded, directly confirming it is hurt.",20260824T093740Z_5937923c
+1135,1,"Person B says Mark is still missing, so not everyone is here.",20260824T093740Z_5937923c
+1137,7,"Person B says they are Chinese, which directly confirms they come from Asia.",20260824T093740Z_5937923c
+1138,4,"Person B says the line went dead, which is ambiguous about whether they intentionally hung up.",20260824T093740Z_5937923c
+1139,7,"Person B says they have domestics, which directly confirms someone is taking care of the house.",20260824T093740Z_5937923c
+1140,1,"Person B says the bar has just opened, so it has not been here for long.",20260824T093740Z_5937923c
+1141,7,"Person B says his house is full of history books, directly confirming he owns many books.",20260824T093740Z_5937923c
+1143,7,"Person B says they have only a few guests over for dinner, which directly confirms a small gathering.",20260824T093740Z_5937923c
+1144,1,"Person B says they only have one week off work, so they do not have two weeks of holiday.",20260824T093740Z_5937923c
+1145,7,"Person B says they are going to have a baby, directly confirming pregnancy.",20260824T093740Z_5937923c
+1147,2,"Person B says they still owe the bank some money, strongly suggesting debts are not fully paid back.",20260824T093740Z_5937923c
+1148,1,"Person B says he only had water, so he did not drink a cocktail.",20260824T093740Z_5937923c
+1149,4,"Person B says they own an orchard, which is related to growing produce but does not clearly confirm a vegetable garden.",20260824T093740Z_5937923c
+1150,1,"Person B says the son is 25 years old, so he is not underage.",20260824T093740Z_5937923c
+1151,1,"Person B says tuition is extremely expensive, so Harvard is not affordable.",20260824T093740Z_5937923c
+1152,7,"Person B says she made a bank transfer a few moments ago, directly confirming she has paid.",20260824T093740Z_5937923c
+1153,1,"Person B says the kids cannot swim yet, so they are not good at swimming.",20260824T093740Z_5937923c
+1154,1,"Person B says they are healthy again, so they no longer have a cold.",20260824T093740Z_5937923c
+1155,7,"Person B says people are not allowed to get closer, directly confirming it is forbidden to approach.",20260824T093740Z_5937923c
+1156,7,"Person B says they have watered the plants regularly, directly confirming someone took care of them.",20260824T093740Z_5937923c
+1157,1,"Person B says the artist was already dead by the 80s, so he was not alive then.",20260824T093740Z_5937923c
+1158,7,"Person B says the ice layer is quite thick, directly confirming the lake is frozen.",20260824T093740Z_5937923c
+1159,1,"Person B says they are in the advanced course, so they are not attending the beginners' class.",20260824T093740Z_5937923c
+1160,7,"Person B says they have seen a doctor, directly confirming they sought medical advice.",20260824T093740Z_5937923c
+1161,1,"Person B says they went out with friends, so they did not stay home.",20260824T093740Z_5937923c
+1162,7,"Person B says they voted yesterday, directly confirming there was an election recently.",20260824T093740Z_5937923c
+1163,7,"Person B says the car is spotless, directly confirming it is completely clean.",20260824T093740Z_5937923c
+1164,1,"Person B says they submitted a blank sheet, so they did not answer all questions.",20260824T093740Z_5937923c
+1165,2,"Person B says she has just got into the changing room, which strongly suggests she is not out on the tennis field yet.",20260824T093740Z_5937923c
+1166,7,"Person B says he was compensated, directly confirming he got the money back.",20260824T093740Z_5937923c
+1167,1,"Person B says no one has responded, directly confirming no one answered the ad.",20260824T093740Z_5937923c
+1168,1,"Person B says he does not play any instrument, so he is not a musician.",20260824T093740Z_5937923c
+1169,7,"Person B says he has been in Japan for several months, directly confirming travel in Asia.",20260824T093740Z_5937923c
+1170,7,"Person B says they are aiming for the mountain top, directly confirming the summit is the goal.",20260824T093740Z_5937923c
+1171,7,"Person B says the customer received the package, directly confirming he got it.",20260824T093740Z_5937923c
+1173,1,"Person B says she skipped the last four lessons, so she did not attend the whole course.",20260824T093740Z_5937923c
+1174,7,"Person B says the monitor's resolution is really poor, directly confirming a bad image.",20260824T093740Z_5937923c
+1175,7,"Person B says she graduated from medical school last year, directly confirming she completed her studies.",20260824T093740Z_5937923c
+1176,1,"Person B says it is private property, so it is not a public building.",20260824T093740Z_5937923c
+1201,2,"Person B says they have not seen Martin for ages, which strongly suggests they are no longer good friends.",20260824T093740Z_5937923c
+1202,7,"Person B says they are sending out an application, directly confirming they are looking for a job.",20260824T093740Z_5937923c
+1203,7,"Person B says they train with Lukas at the gym, directly confirming they know him.",20260824T093740Z_5937923c
+1204,4,"Person B says his grandfather passed away recently, which is ambiguous about whether the property is now his.",20260824T093740Z_5937923c
+1205,6,A distance of about 1000 km strongly suggests it takes a long time to drive to Paris.,20260824T093740Z_5937923c
+1206,6,A six-hour drive strongly suggests Munich is far from here.,20260824T093740Z_5937923c
+1207,2,"Person B says the train has a delay, which strongly suggests they will not be home by noon.",20260824T093740Z_5937923c
+1208,6,"Person B says there is still some cereal left, which strongly suggests cereal was bought.",20260824T093740Z_5937923c
+1209,4,"Person B says the essay is not due for three months, which is ambiguous about whether they have started writing it.",20260824T093740Z_5937923c
+1210,6,"Person B says the streets are always congested, which strongly suggests they will be late.",20260824T093740Z_5937923c
+1211,2,"Person B says Megan is vegetarian, which strongly suggests she is not coming to a steak house.",20260824T093740Z_5937923c
+1212,6,"Person B says John has the flu, which strongly suggests he is staying home.",20260824T093740Z_5937923c
+1213,4,"Person B says Sonya runs every day, which is ambiguous about whether she registered for the marathon.",20260824T093740Z_5937923c
+1214,2,"Person B says Clara just woke up, which strongly suggests she has not had breakfast yet.",20260824T093740Z_5937923c
+1215,1,"Person B says the movie comes out next week, so they have not seen it.",20260824T093740Z_5937923c
+1216,7,"Person B says they have used a drill before, directly confirming they know how to use one.",20260824T093740Z_5937923c
+1217,1,"Person B says they are celebrating tonight, which strongly suggests they did not fail the exam.",20260824T093740Z_5937923c
+1218,6,"Person B says they are moving out tomorrow, which strongly suggests they are breaking up with him.",20260824T093740Z_5937923c
+1219,6,"Person B says he was always falling behind, which strongly suggests he was fired.",20260824T093740Z_5937923c
+1220,6,"Person B says the region is famous for surfing, which strongly suggests there are big waves.",20260824T093740Z_5937923c
+1221,2,"Person B says the sea is quite rough, which strongly suggests it is not safe to swim.",20260824T093740Z_5937923c
+1222,2,"Person B says their job is at an NGO, which strongly suggests they do not make a lot of money.",20260824T093740Z_5937923c
+1223,6,"Person B says he has authored many successful books, which strongly suggests he is famous.",20260824T093740Z_5937923c
+1224,1,"Person B says they are still analyzing the data, so they did not present it at the meeting.",20260824T093740Z_5937923c
+1225,2,"Person B says pandas are endangered, which strongly suggests hunting them is not legal.",20260824T093740Z_5937923c
+1226,4,"Person B says they enrolled at the gym, which is ambiguous about whether they have lost weight.",20260824T093740Z_5937923c
+1227,1,"Person B says the thesis is not complete yet, so they have not graduated.",20260824T093740Z_5937923c
+1228,4,"Person B says their hair was way too long, which is ambiguous about whether they got a haircut.",20260824T093740Z_5937923c
+1229,2,"Person B says it was a business trip, which strongly suggests they did not have time for sightseeing.",20260824T093740Z_5937923c
+1230,2,"Person B says they need a larger one, which strongly suggests they did not buy that one-room flat.",20260824T093740Z_5937923c
+1231,6,"Person B says the deadline is tomorrow, which strongly suggests she is stressed about the project.",20260824T093740Z_5937923c
+1232,7,"Person B says they slept only four hours, directly confirming they are tired.",20260824T093740Z_5937923c
+1233,2,"Person B says the offer had already expired, which strongly suggests he did not book the flight.",20260824T093740Z_5937923c
+1234,6,"Person B says the cat got wounded, which strongly suggests they are bringing it to the vet.",20260824T093740Z_5937923c
+1235,1,"Person B says Mark is still missing, so they are not ready to go.",20260824T093740Z_5937923c
+1237,4,"Person B says they are Chinese, which is ambiguous about whether they can cook Cantonese rice.",20260824T093740Z_5937923c
+1238,4,"Person B says the line went dead, which is ambiguous about whether they told him about the issue.",20260824T093740Z_5937923c
+1239,6,"Person B says they have domestics, which strongly suggests the house is always tidy.",20260824T093740Z_5937923c
+1240,2,"Person B says the bar has just opened, which strongly suggests they have not tried it yet.",20260824T093740Z_5937923c
+1241,7,"Person B says his house is full of history books, directly confirming a passion for history.",20260824T093740Z_5937923c
+1243,6,"Person B says they have only a few guests, which strongly suggests the saucepan is big enough.",20260824T093740Z_5937923c
+1244,1,"Person B says they only have one week off work, so they will not take a two-week trip.",20260824T093740Z_5937923c
+1245,6,"Person B says they are going to have a baby, which strongly suggests they are avoiding alcohol.",20260824T093740Z_5937923c
+1247,4,"Person B says they still owe the bank money, which is ambiguous about whether they got a new loan.",20260824T093740Z_5937923c
+1248,1,"Person B says he only had water, so he is not drunk.",20260824T093740Z_5937923c
+1249,2,"Person B says they own an orchard, which strongly suggests they do not buy fruit in the supermarket.",20260824T093740Z_5937923c
+1250,1,"Person B says the son is 25 years old, so he is not at elementary school.",20260824T093740Z_5937923c
+1251,2,"Person B says tuition is extremely expensive, which strongly suggests Harvard is not an option.",20260824T093740Z_5937923c
+1252,6,"Person B says she made a bank transfer, which strongly suggests she accepted the deal.",20260824T093740Z_5937923c
+1253,4,"Person B says the kids cannot swim yet, which is ambiguous about whether they went to the swimming pool.",20260824T093740Z_5937923c
+1254,1,"Person B says they are healthy again, so they are no longer taking the pills.",20260824T093740Z_5937923c
+1255,6,"Person B says people are not allowed to get closer, which strongly suggests the area is contaminated.",20260824T093740Z_5937923c
+1256,6,"Person B says they have watered the plants regularly, which strongly suggests the plants are still alive.",20260824T093740Z_5937923c
+1257,1,"Person B says the artist was already dead by then, so he did not create the artwork in 1981.",20260824T093740Z_5937923c
+1258,6,"Person B says the ice layer is quite thick, which strongly suggests it is ice skating season.",20260824T093740Z_5937923c
+1259,1,"Person B says they are in the advanced course, so they are not a beginner.",20260824T093740Z_5937923c
+1260,6,"Person B says they have seen a doctor, which strongly suggests they have been sick.",20260824T093740Z_5937923c
+1261,2,"Person B says they went out with friends, which strongly suggests they did not go to bed early.",20260824T093740Z_5937923c
+1262,6,"Person B says they voted yesterday, which strongly suggests members can elect a representative.",20260824T093740Z_5937923c
+1263,6,"Person B says the car is spotless, which strongly suggests it is back from the car wash.",20260824T093740Z_5937923c
+1264,1,"Person B says they submitted a blank sheet, so they did not write a good exam.",20260824T093740Z_5937923c
+1265,2,"Person B says she has just got into the changing room, which strongly suggests she is not yet dressed for the game.",20260824T093740Z_5937923c
+1266,7,"Person B says he was compensated, directly confirming he settled the lawsuit.",20260824T093740Z_5937923c
+1267,1,"Person B says no one has responded, so they have not sold the house.",20260824T093740Z_5937923c
+1268,2,"Person B says he does not play any instrument, which strongly suggests he is not part of the marching band.",20260824T093740Z_5937923c
+1269,6,"Person B says he has been in Japan for several months, which strongly suggests he has tried sushi.",20260824T093740Z_5937923c
+1270,6,"Person B says they are aiming for the mountain top, which strongly suggests the whole way goes uphill.",20260824T093740Z_5937923c
+1271,7,"Person B says the customer received the package, directly confirming it was shipped.",20260824T093740Z_5937923c
+1273,1,"Person B says she skipped the last four lessons, so she is not very dedicated.",20260824T093740Z_5937923c
+1274,6,"Person B says the monitor's resolution is really poor, which strongly suggests their eyes get strained.",20260824T093740Z_5937923c
+1275,7,"Person B says she graduated from medical school last year, directly confirming she is a medical doctor.",20260824T093740Z_5937923c
+1276,4,"Person B says it is private property, which is ambiguous about whether they have ever been inside.",20260824T093740Z_5937923c
+2101,7,"Person B says they need to revise some topics, directly confirming they have to study for the test.",20260824T093740Z_5937923c
+2102,7,"Person B says there is an interesting new movie, directly confirming something new has come out in cinemas.",20260824T093740Z_5937923c
+2103,7,"Person B says it is quite chilly, directly confirming it is cold in the village.",20260824T093740Z_5937923c
+2105,6,"Person B says they have heard good things about the book, which strongly suggests they know something about it.",20260824T093740Z_5937923c
+2106,7,"Person B says they pulled a muscle last time, directly confirming they got injured at yoga class.",20260824T093740Z_5937923c
+2107,7,"Person B says they cannot find their phone, directly confirming they have lost it.",20260824T093740Z_5937923c
+2108,7,"Person B says it is minus 20 degrees, directly confirming it is cold outside.",20260824T093740Z_5937923c
+2109,7,"Person B says they have just entered a church, directly confirming they are in a religious building.",20260824T093740Z_5937923c
+2110,7,"Person B says they are training very hard, directly confirming their workouts are usually difficult.",20260824T093740Z_5937923c
+2113,7,"Person B says they have been working on an exhausting task, directly confirming they were working today.",20260824T093740Z_5937923c
+2114,1,"Person B says they did not bring their bikini, so they do not have swimming gear.",20260824T093740Z_5937923c
+2115,1,"Person B says they do not have time, so they are not free at the moment.",20260824T093740Z_5937923c
+2116,1,"Person B says they watched it last month, so they did not watch it yesterday.",20260824T093740Z_5937923c
+2117,1,"Person B says they are on a diet, so they are not eating more than usual.",20260824T093740Z_5937923c
+2118,1,"Person B says they are actually a Muslim, so they do not practise Hinduism.",20260824T093740Z_5937923c
+2119,1,"Person B says their head is spinning after beers, so they are not feeling ok.",20260824T093740Z_5937923c
+2120,1,"Person B says they are very tired, so they are not feeling energetic.",20260824T093740Z_5937923c
+2121,1,"Person B says they are broke at the moment, so they do not have money saved up.",20260824T093740Z_5937923c
+2122,1,"Person B says they have used a chain saw before, so it is not their first experience.",20260824T093740Z_5937923c
+2123,1,"Person B says it is 11 p.m., so it is not morning in Los Angeles.",20260824T093740Z_5937923c
+2124,1,"Person B says they have a hangover, so they are not feeling good.",20260824T093740Z_5937923c
+2125,1,"Person B says they are actually diabetic, so they are not free of chronic disease.",20260824T093740Z_5937923c
+2127,1,"Person B says they usually get seasick, so they do not feel well on boats.",20260824T093740Z_5937923c
+2128,1,"Person B says their toothache is gone, so their teeth are no longer hurting.",20260824T093740Z_5937923c
+2129,7,"Person B says they have several bus stops before their destination, directly confirming many stations.",20260824T093740Z_5937923c
+2130,1,"Person B says they should not staple the documents, so they are not allowed to.",20260824T093740Z_5937923c
+2131,1,"Person B says the luggage is very light, so it does not weigh much.",20260824T093740Z_5937923c
+2132,7,"Person B says they have to get up at 5 am, directly confirming they need to wake up early.",20260824T093740Z_5937923c
+2134,1,"Person B says French is their native language, so Spanish is not their mother tongue.",20260824T093740Z_5937923c
+2135,7,"Person B says the remote does not work, directly confirming it is still unusable.",20260824T093740Z_5937923c
+2136,7,"Person B says wolves are very common here, directly confirming there are wild animals.",20260824T093740Z_5937923c
+2137,1,"Person B says they only have cacti, so there are no trees in the garden.",20260824T093740Z_5937923c
+2138,7,"Person B says they need the passport for travelling, directly confirming it is necessary for the plane.",20260824T093740Z_5937923c
+2139,1,"Person B says they have got a sandwich, so they did not bring pie.",20260824T093740Z_5937923c
+2140,7,"Person B says the kids have to go out soon, directly confirming they are about to leave.",20260824T093740Z_5937923c
+2141,7,"Person B says they are starving, directly confirming they are already hungry.",20260824T093740Z_5937923c
+2144,7,"Person B says they drink tea all the time, directly confirming they often consume hot drinks.",20260824T093740Z_5937923c
+2145,7,"Person B says there is too much light in here, directly confirming the room is very bright.",20260824T093740Z_5937923c
+2146,1,"Person B says they will be abroad then, so they will not stay in town till Friday.",20260824T093740Z_5937923c
+2147,7,"Person B says they are having a soup, directly confirming they are eating something.",20260824T093740Z_5937923c
+2148,7,"Person B says it just started pouring, directly confirming it is raining already.",20260824T093740Z_5937923c
+2149,1,"Person B says they do not drink, so they do not consume alcohol.",20260824T093740Z_5937923c
+2150,1,"Person B says there is a dishwasher in the kitchen, so not everything was taken away.",20260824T093740Z_5937923c
+2151,1,"Person B says they gave away their racket ages ago, so they no longer have tennis equipment.",20260824T093740Z_5937923c
+2152,1,"Person B says they do not eat spicy dishes, so they do not consume all types of food.",20260824T093740Z_5937923c
+2153,7,"Person B says they live right next to you, directly confirming they are neighbours.",20260824T093740Z_5937923c
+2155,1,"Person B says they understand everything now, so they are no longer confused.",20260824T093740Z_5937923c
+2156,7,"Person B says their chest hurts a lot, directly confirming pain in the upper body.",20260824T093740Z_5937923c
+2157,1,"Person B says they are in the middle of summer, so it is not winter there.",20260824T093740Z_5937923c
+2159,7,"Person B says they cut their finger while cooking, directly confirming they got hurt.",20260824T093740Z_5937923c
+2160,7,"Person B says there is dust all over the floor, directly confirming the living room is dirty.",20260824T093740Z_5937923c
+2161,1,"Person B says they have actually brought their toothpaste, so they did not leave it at home.",20260824T093740Z_5937923c
+2162,7,"Person B says their lips are all chapped, directly confirming their lips got damaged.",20260824T093740Z_5937923c
+2163,1,"Person B says they are working early tomorrow morning, so they are not doing the afternoon shift.",20260824T093740Z_5937923c
+2164,1,"Person B says they plan to eat at a restaurant, so they are not having dinner at home.",20260824T093740Z_5937923c
+2165,7,"Person B says the hedges have grown a lot recently, directly confirming they are taller than last time.",20260824T093740Z_5937923c
+2166,7,"Person B says lunch is now ready, directly confirming they have finished cooking.",20260824T093740Z_5937923c
+2167,7,"Person B says their math exercise is very complicated, directly confirming difficult homework.",20260824T093740Z_5937923c
+2168,1,"Person B says they are not sure where to go yet, so they have not decided on a destination.",20260824T093740Z_5937923c
+2169,1,"Person B says they smoke cigars only, so they do not smoke cigarettes.",20260824T093740Z_5937923c
+2170,1,"Person B says they usually type on their laptop, so they are not writing on paper.",20260824T093740Z_5937923c
+2171,7,"Person B says the new stove was not delivered yet, directly confirming the kitchen is still incomplete.",20260824T093740Z_5937923c
+2172,7,"Person B says cars get stolen regularly here, directly confirming car theft occurs often.",20260824T093740Z_5937923c
+2173,1,"Person B says the wardrobe is completely full, so there is no room left.",20260824T093740Z_5937923c
+2174,7,"Person B says the dirty laundry is piling up, directly confirming there is a lot of laundry.",20260824T093740Z_5937923c
+2175,7,"Person B says they can have a relaxed breakfast, directly confirming they are taking time for breakfast.",20260824T093740Z_5937923c
+2201,6,"Person B says they need to revise some topics, which strongly suggests they are willing to study together.",20260824T093740Z_5937923c
+2202,6,"Person B says there is an interesting new movie, which strongly suggests they want to go to the cinema.",20260824T093740Z_5937923c
+2203,6,"Person B says it is quite chilly, which strongly suggests they want the window closed.",20260824T093740Z_5937923c
+2205,6,"Person B says they have heard good things about the book, which strongly suggests they would like to borrow it.",20260824T093740Z_5937923c
+2206,2,"Person B says they pulled a muscle last time, which strongly suggests they do not want to skip yoga class.",20260824T093740Z_5937923c
+2207,6,"Person B says they cannot find their phone, which strongly suggests they want to use the offered phone.",20260824T093740Z_5937923c
+2208,6,"Person B says it is minus 20 degrees, which strongly suggests they need a coat.",20260824T093740Z_5937923c
+2209,6,"Person B says they have just entered a church, which strongly suggests they should turn off their phones.",20260824T093740Z_5937923c
+2210,6,"Person B says they are training very hard, which strongly suggests they would like a protein shake.",20260824T093740Z_5937923c
+2213,6,"Person B says they have been working on an exhausting task, which strongly suggests they want a break.",20260824T093740Z_5937923c
+2214,2,"Person B says they did not bring their bikini, which strongly suggests they do not want to go to the lake.",20260824T093740Z_5937923c
+2215,1,"Person B says they do not have time, so they are not coming to the talk.",20260824T093740Z_5937923c
+2216,2,"Person B says they watched Titanic last month, which strongly suggests they do not want to watch it again tonight.",20260824T093740Z_5937923c
+2217,1,"Person B says they are on a diet, so they do not want dessert.",20260824T093740Z_5937923c
+2218,1,"Person B says they are actually a Muslim, so they do not want pork.",20260824T093740Z_5937923c
+2219,1,"Person B says their head is spinning after beers, so they do not want another beer.",20260824T093740Z_5937923c
+2220,1,"Person B says they are very tired, so they do not want to go out.",20260824T093740Z_5937923c
+2221,1,"Person B says they are broke at the moment, so they do not want to go on a trip.",20260824T093740Z_5937923c
+2222,1,"Person B says they have used a chain saw before, so they do not need help with it.",20260824T093740Z_5937923c
+2223,2,"Person B says it is 11 p.m., which strongly suggests they do not want to go to the cinema.",20260824T093740Z_5937923c
+2224,1,"Person B says they have a hangover, so they do not want drinks.",20260824T093740Z_5937923c
+2225,1,"Person B says they are actually diabetic, so they do not want cake.",20260824T093740Z_5937923c
+2227,1,"Person B says they usually get seasick, so they are not joining the sea cruise.",20260824T093740Z_5937923c
+2228,1,"Person B says their toothache is gone, so they do not want painkillers.",20260824T093740Z_5937923c
+2229,2,"Person B says they have several bus stops before their destination, which strongly suggests they do not want to give up their seat.",20260824T093740Z_5937923c
+2230,1,"Person B says they should not staple the documents, so they do not want the stapler.",20260824T093740Z_5937923c
+2231,1,"Person B says the luggage is very light, so they do not need help with it.",20260824T093740Z_5937923c
+2232,6,"Person B says they have to get up at 5 am, which strongly suggests they should set the alarm clock.",20260824T093740Z_5937923c
+2234,1,"Person B says French is their native language, so they do not need help with French spelling.",20260824T093740Z_5937923c
+2235,6,"Person B says the remote does not work, which strongly suggests they should change the batteries.",20260824T093740Z_5937923c
+2236,6,"Person B says wolves are very common here, which strongly suggests they should lock up the cattle.",20260824T093740Z_5937923c
+2237,2,"Person B says they only have cacti, which strongly suggests they do not need the plants watered.",20260824T093740Z_5937923c
+2238,6,"Person B says they need the passport for travelling, which strongly suggests they should pack it.",20260824T093740Z_5937923c
+2239,1,"Person B says they have got a sandwich, so they do not want food.",20260824T093740Z_5937923c
+2240,6,"Person B says the kids have to go out soon, which strongly suggests they should be woken up.",20260824T093740Z_5937923c
+2241,6,"Person B says they are starving, which strongly suggests they would like biscuits.",20260824T093740Z_5937923c
+2244,6,"Person B says they drink tea all the time, which strongly suggests they would like to use the kettle.",20260824T093740Z_5937923c
+2245,6,"Person B says there is too much light in here, which strongly suggests they should turn down the dimmer.",20260824T093740Z_5937923c
+2246,1,"Person B says they will be abroad then, so they are not coming to the party.",20260824T093740Z_5937923c
+2247,6,"Person B says they are having soup, which strongly suggests they want a spoon.",20260824T093740Z_5937923c
+2248,6,"Person B says it just started pouring, which strongly suggests they would like an umbrella.",20260824T093740Z_5937923c
+2249,1,"Person B says they do not drink, so they do not want wine.",20260824T093740Z_5937923c
+2250,2,"Person B says there is a dishwasher in the kitchen, which strongly suggests they do not need help doing the dishes.",20260824T093740Z_5937923c
+2251,1,"Person B says they gave away their racket ages ago, so they do not want to play tennis.",20260824T093740Z_5937923c
+2252,1,"Person B says they do not eat spicy dishes, so they do not want Mexican food.",20260824T093740Z_5937923c
+2253,1,"Person B says they live right next to you, so they do not need a ride home.",20260824T093740Z_5937923c
+2255,1,"Person B says they understand everything now, so they do not need it explained again.",20260824T093740Z_5937923c
+2256,6,"Person B says their chest hurts a lot, which strongly suggests they want the doctor called.",20260824T093740Z_5937923c
+2257,1,"Person B says they are in the middle of summer, so they do not want an extra blanket.",20260824T093740Z_5937923c
+2259,6,"Person B says they cut their finger while cooking, which strongly suggests they want a plaster.",20260824T093740Z_5937923c
+2260,6,"Person B says there is dust all over the floor, which strongly suggests they should sweep the living room.",20260824T093740Z_5937923c
+2261,1,"Person B says they have actually brought their toothpaste, so they do not need any.",20260824T093740Z_5937923c
+2262,6,"Person B says their lips are all chapped, which strongly suggests they want lip balm.",20260824T093740Z_5937923c
+2263,2,"Person B says they are working early tomorrow morning, which strongly suggests they are not joining for drinks.",20260824T093740Z_5937923c
+2264,1,"Person B says they plan to eat at a restaurant, so they do not want the other person to cook.",20260824T093740Z_5937923c
+2265,6,"Person B says the hedges have grown a lot recently, which strongly suggests they should be pruned.",20260824T093740Z_5937923c
+2266,6,"Person B says lunch is now ready, which strongly suggests they should set the table.",20260824T093740Z_5937923c
+2267,6,"Person B says their math exercise is very complicated, which strongly suggests they would like a calculator.",20260824T093740Z_5937923c
+2268,1,"Person B says they are not sure where to go yet, so they do not want train tickets bought.",20260824T093740Z_5937923c
+2269,1,"Person B says they smoke cigars only, so they do not want a cigarette.",20260824T093740Z_5937923c
+2270,1,"Person B says they usually type on their laptop, so they do not want paper.",20260824T093740Z_5937923c
+2271,6,"Person B says the new stove was not delivered yet, which strongly suggests they should get delivery food.",20260824T093740Z_5937923c
+2272,6,"Person B says cars get stolen regularly here, which strongly suggests they should lock the car.",20260824T093740Z_5937923c
+2273,1,"Person B says their wardrobe is completely full, so they do not want to go shopping for clothes.",20260824T093740Z_5937923c
+2274,6,"Person B says the dirty laundry is piling up, which strongly suggests they should do the laundry.",20260824T093740Z_5937923c
+2275,6,"Person B says they can have a relaxed breakfast, which strongly suggests they want pancakes for breakfast.",20260824T093740Z_5937923c

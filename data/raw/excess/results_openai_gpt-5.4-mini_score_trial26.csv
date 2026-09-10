@@ -1,0 +1,11 @@
+id,score,rationale,run_id
+1101,1,"B says they have not seen Martin for ages, which directly answers the question by implying no recent meeting.",20260821T125948Z_8dbb5082
+1102,5,"Sending out an application strongly suggests they are doing something right now, though it does not explicitly say they are busy in the moment.",20260821T125948Z_8dbb5082
+1103,6,"Training with Lukas at the gym indicates they do exercise with him, so this is a strong yes.",20260821T125948Z_8dbb5082
+1104,7,Saying his grandfather passed away recently clearly answers yes to a death in the family.,20260821T125948Z_8dbb5082
+1105,7,Being 1000 km away clearly means Paris is very far from here.,20260821T125948Z_8dbb5082
+1106,7,A six hour drive clearly means it takes long to get to Munich.,20260821T125948Z_8dbb5082
+1107,3,"A train delay suggests the journey is not going exactly as planned, but it does not fully answer the question and could be only a minor issue.",20260821T125948Z_8dbb5082
+1108,7,Saying there is still some left clearly means they have not finished their cereal.,20260821T125948Z_8dbb5082
+1109,7,"If it is not due for three months, then the deadline is definitely not next week.",20260821T125948Z_8dbb5082
+1110,7,Always congested with cars clearly means there is usually a lot of traffic.,20260821T125948Z_8dbb5082

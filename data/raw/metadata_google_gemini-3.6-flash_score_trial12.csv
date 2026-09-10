@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787572926-lbSK24IrYo5fivA8HetE,google/gemini-3.6-flash,google/gemini-3.6-flash,Google,stop,9301,24553,12706,33854,0.0990495,,vjKMaq_UKP7HwOYPtNWxmQc,STOP,1646,121647,20260824T093740Z_5937923c

@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787572440-HraGe68khGgbrHzWRQhf,google/gemini-3.6-flash,google/gemini-3.6-flash,Google AI Studio,stop,9166,15089,2973,24255,0.06345825,,2DCMaoDsOvWunsEPiq3f4Qc,STOP,1555,61516,20260824T093740Z_5937923c

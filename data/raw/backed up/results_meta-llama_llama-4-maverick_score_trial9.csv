@@ -1,0 +1,277 @@
+id,rationale,score,run_id
+1101,"The statement 'I have not seen him for ages' implies that Person B has not met Martin lately, aligning with a negative response to the question.",7,20260824T093740Z_5937923c
+1102,"The statement 'I am sending out an application' indicates that Person B is currently doing something, which answers 'yes' to the question about being active.",7,20260824T093740Z_5937923c
+1103,"The statement 'I train with him at the gym' directly supports that Person B usually exercises with Lukas, indicating a 'yes' answer.",7,20260824T093740Z_5937923c
+1104,"The statement 'His grandfather passed away recently' confirms there was a death in his family, directly answering 'yes' to the question.",7,20260824T093740Z_5937923c
+1105,"The statement 'It is about 1000 Km away' implies that Paris is far from the current location, supporting a 'yes' answer to the question about distance.",6,20260824T093740Z_5937923c
+1106,"The statement 'It is a six hour drive' indicates that it takes a significant amount of time to get to Munich, suggesting it is not close and thus takes long.",6,20260824T093740Z_5937923c
+1107,"The statement 'My train has some delay' implies that the journey is not going as planned due to the delay, suggesting a 'no' answer.",2,20260824T093740Z_5937923c
+1108,"The statement 'There is still some left' indicates that they have not finished their cereal, answering 'no' to the question.",1,20260824T093740Z_5937923c
+1109,"The statement 'It is not due for three months' clearly indicates that the deadline is not next week, answering 'no' to the question.",1,20260824T093740Z_5937923c
+1110,"The statement 'The streets are always congested with cars' implies that there is usually a lot of traffic, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1111,"The statement 'She is vegetarian' directly implies that Megan does not eat meat, answering 'no' to the question about eating meat.",1,20260824T093740Z_5937923c
+1112,"The statement 'He has the flu' indicates that John is sick, supporting a 'yes' answer to the question.",7,20260824T093740Z_5937923c
+1113,"The statement 'She runs for hours every day' implies that Sonya trains daily, supporting a 'yes' answer to the question.",7,20260824T093740Z_5937923c
+1114,"The statement 'She just woke up' indicates that Clara was sleeping until just now, answering 'yes' to the question about still sleeping.",5,20260824T093740Z_5937923c
+1115,"The statement 'It comes out next week' indicates that the movie is not going to be released today, answering 'no' to the question.",1,20260824T093740Z_5937923c
+1116,"The statement 'I have used one before' confirms that Person B has experience with a drill, answering 'yes' to the question.",7,20260824T093740Z_5937923c
+1117,"The statement 'I am celebrating tonight' implies that the birthday party is not tomorrow but tonight, answering 'no' to the question about tomorrow.",1,20260824T093740Z_5937923c
+1118,"The statement 'I am moving out tomorrow' confirms that Person B is leaving their flat soon, specifically tomorrow, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1119,"The statement 'He was always falling behind' implies that he was not keeping up, suggesting he might be considered a slacker, supporting a 'yes' answer.",6,20260824T093740Z_5937923c
+1120,"The statement 'The region is famous for surfing' implies that the area is popular for something, in this case, surfing, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1121,"The statement 'It is quite rough' indicates that the sea is not calm, answering 'no' to the question about being calm.",1,20260824T093740Z_5937923c
+1122,"The statement 'My job is at an NGO' implies that Person B does not work for a corporate company, answering 'no' to the question.",1,20260824T093740Z_5937923c
+1123,"The statement 'He has authored many successful books' directly supports that he is a writer, answering 'yes' to the question.",7,20260824T093740Z_5937923c
+1124,"The statement 'I am still analyzing it' indicates that Person B is not finished working on their data, answering 'no' to the question.",1,20260824T093740Z_5937923c
+1125,"The statement 'They are an endangered species' implies that there are not many pandas left, supporting a 'no' answer to the question about abundance.",2,20260824T093740Z_5937923c
+1126,"The statement 'I have enrolled at the gym' implies that Person B has joined a fitness studio, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1127,The statement 'My thesis is not complete yet' directly answers 'no' to the question about finishing the thesis.,1,20260824T093740Z_5937923c
+1128,"The statement 'My hair was way too long' implies that Person B used to have long hair, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1129,"The statement 'It was a business trip' does not directly answer the question about going to Japan for vacation; it was for business, not vacation.",4,20260824T093740Z_5937923c
+1130,"The statement 'I need a larger one' implies that a one-room flat is not enough, answering 'no' to the question about sufficiency.",1,20260824T093740Z_5937923c
+1131,"The statement 'The deadline is tomorrow' indicates that she has to hand in soon, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1132,"The statement 'I slept only four hours' implies that Person B had a short night, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1133,"The statement 'The offer had already expired' implies that the flight was not still discounted, answering 'no'.",1,20260824T093740Z_5937923c
+1134,"The statement 'It got wounded' confirms that the cat is hurt, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1135,"The statement 'Mark is still missing' implies that not everyone is there, answering 'no' to the question about being all there.",1,20260824T093740Z_5937923c
+1137,"The statement 'I am Chinese' directly supports that Person B comes from Asia, as China is in Asia, answering 'yes'.",7,20260824T093740Z_5937923c
+1138,"The statement 'The line went dead' implies that the call was disconnected, which can be interpreted as hanging up, supporting a 'yes' answer.",6,20260824T093740Z_5937923c
+1139,"The statement 'They have domestics' implies that someone is taking care of their house, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1140,"The statement 'They have just opened' indicates that the bar has not been there for long, answering 'no' to the question about being there for long.",1,20260824T093740Z_5937923c
+1141,"The statement 'His house is full of history books' implies that he owns many books, specifically history books, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1143,"The statement 'We have only few guests over for dinner' implies that the gathering is small, supporting a 'yes' answer to the question about a small gathering.",6,20260824T093740Z_5937923c
+1144,The statement 'I only have one week off work' directly answers 'no' to the question about having two weeks of holiday.,1,20260824T093740Z_5937923c
+1145,"The statement 'I am going to have a baby' implies that Person B is pregnant, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1147,"The statement 'I still owe the bank some money' indicates that Person B has not paid back their debts, answering 'no'.",1,20260824T093740Z_5937923c
+1148,"The statement 'He only had water' implies that he did not drink a cocktail, answering 'no' to the question.",1,20260824T093740Z_5937923c
+1149,"The statement 'I own an orchard' implies that Person B has a significant area for growing, which includes having a vegetable garden or similar, supporting a 'yes' in the context of having a large garden.",5,20260824T093740Z_5937923c
+1150,"The statement 'He is 25 years old' indicates that the son is not underage, assuming the age of majority is 18, answering 'no'.",1,20260824T093740Z_5937923c
+1151,"The statement 'Their tuition fee is extremely expensive' implies that Harvard University is not affordable, supporting a 'no' answer.",1,20260824T093740Z_5937923c
+1152,"The statement 'She made a bank transfer few moments ago' implies that she has paid, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1153,The statement 'They cannot swim yet' directly answers 'no' to the question about being good at swimming.,1,20260824T093740Z_5937923c
+1154,"The statement 'I am healthy again' implies that Person B no longer has a cold, answering 'no' to the question.",1,20260824T093740Z_5937923c
+1155,"The statement 'People are not allowed to get closer' directly supports that it is forbidden to approach the area, answering 'yes'.",7,20260824T093740Z_5937923c
+1156,"The statement 'I have watered them regularly' implies that someone (Person B) took care of the plants, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1157,"The statement 'He was already dead by then' implies that the artist was not alive in the 80s, answering 'no'.",1,20260824T093740Z_5937923c
+1158,"The statement 'The ice layer is quite thick' implies that the lake is frozen, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1159,"The statement 'I am in the advanced course' implies that Person B is not attending the beginners' class, answering 'no'.",1,20260824T093740Z_5937923c
+1160,"The statement 'I have seen a doctor' implies that Person B has sought medical advice, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1161,"The statement 'I went out with some friends' indicates that Person B did not stay home, answering 'no'.",1,20260824T093740Z_5937923c
+1162,"The statement 'They voted yesterday' implies that there was an election recently, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1163,"The statement 'It is spotless' directly supports that the car is completely clean, answering 'yes'.",7,20260824T093740Z_5937923c
+1164,"The statement 'They have submitted a blank sheet' implies that they have not answered all questions, answering 'no'.",1,20260824T093740Z_5937923c
+1165,"The statement 'She has just got into the changing room' implies that she was out on the tennis field but is now changing, supporting a 'yes' in the context of being on the field recently.",5,20260824T093740Z_5937923c
+1166,"The statement 'He was compensated' implies that he got the money back or was otherwise compensated, supporting a 'yes' answer.",6,20260824T093740Z_5937923c
+1167,The statement 'No one has responded' directly answers 'no' to the question about anyone answering the house sale ad.,1,20260824T093740Z_5937923c
+1168,"The statement 'He does not play any instrument' implies that he is not a musician, answering 'no'.",1,20260824T093740Z_5937923c
+1169,"The statement 'He has been in Japan for several months' implies that he has travelled in Asia, as Japan is part of Asia, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1170,"The statement 'We are aiming for the mountain top' implies that the goal is the summit, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1171,"The statement 'The customer received it' directly confirms that the customer got the package, answering 'yes'.",7,20260824T093740Z_5937923c
+1173,"The statement 'She skipped the last four lessons' implies that she did not attend the whole singing course, answering 'no'.",1,20260824T093740Z_5937923c
+1174,"The statement 'My monitor's resolution is really poor' implies that the screen has a bad image, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1175,"The statement 'She graduated from medical school last year' implies that she has completed her medical studies, supporting a 'yes' answer.",7,20260824T093740Z_5937923c
+1176,"The statement 'It is a private property' implies that the building is not public, answering 'no'.",1,20260824T093740Z_5937923c
+1201,"The statement 'I have not seen him for ages' suggests a lack of recent contact, but doesn't directly answer if they are still friends; it implies a possible drift apart.",4,20260824T093740Z_5937923c
+1202,"The statement 'I am sending out an application' indicates an active job search, supporting a 'yes' to being looking for a job.",7,20260824T093740Z_5937923c
+1203,"The statement 'I train with him at the gym' shows a connection with Lukas, but doesn't directly confirm knowing him outside this context.",5,20260824T093740Z_5937923c
+1204,The statement 'His grandfather passed away recently' indicates a recent death in his family but doesn't directly relate to the property's current status.,4,20260824T093740Z_5937923c
+1205,"The statement 'It is about 1000 Km away' suggests a significant distance, implying it takes long to drive to Paris.",6,20260824T093740Z_5937923c
+1206,"The statement 'It is a six hour drive' indicates a considerable travel time, supporting a 'yes' to Munich being far.",6,20260824T093740Z_5937923c
+1207,"The statement 'My train has some delay' implies a potential issue with arriving on time, suggesting 'no' to being home by noon.",2,20260824T093740Z_5937923c
+1208,"The statement 'There is still some left' implies cereal was bought or available previously, but doesn't directly confirm a recent purchase.",4,20260824T093740Z_5937923c
+1209,The statement 'It is not due for three months' indicates there's no immediate need to start writing the essay.,1,20260824T093740Z_5937923c
+1210,The statement 'The streets are always congested with cars' suggests a likelihood of being late due to traffic.,6,20260824T093740Z_5937923c
+1211,"The statement 'She is vegetarian' implies Megan might not be coming to a steak house, as it typically serves meat.",2,20260824T093740Z_5937923c
+1212,The statement 'He has the flu' suggests John is likely staying home due to illness.,6,20260824T093740Z_5937923c
+1213,"The statement 'She runs for hours every day' implies a high level of activity, but doesn't directly confirm registration for a marathon.",5,20260824T093740Z_5937923c
+1214,"The statement 'She just woke up' implies Clara might not have had breakfast yet, as she just woke up.",2,20260824T093740Z_5937923c
+1215,The statement 'It comes out next week' directly implies Person B has not seen the movie yet.,1,20260824T093740Z_5937923c
+1216,"The statement 'I have used one before' confirms experience with a drill, supporting a 'yes' to knowing how to use it.",7,20260824T093740Z_5937923c
+1217,The statement 'I am celebrating tonight' doesn't directly relate to failing an exam; it could be celebrating passing or another reason.,4,20260824T093740Z_5937923c
+1218,"The statement 'I am moving out tomorrow' implies a significant change, possibly related to a relationship, but doesn't directly confirm breaking up.",5,20260824T093740Z_5937923c
+1219,"The statement 'He was always falling behind' suggests he might have been considered a slacker or underperforming, potentially leading to being fired.",5,20260824T093740Z_5937923c
+1220,"The statement 'The region is famous for surfing' implies the presence of big waves, as surfing typically requires them.",6,20260824T093740Z_5937923c
+1221,The statement 'It is quite rough' suggests the sea might not be safe for swimming due to the conditions.,2,20260824T093740Z_5937923c
+1222,The statement 'My job is at an NGO' doesn't directly relate to the amount of money Person B makes.,4,20260824T093740Z_5937923c
+1223,The statement 'He has authored many successful books' implies a level of success or fame related to his writing.,6,20260824T093740Z_5937923c
+1224,The statement 'I am still analyzing it' directly implies that the data presentation has not happened yet.,1,20260824T093740Z_5937923c
+1225,"The statement 'They are an endangered species' implies legal protections likely exist for pandas, suggesting hunting them is probably illegal.",6,20260824T093740Z_5937923c
+1226,The statement 'I have enrolled at the gym' implies an intention or effort to lose weight or improve fitness.,5,20260824T093740Z_5937923c
+1227,"The statement 'My thesis is not complete yet' directly answers 'no' to having graduated, assuming the thesis is required for graduation.",1,20260824T093740Z_5937923c
+1228,"The statement 'My hair was way too long' implies a past state of having long hair, supporting a 'yes' to having had it cut or changed.",6,20260824T093740Z_5937923c
+1229,"The statement 'It was a business trip' implies the primary purpose was not vacation, so likely didn't have much time for sightseeing.",2,20260824T093740Z_5937923c
+1230,"The statement 'I need a larger one' directly implies that a one-room flat is not sufficient, so likely didn't buy it.",1,20260824T093740Z_5937923c
+1231,The statement 'The deadline is tomorrow' implies a high level of stress or urgency about the project.,7,20260824T093740Z_5937923c
+1232,The statement 'I slept only four hours' implies a short night and potentially being tired.,6,20260824T093740Z_5937923c
+1233,The statement 'The offer had already expired' suggests that booking the flight at the mentioned offer is not possible.,1,20260824T093740Z_5937923c
+1234,The statement 'It got wounded' directly supports bringing the cat to the vet due to being hurt.,7,20260824T093740Z_5937923c
+1235,"The statement 'Mark is still missing' implies that not everyone is ready or present, so not ready to go.",1,20260824T093740Z_5937923c
+1237,"The statement 'I am Chinese' implies a cultural background that might be able to cook Cantonese rice, but doesn't directly confirm the ability.",5,20260824T093740Z_5937923c
+1238,"The statement 'The line went dead' implies a disruption in communication, possibly not having the chance to tell him about the issue.",2,20260824T093740Z_5937923c
+1239,"The statement 'They have domestics' implies someone is taking care of their house, potentially keeping it tidy.",6,20260824T093740Z_5937923c
+1240,The statement 'They have just opened' directly implies that Person B has not tried the bar yet.,1,20260824T093740Z_5937923c
+1241,"The statement 'His house is full of history books' implies a potential passion for history, as indicated by the collection of history books.",6,20260824T093740Z_5937923c
+1243,The statement 'We have only few guests over for dinner' doesn't directly relate to the size of the saucepan.,4,20260824T093740Z_5937923c
+1244,The statement 'I only have one week off work' directly implies not taking a two weeks trip.,1,20260824T093740Z_5937923c
+1245,The statement 'I am going to have a baby' implies a condition (pregnancy) where avoiding alcohol is often recommended.,6,20260824T093740Z_5937923c
+1247,The statement 'I still owe the bank some money' directly implies not having paid back debts.,1,20260824T093740Z_5937923c
+1248,"The statement 'He only had water' implies not being drunk, as water does not cause intoxication.",1,20260824T093740Z_5937923c
+1249,"The statement 'I own an orchard' implies having a source of fruit, potentially reducing the need to buy it in supermarkets.",2,20260824T093740Z_5937923c
+1250,"The statement 'He is 25 years old' directly implies that the son is not underage, assuming the age of majority is 18.",1,20260824T093740Z_5937923c
+1251,The statement 'Their tuition fee is extremely expensive' implies that Harvard University is not an affordable option.,1,20260824T093740Z_5937923c
+1252,The statement 'She made a bank transfer few moments ago' implies a recent action that could be related to accepting a deal.,6,20260824T093740Z_5937923c
+1253,The statement 'They cannot swim yet' directly implies that the kids did not go to the swimming pool effectively or were not able to swim.,1,20260824T093740Z_5937923c
+1254,The statement 'I am healthy again' implies not still taking pills for the condition that made them unhealthy.,6,20260824T093740Z_5937923c
+1255,"The statement 'People are not allowed to get closer' implies a restriction or danger in the area, potentially indicating contamination or hazard.",6,20260824T093740Z_5937923c
+1256,The statement 'I have watered them regularly' directly implies that the plants are still alive due to the care.,7,20260824T093740Z_5937923c
+1257,The statement 'He was already dead by then' implies the artwork could not have been created by him in 1981.,1,20260824T093740Z_5937923c
+1258,The statement 'The ice layer is quite thick' implies conditions suitable for ice skating.,7,20260824T093740Z_5937923c
+1259,The statement 'I am in the advanced course' directly implies not being a beginner.,1,20260824T093740Z_5937923c
+1260,The statement 'I have seen a doctor' implies having sought medical advice or been sick.,6,20260824T093740Z_5937923c
+1261,The statement 'I went out with some friends' directly implies not going to bed early.,1,20260824T093740Z_5937923c
+1262,The statement 'They voted yesterday' implies a recent election or voting event.,7,20260824T093740Z_5937923c
+1263,"The statement 'It is spotless' implies a clean car, potentially indicating it has been through a car wash or detailed.",6,20260824T093740Z_5937923c
+1264,"The statement 'They have submitted a blank sheet' implies a lack of effort or understanding, potentially indicating a poor exam performance.",2,20260824T093740Z_5937923c
+1265,The statement 'She has just got into the changing room' implies she was likely dressed for tennis before entering the changing room.,5,20260824T093740Z_5937923c
+1266,"The statement 'He was compensated' implies a resolution to a dispute or issue, potentially a lawsuit.",7,20260824T093740Z_5937923c
+1267,The statement 'No one has responded' directly implies not having sold the house due to a lack of responses.,1,20260824T093740Z_5937923c
+1268,The statement 'He does not play any instrument' directly implies not being part of a marching band that requires musical performance.,1,20260824T093740Z_5937923c
+1269,"The statement 'He has been in Japan for several months' implies experience or exposure to aspects of Japanese culture, including potentially trying sushi.",6,20260824T093740Z_5937923c
+1270,The statement 'We are aiming for the mountain top' implies a journey or path that is likely uphill to reach the summit.,6,20260824T093740Z_5937923c
+1271,The statement 'The customer received it' directly confirms the package was shipped and received.,7,20260824T093740Z_5937923c
+1273,The statement 'She skipped the last four lessons' implies a lack of dedication or commitment to completing the course.,2,20260824T093740Z_5937923c
+1274,The statement 'My monitor's resolution is really poor' implies a potential issue with eye strain due to the poor quality.,6,20260824T093740Z_5937923c
+1275,The statement 'She graduated from medical school last year' directly implies she is a medical doctor.,7,20260824T093740Z_5937923c
+1276,"The statement 'It is a private property' implies restrictions on access, potentially not being allowed inside.",2,20260824T093740Z_5937923c
+2101,The statement 'I need to revise some of the topics' directly implies a need to study for the test.,7,20260824T093740Z_5937923c
+2102,The statement 'There is an interesting new movie' implies something new has come out in the cinemas.,7,20260824T093740Z_5937923c
+2103,The statement 'It is quite chilly' implies cold weather in the village.,6,20260824T093740Z_5937923c
+2105,The statement 'I have heard good things about that book' implies some knowledge or opinion about the novel.,6,20260824T093740Z_5937923c
+2106,The statement 'I pulled a muscle last time' implies a past injury during yoga class.,6,20260824T093740Z_5937923c
+2107,The statement 'I cannot find my phone' directly implies having lost the phone.,7,20260824T093740Z_5937923c
+2108,The statement 'It is minus 20 degrees' directly indicates cold weather outside.,7,20260824T093740Z_5937923c
+2109,The statement 'We have just entered a church' implies being in a religious building.,7,20260824T093740Z_5937923c
+2110,The statement 'I am training very hard' implies that workouts are usually difficult for Person B.,6,20260824T093740Z_5937923c
+2113,The statement 'I have been working on an exhausting task' implies being actively working on something challenging.,7,20260824T093740Z_5937923c
+2114,The statement 'I did not bring my bikini' implies not having swimming gear with them.,1,20260824T093740Z_5937923c
+2115,The statement 'I do not have time' directly implies not being free at the moment.,1,20260824T093740Z_5937923c
+2116,The statement 'I watched it last month' implies not watching 'Titanic' yesterday.,1,20260824T093740Z_5937923c
+2117,"The statement 'I am on a diet' implies an effort to control or reduce eating, potentially not eating more than usual.",2,20260824T093740Z_5937923c
+2118,The statement 'I am actually a Muslim' directly implies not practising Hinduism.,1,20260824T093740Z_5937923c
+2119,The statement 'My head is spinning after all these beers' implies not feeling okay due to alcohol consumption.,1,20260824T093740Z_5937923c
+2120,The statement 'I am very tired' directly implies not feeling energetic.,1,20260824T093740Z_5937923c
+2121,The statement 'We are broke at the moment' implies not having much money saved up.,1,20260824T093740Z_5937923c
+2122,"The statement 'I have used one already in the past' implies experience with a chain saw, not being a first-time user.",1,20260824T093740Z_5937923c
+2123,"The statement 'It is 11 p.m.' implies a different time zone or late hour, not necessarily indicating morning in Los Angeles.",4,20260824T093740Z_5937923c
+2124,"The statement 'I have a hangover' implies not feeling good, likely due to alcohol consumption.",1,20260824T093740Z_5937923c
+2125,The statement 'I am actually diabetic' directly implies having a chronic disease.,1,20260824T093740Z_5937923c
+2127,The statement 'I usually get seasick' implies not feeling well on boats.,7,20260824T093740Z_5937923c
+2128,The statement 'My toothache is gone' directly implies not still having toothache pain.,1,20260824T093740Z_5937923c
+2129,The statement 'I have several bus stops before my destination' implies multiple stations or stops on the way.,6,20260824T093740Z_5937923c
+2130,The statement 'I should not staple them' directly implies a need to avoid stapling the documents.,1,20260824T093740Z_5937923c
+2131,The statement 'It is very light' directly implies that the luggage does not weigh much.,1,20260824T093740Z_5937923c
+2132,The statement 'We have to get up at 5 am' directly implies a need to wake up early.,7,20260824T093740Z_5937923c
+2134,The statement 'French is my native language' directly implies that Spanish is not Person B's mother tongue.,1,20260824T093740Z_5937923c
+2135,The statement 'It does not work' directly implies that the remote is still unusable.,7,20260824T093740Z_5937923c
+2136,The statement 'Wolves are very common here' implies the presence of wild animals in the region.,7,20260824T093740Z_5937923c
+2137,The statement 'We only have cacti' implies a lack of typical trees in the garden.,1,20260824T093740Z_5937923c
+2138,The statement 'We need it for travelling' directly implies that the passport is necessary.,7,20260824T093740Z_5937923c
+2139,The statement 'I have got a sandwich' implies not having brought pie for lunch.,1,20260824T093740Z_5937923c
+2140,The statement 'They have to go out soon' implies that the kids are about to leave.,6,20260824T093740Z_5937923c
+2141,The statement 'Right now I am starving' directly implies being hungry at the moment.,7,20260824T093740Z_5937923c
+2144,The statement 'I drink tea all the time' implies a frequent consumption of hot drinks.,7,20260824T093740Z_5937923c
+2145,The statement 'We have too much light in here' implies that the room is very bright.,7,20260824T093740Z_5937923c
+2146,The statement 'I will be abroad then' implies not staying in town till Friday.,1,20260824T093740Z_5937923c
+2147,The statement 'I am having a soup' directly implies eating something.,7,20260824T093740Z_5937923c
+2148,The statement 'It just started pouring' implies that it is raining or has just started.,6,20260824T093740Z_5937923c
+2149,The statement 'I do not drink' directly implies not consuming alcohol.,1,20260824T093740Z_5937923c
+2150,The statement 'There is a dish washer in the kitchen' doesn't directly answer if everything was taken away; it indicates some appliances remain.,4,20260824T093740Z_5937923c
+2151,The statement 'I gave away my racket ages ago' implies not still having tennis equipment.,1,20260824T093740Z_5937923c
+2152,The statement 'I do not eat spicy dishes' implies a restriction on the types of food consumed.,5,20260824T093740Z_5937923c
+2153,The statement 'I live right next to you' directly implies being neighbours.,7,20260824T093740Z_5937923c
+2155,The statement 'I understand everything now' directly implies not being confused anymore.,1,20260824T093740Z_5937923c
+2156,The statement 'My chest hurts a lot' implies feeling pain in the upper body.,7,20260824T093740Z_5937923c
+2157,The statement 'We are in the middle of the summer' implies it is not winter.,1,20260824T093740Z_5937923c
+2159,The statement 'I cut my finger while cooking' implies getting hurt during an activity.,7,20260824T093740Z_5937923c
+2160,The statement 'There is dust all over the floor' implies that the living room is dirty.,7,20260824T093740Z_5937923c
+2161,"The statement 'I have actually brought mine' implies having brought toothpaste, so not leaving it at home.",1,20260824T093740Z_5937923c
+2162,"The statement 'My lips are all chapped' implies damage or discomfort to the lips, potentially due to wind.",6,20260824T093740Z_5937923c
+2163,The statement 'I am working early tomorrow morning' implies not doing the afternoon shift.,1,20260824T093740Z_5937923c
+2164,The statement 'I plan to eat at a restaurant' implies not having dinner at home.,1,20260824T093740Z_5937923c
+2165,The statement 'They have grown a lot recently' implies that the hedges are taller or have changed significantly.,6,20260824T093740Z_5937923c
+2166,The statement 'Lunch is now ready' directly implies having finished cooking.,7,20260824T093740Z_5937923c
+2167,The statement 'My math exercise is very complicated' implies having difficult homework.,7,20260824T093740Z_5937923c
+2168,The statement 'We are not sure where to go yet' directly implies not having decided on a destination.,1,20260824T093740Z_5937923c
+2169,The statement 'I smoke cigars only' implies not smoking cigarettes.,1,20260824T093740Z_5937923c
+2170,The statement 'I usually type directly on my laptop' implies not writing on paper typically.,1,20260824T093740Z_5937923c
+2171,The statement 'Our new stove was not delivered yet' implies that the kitchen is still incomplete regarding the stove.,6,20260824T093740Z_5937923c
+2172,The statement 'Cars get stolen regularly here' implies that car theft is a common occurrence.,7,20260824T093740Z_5937923c
+2173,The statement 'My wardrobe is completely full of clothes' implies not having much room left.,1,20260824T093740Z_5937923c
+2174,The statement 'The dirty laundry is piling up' implies a significant amount of laundry to wash.,7,20260824T093740Z_5937923c
+2175,The statement 'I can have a relaxed breakfast' implies taking some time for breakfast.,7,20260824T093740Z_5937923c
+2201,The statement 'I need to revise some of the topics' suggests a collaborative study could be beneficial or needed.,6,20260824T093740Z_5937923c
+2202,The statement 'There is an interesting new movie' suggests going to the cinema could be a good idea.,6,20260824T093740Z_5937923c
+2203,The statement 'It is quite chilly' suggests closing the window might be a good action to take.,6,20260824T093740Z_5937923c
+2205,The statement 'I have heard good things about that book' implies an interest or openness to borrowing the book.,5,20260824T093740Z_5937923c
+2206,The statement 'I pulled a muscle last time' suggests caution or a need to consider skipping yoga class due to injury.,5,20260824T093740Z_5937923c
+2207,The statement 'I cannot find my phone' directly implies a need or desire to use another phone.,7,20260824T093740Z_5937923c
+2208,The statement 'It is minus 20 degrees' directly implies a need for a coat due to the cold.,7,20260824T093740Z_5937923c
+2209,The statement 'We have just entered a church' suggests turning off phones as a respectful or necessary action.,6,20260824T093740Z_5937923c
+2210,The statement 'I am training very hard' implies a potential need or appreciation for a protein shake.,5,20260824T093740Z_5937923c
+2213,The statement 'I have been working on an exhausting task' suggests a need for a break.,6,20260824T093740Z_5937923c
+2214,The statement 'I did not bring my bikini' implies not being prepared or equipped for going to the lake.,1,20260824T093740Z_5937923c
+2215,The statement 'I do not have time' directly implies not being able to come to the talk.,1,20260824T093740Z_5937923c
+2216,"The statement 'I watched it last month' implies not watching 'Titanic' again soon, potentially not tonight.",2,20260824T093740Z_5937923c
+2217,The statement 'I am on a diet' suggests caution or restraint with dessert.,2,20260824T093740Z_5937923c
+2218,The statement 'I am actually a Muslim' implies dietary restrictions that might avoid pork.,6,20260824T093740Z_5937923c
+2219,The statement 'My head is spinning after all these beers' suggests caution with more alcohol.,2,20260824T093740Z_5937923c
+2220,The statement 'I am very tired' implies not being in a suitable state to go out.,1,20260824T093740Z_5937923c
+2221,The statement 'We are broke at the moment' directly implies not being in a financial state to go on a trip.,1,20260824T093740Z_5937923c
+2222,The statement 'I have used one already in the past' implies having experience and potentially not needing help with a chain saw.,2,20260824T093740Z_5937923c
+2223,The statement 'It is 11 p.m.' implies it might be too late for certain activities like going to the cinema.,4,20260824T093740Z_5937923c
+2224,The statement 'I have a hangover' suggests not being in a suitable state for having more drinks.,1,20260824T093740Z_5937923c
+2225,The statement 'I am actually diabetic' implies dietary restrictions that might consider avoiding cake.,5,20260824T093740Z_5937923c
+2227,The statement 'I usually get seasick' directly implies not being a good candidate for a sea cruise.,1,20260824T093740Z_5937923c
+2228,The statement 'My toothache is gone' implies not needing painkillers for toothache.,1,20260824T093740Z_5937923c
+2229,The statement 'I have several bus stops before my destination' implies not needing to take someone else's seat immediately.,2,20260824T093740Z_5937923c
+2230,The statement 'I should not staple them' directly implies not needing a stapler for the documents.,1,20260824T093740Z_5937923c
+2231,The statement 'It is very light' implies not needing help with carrying the luggage.,1,20260824T093740Z_5937923c
+2232,The statement 'We have to get up at 5 am' directly implies a need to set an alarm or wake up early.,7,20260824T093740Z_5937923c
+2234,"The statement 'French is my native language' implies a potential need for checking spelling in other languages, not French.",4,20260824T093740Z_5937923c
+2235,The statement 'It does not work' suggests a need to change the remote's batteries or fix it.,6,20260824T093740Z_5937923c
+2236,The statement 'Wolves are very common here' implies a need to protect cattle or take precautions.,7,20260824T093740Z_5937923c
+2237,"The statement 'We only have cacti' implies not needing to water plants frequently, as cacti are drought-resistant.",2,20260824T093740Z_5937923c
+2238,The statement 'We need it for travelling' directly implies a need to pack the passport.,7,20260824T093740Z_5937923c
+2239,The statement 'I have got a sandwich' implies not needing or wanting additional food at the moment.,2,20260824T093740Z_5937923c
+2240,The statement 'They have to go out soon' implies a need to wake up the kids or prepare them to leave.,6,20260824T093740Z_5937923c
+2241,The statement 'Right now I am starving' implies a need or desire for food.,6,20260824T093740Z_5937923c
+2244,The statement 'I drink tea all the time' implies a frequent use of a kettle.,6,20260824T093740Z_5937923c
+2245,The statement 'We have too much light in here' suggests a need to adjust the lighting.,6,20260824T093740Z_5937923c
+2246,The statement 'I will be abroad then' implies not being available or present at the party.,1,20260824T093740Z_5937923c
+2247,The statement 'I am having a soup' directly implies eating something.,7,20260824T093740Z_5937923c
+2248,The statement 'It just started pouring' implies a need or desire for an umbrella.,6,20260824T093740Z_5937923c
+2249,The statement 'I do not drink' directly implies not wanting or being able to consume wine.,1,20260824T093740Z_5937923c
+2250,The statement 'There is a dish washer in the kitchen' implies not necessarily needing to do the dishes manually.,2,20260824T093740Z_5937923c
+2251,The statement 'I gave away my racket ages ago' implies not being able or wanting to play tennis.,1,20260824T093740Z_5937923c
+2252,The statement 'I do not eat spicy dishes' implies a dietary restriction that might avoid certain types of food.,5,20260824T093740Z_5937923c
+2253,The statement 'I live right next to you' implies being in a convenient location for a ride or other assistance.,6,20260824T093740Z_5937923c
+2255,The statement 'I understand everything now' implies not needing further explanation.,1,20260824T093740Z_5937923c
+2256,The statement 'My chest hurts a lot' implies a need for medical attention or consultation.,7,20260824T093740Z_5937923c
+2257,The statement 'We are in the middle of the summer' implies not needing extra warmth or blankets.,1,20260824T093740Z_5937923c
+2259,The statement 'I cut my finger while cooking' implies a need for a plaster or bandage.,7,20260824T093740Z_5937923c
+2260,The statement 'There is dust all over the floor' implies a need to clean the living room.,7,20260824T093740Z_5937923c
+2261,The statement 'I have actually brought mine' implies not needing someone else's toothpaste.,1,20260824T093740Z_5937923c
+2262,The statement 'My lips are all chapped' implies a need or desire for lip balm.,6,20260824T093740Z_5937923c
+2263,The statement 'I am working early tomorrow morning' implies not being available for joining others for drinks tonight.,1,20260824T093740Z_5937923c
+2264,The statement 'I plan to eat at a restaurant' implies not needing or wanting someone to cook for them.,1,20260824T093740Z_5937923c
+2265,The statement 'They have grown a lot recently' implies a need to prune or maintain the hedges.,6,20260824T093740Z_5937923c
+2266,The statement 'Lunch is now ready' directly implies a need to set the table or prepare to eat.,6,20260824T093740Z_5937923c
+2267,The statement 'My math exercise is very complicated' implies a potential need for a calculator or other assistance.,6,20260824T093740Z_5937923c
+2268,The statement 'We are not sure where to go yet' implies a need to decide or discuss the destination.,6,20260824T093740Z_5937923c
+2269,The statement 'I smoke cigars only' implies not wanting or needing a cigarette.,1,20260824T093740Z_5937923c
+2270,The statement 'I usually type directly on my laptop' implies not typically needing or using paper for writing.,1,20260824T093740Z_5937923c
+2271,The statement 'Our new stove was not delivered yet' implies a potential need for alternative meal arrangements.,5,20260824T093740Z_5937923c
+2272,The statement 'Cars get stolen regularly here' implies a need to be cautious or take protective measures with one's car.,7,20260824T093740Z_5937923c
+2273,"The statement 'My wardrobe is completely full of clothes' implies a need to manage or organize clothing, potentially shopping for storage.",5,20260824T093740Z_5937923c
+2274,The statement 'The dirty laundry is piling up' implies a need to do laundry.,7,20260824T093740Z_5937923c
+2275,The statement 'I can have a relaxed breakfast' implies being open to or able to have a leisurely breakfast.,7,20260824T093740Z_5937923c

@@ -1,0 +1,277 @@
+id,score,rationale,run_id
+1101,1,"Not seeing him for ages implies they have not met, indicating no.",20260824T093740Z_5937923c
+1102,7,"Sending out an application is doing something, confirming yes.",20260824T093740Z_5937923c
+1103,6,"Training with him at the gym confirms regular exercise together, yes.",20260824T093740Z_5937923c
+1104,7,"Grandfather passing away confirms a death in the family, yes.",20260824T093740Z_5937923c
+1105,6,"1000km is indeed far, confirming yes.",20260824T093740Z_5937923c
+1106,7,"A six hour drive confirms it takes long, yes.",20260824T093740Z_5937923c
+1107,2,"A delayed train suggests the journey is not going as planned, no.",20260824T093740Z_5937923c
+1108,2,"Some left means they haven't finished, no.",20260824T093740Z_5937923c
+1109,1,"Due in three months means not next week, no.",20260824T093740Z_5937923c
+1110,7,"Always congested confirms usual traffic, yes.",20260824T093740Z_5937923c
+1111,1,"Vegetarian means she doesn't eat meat, no.",20260824T093740Z_5937923c
+1112,7,"Having the flu confirms sickness, yes.",20260824T093740Z_5937923c
+1113,7,"Running for hours daily confirms daily training, yes.",20260824T093740Z_5937923c
+1114,1,"Just woke up means not still sleeping, no.",20260824T093740Z_5937923c
+1115,1,"Coming out next week means not released today, no.",20260824T093740Z_5937923c
+1116,7,"Used one before confirms experience, yes.",20260824T093740Z_5937923c
+1117,1,"Celebrating tonight means party isn't tomorrow, no.",20260824T093740Z_5937923c
+1118,6,"Moving out tomorrow confirms leaving soon, yes.",20260824T093740Z_5937923c
+1119,6,"Falling behind confirms being a slacker, yes.",20260824T093740Z_5937923c
+1120,7,"Famous for surfing confirms area is popular for something, yes.",20260824T093740Z_5937923c
+1121,1,"Quite rough means not calm, no.",20260824T093740Z_5937923c
+1122,2,"Working at an NGO suggests not corporate, no.",20260824T093740Z_5937923c
+1123,7,"Authoring successful books confirms he's a writer, yes.",20260824T093740Z_5937923c
+1124,1,"Still analyzing means not finished, no.",20260824T093740Z_5937923c
+1125,2,"Endangered species implies few remain, no to 'many left'.",20260824T093740Z_5937923c
+1126,7,"Enrolling at the gym confirms joining a fitness studio, yes.",20260824T093740Z_5937923c
+1127,1,"Not complete yet means thesis isn't finished, no.",20260824T093740Z_5937923c
+1128,7,"Hair was way too long confirms having long hair, yes.",20260824T093740Z_5937923c
+1129,1,"Business trip means not vacation, no.",20260824T093740Z_5937923c
+1130,1,"Needing a larger flat means one room isn't enough, no.",20260824T093740Z_5937923c
+1131,7,"Deadline tomorrow confirms she has to hand in soon, yes.",20260824T093740Z_5937923c
+1132,6,"Only four hours of sleep confirms a short night, yes.",20260824T093740Z_5937923c
+1133,1,"Offer expired means not discounted, no.",20260824T093740Z_5937923c
+1134,7,"Wounded confirms the cat is hurt, yes.",20260824T093740Z_5937923c
+1135,1,"Mark missing means not everyone is here, no.",20260824T093740Z_5937923c
+1137,7,"Being Chinese confirms coming from Asia, yes.",20260824T093740Z_5937923c
+1138,5,"Line going dead suggests the call ended, mildly confirming yes.",20260824T093740Z_5937923c
+1139,6,"Having domestics confirms someone cares for the house, yes.",20260824T093740Z_5937923c
+1140,1,"Just opened means not here for long, no.",20260824T093740Z_5937923c
+1141,6,"House full of history books confirms owning many books, yes.",20260824T093740Z_5937923c
+1143,6,"Few guests confirms a small gathering, yes.",20260824T093740Z_5937923c
+1144,1,"Only one week off contradicts two weeks holiday, no.",20260824T093740Z_5937923c
+1145,7,"Going to have a baby confirms pregnancy, yes.",20260824T093740Z_5937923c
+1147,1,"Still owing money means debts aren't paid back, no.",20260824T093740Z_5937923c
+1148,1,"Only water means no cocktail, no.",20260824T093740Z_5937923c
+1149,2,"An orchard is fruit trees, not a vegetable garden, no.",20260824T093740Z_5937923c
+1150,1,"25 years old means not underage, no.",20260824T093740Z_5937923c
+1151,1,"Extremely expensive tuition means not affordable, no.",20260824T093740Z_5937923c
+1152,7,"A bank transfer confirms payment was made, yes.",20260824T093740Z_5937923c
+1153,1,"Cannot swim yet means not good at swimming, no.",20260824T093740Z_5937923c
+1154,1,"Healthy again means the cold is gone, no.",20260824T093740Z_5937923c
+1155,7,"Not allowed to get closer confirms it's forbidden, yes.",20260824T093740Z_5937923c
+1156,7,"Watering regularly confirms plant care, yes.",20260824T093740Z_5937923c
+1157,1,"Already dead by then means not alive in the 80s, no.",20260824T093740Z_5937923c
+1158,7,"Thick ice confirms the lake is frozen, yes.",20260824T093740Z_5937923c
+1159,1,"Advanced course means not beginners, no.",20260824T093740Z_5937923c
+1160,7,"Seeing a doctor confirms seeking medical advice, yes.",20260824T093740Z_5937923c
+1161,1,"Went out with friends means didn't stay home, no.",20260824T093740Z_5937923c
+1162,7,"Voting yesterday confirms a recent election, yes.",20260824T093740Z_5937923c
+1163,7,"Spotless confirms the car is completely clean, yes.",20260824T093740Z_5937923c
+1164,1,"Blank sheet means questions weren't answered, no.",20260824T093740Z_5937923c
+1165,2,"Just entering changing room suggests not currently on the field, no.",20260824T093740Z_5937923c
+1166,6,"Being compensated confirms getting money back, yes.",20260824T093740Z_5937923c
+1167,1,"No one responded means no answer, no.",20260824T093740Z_5937923c
+1168,1,"Not playing an instrument means not a musician, no.",20260824T093740Z_5937923c
+1169,7,"Being in Japan for months confirms travel in Asia, yes.",20260824T093740Z_5937923c
+1170,7,"Aiming for mountain top confirms the summit is the goal, yes.",20260824T093740Z_5937923c
+1171,7,"Receiving it confirms the customer got the package, yes.",20260824T093740Z_5937923c
+1173,1,"Skipping lessons means not attending the whole course, no.",20260824T093740Z_5937923c
+1174,7,"Poor resolution confirms bad image quality, yes.",20260824T093740Z_5937923c
+1175,7,"Graduating confirms completion of medical studies, yes.",20260824T093740Z_5937923c
+1176,1,"Private property means not public, no.",20260824T093740Z_5937923c
+1201,2,"Not seeing him for ages suggests they aren't close friends anymore, leaning no.",20260824T093740Z_5937923c
+1202,6,"Sending applications confirms job searching, yes.",20260824T093740Z_5937923c
+1203,7,"Training with him confirms knowing Lukas, yes.",20260824T093740Z_5937923c
+1204,5,"Grandfather's death could imply inheritance, but not explicitly confirmed.",20260824T093740Z_5937923c
+1205,6,"1000km suggests a long drive, yes.",20260824T093740Z_5937923c
+1206,7,"Six hour drive confirms Munich is far, yes.",20260824T093740Z_5937923c
+1207,2,"Train delay suggests not home by noon, no.",20260824T093740Z_5937923c
+1208,3,"Some cereal left doesn't confirm buying more, ambiguous leaning no.",20260824T093740Z_5937923c
+1209,2,"Not due for three months suggests no urgency to start yet, no.",20260824T093740Z_5937923c
+1210,6,"Always congested streets suggest likely to be late, yes.",20260824T093740Z_5937923c
+1211,2,"Vegetarian implies she won't go to a steak house, no.",20260824T093740Z_5937923c
+1212,6,"Having the flu suggests staying home, yes.",20260824T093740Z_5937923c
+1213,5,"Running daily suggests dedication, possibly registered for marathon.",20260824T093740Z_5937923c
+1214,2,"Just woke up suggests she hasn't had breakfast yet, no.",20260824T093740Z_5937923c
+1215,1,"Coming out next week means not seen yet, no.",20260824T093740Z_5937923c
+1216,7,"Used one before confirms knowledge of drills, yes.",20260824T093740Z_5937923c
+1217,2,"Celebrating tonight suggests success, not failure, no.",20260824T093740Z_5937923c
+1218,5,"Moving out tomorrow could imply a breakup, moderately yes.",20260824T093740Z_5937923c
+1219,5,"Falling behind could suggest being fired, moderate yes.",20260824T093740Z_5937923c
+1220,6,"Famous for surfing implies big waves, yes.",20260824T093740Z_5937923c
+1221,2,"Rough sea suggests unsafe swimming, no.",20260824T093740Z_5937923c
+1222,2,"Working at an NGO suggests modest income, no.",20260824T093740Z_5937923c
+1223,6,"Authoring successful books suggests fame, yes.",20260824T093740Z_5937923c
+1224,1,"Still analyzing means data wasn't presented, no.",20260824T093740Z_5937923c
+1225,1,"Endangered species implies hunting is illegal, no.",20260824T093740Z_5937923c
+1226,4,"Gym enrollment doesn't confirm weight loss, ambiguous.",20260824T093740Z_5937923c
+1227,1,"Incomplete thesis means not graduated, no.",20260824T093740Z_5937923c
+1228,5,"Too long hair suggests a haircut may have occurred, moderate yes.",20260824T093740Z_5937923c
+1229,2,"Business trip suggests no time for sightseeing, no.",20260824T093740Z_5937923c
+1230,1,"Needing a larger flat means didn't buy the one-room flat, no.",20260824T093740Z_5937923c
+1231,6,"Deadline tomorrow suggests stress, yes.",20260824T093740Z_5937923c
+1232,6,"Only four hours sleep suggests tiredness, yes.",20260824T093740Z_5937923c
+1233,2,"Offer expired suggests flight wasn't booked, no.",20260824T093740Z_5937923c
+1234,5,"Cat being wounded suggests a vet visit is likely, moderate yes.",20260824T093740Z_5937923c
+1235,1,"Mark missing means not ready to go, no.",20260824T093740Z_5937923c
+1237,5,"Being Chinese suggests likely ability to cook Cantonese rice, moderate yes.",20260824T093740Z_5937923c
+1238,2,"Line going dead suggests communication failed, not necessarily discussing the issue, no.",20260824T093740Z_5937923c
+1239,6,"Having domestics suggests a consistently tidy house, yes.",20260824T093740Z_5937923c
+1240,2,"Just opened suggests they haven't tried it yet, no.",20260824T093740Z_5937923c
+1241,6,"House full of history books suggests passion for history, yes.",20260824T093740Z_5937923c
+1243,5,"Few guests suggests the saucepan is likely sufficient, moderate yes.",20260824T093740Z_5937923c
+1244,1,"Only one week off means no two-week trip, no.",20260824T093740Z_5937923c
+1245,6,"Pregnancy naturally implies avoiding alcohol, yes.",20260824T093740Z_5937923c
+1247,3,"Owing money doesn't confirm a new loan, ambiguous leaning no.",20260824T093740Z_5937923c
+1248,1,"Only water means no drinking, no.",20260824T093740Z_5937923c
+1249,2,"Owning an orchard suggests they grow their own fruit rather than buy it, no.",20260824T093740Z_5937923c
+1250,1,"25 years old means not in elementary school, no.",20260824T093740Z_5937923c
+1251,2,"Expensive tuition suggests it's not a viable option, no.",20260824T093740Z_5937923c
+1252,6,"Bank transfer suggests she accepted the deal, yes.",20260824T093740Z_5937923c
+1253,2,"Can't swim yet suggests they likely didn't go to the pool, no.",20260824T093740Z_5937923c
+1254,1,"Being healthy again means no more need for pills, no.",20260824T093740Z_5937923c
+1255,6,"Restricted access suggests contamination, yes.",20260824T093740Z_5937923c
+1256,6,"Regular watering suggests plants are alive, yes.",20260824T093740Z_5937923c
+1257,1,"Already dead by then means he couldn't have created it in 1981, no.",20260824T093740Z_5937923c
+1258,6,"Thick ice suggests it's ice skating season, yes.",20260824T093740Z_5937923c
+1259,1,"Advanced course means not a beginner, no.",20260824T093740Z_5937923c
+1260,5,"Seeing a doctor suggests recent illness, moderate yes.",20260824T093740Z_5937923c
+1261,1,"Going out with friends means not an early night, no.",20260824T093740Z_5937923c
+1262,6,"Voting yesterday confirms they can and did elect, yes.",20260824T093740Z_5937923c
+1263,5,"Spotless suggests it just came from a wash, moderate yes.",20260824T093740Z_5937923c
+1264,1,"Blank sheet means exam wasn't done well, no.",20260824T093740Z_5937923c
+1265,2,"Just entering changing room suggests not dressed yet, no.",20260824T093740Z_5937923c
+1266,6,"Being compensated suggests the lawsuit was settled, yes.",20260824T093740Z_5937923c
+1267,1,"No response suggests house hasn't sold, no.",20260824T093740Z_5937923c
+1268,1,"Not playing instrument means not in marching band, no.",20260824T093740Z_5937923c
+1269,5,"Living in Japan suggests likely exposure to sushi, moderate yes.",20260824T093740Z_5937923c
+1270,6,"Aiming for mountain top suggests an uphill journey, yes.",20260824T093740Z_5937923c
+1271,6,"Receiving it confirms shipment occurred, yes.",20260824T093740Z_5937923c
+1273,1,"Skipping lessons means not very dedicated, no.",20260824T093740Z_5937923c
+1274,5,"Poor resolution likely causes eye strain, moderate yes.",20260824T093740Z_5937923c
+1275,6,"Graduating medical school confirms she's a doctor, yes.",20260824T093740Z_5937923c
+1276,2,"Private property suggests limited access, leaning no.",20260824T093740Z_5937923c
+2101,6,"Needing to revise confirms studying is required, yes.",20260824T093740Z_5937923c
+2102,7,"An interesting new movie confirms something new is out, yes.",20260824T093740Z_5937923c
+2103,6,"Quite chilly confirms cold weather, yes.",20260824T093740Z_5937923c
+2105,6,"Hearing good things confirms knowledge of the novel, yes.",20260824T093740Z_5937923c
+2106,6,"Pulling a muscle confirms an injury occurred, yes.",20260824T093740Z_5937923c
+2107,7,"Cannot find phone confirms it's lost, yes.",20260824T093740Z_5937923c
+2108,7,"Minus 20 degrees confirms it's cold, yes.",20260824T093740Z_5937923c
+2109,7,"Entering a church confirms being in a religious building, yes.",20260824T093740Z_5937923c
+2110,6,"Training very hard confirms difficult workouts, yes.",20260824T093740Z_5937923c
+2113,6,"Exhausting task confirms working today, yes.",20260824T093740Z_5937923c
+2114,1,"Not bringing a bikini means no swimming gear, no.",20260824T093740Z_5937923c
+2115,1,"No time confirms not being free, no.",20260824T093740Z_5937923c
+2116,1,"Watched last month means not yesterday, no.",20260824T093740Z_5937923c
+2117,2,"Being on a diet suggests eating less, no.",20260824T093740Z_5937923c
+2118,1,"Being Muslim contradicts practicing Hinduism, no.",20260824T093740Z_5937923c
+2119,1,"Head spinning after beers suggests not feeling okay, no.",20260824T093740Z_5937923c
+2120,1,"Very tired contradicts feeling energetic, no.",20260824T093740Z_5937923c
+2121,1,"Being broke means no savings, no.",20260824T093740Z_5937923c
+2122,1,"Used one before means it's not the first time, no.",20260824T093740Z_5937923c
+2123,1,"11pm is not morning, no.",20260824T093740Z_5937923c
+2124,1,"Having a hangover contradicts feeling good, no.",20260824T093740Z_5937923c
+2125,1,"Being diabetic means not free of chronic disease, no.",20260824T093740Z_5937923c
+2127,1,"Getting seasick contradicts feeling well on boats, no.",20260824T093740Z_5937923c
+2128,1,"Toothache gone contradicts still hurting, no.",20260824T093740Z_5937923c
+2129,6,"Several bus stops confirms multiple stations on the way, yes.",20260824T093740Z_5937923c
+2130,1,"Should not staple confirms not allowed, no.",20260824T093740Z_5937923c
+2131,1,"Very light contradicts heavy luggage, no.",20260824T093740Z_5937923c
+2132,7,"Getting up at 5am confirms an early start, yes.",20260824T093740Z_5937923c
+2134,1,"French being native language contradicts Spanish being mother tongue, no.",20260824T093740Z_5937923c
+2135,7,"Not working confirms the remote is still unusable, yes.",20260824T093740Z_5937923c
+2136,7,"Wolves being common confirms wild animals in the region, yes.",20260824T093740Z_5937923c
+2137,1,"Only cacti means no trees, no.",20260824T093740Z_5937923c
+2138,7,"Needing it for travel confirms necessity, yes.",20260824T093740Z_5937923c
+2139,1,"Having a sandwich contradicts bringing pie, no.",20260824T093740Z_5937923c
+2140,6,"Having to go out soon confirms they're about to leave, yes.",20260824T093740Z_5937923c
+2141,7,"Starving confirms being very hungry, yes.",20260824T093740Z_5937923c
+2144,7,"Drinking tea all the time confirms frequent hot drink consumption, yes.",20260824T093740Z_5937923c
+2145,7,"Too much light confirms brightness, yes.",20260824T093740Z_5937923c
+2146,1,"Being abroad contradicts staying in town, no.",20260824T093740Z_5937923c
+2147,7,"Having soup confirms eating something, yes.",20260824T093740Z_5937923c
+2148,7,"Started pouring confirms rain, yes.",20260824T093740Z_5937923c
+2149,1,"Not drinking confirms no alcohol consumption, no.",20260824T093740Z_5937923c
+2150,1,"Dishwasher present contradicts everything being taken away, no.",20260824T093740Z_5937923c
+2151,1,"Gave away racket confirms no tennis equipment, no.",20260824T093740Z_5937923c
+2152,1,"Not eating spicy dishes means not consuming all types of food, no.",20260824T093740Z_5937923c
+2153,7,"Living right next to them confirms being neighbours, yes.",20260824T093740Z_5937923c
+2155,1,"Understanding everything now contradicts still being confused, no.",20260824T093740Z_5937923c
+2156,7,"Chest hurting confirms upper body pain, yes.",20260824T093740Z_5937923c
+2157,1,"Middle of summer contradicts winter, no.",20260824T093740Z_5937923c
+2159,7,"Cutting finger confirms getting hurt, yes.",20260824T093740Z_5937923c
+2160,6,"Dust everywhere confirms dirtiness, yes.",20260824T093740Z_5937923c
+2161,1,"Bringing their own toothpaste contradicts leaving it at home, no.",20260824T093740Z_5937923c
+2162,7,"Chapped lips confirm wind damage, yes.",20260824T093740Z_5937923c
+2163,1,"Working early morning contradicts afternoon shift, no.",20260824T093740Z_5937923c
+2164,1,"Eating at a restaurant contradicts dinner at home, no.",20260824T093740Z_5937923c
+2165,6,"Growing a lot recently confirms increased height, yes.",20260824T093740Z_5937923c
+2166,7,"Lunch being ready confirms cooking is finished, yes.",20260824T093740Z_5937923c
+2167,7,"Complicated math exercise confirms difficult homework, yes.",20260824T093740Z_5937923c
+2168,1,"Not sure where to go contradicts having decided, no.",20260824T093740Z_5937923c
+2169,1,"Smoking cigars only contradicts smoking cigarettes, no.",20260824T093740Z_5937923c
+2170,1,"Typing on laptop contradicts writing on paper, no.",20260824T093740Z_5937923c
+2171,6,"Stove not delivered confirms kitchen is incomplete, yes.",20260824T093740Z_5937923c
+2172,7,"Cars stolen regularly confirms frequent theft, yes.",20260824T093740Z_5937923c
+2173,1,"Wardrobe completely full contradicts having room, no.",20260824T093740Z_5937923c
+2174,7,"Piling up laundry confirms a lot to wash, yes.",20260824T093740Z_5937923c
+2175,6,"Being able to have a relaxed breakfast confirms taking time, yes.",20260824T093740Z_5937923c
+2201,6,"Needing to revise supports studying together, yes.",20260824T093740Z_5937923c
+2202,6,"An interesting movie supports going to the cinema, yes.",20260824T093740Z_5937923c
+2203,6,"Being chilly supports closing the window, yes.",20260824T093740Z_5937923c
+2205,6,"Good things heard about the book support wanting to borrow it, yes.",20260824T093740Z_5937923c
+2206,6,"Pulled muscle supports skipping yoga class, yes.",20260824T093740Z_5937923c
+2207,4,"Own phone missing doesn't directly address willingness to use another's phone, ambiguous.",20260824T093740Z_5937923c
+2208,7,"Minus 20 degrees strongly supports needing a coat, yes.",20260824T093740Z_5937923c
+2209,6,"Entering a church supports turning off phones, yes.",20260824T093740Z_5937923c
+2210,6,"Training hard supports wanting a protein shake, yes.",20260824T093740Z_5937923c
+2213,5,"Exhausting task suggests a break might be welcomed, moderate yes.",20260824T093740Z_5937923c
+2214,2,"No bikini suggests not wanting to go to the lake, no.",20260824T093740Z_5937923c
+2215,1,"No time confirms not coming to the talk, no.",20260824T093740Z_5937923c
+2216,2,"Already watched last month suggests no interest in rewatching, no.",20260824T093740Z_5937923c
+2217,2,"Being on a diet suggests avoiding dessert, no.",20260824T093740Z_5937923c
+2218,1,"Being Muslim confirms declining pork, no.",20260824T093740Z_5937923c
+2219,2,"Already dizzy from beers suggests declining more, no.",20260824T093740Z_5937923c
+2220,2,"Being tired suggests declining to go out, no.",20260824T093740Z_5937923c
+2221,2,"Being broke suggests declining a trip, no.",20260824T093740Z_5937923c
+2222,2,"Prior experience suggests no help needed, no.",20260824T093740Z_5937923c
+2223,2,"Being late suggests declining the cinema, no.",20260824T093740Z_5937923c
+2224,2,"Having a hangover suggests declining more drinks, no.",20260824T093740Z_5937923c
+2225,2,"Being diabetic suggests declining cake, no.",20260824T093740Z_5937923c
+2227,2,"Getting seasick suggests declining a sea cruise, no.",20260824T093740Z_5937923c
+2228,1,"Toothache gone suggests no need for painkillers, no.",20260824T093740Z_5937923c
+2229,5,"Several stops left suggests they might appreciate taking the seat, moderate yes.",20260824T093740Z_5937923c
+2230,1,"Should not staple confirms declining the stapler, no.",20260824T093740Z_5937923c
+2231,1,"Very light luggage confirms no help needed, no.",20260824T093740Z_5937923c
+2232,6,"Needing to get up early supports setting an alarm, yes.",20260824T093740Z_5937923c
+2234,1,"French being native language means no need to check spelling, no.",20260824T093740Z_5937923c
+2235,5,"Remote not working suggests trying new batteries could help, moderate yes.",20260824T093740Z_5937923c
+2236,6,"Common wolves support locking up cattle, yes.",20260824T093740Z_5937923c
+2237,1,"Only cacti mean no need for regular watering, no.",20260824T093740Z_5937923c
+2238,6,"Needing it for travel supports packing the passport, yes.",20260824T093740Z_5937923c
+2239,1,"Already having a sandwich suggests no need for more food, no.",20260824T093740Z_5937923c
+2240,6,"Needing to leave soon supports waking the kids, yes.",20260824T093740Z_5937923c
+2241,6,"Being starving supports wanting biscuits, yes.",20260824T093740Z_5937923c
+2244,6,"Drinking tea often supports wanting to use the kettle, yes.",20260824T093740Z_5937923c
+2245,6,"Too much light supports turning down the dimmer, yes.",20260824T093740Z_5937923c
+2246,1,"Being abroad means not attending the party, no.",20260824T093740Z_5937923c
+2247,6,"Having soup supports wanting a spoon, yes.",20260824T093740Z_5937923c
+2248,6,"Pouring rain supports wanting an umbrella, yes.",20260824T093740Z_5937923c
+2249,1,"Not drinking means declining wine, no.",20260824T093740Z_5937923c
+2250,2,"Having a dishwasher suggests no need to do dishes manually, no.",20260824T093740Z_5937923c
+2251,1,"No racket means declining tennis, no.",20260824T093740Z_5937923c
+2252,2,"Avoiding spicy dishes suggests declining Mexican food, no.",20260824T093740Z_5937923c
+2253,2,"Living close by suggests no need for a ride, no.",20260824T093740Z_5937923c
+2255,1,"Understanding everything means no need for explanation, no.",20260824T093740Z_5937923c
+2256,6,"Chest pain supports calling the doctor, yes.",20260824T093740Z_5937923c
+2257,1,"Being summer means no need for an extra blanket, no.",20260824T093740Z_5937923c
+2259,6,"Cut finger supports wanting a plaster, yes.",20260824T093740Z_5937923c
+2260,6,"Dust everywhere supports sweeping, yes.",20260824T093740Z_5937923c
+2261,1,"Already having toothpaste means no need for more, no.",20260824T093740Z_5937923c
+2262,6,"Chapped lips support wanting lip balm, yes.",20260824T093740Z_5937923c
+2263,2,"Early morning work suggests declining drinks tonight, no.",20260824T093740Z_5937923c
+2264,1,"Planning to eat out means declining cooking together, no.",20260824T093740Z_5937923c
+2265,6,"Grown hedges support pruning, yes.",20260824T093740Z_5937923c
+2266,6,"Lunch being ready supports setting the table, yes.",20260824T093740Z_5937923c
+2267,5,"Complicated math suggests a calculator could help, moderate yes.",20260824T093740Z_5937923c
+2268,2,"Not sure of destination suggests declining ticket purchase, no.",20260824T093740Z_5937923c
+2269,2,"Smoking cigars only suggests declining a cigarette, no.",20260824T093740Z_5937923c
+2270,1,"Typing on laptop suggests no need for paper, no.",20260824T093740Z_5937923c
+2271,5,"Stove not delivered suggests inability to cook, supporting delivery food, moderate yes.",20260824T093740Z_5937923c
+2272,6,"Frequent car theft supports locking the car, yes.",20260824T093740Z_5937923c
+2273,2,"Full wardrobe suggests no need for more clothes, no.",20260824T093740Z_5937923c
+2274,6,"Piling laundry supports doing it, yes.",20260824T093740Z_5937923c
+2275,4,"A relaxed breakfast doesn't specifically confirm pancakes, ambiguous.",20260824T093740Z_5937923c

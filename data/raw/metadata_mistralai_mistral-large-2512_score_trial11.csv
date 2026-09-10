@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787622431-BknvhuxPcOjx64vx7Rpo,mistralai/mistral-large-2512,mistralai/mistral-large-2512,Mistral,stop,9820,13449,0,23269,0.0250835,,fe9c67ab272e4a1c8d85fee93937a0e6,stop,4907,230359,20260824T093740Z_5937923c

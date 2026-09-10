@@ -1,0 +1,11 @@
+evaluator,evaluator_provider,evaluator_name,evaluator_type,direct,indirect,all
+mistralai/mistral-large-2512,mistralai,mistral-large-2512,open,3.930,3.886,3.908
+meta-llama/llama-4-scout,meta-llama,llama-4-scout,open,3.701,3.806,3.753
+mistralai/mistral-small-2603,mistralai,mistral-small-2603,open,3.716,3.589,3.652
+mistralai/ministral-14b-2512,mistralai,ministral-14b-2512,open,3.640,3.570,3.605
+meta-llama/llama-3.3-70b-instruct,meta-llama,llama-3.3-70b-instruct,open,3.674,3.526,3.600
+google/gemma-4-26b-a4b-it,google,gemma-4-26b-a4b-it,open,3.739,3.457,3.598
+meta-llama/llama-4-maverick,meta-llama,llama-4-maverick,open,3.637,3.233,3.435
+qwen/qwen3.8-2.4t-a95b,qwen,qwen3.8-2.4t-a95b,open,3.531,2.803,3.167
+qwen/qwen3.8-27b,qwen,qwen3.8-27b,open,3.564,2.481,3.022
+google/gemma-3-27b-it,google,gemma-3-27b-it,open,2.976,3.106,3.018

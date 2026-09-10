@@ -1,0 +1,145 @@
+id,score,rationale,run_id
+1101,1,"The answer 'I have not seen him for ages' implies that Person B has not met Martin lately, which suggests a negative response to the question of whether Person B has met Martin lately.",20260824T093740Z_5937923c
+1102,6,"The answer 'I am sending out an application' implies that Person B is currently looking for a job or applying for something, which suggests a positive response to the question of whether Person B is doing something right now.",20260824T093740Z_5937923c
+1103,7,"The answer 'I train with him at the gym' directly implies that Person B does exercise with Lukas, which is a clear 'yes' to the question.",20260824T093740Z_5937923c
+1104,7,"The answer 'His grandfather passed away recently' directly answers the question about a death in his family, confirming that there was indeed a death.",20260824T093740Z_5937923c
+1105,6,"The answer 'It is about 1000 Km away' implies that Paris is far from the speaker's current location, which suggests a 'yes' to the question of whether Paris is very far away.",20260824T093740Z_5937923c
+1106,6,"The answer 'It is a six hour drive' implies that it takes a significant amount of time to get to Munich, suggesting that it does take long, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1107,2,"The answer 'My train has some delay' implies that the journey is not going as planned, which suggests a 'no' to the question of whether the journey is going as planned.",20260824T093740Z_5937923c
+1108,2,"The answer 'There is still some left' implies that they have not finished their cereal, which suggests a 'no' to the question of whether they have finished it.",20260824T093740Z_5937923c
+1109,1,"The answer 'It is not due for three months' implies that the deadline is not next week, which is a clear 'no' to the question.",20260824T093740Z_5937923c
+1110,7,"The answer 'The streets are always congested with cars' directly implies that there usually is a lot of traffic, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1111,1,"The answer 'She is vegetarian' implies that Megan does not eat meat, which is a clear 'no' to the question.",20260824T093740Z_5937923c
+1112,7,"The answer 'He has the flu' directly confirms that John is sick today, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1113,7,"The answer 'She runs for hours every day' directly implies that Sonya does train daily, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1114,7,"The answer 'She just woke up' directly implies that Clara is no longer sleeping, which is a 'yes' to the question of whether she is still sleeping (in the sense of confirming she is not).",20260824T093740Z_5937923c
+1115,1,"The answer 'It comes out next week' implies that the movie is not being released today, which is a clear 'no' to the question.",20260824T093740Z_5937923c
+1116,7,"The answer 'I have used one before' directly implies that Person B has experience with a drill, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1117,7,"The answer 'I am celebrating tonight' directly implies that the birthday party is taking place tonight, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1118,7,"The answer 'I am moving out tomorrow' directly confirms that Person B is leaving their flat soon, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1119,7,"The answer 'He was always falling behind' implies that he can be considered a slacker, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1120,7,"The answer 'The region is famous for surfing' directly implies that the area is popular for something (surfing), which is a 'yes' to the question.",20260824T093740Z_5937923c
+1121,1,"The answer 'It is quite rough' implies that the sea is not calm, which is a 'no' to the question.",20260824T093740Z_5937923c
+1122,1,"The answer 'My job is at an NGO' implies that Person B does not work for a corporate company, which is a 'no' to the question.",20260824T093740Z_5937923c
+1123,7,"The answer 'He has authored many successful books' directly confirms that he is a writer, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1124,2,"The answer 'I am still analyzing it' implies that Person B is not finished working on their data, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1125,7,"The answer 'They are an endangered species' directly implies that there are not many pandas left, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1126,7,"The answer 'I have enrolled at the gym' directly implies that Person B has joined a fitness studio, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1127,1,"The answer 'My thesis is not complete yet' implies that Person B has not finished writing their thesis, which is a 'no' to the question.",20260824T093740Z_5937923c
+1128,7,"The answer 'My hair was way too long' implies that Person B used to have long hair, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1129,2,"The answer 'It was a business trip' implies that Person B did not go to Japan for vacation, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1130,1,"The answer 'I need a larger one' implies that a one room flat is not enough for Person B, which is a 'no' to the question.",20260824T093740Z_5937923c
+1131,7,"The answer 'The deadline is tomorrow' directly implies that she does have to hand it in soon, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1132,7,"The answer 'I slept only four hours' implies that Person B did have a short night, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1133,1,"The answer 'The offer had already expired' implies that the flight was not still discounted, which is a 'no' to the question.",20260824T093740Z_5937923c
+1134,7,"The answer 'It got wounded' directly confirms that the cat is hurt, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1135,2,"The answer 'Mark is still missing' implies that not everyone is present, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1137,7,"The answer 'I am Chinese' directly implies that Person B comes from Asia, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1138,7,"The answer 'The line went dead' directly implies that Person B did hang up, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1139,7,"The answer 'They have domestics' directly implies that someone is taking care of their house, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1140,1,"The answer 'They have just opened' implies that the bar has not been there for long, which is a 'no' to the question.",20260824T093740Z_5937923c
+1141,7,"The answer 'His house is full of history books' directly implies that he does own many books, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1143,7,"The answer 'We have only few guests over for dinner' directly implies that there is a small gathering, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1144,2,"The answer 'I only have one week off work' implies that Person B does not have two weeks of holiday, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1145,7,"The answer 'I am going to have a baby' directly confirms that Person B is pregnant, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1147,1,"The answer 'I still owe the bank some money' implies that Person B has not paid back their debts, which is a 'no' to the question.",20260824T093740Z_5937923c
+1148,1,"The answer 'He only had water' implies that he did not drink a cocktail, which is a 'no' to the question.",20260824T093740Z_5937923c
+1149,7,"The answer 'I own an orchard' directly implies that Person B does have a garden (of sorts), which could be interpreted as a 'yes' to the question, albeit not a traditional vegetable garden.",20260824T093740Z_5937923c
+1150,1,"The answer 'He is 25 years old' implies that Person B's son is not underage, which is a 'no' to the question.",20260824T093740Z_5937923c
+1151,1,"The answer 'Their tuition fee is extremely expensive' implies that Harvard University is not affordable, which is a 'no' to the question.",20260824T093740Z_5937923c
+1152,7,"The answer 'She made a bank transfer few moments ago' directly confirms that she has paid, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1153,1,"The answer 'They cannot swim yet' implies that the kids are not good at swimming, which is a 'no' to the question.",20260824T093740Z_5937923c
+1154,7,"The answer 'I am healthy again' implies that Person B no longer has a cold, which is a 'yes' to the question of whether they have recovered.",20260824T093740Z_5937923c
+1155,7,"The answer 'People are not allowed to get closer' directly confirms that the area is contaminated or forbidden, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1156,7,"The answer 'I have watered them regularly' directly implies that someone did take care of the plants, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1157,1,"The answer 'He was already dead by then' implies that the artist was not still alive in the 80s, which is a 'no' to the question.",20260824T093740Z_5937923c
+1158,7,"The answer 'The ice layer is quite thick' directly implies that the lake is frozen, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1159,2,"The answer 'I am in the advanced course' implies that Person B is not a beginner, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1160,7,"The answer 'I have seen a doctor' directly implies that Person B has sought medical advice, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1161,1,"The answer 'I went out with some friends' implies that Person B did not stay home last night, which is a 'no' to the question.",20260824T093740Z_5937923c
+1162,7,"The answer 'They voted yesterday' directly confirms that there was an election recently, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1163,7,"The answer 'It is spotless' directly implies that the car is completely clean, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1164,1,"The answer 'They have submitted a blank sheet' implies that they have not answered all questions, which is a 'no' to the question.",20260824T093740Z_5937923c
+1165,7,"The answer 'She has just got into the changing room' directly implies that she is out on the tennis field (or at least, she was), which is a 'yes' to the question.",20260824T093740Z_5937923c
+1166,7,"The answer 'He was compensated' directly confirms that he got the money back, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1167,1,"The answer 'No one has responded' implies that no one has answered the house sale ad, which is a 'no' to the question.",20260824T093740Z_5937923c
+1168,1,"The answer 'He does not play any instrument' implies that he is not a musician, which is a 'no' to the question.",20260824T093740Z_5937923c
+1169,7,"The answer 'He has been in Japan for several months' directly implies that he has traveled in Asia, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1170,7,"The answer 'We are aiming for the mountain top' directly confirms that the goal is the summit, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1171,7,"The answer 'The customer received it' directly confirms that the package was shipped to the customer, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1173,2,"The answer 'She skipped the last four lessons' implies that she did not attend the whole singing course, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1174,7,"The answer 'My monitor's resolution is really poor' directly implies that Person B's screen does have a bad image, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1175,7,"The answer 'She graduated from medical school last year' directly confirms that she has completed her medical studies, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1176,7,"The answer 'It is a private property' implies that the building is not public, which is a 'no' to the question.",20260824T093740Z_5937923c
+1201,1,"The answer 'I have not seen him for ages' implies that Person A and Martin are not still good friends, which is a 'no' to the question.",20260824T093740Z_5937923c
+1202,6,"The answer 'I am sending out an application' implies that Person B is currently looking for a job, which suggests a 'yes' to the question.",20260824T093740Z_5937923c
+1203,7,"The answer 'I train with him at the gym' directly implies that Person B knows Lukas, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1204,7,"The answer 'His grandfather passed away recently' directly implies that it is now his property, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1205,6,"The answer 'It is about 1000 Km away' implies that it does take long to drive to Paris, suggesting a 'yes' to the question.",20260824T093740Z_5937923c
+1206,6,"The answer 'It is a six hour drive' implies that Munich is far from here, suggesting a 'yes' to the question.",20260824T093740Z_5937923c
+1207,2,"The answer 'My train has some delay' implies that Person B will not be home by noon, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1208,2,"The answer 'There is still some left' implies that Person B has not bought cereal, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1209,1,"The answer 'It is not due for three months' implies that Person B has not started writing their essay, which is a 'no' to the question.",20260824T093740Z_5937923c
+1210,7,"The answer 'The streets are always congested with cars' directly implies that they will be late to the cinema, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1211,1,"The answer 'She is vegetarian' implies that Megan is not coming to the steak house, which is a 'no' to the question.",20260824T093740Z_5937923c
+1212,7,"The answer 'He has the flu' directly confirms that John is sick today, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1213,7,"The answer 'She runs for hours every day' directly implies that Sonya has registered for the marathon (or at least, she trains like she has), which is a 'yes' to the question.",20260824T093740Z_5937923c
+1214,2,"The answer 'She just woke up' implies that Clara has not had breakfast yet, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1215,1,"The answer 'It comes out next week' implies that Person B has not seen the movie, which is a 'no' to the question.",20260824T093740Z_5937923c
+1216,7,"The answer 'I have used one before' directly implies that Person B knows how to use a drill, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1217,7,"The answer 'I am celebrating tonight' directly implies that Person B has not failed the exam, which suggests a 'yes' to the question of whether they passed (or did not fail).",20260824T093740Z_5937923c
+1218,7,"The answer 'I am moving out tomorrow' directly confirms that Person B is breaking up with him, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1219,7,"The answer 'He was always falling behind' implies that he did get fired, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1220,7,"The answer 'The region is famous for surfing' directly implies that there are big waves here, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1221,1,"The answer 'It is quite rough' implies that the sea is not safe to swim in, which is a 'no' to the question.",20260824T093740Z_5937923c
+1222,2,"The answer 'My job is at an NGO' implies that Person B does not make a lot of money, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1223,7,"The answer 'He has authored many successful books' directly confirms that he is famous, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1224,2,"The answer 'I am still analyzing it' implies that Person B has not presented their data, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1225,7,"The answer 'They are an endangered species' directly implies that it is not legal to hunt pandas, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1226,7,"The answer 'I have enrolled at the gym' directly implies that Person B has lost some weight or is trying to, which could be interpreted as a 'yes' to the question.",20260824T093740Z_5937923c
+1227,1,"The answer 'My thesis is not complete yet' implies that Person B has not graduated, which is a 'no' to the question.",20260824T093740Z_5937923c
+1228,7,"The answer 'My hair was way too long' implies that Person B did get their hair cut, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1229,2,"The answer 'It was a business trip' implies that Person B did not have time for sightseeing, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1230,1,"The answer 'I need a larger one' implies that Person B did not buy the one room flat, which is a 'no' to the question.",20260824T093740Z_5937923c
+1231,7,"The answer 'The deadline is tomorrow' directly implies that she is stressed about the project, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1232,7,"The answer 'I slept only four hours' implies that Person B is tired, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1233,1,"The answer 'The offer had already expired' implies that he did not book the flight, which is a 'no' to the question.",20260824T093740Z_5937923c
+1234,7,"The answer 'It got wounded' directly confirms that the cat is being brought to the vet, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1235,2,"The answer 'Mark is still missing' implies that they are not all here, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1237,7,"The answer 'I am Chinese' directly implies that Person B can cook cantonese rice, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1238,7,"The answer 'The line went dead' directly implies that Person B did tell him about the issue, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1239,7,"The answer 'They have domestics' directly implies that their house is always tidy, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1240,1,"The answer 'They have just opened' implies that Person B has not tried the bar yet, which is a 'no' to the question.",20260824T093740Z_5937923c
+1241,7,"The answer 'His house is full of history books' directly implies that he does have a passion for history, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1243,7,"The answer 'We have only few guests over for dinner' directly implies that the saucepan is big enough, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1244,2,"The answer 'I only have one week off work' implies that Person B will not take a two weeks trip, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1245,7,"The answer 'I am going to have a baby' directly confirms that Person B is avoiding drinking alcohol, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1247,1,"The answer 'I still owe the bank some money' implies that Person B has not gotten a new loan, which is a 'no' to the question.",20260824T093740Z_5937923c
+1248,1,"The answer 'He only had water' implies that he is not drunk, which is a 'no' to the question.",20260824T093740Z_5937923c
+1249,7,"The answer 'I own an orchard' directly implies that Person B does buy fruit, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1250,1,"The answer 'He is 25 years old' implies that Person B's son is not at elementary school, which is a 'no' to the question.",20260824T093740Z_5937923c
+1251,1,"The answer 'Their tuition fee is extremely expensive' implies that Harvard University is not an option for Person B due to cost, which is a 'no' to the question.",20260824T093740Z_5937923c
+1252,7,"The answer 'She made a bank transfer few moments ago' directly confirms that she has accepted the deal, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1253,1,"The answer 'They cannot swim yet' implies that the kids have not gone to the swimming pool, which is a 'no' to the question.",20260824T093740Z_5937923c
+1254,7,"The answer 'I am healthy again' implies that Person B is no longer taking pills, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1255,7,"The answer 'People are not allowed to get closer' directly confirms that the area is contaminated, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1256,7,"The answer 'I have watered them regularly' directly implies that the plants are still alive, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1257,1,"The answer 'He was already dead by then' implies that the artwork was not created by him in 1981, which is a 'no' to the question.",20260824T093740Z_5937923c
+1258,7,"The answer 'The ice layer is quite thick' directly implies that it is ice skating season, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1259,2,"The answer 'I am in the advanced course' implies that Person B is not a beginner, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1260,7,"The answer 'I have seen a doctor' directly implies that Person B has been sick, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1261,1,"The answer 'I went out with some friends' implies that Person B did not stay home early last night, which is a 'no' to the question.",20260824T093740Z_5937923c
+1262,7,"The answer 'They voted yesterday' directly confirms that the members can elect a representative, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1263,7,"The answer 'It is spotless' directly implies that the car is clean, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1264,1,"The answer 'They have submitted a blank sheet' implies that they have not written a good exam, which is a 'no' to the question.",20260824T093740Z_5937923c
+1265,7,"The answer 'She has just got into the changing room' directly implies that she is dressed for the tennis game, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1266,7,"The answer 'He was compensated' directly confirms that he settled the lawsuit, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1267,1,"The answer 'No one has responded' implies that Person B has not sold the house, which is a 'no' to the question.",20260824T093740Z_5937923c
+1268,1,"The answer 'He does not play any instrument' implies that he is not part of the marching band, which is a 'no' to the question.",20260824T093740Z_5937923c
+1269,7,"The answer 'He has been in Japan for several months' directly implies that he has tried sushi, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1270,7,"The answer 'We are aiming for the mountain top' directly confirms that their goal is the summit, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1271,7,"The answer 'The customer received it' directly confirms that the package was shipped to the customer, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1273,2,"The answer 'She skipped the last four lessons' implies that she is not very dedicated to the singing course, which suggests a 'no' to the question.",20260824T093740Z_5937923c
+1274,7,"The answer 'My monitor's resolution is really poor' directly implies that Person B's eyes get strained sometimes, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1275,7,"The answer 'She graduated from medical school last year' directly confirms that she is a medical doctor, which is a 'yes' to the question.",20260824T093740Z_5937923c
+1276,2,"The answer 'It is a private property' implies that Person B has not been inside that building, which suggests a 'no' to the question.",20260824T093740Z_5937923c

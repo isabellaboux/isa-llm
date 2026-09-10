@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787625568-ycW03Td5JoaTCxvwXuYF,mistralai/ministral-14b-2512,mistralai/ministral-14b-2512,Mistral,stop,9820,11852,0,21672,0.00257958,,e5081e90b2574d1882228b9caf888b4c,stop,264,92436,20260824T093740Z_5937923c

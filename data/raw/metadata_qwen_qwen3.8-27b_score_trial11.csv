@@ -1,0 +1,2 @@
+generation_id,requested_model,returned_model,provider_name,finish_reason,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,total_cost,router,upstream_id,native_finish_reason,latency,generation_time,run_id
+gen-1787617525-qVJL65MH3RVIBsiLLfIa,qwen/qwen3.8-27b,qwen/qwen3.8-27b,Parasail,stop,9792,33712,24907,43504,0.1122848,,chatcmpl-f7a31cab68dbeac34e325859ed5ad430-ad247831eadf8335,stop,1152,613675,20260824T093740Z_5937923c

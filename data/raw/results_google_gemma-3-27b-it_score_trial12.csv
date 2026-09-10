@@ -1,0 +1,139 @@
+id,score,rationale,run_id
+1101,2,"The phrase 'I have not seen him for ages' indicates a lack of recent contact, strongly implying the answer to 'Have you met Martin lately?' is no.",20260824T093740Z_5937923c
+1102,3,"While not a direct 'no', 'I am sending out an application' doesn't address whether the person is currently doing something else. It's a deflection, leaning towards 'no' but not definitively.",20260824T093740Z_5937923c
+1103,6,"'I train with him at the gym' is a clear affirmation of regularly exercising with Lukas, indicating a strong 'yes' response.",20260824T093740Z_5937923c
+1104,7,"'His grandfather passed away recently' is a direct confirmation of a death in the family, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1105,3,Providing a distance doesn't answer whether Paris is *very far*. It's informative but doesn't confirm or deny the implied subjective judgment.,20260824T093740Z_5937923c
+1106,3,"Stating the drive time doesn't answer if it 'takes long' subjectively. It provides information, but not a direct answer.",20260824T093740Z_5937923c
+1107,3,"A train delay doesn't answer if the journey is going as planned. It indicates a problem, but doesn't negate the overall plan.",20260824T093740Z_5937923c
+1108,3,"Saying there's 'some left' implies they haven't finished, leaning towards 'no' but not a definitive denial.",20260824T093740Z_5937923c
+1109,1,'It is not due for three months' is a clear negative response to the question about the deadline being next week.,20260824T093740Z_5937923c
+1110,6,"'The streets are always congested with cars' strongly implies there *is* usually a lot of traffic, a clear 'yes' response.",20260824T093740Z_5937923c
+1111,1,"'She is vegetarian' is a direct statement that Megan does not eat meat, a definitive 'no' answer.",20260824T093740Z_5937923c
+1112,7,"'He has the flu' is a direct confirmation that John is sick, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1113,6,"'She runs for hours every day' strongly implies Sonya trains daily, a clear 'yes' response.",20260824T093740Z_5937923c
+1114,1,"'She just woke up' implies Clara was *not* still sleeping, a definitive 'no' answer.",20260824T093740Z_5937923c
+1115,1,"'It comes out next week' is a clear negative response to the question about today's release, a definitive 'no' answer.",20260824T093740Z_5937923c
+1116,5,"'I have used one before' suggests prior experience, leaning towards 'yes' but not a current or frequent use.",20260824T093740Z_5937923c
+1117,1,"'I am celebrating tonight' implies the party is not tomorrow, a definitive 'no' answer.",20260824T093740Z_5937923c
+1118,1,"'I am moving out tomorrow' implies the person is not currently living in the flat, a definitive 'no' answer.",20260824T093740Z_5937923c
+1119,6,"'He was always falling behind' strongly suggests he *is* a slacker, a clear 'yes' response.",20260824T093740Z_5937923c
+1120,6,"'The region is famous for surfing' strongly implies the area *is* popular, a clear 'yes' response.",20260824T093740Z_5937923c
+1121,2,"'It is quite rough' suggests the sea is *not* calm, leaning towards 'no' but not a definitive denial.",20260824T093740Z_5937923c
+1122,1,"'My job is at an NGO' is a clear negative response to the question about working for a corporate company, a definitive 'no' answer.",20260824T093740Z_5937923c
+1123,7,"'He has authored many successful books' is a direct confirmation that he is a writer, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1124,3,"'I am still analyzing it' implies the data is not yet finished, leaning towards 'no' but not a definitive denial.",20260824T093740Z_5937923c
+1125,1,"'They are an endangered species' doesn't answer if it's legal to hunt them, but strongly implies it's unethical and likely illegal, leaning towards 'no'.",20260824T093740Z_5937923c
+1126,6,"'I have enrolled at the gym' is a clear affirmation of joining a fitness studio, indicating a strong 'yes' response.",20260824T093740Z_5937923c
+1127,1,"'My thesis is not complete yet' is a clear negative response to the question about finishing the thesis, a definitive 'no' answer.",20260824T093740Z_5937923c
+1128,6,"'My hair was way too long' strongly implies the person *did* use to have long hair, a clear 'yes' response.",20260824T093740Z_5937923c
+1129,1,"'It was a business trip' is a clear negative response to the question about a vacation, a definitive 'no' answer.",20260824T093740Z_5937923c
+1130,1,"'I need a larger one' implies the current flat is not enough, a definitive 'no' answer.",20260824T093740Z_5937923c
+1131,6,"'The deadline is tomorrow' strongly implies she *does* have to hand it in soon, a clear 'yes' response.",20260824T093740Z_5937923c
+1132,1,"'I slept only four hours' implies the person *did not* have a long night, a definitive 'no' answer.",20260824T093740Z_5937923c
+1133,1,"'The offer had already expired' is a clear negative response to the question about the discount, a definitive 'no' answer.",20260824T093740Z_5937923c
+1134,7,"'It got wounded' is a direct confirmation that the cat is hurt, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1135,1,"'Mark is still missing' implies not everyone is present, a definitive 'no' answer.",20260824T093740Z_5937923c
+1137,6,"'I am Chinese' strongly implies the person comes from Asia, a clear 'yes' response.",20260824T093740Z_5937923c
+1138,1,"'The line went dead' implies the person did *not* hang up, a definitive 'no' answer.",20260824T093740Z_5937923c
+1139,6,"'They have domestics' strongly implies someone *is* taking care of the house, a clear 'yes' response.",20260824T093740Z_5937923c
+1140,1,"'They have just opened' implies the bar has *not* been there for long, a definitive 'no' answer.",20260824T093740Z_5937923c
+1141,7,"'His house is full of history books' is a strong indication that he owns many books, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1143,5,"'We have only few guests over for dinner' suggests a small gathering, leaning towards 'yes' but not a large one.",20260824T093740Z_5937923c
+1144,1,"'I only have one week off work' is a clear negative response to the question about two weeks of holiday, a definitive 'no' answer.",20260824T093740Z_5937923c
+1145,7,"'I am going to have a baby' is a direct confirmation of pregnancy, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1147,1,"'I still owe the bank some money' is a clear negative response to the question about paying back debts, a definitive 'no' answer.",20260824T093740Z_5937923c
+1148,1,"'He only had water' is a clear negative response to the question about a cocktail, a definitive 'no' answer.",20260824T093740Z_5937923c
+1149,1,"'I own an orchard' implies the person does not have a vegetable garden, a definitive 'no' answer.",20260824T093740Z_5937923c
+1150,1,"'He is 25 years old' is a clear negative response to the question about being underage, a definitive 'no' answer.",20260824T093740Z_5937923c
+1151,2,"'Their tuition fee is extremely expensive' doesn't directly answer affordability, but strongly suggests it's *not* affordable, leaning towards 'no'.",20260824T093740Z_5937923c
+1152,7,"'She made a bank transfer few moments ago' is a direct confirmation of payment, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1153,1,"'They cannot swim yet' is a clear negative response to the question about being good at swimming, a definitive 'no' answer.",20260824T093740Z_5937923c
+1154,7,"'I am healthy again' is a direct confirmation of no longer having a cold, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1155,1,"'People are not allowed to get closer' is a clear negative response to the question about being forbidden, a definitive 'no' answer.",20260824T093740Z_5937923c
+1156,6,"'I have watered them regularly' strongly implies someone *did* take care of the plants, a clear 'yes' response.",20260824T093740Z_5937923c
+1157,1,"'He was already dead by then' is a clear negative response to the question about being alive in the 80s, a definitive 'no' answer.",20260824T093740Z_5937923c
+1158,6,"'The ice layer is quite thick' strongly implies the lake *is* frozen, a clear 'yes' response.",20260824T093740Z_5937923c
+1159,1,"'I am in the advanced course' is a clear negative response to the question about being a beginner, a definitive 'no' answer.",20260824T093740Z_5937923c
+1160,6,"'I have seen a doctor' strongly implies the person *has* sought medical advice, a clear 'yes' response.",20260824T093740Z_5937923c
+1161,1,"'I went out with some friends' is a clear negative response to the question about staying home, a definitive 'no' answer.",20260824T093740Z_5937923c
+1162,7,"'They voted yesterday' is a direct confirmation of a recent election, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1163,7,"'It is spotless' is a strong affirmation that the car is completely clean, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1164,1,"'They have submitted a blank sheet' is a clear negative response to the question about answering all questions, a definitive 'no' answer.",20260824T093740Z_5937923c
+1165,1,"'She has just got into the changing room' implies she is *not* on the tennis field, a definitive 'no' answer.",20260824T093740Z_5937923c
+1166,7,"'He was compensated' is a direct confirmation that he got the money back, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1167,1,"'No one has responded' is a clear negative response to the question about responses to the ad, a definitive 'no' answer.",20260824T093740Z_5937923c
+1168,1,"'He does not play any instrument' is a clear negative response to the question about being a musician, a definitive 'no' answer.",20260824T093740Z_5937923c
+1169,6,"'He has been in Japan for several months' strongly implies he *has* travelled in Asia, a clear 'yes' response.",20260824T093740Z_5937923c
+1170,6,"'We are aiming for the mountain top' strongly implies the goal *is* the summit, a clear 'yes' response.",20260824T093740Z_5937923c
+1171,7,"'The customer received it' is a direct confirmation that the package was delivered, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1173,1,"'She skipped the last four lessons' implies she did *not* attend the whole course, a definitive 'no' answer.",20260824T093740Z_5937923c
+1174,2,"'My monitor's resolution is really poor' doesn't directly answer if the screen has a bad image, but strongly suggests it does, leaning towards 'no'",20260824T093740Z_5937923c
+1175,7,"'She graduated from medical school last year' is a direct confirmation of completing medical studies, a definitive 'yes' answer.",20260824T093740Z_5937923c
+1176,1,"'It is a private property' is a clear negative response to the question about being a public building, a definitive 'no' answer.",20260824T093740Z_5937923c
+2101,5,"The response 'I need to revise some of the topics' suggests preparation for the test, leaning towards 'yes' but not a direct confirmation.",20260824T093740Z_5937923c
+2102,5,"The response 'There is an interesting new movie' suggests a willingness to go to the cinema, leaning towards 'yes' but not a direct confirmation.",20260824T093740Z_5937923c
+2103,2,"The response 'It is quite chilly' suggests it is cold, leaning towards 'yes' but not a definitive confirmation.",20260824T093740Z_5937923c
+2105,5,"The response 'I have heard good things about that book' suggests interest in borrowing it, leaning towards 'yes' but not a direct confirmation.",20260824T093740Z_5937923c
+2106,1,"The response 'I pulled a muscle last time' suggests a reason to skip the yoga class, a definitive 'no' answer.",20260824T093740Z_5937923c
+2107,1,"The response 'I cannot find my phone' is a clear negative response to the question about losing it, a definitive 'no' answer.",20260824T093740Z_5937923c
+2108,7,"The response 'It is minus 20 degrees' is a strong confirmation that it is cold outside, a definitive 'yes' answer.",20260824T093740Z_5937923c
+2109,6,"The response 'We have just entered a church' strongly implies the place is religious, a clear 'yes' answer.",20260824T093740Z_5937923c
+2110,6,"The response 'I am training very hard' strongly implies the workouts are difficult, a clear 'yes' answer.",20260824T093740Z_5937923c
+2113,6,"The response 'I have been working on an exhausting task' strongly implies the person was working today, a clear 'yes' answer.",20260824T093740Z_5937923c
+2114,1,"The response 'I did not bring my bikini' is a clear negative response to the question about swimming gear, a definitive 'no' answer.",20260824T093740Z_5937923c
+2115,1,"The response 'I do not have time' is a clear negative response to the question about being free, a definitive 'no' answer.",20260824T093740Z_5937923c
+2116,1,"The response 'I watched it last month' is a clear negative response to the question about watching it yesterday, a definitive 'no' answer.",20260824T093740Z_5937923c
+2117,1,"The response 'I am on a diet' is a clear negative response to the question about eating more, a definitive 'no' answer.",20260824T093740Z_5937923c
+2118,1,"The response 'I am actually a Muslim' is a clear negative response to the question about practicing Hinduism, a definitive 'no' answer.",20260824T093740Z_5937923c
+2119,1,"The response 'My head is spinning after all these beers' implies the person is not feeling ok, a definitive 'no' answer.",20260824T093740Z_5937923c
+2120,1,"The response 'I am very tired' is a clear negative response to the question about feeling energetic, a definitive 'no' answer.",20260824T093740Z_5937923c
+2121,1,"The response 'We are broke at the moment' is a clear negative response to the question about having money saved up, a definitive 'no' answer.",20260824T093740Z_5937923c
+2122,5,"The response 'I have used one already in the past' suggests prior experience, leaning towards 'yes' but not a current or frequent use.",20260824T093740Z_5937923c
+2123,1,"The response 'It is 11 p.m.' is a clear negative response to the question about it being morning, a definitive 'no' answer.",20260824T093740Z_5937923c
+2124,1,"The response 'I have a hangover' implies the person is not feeling good, a definitive 'no' answer.",20260824T093740Z_5937923c
+2125,1,"The response 'I am actually diabetic' is a clear negative response to the question about being free of chronic disease, a definitive 'no' answer.",20260824T093740Z_5937923c
+2127,1,"The response 'I usually get seasick' is a clear negative response to the question about feeling well on boats, a definitive 'no' answer.",20260824T093740Z_5937923c
+2128,7,"The response 'My toothache is gone' is a direct confirmation that the teeth are no longer hurting, a definitive 'yes' answer.",20260824T093740Z_5937923c
+2129,6,"The response 'I have several bus stops before my destination' strongly implies there are many stations, a clear 'yes' answer.",20260824T093740Z_5937923c
+2130,1,"The response 'I should not staple them' is a clear negative response to the question about being allowed to staple, a definitive 'no' answer.",20260824T093740Z_5937923c
+2131,2,"The response 'It is very light' suggests the luggage does not weigh much, leaning towards 'no' but not a definitive denial.",20260824T093740Z_5937923c
+2132,7,"The response 'We have to get up at 5 am' is a direct confirmation of needing to wake up early, a definitive 'yes' answer.",20260824T093740Z_5937923c
+2134,6,"The response 'French is my native language' strongly implies Spanish is not, a clear 'yes' answer.",20260824T093740Z_5937923c
+2135,1,"The response 'It does not work' is a clear negative response to the question about the remote being usable, a definitive 'no' answer.",20260824T093740Z_5937923c
+2136,6,"The response 'Wolves are very common here' strongly implies there are wild animals in the region, a clear 'yes' answer.",20260824T093740Z_5937923c
+2137,1,"The response 'We only have cacti' is a clear negative response to the question about trees, a definitive 'no' answer.",20260824T093740Z_5937923c
+2138,6,"The response 'We need it for travelling' strongly implies the passport is necessary, a clear 'yes' answer.",20260824T093740Z_5937923c
+2139,1,"The response 'I have got a sandwich' is a clear negative response to the question about pie, a definitive 'no' answer.",20260824T093740Z_5937923c
+2140,6,"The response 'They have to go out soon' strongly implies the kids are about to leave, a clear 'yes' answer.",20260824T093740Z_5937923c
+2141,7,"The response 'Right now I am starving' is a strong affirmation of being hungry, a definitive 'yes' answer.",20260824T093740Z_5937923c
+2144,6,"The response 'I drink tea all the time' strongly implies the person often consumes hot drinks, a clear 'yes' answer.",20260824T093740Z_5937923c
+2145,2,"The response 'We have too much light in here' suggests the room is not dark, leaning towards 'no' but not a definitive denial.",20260824T093740Z_5937923c
+2146,1,"The response 'I will be abroad then' is a clear negative response to the question about staying in town, a definitive 'no' answer.",20260824T093740Z_5937923c
+2147,5,"The response 'I am having a soup' suggests the person is eating something, leaning towards 'yes' but not a direct confirmation.",20260824T093740Z_5937923c
+2148,7,"The response 'It just started pouring' is a direct confirmation that it is raining, a definitive 'yes' answer.",20260824T093740Z_5937923c
+2149,1,"The response 'I do not drink' is a clear negative response to the question about consuming alcohol, a definitive 'no' answer.",20260824T093740Z_5937923c
+2150,3,"The response 'There is a dish washer in the kitchen' doesn't answer if everything was taken away, leaning towards 'no' but not a definitive denial.",20260824T093740Z_5937923c
+2151,1,"The response 'I gave away my racket ages ago' is a clear negative response to the question about still having tennis equipment, a definitive 'no' answer.",20260824T093740Z_5937923c
+2152,1,"The response 'I do not eat spicy dishes' is a clear negative response to the question about consuming all types of food, a definitive 'no' answer.",20260824T093740Z_5937923c
+2153,7,"The response 'I live right next to you' is a direct confirmation of being neighbors, a definitive 'yes' answer.",20260824T093740Z_5937923c
+2155,7,"The response 'I understand everything now' is a direct confirmation of no longer being confused, a definitive 'yes' answer.",20260824T093740Z_5937923c
+2156,1,"The response 'My chest hurts a lot' implies the person is not feeling well, a definitive 'no' answer.",20260824T093740Z_5937923c
+2157,1,"The response 'We are in the middle of the summer' is a clear negative response to the question about winter, a definitive 'no' answer.",20260824T093740Z_5937923c
+2159,7,"The response 'I cut my finger while cooking' is a direct confirmation of getting hurt, a definitive 'yes' answer.",20260824T093740Z_5937923c
+2160,2,"The response 'There is dust all over the floor' suggests the living room is dirty, leaning towards 'yes' but not a definitive confirmation.",20260824T093740Z_5937923c
+2161,7,"The response 'I have actually brought mine' is a direct confirmation of having toothpaste, a definitive 'yes' answer.",20260824T093740Z_5937923c
+2162,7,"The response 'My lips are all chapped' is a direct confirmation of damaged lips, a definitive 'yes' answer.",20260824T093740Z_5937923c
+2163,1,"The response 'I am working early tomorrow morning' is a clear negative response to the question about the afternoon shift, a definitive 'no' answer.",20260824T093740Z_5937923c
+2164,1,"The response 'I plan to eat at a restaurant' is a clear negative response to the question about eating at home, a definitive 'no' answer.",20260824T093740Z_5937923c
+2165,6,"The response 'They have grown a lot recently' strongly implies the hedges are taller, a clear 'yes' answer.",20260824T093740Z_5937923c
+2166,7,"The response 'Lunch is now ready' is a direct confirmation that cooking is finished, a definitive 'yes' answer.",20260824T093740Z_5937923c
+2167,6,"The response 'My math exercise is very complicated' strongly implies the homework is difficult, a clear 'yes' answer.",20260824T093740Z_5937923c
+2168,3,"The response 'We are not sure where to go yet' implies a decision hasn't been made, leaning towards 'no' but not a definitive denial.",20260824T093740Z_5937923c
+2169,1,"The response 'I smoke cigars only' is a clear negative response to the question about smoking cigarettes, a definitive 'no' answer.",20260824T093740Z_5937923c
+2170,1,"The response 'I usually type directly on my laptop' is a clear negative response to the question about writing on paper, a definitive 'no' answer.",20260824T093740Z_5937923c
+2171,1,"The response 'Our new stove was not delivered yet' is a clear negative response to the question about the kitchen being complete, a definitive 'no' answer.",20260824T093740Z_5937923c
+2172,6,"The response 'Cars get stolen regularly here' strongly implies car theft occurs often, a clear 'yes' answer.",20260824T093740Z_5937923c
+2173,1,"The response 'My wardrobe is completely full of clothes' is a clear negative response to the question about having room, a definitive 'no' answer.",20260824T093740Z_5937923c
+2174,6,"The response 'The dirty laundry is piling up' strongly implies there is a lot of laundry, a clear 'yes' answer.",20260824T093740Z_5937923c
+2175,6,"The response 'I can have a relaxed breakfast' strongly implies the person is taking time for breakfast, a clear 'yes' answer.",20260824T093740Z_5937923c
