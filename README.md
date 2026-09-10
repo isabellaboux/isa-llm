@@ -2,9 +2,15 @@
 
 ## Overview
 
-LLMs have proven to be impressive tools for mimicking human linguistic skills. Nonetheless, natural human language is characterized by multiple nuances and implied meanings, which can be referred to as "pragmatic meaning." So how do LLMs deal with pragmatic meaning? While it is important to consider that ISAs are difficult for humans to process too (Boux et al. 2023a, 2023b), so far, LLMs have been found to be have inferior performance to humans (Orsini and Bunato, 2025; Koo et al., 2025; Solidjonov, 2026). However, the methodology in this study is varable (see Ma et al., 2025 and Sadigzada, 2016 for a discussion).
+LLMs have proven to be impressive tools for mimicking human linguistic skills. Nonetheless, natural human language is characterized by multiple nuances and indirect meanings. For instance, if asked *"Would you like a piece of cake?"*, the answer *"I am on a diet"* would indirectly mean NO and would be a so called **indirect seech act (ISA)**.
 
-> In this small study, I ask **how LLM comprehension of indirect language (ISA) compares to human performance**. To do so, I rely on a set of direct and indirect question/reply pairs from my previous work (Boux et al. 2023a; Boux et al. 2023b) that have already been evaluated by humans who provided quantitative ratings. In addition, I present the same question/reply pairs to frontier LLMs, extract their responses and compare them to human responses.
+So how do LLMs deal with indirect seech acts? While it is important to consider that ISAs are also difficult for humans to process (Boux et al. 2023a, 2023b), so far, LLMs have been found to be have inferior performance to humans (Orsini and Bunato, 2025; Koo et al., 2025; Solidjonov, 2026). However:
+- the methodology in these study is variable (see Ma et al., 2025 and Sadigzada, 2016 for a discussion)
+- a direct comparison to human performance is not always provided
+- newer models have not been evaluated
+
+
+> In this small study, I ask **how comprehension of indirect language (ISA) by cutting edge LLMs compares to human performance**. To do so, I rely on a set of direct and indirect question/reply pairs from my previous work (Boux et al. 2023a; Boux et al. 2023b) that have already been evaluated by humans who provided quantitative ratings. In addition, I present the same question/reply pairs to frontier LLMs, extract their responses and compare them to human responses.
 
 ## Methods 
 
@@ -77,7 +83,7 @@ The JSON output includes:
 * **score**: an integer value between 1 and 7, reflecting whether the model understands the reply as no (1) or yes (7) along an integer continuum;
 * **rationale**: a concise justification for this score.
 
-The entire question/reply set is presented to each model 28 times, reflecting the number of human participants in the original human study. Thus, each question/reply pair receives 28 scores *per model*. This is to capture the fact that, despite `temperature=0`, the same model sometimes produces a slightly different output. In a first preprocessing step, for each model and question/reply pair, all 28 scores were averaged, resulting in one score per model per question/reply pair.
+The entire question/reply set is presented to each model 14 times, reflecting the number of human participants in the original human study. Thus, each question/reply pair receives 28 scores *per model*. This is to capture the fact that, despite `temperature=0`, the same model sometimes produces a slightly different output. In a first preprocessing step, for each model and question/reply pair, all 28 scores were averaged, resulting in one score per model per question/reply pair.
 
 ## Results
 
@@ -87,7 +93,9 @@ The score (1-7) for humans and models was converted to a binary value:
 * when `score <= 4` then `evaluation = 'no'`
 * when `score > 4` then `evaluation = 'yes'` 
 
-Using the human evaluation as ground truth, I calculated accuracy for each model. As visible in Figure 1, all models slightly underperformed relative to humans. However, all models did worse at matching human performance for indirect than for direct question/reply pairs. When considering accuracy for both direct and indirect replies, the best performing models were:
+Using the human evaluation as ground truth, I calculated accuracy for each model. As visible in Figure 1, all models slightly underperformed relative to humans. However, all models did worse at matching human performance for indirect than for direct question/reply pairs.
+
+When considering accuracy for both direct and indirect replies, the best performing models were:
 
 | Rank | Provider | Model | Direct | Indirect | Direct + Indirect |
 |---|---|---|---|---|---|
@@ -95,7 +103,7 @@ Using the human evaluation as ground truth, I calculated accuracy for each model
 | 2 | google | gemini-3.1-pro-preview |1.000 | 0.993 |0.996
 | 3 | google | gemini-3.6-flash | 1.000 | 0.986 |0.993
 
-The best models among closed ones were.
+The best models among open-weights ones were.
 
 | Rank | Provider | Model | Direct | Indirect | Direct + Indirect |
 |---|---|---|---|---|---|
@@ -123,13 +131,30 @@ The best models among closed ones were.
 </p> -->
 
 
-The previous accuracy analysis is based on the fact that, as specified in the system prompt, the models use the score value 4 as the decision threshold. But what if the models still capture the no/yes inference continuum, and the threshold of 4 is simply not the right one? The **ROC curve** and the **ROC-AUC** show that all models seem to capture the yes/no continuum in a way that is reasonably close to human processing. [PLACEHOLDER: best AUC, overall, among closed weights and open weights]
+The previous accuracy analysis is based on the fact that, as specified in the system prompt, the models use the score value 4 as the threshold in a binary decision. But what if the models still capture the no/yes inference continuum, and the threshold of 4 is simply not the right one? The **ROC curve** and the **ROC-AUC** show that all models seem to capture the yes/no continuum in a way that is reasonably close to human processing (Figure 2).
 
 
 <div align="center">
-    <img src="reports/figures/roc_curve_by_group.png" alt="confusion matrix" width="80%">
-    <p><em>[Figure 3]: ROC curve for all models, evaluated simultaneously on direct and indirect replie, separated by provider.</em></p>
+    <img src="reports/figures/roc_curve_by_group_all.png" alt="confusion matrix" width="80%">
+    <p><em>[Figure 2]: ROC curve for all models, evaluated simultaneously on both direct and indirect replie, separated by provider.</em></p>
 </div>
+
+When considering accuracy for both direct and indirect replies, the best performing models were:
+
+| Rank | Provider | Model | Direct | Indirect | Direct + Indirect |
+|---|---|---|---|---|---|
+| 1 | google | gemini-3.7-flash |1.000 | 1.000 | 1.000
+| 2 | google | gemini-3.1-pro-preview |1.000 | 1.000 | 1.000
+| 3 | google | gemini-3.6-flash | 1.000 | 1.000 | 1.000
+
+The best models among open-weights ones were:
+
+| Rank | Provider | Model | Direct | Indirect | Direct + Indirect |
+|---|---|---|---|---|---|
+| 1 | qwen | qwen3.8-2.4t-a95b | 1.000 | 0.991 | 0.997
+| 2 | qwen | qwen3.8-27b |1.000 | 0.986| 0.996
+| 3 | google | gemma-4-26b-a4b-it | 0.997 | 0.991 | 0.995
+
 
 ### Certainty
 
@@ -137,12 +162,15 @@ So far, we have looked at categorical responses (NO/YES) derived from a continuo
 
 A certainty score is obtained by transforming the original score (1-7) provided by the LLMs such that more extreme values (1 and 7) indicate higher certainty toward either NO or YES, while intermediate values (2, 3, 5, 6) indicate less certainty and 4 indicates full uncertainty. The certainty score ranges from 1 to 4.
 
-Compared to humans, most LLMs were overall more confident interpreting replies regardless of in/directnes. However, similar to humans, most LLMs had a tendency to be less confident interpreting indirect as opposed to direct replies.
+Compared to humans, most LLMs were overall more confident interpreting replies regardless of in/directnes. However, similar to humans, most LLMs had a tendency to be less confident interpreting indirect than direct replies.
 
 <div align="center">
     <img src="reports/figures/CER_lollipop_plot.png" alt="certainty lollipop" width="80%">
     <p><em>[Figure 4]: Certainty scores obtained for direct and indirect replies for both human and LLM evaluators, reported separately for each provider (sem).</em></p>
 </div>
+
+To assess whoch models were most similar to human performanc in terms of confidence, 
+
 
 ## Conclusion
 
